@@ -1,0 +1,47 @@
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New York City</Location>. The camera pans across the crowded diner, showing various patrons eating and chatting.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEDDY KINSELLA</Character_Name>
+<Utterance>Can I get a large coffee with room for cream?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MRS. HENNINGER</Character_Name>
+<Utterance>Sure, hon.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEDDY KINSELLA</Character_Name>
+<Utterance>And a slice of apple pie, too?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MRS. HENNINGER</Character_Name>
+<Utterance>Coming right up.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Teddy takes out his wallet and lays some cash on the counter.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MRS. HENNINGER</Character_Name>
+<Parenthetical>(smiling)</Parenthetical>
+<Utterance>Thank you, dear.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Teddy takes his coffee and pie and heads out the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MRS. HENNINGER</Character_Name>
+<Utterance>(to herself) Oh, Teddy Kinsella... always so charming...</Utterance>
+</Turn>
+</DIALOGUE>
+

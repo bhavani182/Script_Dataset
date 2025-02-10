@@ -1,0 +1,6380 @@
+<Scene Heading>BLACK</Scene Heading>
+
+<NARRATIVE>A thermal night vision scene.</NARRATIVE>
+
+<NARRATIVE>A musical overture begins, inviting and descending.</NARRATIVE>
+
+<NARRATIVE>The title "The Zone of Interest" appears with white letters.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>The sound of birdsong emerges through the music, at first faintly. Cicadas too.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The natural sounds punctuate the music more clearly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>The black cuts sharply to...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. COUNTRYSIDE, LAKESIDE - DAY</Scene Heading>
+
+<NARRATIVE>A family picnicking in a sloping meadow by the sparkling shore of a lake.</NARRATIVE>
+
+<NARRATIVE>Bright sunlight.</NARRATIVE>
+
+(Due to lack of script content after this point, no further annotation is provided.)
+
+Here is the annotated script:
+
+<Scene Heading>SAT ON A PICNIC BLANKET UNDER A TREE, DAY</Scene Heading>
+
+<NARRATIVE> Sat on a picnic blanket under a tree, is <Character_Name>HEDWIG</Character_Name>, (early 40's), unassuming, wearing a swimming costume. She's feeding tiny slices of apple to their ten-month-old baby, <Character_Name>ANNAGRET</Character_Name>. </NARRATIVE>
+
+<NARRATIVE> Her TWO DAUGHTERS, <Character_Name>HEIDERAUD</Character_Name> (11) and <Character_Name>INGE-BRIGIT</Character_Name> (9), are playing and searching for wild strawberries in the long grass. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE> ELFRYDA, (47), the German nanny, is lying in the shallows. <Character_Name>HANS</Character_Name> (6), is paddling nearby. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE> CLAUS (14), and SHWARZER (30s), are playing together along the beach. </NARRATIVE>
+
+<NARRATIVE> Beyond them, <Character_Name>RUDOLF</Character_Name>, (early 40's), black short back and sides hair, black trunks, stands on the promontory looking out at the lake. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE> Claus and Shwarzer join him and the three of them wade out into deeper water, up to their waists, slapping the water at each other with their arms. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE> Then they push out into the shimmering lake. Their three heads bobbing in the water. </NARRATIVE>
+
+<Scene Heading>EXT. SILVER BIRCH WOODLAND - DAY, LATER</Scene Heading>
+
+<NARRATIVE> The Höss family, dressed now, amble up the meadow and into a glade of birch trees. Midges and butterflies dart and glint in the sun. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE> The boys share the weight of the hamper. Hedwig in her straw hat walks playfully with the girls behind. </NARRATIVE>
+
+<NARRATIVE> Rudolf, dressed now, walks at the front, cradling baby Annagret. </NARRATIVE>
+
+<Scene Heading>EXT. COUNTRY ROAD - SHORT WHILE LATER</Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. HÖSS' CAR, COUNTRY ROAD - DUSK TO NIGHT</Scene Heading>
+
+<NARRATIVE>Two 1940's cars wind their way along a forest road.</NARRATIVE>
+
+<NARRATIVE>They turn onto a country road.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(none)</Character_Name>
+<Utterence>No dialogue in this scene</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The glare from his headlights illuminates a rushing, black ribbon of road, and tall pine trees towering on either side, as dusk turns to night.</NARRATIVE>
+
+<NARRATIVE>The sound of the children play-singing and giggling in the back seat of the car.</NARRATIVE>
+
+<Scene Heading>EXT. LOOKING AT HÖSS VILLA - NIGHT, LATER</Scene Heading>
+
+<NARRATIVE>The back of a two-story family house. Upstairs and downstairs rooms are lit by lights inside. Homely.</NARRATIVE>
+
+<NARRATIVE>Rudolf is visible through the window in a downstairs room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(none)</Character_Name>
+<Utterence>No dialogue in this scene</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He turns off its light, and walks through its door.</NARRATIVE>
+
+<NARRATIVE>The lit windows go dark one by one as Rudolf moves from downstairs to upstairs turning off the lights.</NARRATIVE>
+
+<Scene Heading>INT. MASTER BEDROOM, HÖSS VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE>Rudolf and Hedwig lie in parallel but separate beds. Hedwig turns off her bedside lamp, lays her head on her pillow, and looks at her husband.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>No dialogue in this scene</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>No dialogue in this scene</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf lies on his back in his bed, hands folded on his chest, with an air of quiet contentment.</NARRATIVE>
+
+<Scene Heading>INT. HALL, STAIRWELL HÖSS VILLA - DAY, NEXT MORNING</Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(none)</Character_Name>
+<Utterence>No dialogue in this scene</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>An empty hall with the back of a staircase leading down to it.</NARRATIVE>
+
+<NARRATIVE>At the top of the bannister a hand is supporting someone climbing tentatively down, as we hear off-screen the sound of three pairs of feet doing the same.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>You'd better not throw a bucket of water over me or something.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The supporting hand shifts carefully down the bannister to the sound of two boys giggling.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterence>No, we'd never do that.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(O.S.) It better not make me late.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Now Rudolf, from behind, guided by Claus and Hans, reaches the bottom of the stairs. He's dressed in a tailored military tunic, riding breeches, and boots, and there's a wide white cloth blindfold tied round his head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterence>This way and out</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>DILLA, the family dog, comes and goes throughout when we are downstairs in the house, and in the garden.</NARRATIVE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>The boys help their unsighted father through the back porch toward the garden door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterence>(offscreen) It's clear to me, Papa!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera follows Claus as he guides Rudolf through the doorway and into the garden.</NARRATIVE>
+
+<Scene Heading>INT. PATIO - DAY</Scene Heading>
+
+<NARRATIVE>A senior SS Officer, <Character_Name>RUDOLF</Character_Name>, is being led down patio steps by a group of children towards the back garden.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterance>Watch out for the steps.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<parenthetical>(beat)</parenthetical>
+<Utterance>Feel for it. And down. Perfect.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The group walk carefully down the patio steps.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS (CONT'D)</Character_Name>
+<Utterance>Last step, and now turn around.</Utterance>
+<Utterance>There you go. Wait. Stand here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Claus unties the blindfold and whips it off his father's eyes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Is this for me!?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEIDERAUD</Character_Name>
+<Utterance>Yes!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(as he walks over towards them)</Utterance></Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig and the other children are standing on the lawn, with a gleaming wooden three-seater CANOE in front of them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ALL</Character_Name>
+<Utterance>Surprise!    Happy birthday!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf is lost for words, and his expression changes to one of surprise and joy.</NARRATIVE>
+
+<NARRATIVE>The group is seen in the bright summer morning sun, surrounded by lush greenery and vibrant colors of the back garden.</NARRATIVE>
+
+<Scene Heading>EXT. LAKE - DAY</Scene Heading>
+
+<NARRATIVE> A serene lake somewhere in <Location>Europe</Location>. We see <Character_Name>RUDOLF</Character_Name> admiring a canoe with his friends <Character_Name>HEDWIG</Character_Name>, <Character_Name>INGE-BRIGIT</Character_Name>, and <Character_Name>HANS</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Where did you get it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>HEDWIG</Character_Name> is embracing Rudolf.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>I have my sources.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(pointing at the canoe)</Parenthetical>
+<Utterence>One, two, three passengers.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Who wants the first ride?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hans</Character_Name> and <Character_Name>Inge-Brigit</Character_Name> both raise their arms.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(pointing at <Character_Name>ANNAGRET</Character_Name>)</Parenthetical>
+<Utterence>You. You can have the first ride?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> passes <Character_Name>Annagret</Character_Name> to Rudolf over the canoe, and he holds her above the seat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(CONT'D)</Utterence>
+<Parenthetical>Rudolf is speaking while holding Annagret</Parenthetical>
+<Utterence>It looks like it's just been painted, <Character_Name>Annagret</Character_Name> will have a green bum.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Rudolf places <Character_Name>Annagret</Character_Name> gently down onto the canoe seat. She cries a little and he starts singing a traditional German boating song "The Skipper on the Rhine" to soothe her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(CONT'D)</Utterence>
+<Parenthetical>As Rudolf sings, he picks up Annagret again and leans to pass her back to Hedwig</Parenthetical>
+<Utterence>and as they kiss across the canoe.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera continues to capture the scene of friendship and joy shared among Rudolf, Hedwig, Inge-Brigit, Hans, and Annagret on this serene lake day.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOUSE YARD - DAY</Scene Heading>
+
+<NARRATIVE>A house somewhere, likely <Location>Poland</Location>. Children are skipping back to the house to leave for school.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Utterance>Come on.. coats ,bags..</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Parenthetical>(claps her hands)</Parenthetical>
+<Utterance>Chop, chop.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf pulls on his SS death's head cap, and adjusts the brim.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Thank you children.   Goodbye.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf strides along the path towards the garden gate in the picket fence which separates the house from the side entrance to KL Auschwitz, the concentration camp.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Inge, pull your socks up</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Two STABLEHANDS hold the reins of Rudolf's favorite bay horse Merer in the yard. A mounting block to the side. A small group of SS OFFICERS beyond, and an idling military truck waiting for clearance at the checkpoint.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(mounting up)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>Wait.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(to Hedwig)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>We will go to the concentration camp today, won't we?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(serious)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The SS Guards salute and raise the barrier as Rudolf rides Merer out of the yard.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - DAY</Scene Heading>
+
+<NARRATIVE>A Polish PRISONER-GARDENER BRONEK, (40's), wearing ill-fitting civilian clothes, pushes a new wheelbarrow along a stepping stone garden path parallel to the concrete garden wall, topped with barbed wire and security palisades, the other side of which is an imposing Auschwitz building.</NARRATIVE>
+
+<NARRATIVE>The wall runs the length of the villa's vast top flower and market garden. Beehives and a cornucopia of flora and small tress. A paradise in full bloom.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BRONEK</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then he corners through the gate into the back garden..</NARRATIVE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Along the path and up to the house. Past A YOUNG POLISH MAID (17) hanging the Höss family's underwear on the line.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BRONEK</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Parenthetical>(appears in the doorway)</Parenthetical>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>From afar, we watch him park the wheelbarrow, climb the few steps to the porch and knock on the back door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf kicks his heels into Merer's flanks, and rides into the camp.</NARRATIVE>
+
+<Scene Heading>EXT. CAMP - DAY</Scene Heading>
+
+<NARRATIVE>Hedwig, with Annagret on her hip, walks the length of the flowerbed alongside the camp entrance. Stopping every now and then to smell the roses with her and name the other flowers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANNAGRET</Character_Name>
+<Utterance>(sing song, lifting baby's arm to wave)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANNAGRET</Character_Name>
+<Utterance>(annagret laughs) Bye-bye daddy.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. GARDEN - DAY</Scene Heading>
+
+<NARRATIVE> A garden somewhere in <Location>Poland</Location>. <Character_Name>BRONEK</Character_Name> and <Character_Name>SOPHIE</Character_Name> are working together, unloading bags and jars from a wheelbarrow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Utterance>Loaded up?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Bronek</Character_Name> brings up a large sack and a paper package wrapped with string from the wheelbarrow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BRONEK</Character_Name>
+<Utterance>(handing it to Sophie)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Sophie carries everything down the hall towards the back door with him.</NARRATIVE>
+
+<Scene Heading>INT. HALL, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Sophie enters the pantry and starts to set down some of the jars on shelves.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Utterance>(calling out)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BRONEK</Character_Name>
+<Parenthetical>(from off screen)</Parenthetical>
+<Utterance>Bronek.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig, now wearing an apron, walks past heading to the back door where Bronek hands her the sack.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(calling out)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MARTA</Character_Name>
+<Parenthetical>(from off screen)</Parenthetical>
+<Utterance></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>Upstairs please.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>(handing her the sack)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARTA</Character_Name>
+<Parenthetical>(17-year-old Polish housemaid, coming down the stairs)</Parenthetical>
+<Utterance></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>Then come down again.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Parenthetical>(handing her the paper package)</Parenthetical>
+<Utterance>I have</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Marta grabs the sack and paper package from Hedwig, then starts to head back up the stairs.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Marta takes the sack upstairs.</NARRATIVE>
+
+<NARRATIVE>Hedwig walks to the kitchen with the package, calling out to Sophie as she passes her in the pantry.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(Beckoning)</Utterance>
+</Turn>
+
+<NARRATIVE>Sophie walks through the kitchen, where another POLISH HOUSEMAID (17) sits mixing food in a bowl.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(to the housemaid, without looking at her)</Utterance>
+</Turn>
+
+<NARRATIVE>Hedwig walks into the dining room, where Elfryda is standing holding the baby whom she's been feeding.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Please choose something you like Only one each.</Utterance>
+</Turn>
+
+<NARRATIVE>The package is full of women's silk underwear, which Hedwig puts down in a small pile on the dining room table and then spreads out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+</Turn>
+
+<NARRATIVE>Elfryda and Sophie start looking through the underwear, holding items up to see their size.</NARRATIVE>
+
+<DIALOGUE>
+</DIALOGUE>
+
+<Scene Heading>INT. MASTER BEDROOM, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>The bag <Character_Name>Bronek</Character_Name> gave her is on the bed.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> opens it, revealing an exquisite full-length brown fur coat. She lifts it out and walks to the mirror.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> swings the coat over her shoulders, puts it on, and feels something in the right pocket.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> pulls out a tube of lipstick, places it on her dressing table top, and returns to the mirror.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> pulls some poses to see how the coat hangs, admiring herself regardless of it being a little big.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The lining catches her eyes, and she draws up the hem to inspect it.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> is on the stairs handing the fur coat to <Character_Name>Aniela</Character_Name> below her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>This one needs mending please. The lining's come away bottom left.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. MASTER BEDROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig re-enters the bedroom and sits down at the dressing table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig opens the tube of lipstick, and draws a little on the back of her hand. Uses her finger to apply a couple of test dabs to her lips.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Satisfied, she applies it from the tube. Presses her lips back and forth in the mirror.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then she closes the tube, and shuts it in a drawer. Wipes the lipstick from her hand and lips with her apron.</NARRATIVE>
+
+<Scene Heading>EXT. CAMP ENTRANCE BY HÖSS GARDEN PATH - DAY</Scene Heading>
+
+<NARRATIVE>Rudolf, SS officer KARL BISCHOFF (40's, in uniform), and civilian engineers FRITZ SANDER (50's)and KURT PRÜFER (50's), both wearing suits and fedoras, enter through the garden gate.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterance>How was your journey?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PRUFER</Character_Name>
+<Utterance>Long, but we're here.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. BACK PORCH - DAY</Scene Heading>
+
+<NARRATIVE>Rudolf turns at the top of the back porch, kicks off his riding boots.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PRUFER</Character_Name>
+<Utterence>(to Bischoff)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterence>No, no. Did you come via Prague or Vienna?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As the back door closes, Prisoner Gardener 1 waiting below, hurries up to collect the boots.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterence>No, no.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PRUFER (CONT'D)</Character_Name>
+<Utterence>(to Bischoff)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PRISONER GARDENER 1</Character_Name>
+<Parenthetical>(silently collecting boots)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He brings them around the house to an outside tap and sink, and with a brush begins scrubbing blood and mud from their soles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PRUFER (CONT'D)</Character_Name>
+<Utterence>(to Bischoff)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterence>No, no.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PRISONER GARDENER 1</Character_Name>
+<Parenthetical>(silently scrubbing boots)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He rinses the soles and hangs them up to dry.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterence>No, no.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PRUFER (CONT'D)</Character_Name>
+<Utterence>(to Bischoff)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterence>No, no.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf turns at the top of the back porch and walks towards the camera.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PRUFER (CONT'D)</Character_Name>
+<Utterence>(to Bischoff)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BISCHOFF</Character_Name>
+<Utterence>No, no. Did you come via Prague or Vienna?</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. KITCHEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig, now in an almond white dress, and TWO GERMAN WOMAN FRIENDS (30's and 50s), wives of an SS officer and IG Farben executive, nicely dressed, chat over coffee at the table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND</Character_Name>
+<Utterance>Yes of course.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<Utterance>It's an easy mistake.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>The same thing happened when Helga Palitsch came with me the first time.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND</Character_Name>
+<Utterance>Oh, it was so funny. Of all the dresses she could have picked out, she chose one that belonged to some little Jewess half her size.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>I got the zip up to about here for her.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The conversation continues as they chat over coffee at the table.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. DINING ROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Aniela is taking a small silver tray, a bottle of schnapps, and a shot glass from a drinks cabinet, and carefully filling the glass.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<Utterance>Helga Palitsch's husband only adopted that little Polish boy to keep her at home. That's what she told me. And he bashes her around as well.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>How do you know that?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<UtteranceDidn't you notice? She's got bruises on her arms.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela walks past them carrying the tray. We watch her walking slowly along the hallway so as not to spill it, toward the back door, while the women continue.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND'S VOICE (O.S.)</Character_Name>
+<Utterance>(background conversation)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela is still walking in the background, carrying the tray.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>What's she doing?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<Utterance>Taking a drink to someone.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela continues walking towards the back door with the tray, as the women's conversation continues in the background.</NARRATIVE>
+
+<Scene Heading>INT. KITCHEN/HALLWAY HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Aniela is now standing by the back door, still holding the tray.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Who is it for?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<Utterance>I don't know, but she's taking a lot of trouble.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela looks concerned as she turns back towards the hallway with the tray still in her hand.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. BACK GARDEN PATIO/HALLWAY/KITCHEN, HÖSS VILLA -</Scene Heading>
+
+<NARRATIVE>CONTINUOUS.</NARRATIVE>
+
+<NARRATIVE>Aniela puts the bottle and glass on the patio table, then collects Rudolf's boots, now clean in the porch, and goes back inside with them.</NARRATIVE>
+
+<NARRATIVE>Black shapes in the garden, with boots and hats, all coming from the garden gate.</NARRATIVE>
+
+<NARRATIVE>In groups, fives, tens then more. Fifty or so now. CAMP SS OFFICERS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>No. Really?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2'S VOICE (O.S.)</Character_Name>
+<Utterance>Is it real?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND'S VOICE (O.S.)</Character_Name>
+<Utterance>It is real. It's a diamond.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2'S VOICE (O.S.)</Character_Name>
+<Utterance>How clever do you have to be?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND'S VOICE (O.S.)</Character_Name>
+<Utterance>Yes they are very clever. Ive ordered more because you never know</Utterance>
+<Parenthetical>(incomplete sentence)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela puts the bottle and glass on the patio table, then collects Rudolf's boots, now clean in the porch, and goes back inside with them.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>We're on Aniela as she returns along the hallway carrying</Scene Heading>
+
+<NARRATIVE>Rudolf's boots, the women still chatting in the background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterence>Remember I told you about Brigitte Frank's fur at the Schilling concert Rudolf and I went to?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela enters the kitchen...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>The ermine one?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Did I tell you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<Utterance>I don't think so.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig taps an image of Frank in the centre spread.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2 (CONT'D)</Character_Name>
+<Parenthetical>(leaning in)</Parenthetical>
+<Utterance>Oh, my goodness.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>And the emeralds, look. And sapphires.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GERMAN WOMAN FRIEND 2</Character_Name>
+<Utterance>She looks like an empress.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. LIVING ROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf, in his socks, Bischoff, Prufer and Sander are sat around the coffee table, on top of which the roll of paper has been unfurled.</NARRATIVE>
+
+<NARRATIVE>The other side of it is the next chamber. In here is the next load ready to burn, once the pieces in here... (points) have been completely incinerated.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SANDER</Character_Name>
+<Utterence>The other side of it is the next chamber. In here is the next load ready to burn, once the pieces in here...(points)have been completely incinerated.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>In how long?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SANDER</Character_Name>
+<Utterence>Seven hours. Four to five hundred at once.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PRUFER</Character_Name>
+<Utterence>Closer to five hundred.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SANDER</Character_Name>
+<Parenthetical>(points)</Parenthetical>
+<Utterence>So, once that's happened, you close this chimney. Then simultaneously open the next. The fire will follow the air, through this baffle of course, into this chamber and burn this load.</Utterence>
+</Turn>
+
+<NARRATIVE>We see the paper from above. Engineering plans. A ground plan, front elevation, and sections of a structure with chimneys. A logo in one corner reads "JA Topf and Sons".</NARRATIVE>
+
+<NARRATIVE>Revision 13.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HALL, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Aniela walks to the living room and stops in front of the closed glass doors.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANIELA</Character_Name>
+<Utterance>Knocks on the glass politely then leaves.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Sander is standing, continuing to point as he speaks.</NARRATIVE>
+
+<Scene Heading>INT. HALL, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Sander's hand points at something off-screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SANDER</Character_Name>
+<Utterance>In each case, the chamber directly opposite the fire zone, which is burning at around a thousand degrees, has by now cooled to around forty degrees. Cool enough to unload the ash then reload pieces.</Utterance>
+<Parenthetical>(continues pointing)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>So these chambers are cooling and these are heating up.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SANDER</Character_Name>
+<Utterance>Correct. The process moves one chamber over, counterclockwise. Burn, cool, unload, reload.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PRUFER</Character_Name>
+<Utterance>Continuously.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf stares, fascinated.</NARRATIVE>
+
+<Scene Heading>INT. KITCHEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>The sound of applause outside as Hedwig and her friends part net curtains to watch through the kitchen window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(to herself or someone else off-screen)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf is standing in the garden with a schnapps glass raised.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(raising his glass)</Utterance>
+</Turn>
+
+<Note>Approximately 50 or so SS officers are watching from the background, but no dialogue is attributed to them.</Note>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. REEDS, AUSCHWITZ REGION - LATER</Scene Heading>
+
+<NARRATIVE>Rudolf and Claus on horses, flanks steaming, walk along an embankment that cuts between two vast fields of bullrushes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Prost!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SS OFFICERS</Character_Name>
+<Utterance>(as one) Prost!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He knocks it back. They hip! hip! him as he walks down the few steps to shake many hands.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Happy birthday Herr Commandant' and 'I'm honoured to serve under you' type greetings from different officers, and thank you's from Rudolf.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Some look like they've just arrived from hell. Filthy and disheveled with bloodshot eyes.</NARRATIVE>
+
+<Scene Heading>INT. BOYS BEDROOM, HÖSS VILLA - LATER</Scene Heading>
+
+<NARRATIVE>Claus and Hans are in their bedroom, back from school. Claus is changing out of his school uniform into his pint-sized SS one. Buttoning his trousers, then pulling on a pair of black boots and stomping in them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterance>mumbling commands at toy soldiers</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hans, still wearing his school uniform, is sitting on the floor using a book about trains as a platform for his toy soldiers.</NARRATIVE>
+
+<Scene Heading>EXT. REEDS, AUSCHWITZ REGION - DAY</Scene Heading>
+
+<NARRATIVE>In the distance we can hear indistinct male voices yelling one-word orders in a hodgepodge of German and Polish.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>You hear that?</Utterance>
+<Parenthetical>(cocks his head)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Then the sound of a marsh bird. A low, hollow sound, like an empty bottle.</NARRATIVE>
+
+<NARRATIVE>They stop.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+<Utterance>It's a Bittern. A heron. Eurasian heron.</Utterance>
+</Turn>
+
+<NARRATIVE>They hear the bird again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+<Utterance>(mimicking)</Utterance>
+<Utterance>Woo.. woo...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They walk on.</NARRATIVE>
+
+<Scene Heading>EXT. REEDS, AUSCHWITZ REGION - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>Close on apples strewn about on grass in front of long marsh reeds.</NARRATIVE>
+
+<NARRATIVE>They look like they've been discarded.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+</Turn>
+
+<NARRATIVE>A surging noise of heavy splashing and then suddenly the legs of a horse thunder out of the marsh reeds onto the embankment, hooves trampling the apples.</NARRATIVE>
+
+<Scene Heading>A MOUNTED SS OFFICER</Scene Heading>
+
+<NARRATIVE> A mounted SS officer looks around from atop a horse, scanning down into the marsh and yanking the reins this way and that.</NARRATIVE>
+
+<NARRATIVE> In the far background, we now see factory buildings with industrial chimneys and other plant (IG Farben's synthetic rubber works).</NARRATIVE>
+
+<NARRATIVE> He trots along the embankment a few metres more and bursts down the embankment back into the cloak of reeds.</NARRATIVE>
+
+<NARRATIVE> Beyond him, barely visible in the marsh, are prisoners carrying sacks. The voice of the Kapo barking at them throughout.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAPO</Character_Name>
+<Utterance>(Yelling in German and Polish)</Utterance>
+<Parenthetical> Come on!...Move!...Little rat!</Parenthetical>
+</Turn>
+
+<NARRATIVE>Rudolf and Claus arrive at the spot on their horses, and pause to watch.</NARRATIVE>
+
+<Scene Heading>Rudolf and Claus walk on.</Scene Heading>
+
+<Scene Heading>INT. DINING ROOM, HÖSS VILLA - AFTERNOON</Scene Heading>
+
+<NARRATIVE>Rudolf sits at the dining room table, charmed by the candles on his birthday cake.</NARRATIVE>
+
+<NARRATIVE>Hedwig, Claus, Heideraud, Inge-Brigit, and Hans round the table. Hedwig holds Annagret on her lap, who's crying.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+<Parenthetical>(nothing spoken)</Parenthetical>
+</Turn>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HÖSS VILLA - EVENING</Scene Heading>
+
+<NARRATIVE>A living room in <Location>Rudolf's home</Location>. Rudolf, his back turned to us, is sitting on a couch speaking to someone off-screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>You cried like this too. You were even louder.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>ANNAGRET</Character_Name> enters the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(of Annagret)</Utterence>
+<Utterance>What's going on with her?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>HEDWIG</Character_Name> enters the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>She's strong isn't she?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterence>Make a wish.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf thinks, then blows out his candles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(blowing out candles)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig leads the family in song.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE HöSS FAMILY</Character_Name>
+<Utterance>"For he's a jolly good fellow, for he's a jolly good fellow For he's a jolly good fellow, which nobody can deny."</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT TOP GARDEN - HÖSS VILLA - EVENING</Scene Heading>
+
+<NARRATIVE>Rudolf stands looking through the gate to the lower garden, puffing away at the remains of a cigar. The sound of water dripping through camp noises in the background.</NARRATIVE>
+
+<NARRATIVE>Rudolf walks across the lawn and now we see their full paddling pool, with a wooden slide, and a tall white outdoor shower, which is dripping. Rudolf yanks the lever to properly turn it off.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. CAMP BUILDINGS - TWILIGHT</Scene Heading>
+
+<NARRATIVE><Location>Camp Buildings</Location>, with a tall <Location>smoking chimney</Location> beyond the far garden wall.</NARRATIVE>
+
+<NARRATIVE>A figure, likely <Character_Name>HANS</Character_Name> or another character, looks up into the sky as they puff on a <Utterence>cigar in the twilight.</Utterence></NARRATIVE>
+
+<Scene Heading>INT. BOYS' BEDROOM, HÖSS VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE><Location>Boys' Bedroom, Höss Villa</Location>, where <Character_Name>CLAUS</Character_Name> and <Character_Name>HANS</Character_Name> lie in their bunk beds in the dark.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterence>What are you doing?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CLAUS</Character_Name> is propped up on his elbows, pointing a <Utterence>pocket torch</Utterence> at something in front of him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterence>I'm looking.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterence>At what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CLAUS</Character_Name> holds up three gold teeth under the <Utterence>pocket torchlight.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterence>T teeth.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>There are ten other gold teeth on the bed sheet next to an <Utterence>empty matchbox.</NARRATIVE>
+
+<Scene Heading>EXT. LOOKING AT HÖSS VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE><Location>Höss Villa</Location>, with <Character_Name>RUDOLF</Character_Name> walking up the steps of the porch back into the house.</NARRATIVE>
+
+<NARRATIVE>The downstairs and two of the upstairs windows are lit by interior lights.</NARRATIVE>
+
+<Scene Heading>INT. BOYS' BEDROOM, HÖSS VILLA - NIGHT (CONT'D)</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(no lines)</Utterance>
+</Turn>
+</DIALOGUE>
+
+(NOTE: As there are no specific dialogue or narrative for Rudolf, this section is left as is)
+
+<Scene Heading>INT. KITCHEN, HÖSS VILLA - SAME</Scene Heading>
+
+<NARRATIVE>Rudolf is locking up for the night, bolting the back door of the house and turning off lights.</NARRATIVE>
+
+<NARRATIVE>The family dogs Dilla is around.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf goes to the kitchen windows and locks those, and turns off the light.</NARRATIVE>
+
+<Scene Heading>INT. LIVING ROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf locks the glass doors to the dining room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf draws the curtains and turns off the light.</NARRATIVE>
+
+<Scene Heading>INT. HALL, HÖSS VILLA - MOMENTS LATER</Scene Heading>
+
+<NARRATIVE>Rudolf secures the locks on the front door and turns off the light.</NARRATIVE>
+
+<NARRATIVE>The house is quiet.</NARRATIVE>
+
+<Scene Heading>INT. LANDING, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>Rudolf walks up the stairs towards his bedroom.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf stops on the landing and turns off the light.</NARRATIVE>
+
+<NARRATIVE>The darkness reveals plumes of red-haloed smoke in the distant background through the balcony door at the end of the landing, before he suddenly turns the light back on.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(startled)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>INGE-BRIGIT</Character_Name>
+<Utterence>(trancelike)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(concerned)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf walks towards and leans down slowly.</NARRATIVE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE> Rudolf is standing in a location, speaking softly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>What are you doing there?</Utterance>
+<Parenthetical>(softly)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Ing-Brit is handing out sugars.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>INGE-BRIGIT</Character_Name>
+<Utterance>I'm passing out sugars.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(softly)</Parenthetical>
+<Utterance>To who?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Ing-Brit is looking for someone to give the sugars to.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>INGE-BRIGIT</Character_Name>
+<Utterance>I'm looking.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf reaches out his hand gently towards Ing-Brit.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(softly)</Parenthetical>
+<Utterance>Come.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A scene transition occurs, indicated by a number (36).</NARRATIVE>
+
+<Scene Heading>EXT. DITCH - NIGHT</Scene Heading>
+
+<NARRATIVE> A thermal night vision image is shown of a young Polish girl holding a sack.</NARRATIVE>
+
+<NARRATIVE>The girl presses an apple into the wall of earth until only a patch remains visible.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (PRE-LAP)</Character_Name>
+<Utterance>(reading)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The girl moves along and repeats the action with another apple, then again with a third apple.</NARRATIVE>
+
+<DIALOGUE> No additional dialogue occurs in this scene. </DIALOGUE>
+
+<NARRATIVE>The girl continues to press apples into the earth at regular intervals.</NARRATIVE>
+
+<Scene Heading>No further scenes are annotated here. The script ends without additional narrative or dialogue sections.</Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>INT. GIRLS' BEDROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A girls' bedroom, <Location>Höss Villa</Location>, late at night. The room is dimly lit by flickering red light from outside. <Character_Name>RUDOLF</Character_Name> lies next to <Character_Name>INGE-BRIGIT</Character_Name> on top of her bed reading a book.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> is reading aloud, eyes closed, as he speaks in a soothing voice. His finger follows the text on the page.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>..They called to it. "Oh beautiful swan, please be our boat". The swan bent its neck and came to the shore.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> pauses, glancing across at <Character_Name>HEIDERAUD</Character_Name>, who is asleep. He then looks down at <Character_Name>Inge-Brigit</Character_Name> beside him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>..They called to it. "Oh beautiful swan, please be our boat". The swan bent its neck and came to the shore.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> gently closes the book, marking his place with a finger.</NARRATIVE>
+
+<Scene Heading>EXT. DITCH - NIGHT</Scene Heading>
+
+<NARRATIVE>A ditch, <Location>Night</Location>. The Polish Girl is at the far end of the ditch, an empty sack in her hand. A trail of partially buried apples lines the wall of the ditch.</NARRATIVE>
+
+<NARRATIVE>The camera lingers on the peaceful scene for a moment before fading to black.</NARRATIVE>
+
+<Scene Heading>INT. MASTER BEDROOM, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE> Rudolf and Hedwig lie in their parallel but separate beds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Bracht phoned the house.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Oh.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>While you were outside for your toast. I forgot to tell you. He said he'd call back tomorrow. Midday.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Rudolf nods.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Will you take me to that Spa in Italy again?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Ah.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>All that pampering. And the walks. And that nice couple we met.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(pictures it)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>It was so funny.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(pulls a cow face)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>They loved it.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> pulls a facial expression of a cow, implying the cows were amused by the accordion player.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Hedwig giggles.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Will you?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>What?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Take me back there.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>When?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>I don't know when.</Utterence>
+</Turn>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(cuddles up to her)</Parenthetical>
+<Utterence>Any better?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Mm.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>You smell nice.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(In a cod-French accent)</Parenthetical>
+<Utterence>Français.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Oo-la-la.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>She giggles, then snorts.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>Oink, oink.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Chocolate. If you see it. Any goodies.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>They both giggle. They both oink.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> and <Character_Name>Hedwig</Character_Name> continue to play and snuggle.</NARRATIVE>
+
+Here is the annotated script in a structured XML-like format:
+
+<Scene Heading>EXT. RAILWAY SPUR, AUSCHWITZ STATION - DAY</Scene Heading>
+
+<NARRATIVE> OFF SCREEN: the slamming clank of a train carriage cattle truck door opening. </NARRATIVE>
+
+<NARRATIVE> Looking up at Rudolf, he must be mounted on his horse, just sky above, black smoke whips around him. </NARRATIVE>
+
+<NARRATIVE> OFF SCREEN: Sounds of women, children, and babies screaming in panic. Mothers being forcibly separated from their children. Dog barks, male German voices yelling orders. </NARRATIVE>
+
+<NARRATIVE> Sounds of stream train engine hissing. A child's cry. A gunshot close by.. </NARRATIVE>
+
+<NARRATIVE> Rudolf glances downwards for an instant, looks back up and out, impassively.. </NARRATIVE>
+
+<NARRATIVE> OFF SCREEN: That cry stops, but the awful sounds of children wailing in terror continue.. </NARRATIVE>
+
+<NARRATIVE> As the screen fades gradually to white. </NARRATIVE>
+
+<Scene Heading>EXT. FRONT OF HÖSS VILLA - DAY</Scene Heading>
+
+<NARRATIVE> Heideraud and then Inge-Brigit, dressed for school with satchels on their backs, emerge from the front door and walk along the garden path. Hans follows, and then Claus, putting his satchel on. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE OF BRACHT</Character_Name>
+<Utterance>To the head of the Party</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. LIVING ROOM, HÖSS VILLA - DAY (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Rudolf is at his desk methodically desk counting and sorting bills of different currencies - French Francs, American dollars, Czech kronen - into separate piles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE OF BRACHT</Character_Name>
+<Utterance>..I have learned that the commandant of the gigantic K.L. Auschwitz, Obersturmbannführer Höss, also well known to you, is to be transferred.</Utterance>
+</Turn>
+
+<NARRATIVE>We hear this as he sorts:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE OF BRACHT</Character_Name>
+<Utterance>Comrade Höss has made unprecedented achievements over four years of painstaking work. I witnessed the construction of this great camp close up so can attest.</Utterance>
+</Turn>
+
+<NARRATIVE>Reichsführer Himmler himself acknowledges the uniqueness of what he built.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE OF BRACHT</Character_Name>
+<Utterance>Now it is said that the task is too big for him and that someone must take his place.</Utterance>
+</Turn>
+
+<NARRATIVE>Höss knows prisoner use inside out, as evidenced by:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE OF BRACHT</Character_Name>
+<Utterance>The unprecedented achievements of the Höss era at Auschwitz. The meticulous planning and execution have resulted in the largest camp yet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf continues to sort bills.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE OF BRACHT</Character_Name>
+<Utterance>The question is, what will happen to Comrade Höss when he leaves? Will it be a promotion, or something more... sinister?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf's expression remains neutral.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. SOLA RIVER - MORNING</Scene Heading>
+
+<NARRATIVE>Rudolf paddles his canoe down the middle of the <Location>Sola River</Location>. Kneeling between his legs, his young passengers, <Character_Name>Hans</Character_Name> and <Character_Name>Inge-Brigit</Character_Name>.</NARRATIVE>
+
+<NARRATIVE>A light breeze rustles the tall bulrushes on either bank. Sunlight glistens off the water.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A gentle current carries the canoe through calm waters, undisturbed by any signs of <Location>war or conflict</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The tranquility is broken only by the occasional chirping of birds and lapping of water against the canoe's hull.</NARRATIVE>
+
+<NARRATIVE>Rudolf expertly navigates a bend in the river, passing beneath a canopy of leafy branches.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sunlight filters through the trees, casting dappled shadows on the water's surface.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Rudolf continues downstream, his passengers gaze out at the serene landscape, lost in thought.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>The canoe drifts into a narrow section of the river, surrounded by dense vegetation and towering trees.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>INGE-BRIGIT</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf expertly navigates this section of the river, avoiding branches and overhanging trees.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The tranquility is broken by a sudden burst of speed as Rudolf pushes off from the riverbank, propelling the canoe forward.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sun beats down on the water's surface as Rudolf and his passengers continue their leisurely journey downstream.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>Did you know that storks fly as far as Africa?</NARRATIVE>
+
+<NARRATIVE>The branches above are thick with morning chorus birdsong.</NARRATIVE>
+
+<NARRATIVE>The canoe drifts dreamily downstream.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(pointing)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>How far do you think they fly? How many kilometers?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INGE-BRIGIT</Scene Heading>
+
+<NARRATIVE>Rudolf is addressing Inge-Brigit.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>INGE-BRIGIT</Character_Name>
+<Utterance>Three hundred?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>More</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. HALL, HÖSS VILLA, BACK GARDEN - MORNING</Scene Heading>
+
+<NARRATIVE>Hedwig, Claus and Heideraud are gardening in the flowerbeds nearest the house.</NARRATIVE>
+
+<NARRATIVE>Hedwig is bent over with her hands in the earth, showing Claus what is a weed and what isn't.</NARRATIVE>
+
+<Scene Heading>EXT. ROCKY INLET, SOLA RIVER - MORNING</Scene Heading>
+
+<NARRATIVE>The canoe is moored on a small beach.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterance>(splashing in the shallows)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>INGE-BRIGIT</Character_Name>
+<Utterance>(teasingly)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(standing waist deep in the river)</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf stands very still, focusing on his float in hope of a bite.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(flinches suddenly)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(looks down at the water he's standing in)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. THEN RETURNS HIS FOCUS TO THE FLOAT.</Scene Heading>
+
+<NARRATIVE> He looks down at the water. He puts his hand in and pulls out a fragment of a bone, a human eye socket.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HIM</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> We look at him through it. He drops it then wades out hurriedly.</NARRATIVE>
+
+<Scene Heading>EXT. SOLA RIVER - DAY</Scene Heading>
+
+<NARRATIVE> He throws down his rod on the bank and hurries along the shoreline, lapping dead fish, towards the children. Signaling for them to get out as he approaches.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Come on out. Out.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> They come to shore reluctantly.</NARRATIVE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> He towels them off anxiously. He paddles back the way they came.</NARRATIVE>
+
+<Scene Heading>EXT. SOLA RIVER - DAY</Scene Heading>
+
+<NARRATIVE> The weather has changed and the children are shivering in front of him. Playfully making sounds through chattering teeth.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> He paddles hard through the choppy water.</NARRATIVE>
+
+<Scene Heading>INT. BATHROOM, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANSPERHAPS</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Hans and Inge-Brigit are in the tub together, protesting as Hedwig kneels in front of them, scrubbing them with soap and brushes. Elfryda sings to distract them.</NARRATIVE>
+
+<Scene Heading>INT. LIVING ROOM, HÖSS VILLA - SAME</Scene Heading>
+
+<NARRATIVE> Rudolf, wearing casual, Sunday clothes, is lying on the sofa reading a book. But he seems distracted. In the background...</NARRATIVE>
+
+<Scene Heading>INT. RUDOLF'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE> The radio is on playing a German sports report. We watch him for a while.</NARRATIVE>
+
+<NARRATIVE>The telephone on his desk rings. He glances at his watch, then goes to answer it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Yes</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf listens a beat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterance>Hang up now</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf goes to turn off the radio. Then returns to the phone, sits down.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterance>Fritz</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf listens for a long while.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterance>Go on</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterance>What does it say?</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf listens for a long while.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterance>Well</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterance>No, no, you wrote a very powerful letter on my behalf, their minds</Utterance>
+</Turn>
+
+Here is the annotated script:
+
+<Scene Heading>INT. KITCHEN, HÖSS VILLA - DAY (SHORT WHILE LATER)</Scene Heading>
+
+<NARRATIVE>Hedwig's mother, <Character_Name>LINNA HENSEL</Character_Name>, early 70's, sat at the kitchen table, hot, sweaty and clutching a cool glass of lemonade.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Hello Linna.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>An awkward embrace follows.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>Congratulations.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>What a strong little thing she is.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Isn't she.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>How are you?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>Good.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>I'd better tell my wife.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>She might.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>LINNA speaks, then pauses.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>I'd better tell my wife.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RUDOLF listens.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>She might.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>LINNA's mother is now ready to speak again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>We stopped for ages at Krakow.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RUDOLF responds with a negative opinion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>That's annoying.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>LINNA shares more about her journey and its difficulties.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>And hot! A lady fainted next to me. She's moving here with her husband who's an engineer, he's a lot older. They've both got jobs at a new factory. Siemens.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RUDOLF is now ready to speak again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Revision 26.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>LINNA looks at Rudolf, then smiles and leans in towards him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>And hot! A lady fainted next to me. She's moving here with her husband who's an engineer, he's a lot older. They've both got jobs at a new factory. Siemens.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf leans in close, responding to Linna's information about the lady and her husband.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(leaning in) Revision 26.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE> Ah, yes, that's possible.</NARRATIVE>
+
+<NARRATIVE> LINNA says <Character_Name>LINNA</Character_Name> 'All the big companies are here' he said.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+<Parenthetical>(distracted)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Yes, yes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Don't you need to get on?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Yes. I'd better.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>I'll show mum to the girls room.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>LINNA starts to rise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>Finish your drink first.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig hands Annagret to Elfryda. Rudolf enters the living room and closes the door behind him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>I can't believe you're here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Finally.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Come.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> They walk down the corridor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>You'll have Heideraud's bed and she'll get in with Inge-Brigit. You don't mind do you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>LINNA says nothing.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>A house somewhere, it looks big but actually isn't.</NARRATIVE>
+
+<NARRATIVE><Character_Name>HEDWIG</Character_Name> and <Character_Name>Linna</Character_Name> climb the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>First thing we did was install central heating. It gets so cold in winter you wouldn't believe it.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> points at small patterns in the wallpaper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(points)</Parenthetical>
+<Utterence>Hand-painted.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Linna</Character_Name> leans in to study them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Really?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> watches, gratified.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence,Yes.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. GIRLS BEDROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> shows <Character_Name>Linna</Character_Name> into the girl's room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>This is lovely. Truly. Such a lovely room.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> watches, still gratified.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>The top two drawers are for you. I hope it meets your approval.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Linna</Character_Name> scans the room approvingly and goes over to the window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>This is Heideraud's bed here.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Linna</Character_Name> looks at <Character_Name>Hedwig</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>This is lovely. Truly. Such a lovely room.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> smiles, still watching <Character_Name>Linna</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>I'm glad you like it.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BEDROOM - DAY</Scene Heading>
+
+<NARRATIVE>A bedroom somewhere in an unspecified location. <Character_Name>LINNA</Character_Name> is looking at a vase of freshly cut flowers.</NARRATIVE>
+
+<NARRATIVE>Linna smells the flowers and then looks at the bed, where she finds a piece of paper with notes on it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name)LINNA</Character_Name>
+<Utterance>Such beautiful flowers.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Parenthetical>(looking at the bed)</Parenthetical>
+<Utterance>Revision 28.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Linna sits on the bed with <Character_Name>HEDWIG</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Try it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name)LINNA</Character_Name>
+<Parenthetical>(touching Hedwig on the knee)</Parenthetical>
+<Utterance>My girl.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. DINING ROOM, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>A dining room in the Höss Villa. <Character_Name>HEDWIG</Character_Name> and <Character_Name)LINNA</Character_Name> are watching <Character_Name>SOPHIE</Character_Name> and <Character_Name>MARTA</Character_Name> prepare food.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>That's spinach strudel, apple strudel, potato salad. And your cinnamon rolls.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name)LINNA</Character_Name>
+<Utterance>My recipe? Very nice.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name)ELFRYDA</Character_Name> and <Character_Name)ANIела</Character_Name> enter the kitchen to help with food preparation.</NARRATIVE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>HEDWIG</Character_Name> looks at <Character_Name>Linna</Character_Name> as she passes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Go on, there are loads.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>LINNA</Character_Name> takes a cinnamon roll.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Yum.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. LIVING ROOM, HÖSS VILLA - SAME</Scene Heading>
+
+<NARRATIVE><Character_Name>RUDOLF</Character_Name> sits at his desk on the phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(dictating)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> drains a glass of water.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(dictating) Subject - Lilac tree by the Commandant guard barracks...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> revises.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterence>(dictating) The SS members who pick from the lilac tree in an almost incomprehensible and radical manner so that the tree bleeds will be punished...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterence>(dictating) I expect the SS members, if they want to take some, to do it in a modest form and cut them off the tree sensitively...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterence>(dictating) In the...</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOESS OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A man, Höss, is on a phone call, speaking to someone off screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Höss</Character_Name>
+<Utterance>It's in the interest of our whole community, I hope you understand those flowers are to decorate our entire camp, now and in the future, and I expect SS members to be fully aware of this measure.</Utterance>
+<Parenthetical>(he hangs up the phone)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Höss stares unreadably into the distance.</NARRATIVE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>They walk down the steps to the main garden. Inge-Brigit and Hans are playing there in a kid-size metal pedal car.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>Jews in the house?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>The Jews are over the other side of the wall. They're local girls.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>Say hello to Grandma.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Linna</Character_Name>
+<Parenthetical>(to Inge-Brigit and Hans)</Parenthetical>
+<Utterance>Hello, dear!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>My God. He's got so big.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Parenthetical>(to Inge Brigit)</Parenthetical>
+<Utterance>and you have such nice hair.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(of the garden)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Lina greets Hans with a hug and a kiss.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>This is all us.</NARRATIVE>
+
+<NARRATIVE>(pointing)</NARRATIVE>
+
+<NARRATIVE>There's a grape vine. Obviously,</NARRATIVE>
+
+<NARRATIVE>it'll grow.</NARRATIVE>
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>They turn past where the wall corners, and <Character_Name>LINNA</Character_Name> sees the top garden for the first time.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>It's huge. I'm speechless.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>It's all my design. All the planting and everything. The greenhouse, the gazebo at the end.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Is that a pool?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Yes. I have gardeners.        I couldn't do it alone.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>With a slide? Oh Heddy.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>There's a child-sized wooden row boat on the lawn next to the pool.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>(no utterance)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. COUNTRYSIDE - DAY</Scene Heading>
+
+<NARRATIVE> A field, once a garden, now covered with vines. The camp wall stands at the back, partially hidden by new growth. <Location>The old house</Location>, with a flat roof, sits nearby. We see <Character_Name>LINNA</Character_Name>, an older woman, standing near the center of the frame, looking thoughtful.</NARRATIVE>
+
+<NARRATIVE> <Character_Name>HEDWIG</Character_Name>, likely Linna's daughter or companion, approaches her from off screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Do you like it?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Of course I like it. How could I not?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>This was a field three years ago.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>We just had the lower garden by the street. And the house had a flat roof.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>It's hard to believe.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical></Parenthetical>
+<Utterence>The camp wall is over there, isn't it?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>And that's the camp wall?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Yes, that's the camp wall. We planted more vines at the back to grow and cover it.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Maybe Esther Silberman is over there.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Which one was she?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Linna turns to face Hedwig, who looks puzzled.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>The one I used to clean for. She was the one who had the book readings.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE>Oh, yes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Bolshevik stuff.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Jewish stuff.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(disappointed)</Parenthetical>
+<Utterence>And I got outbid on her curtains at the street auction. Her, opposite, she got them. I loved those curtains. Her opposite, she got the,</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>kohlrabi.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>These flowers are so beautiful.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>The azaleas there. There are also vegetables. A few herbs. Rosemary.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterence>Sunflowers.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>And here is kohlrabi. The children love to eat it. Cabbage. Kale. Runner beans. Pumpkins. Potatoes and more.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig and Linna walk off, until they're out of earshot, arm in arm through the top garden.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. PARADISE GARDEN - DAY</Scene Heading>
+
+<NARRATIVE> They arrive in the far corner, where the beehives are. <Location>The bees come and go from a distance.</Location></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>We have bees over here to provide our honey.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Linna looks around in awe, speaking as they walk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>It's a paradise garden.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat passes between them before Hedwig responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>And Rudolf is okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig continues speaking as they arrive at the gazebo.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Yes, he's fine. Working non-stop.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Even when he's home. Which he loves.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Linna responds as they sit down at the gazebo.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>He's a busy bee.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig continues speaking, gesturing with his arms.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>He is. Non-stop. And pressure like you wouldn't believe.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat passes before Linna responds with another question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>And you're okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig raises an eyebrow in response to Linna's question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Do I look okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Linna smiles and responds reassuringly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance>You do.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. VILLA LIVING ROOM - DAY</Scene Heading>
+
+<NARRATIVE> Rudi calls <Character_Name>LINNA</Character_Name> the queen of <Location>Auschwitz</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LIENA</Character_Name>
+<Utterance>Honestly. To have all this.</Utterance>
+</Turn>
+
+<NARRATIVE> They giggle at her good fortune.</NARRATIVE>
+
+<NARRATIVE> (surveying the full <Location>Villa's garden</Location> glory')</NARRATIVE>
+
+<Turn>
+<Character_Name>LIENA</Character_Name>
+<Utterance>You really have landed on your feet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> They take in the garden.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>The linden trees are turning yellow. It smelled so nice when they were flowering.</Utterance>
+</Turn>
+
+<NARRATIVE> (pointing up to the vine on the gazebo)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>This will grow and cover everything. You'll see next time you visit.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - DAY (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>A montage of flowers in the garden.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>A bed of red petunias in bloom</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Climbing roses on a wall trellis</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Closer on the roses</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Bees crawling on orpines in bloom</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>MARIGOLDS</Scene Heading>
+
+<NARRATIVE> A garden, specifically <Location>Sunflowers</Location>. We see a series of <Character_Name>CLOSE UP</Character_Name>s on various flowers: white dahlia, purple dahlia, chrysanthemum, and red dahlia.</NARRATIVE>
+
+<NARRATIVE> As off-screen we start to hear a voice over the wall crying out in pain.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>V.O.</Character_Name>
+<Utterence>Crying out in pain...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>We stay on this red flower as the screen becomes gradually redder and the off-screen sound of the voice gets louder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>V.O.</Character_Name>
+<Utterence>Crying out in pain...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The red flower disappears in the red screen, and the off-screen spasms of pain get louder. Suddenly all the sound cuts out completely.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>V.O.</Character_Name>
+<Utterance>...pain...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>We are left in the red.</NARRATIVE>
+
+<Scene Heading>SUNFLOWERS</Scene Heading>
+
+<NARRATIVE>A garden, specifically <Location>HÖSS VILLA BACK GARDEN</Location>. The Höss children and a group of school friends - some in swimming costumes - are gathered around a garden table where a MAN is showing them a stork.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAN</Character_Name>
+<Utterance>(showing the stork) Behold, young ones!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHILDREN</Character_Name>
+<Utterance>(laughing and excited)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The stork flaps its big wings, and the children laugh with excitement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAN</Character_Name>
+<Utterance>(reading) Heideraud (Pre-Lap)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades out.</NARRATIVE>
+
+<Scene Heading>INT. LOBBY, HÖSS VILLA - DAY</Scene Heading>
+
+<NARRATIVE> Heideraud and her female SCHOOLFRIEND, (12), are by the lobby table, leant over the Höss House Guestbook. They are in their bathing suits, dripping wet from the pool. Heideraud is reading aloud.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEIDERAUD</Character_Name>
+<Utterance>(reading)</Utterance>
+<NARRATIVE>The heartfelt time we spent in the Höss house...</NARRATIVE>
+</Turn>
+
+<Turn>
+<Character_Name>HEIDERAUD</Character_Name>
+<Utterance>(to her friend)</Utterance>
+<NARRATIVE>...will always be among our most beautiful, holiday memories. In the East lies our tomorrow! Thanks for your National Socialist hospitality.</NARRATIVE>
+</Turn>
+
+<Turn>
+<Character_Name>HEIDERAUD</Character_Name>
+<Utterance>(reading)</Utterance>
+<NARRATIVE>And this was from...</NARRATIVE>
+</Turn>
+
+<Turn>
+<Character_Name>HEIDERAUD</Character_Name>
+<Utterance>(to her friend)</Utterance>
+<NARRATIVE>Willy someone.</NARRATIVE>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf, now wearing a white suit with white shoes, is pacing up and down the patio, and smoking a cigarette agitatedly. The sound of splashing and laughter can be heard.</NARRATIVE>
+
+<NARRATIVE>Heideraud and her Schoolfriend, deep in chitchat, walk out</NARRATIVE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - DAY</Scene Heading>
+
+<NARRATIVE>Rudolf's agitated state is more apparent as he continues to pace.</NARRATIVE>
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>The house and past him towards the upper garden.</NARRATIVE>
+
+<NARRATIVE>He grinds the cigarette with his heel, then walks down the steps.</NARRATIVE>
+
+<NARRATIVE>Claus is courting his GERMAN GIRLFRIEND at the side of the house. Away from prying eyes. They hold hands, they walk, they kiss, they giggle.</NARRATIVE>
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Picnic tables and deckchairs facing the pool where the Höss children and A FEW OF THEIR SCHOOL FRIENDS frolic and swim.</NARRATIVE>
+
+<NARRATIVE>Outdoor toys are strewn about. A big wooden train set lines one side of the pool. A child-sized teepee is pitched on the lawn.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>He walks over to the pool. Watches the kids play happily. Far back enough not to get his suit splashed.</Utterance>
+</Turn>
+
+<NARRATIVE>Some of the parents and nannies, sit chatting under the gazebo at the far end. He waves at them.</NARRATIVE>
+
+<NARRATIVE>Hedwig is in a lounger sunning herself. Linna is dozing in another nearby. The family's TWO PET TORTOISES trudge across the lawn.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>He walks over to Hedwig and sits down next to her.</Utterance>
+</Turn>
+
+<NARRATIVE>He leans forward. Elbows on knees. Sighs once.. long and deep.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Hans says you have his sandals.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>We have to leave Mutzi.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Leave where?</Utterance>
+</Turn>
+
+<NARRATIVE>The camera shows the faces of Rudolf and Hedwig in a close-up shot, as they have a serious conversation.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. GARDEN - DAY</Scene Heading>
+
+<NARRATIVE>A garden, presumably belonging to <Location>Rudolf</Location>, with a house in the background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>We have to go. We're being transferred.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> is sitting in a deckchair, wearing sunglasses.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Sorry.. what?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>We're being transferred.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> lifts his sunglasses, looking at <Character_Name>Hedwig</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>To where?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Oranienburg.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> looks concerned, and <Character_Name>Rudolf</Character_Name> continues speaking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>..What?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>They want to swap me for Arthur Liebehenschel. He comes here. I take over as DI.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> explains the situation, and <Character_Name>Hedwig</Character_Name> responds with a mix of emotions.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>So why tell me that now?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>There was no good moment to say it. It can wait.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> gets up, resigned, and walks back towards the house.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterence>You've said it now.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> looks back at <Character_Name>Hedwig</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>To get the sandals.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Hedwig</Character_Name> gets up and follows <Character_Name>Rudolf</Character_Name>, barefoot, as he heads towards the house.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>When did you know about this?</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the requested format:
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>Pohl told me last week. I've been <Location>trying to make it go away.</Location></NARRATIVE>
+
+<NARRATIVE>They reach the back door.</NARRATIVE>
+
+<Scene Heading>60</Scene Heading>
+
+<Scene Heading>INT. KITCHEN, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig follows him through the kitchen. Marta and Aniela are tidying away the picnic food.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Then call Bormann.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I've tried Bormann. Short of going to Hitler, I'm fucked.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>61</Scene Heading>
+
+<Scene Heading>INT. LOBBY, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf walks down the corridor, opens the front door and exits.</NARRATIVE>
+
+<NARRATIVE>Hedwig stands in the open doorway, watching him quicken his step towards the front gate.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(shouting at his back)</Parenthetical>
+<Utterance>Rudolf!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>It's what's happening.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She slams the front door.</NARRATIVE>
+
+<NARRATIVE>And slips in the same moment.</NARRATIVE>
+
+<NARRATIVE>Water on the floor by the lobby table in front of her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Marta!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>MARTA</Scene Heading>
+
+<NARRATIVE>hurries from the kitchen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>Is this you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. FRONT GARDEN, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>Marta dashes to the kitchen.</NARRATIVE>
+
+<NARRATIVE>Hedwig catches her breath and gathers her thoughts.</NARRATIVE>
+
+<NARRATIVE>Hedwig walks purposefully down the front path to the gate. She opens it, crosses the road, then takes the wooden steps down to the river.</NARRATIVE>
+
+<Scene Heading>EXT. RIVER BANK, AUSCHWITZ - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf stands on the bank with Hans's and Inge-Brigit's sodden sandals next to him. The canoe is moored to a small jetty nearby.</NARRATIVE>
+
+<NARRATIVE>Hedwig arrives, goes over, and stands next to him, folding her arms and looking around.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Why are they moving you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Structural changes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>What does that mean?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>They haven't been specific. But I'm not the only one being moved. There are lots of us.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE>When?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance Soon.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig and Rudolf are in a conversation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>How soon?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I'm waiting to be told.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A conversation about an investigation is ongoing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>If it's to do with the investigation, they should speak to Himmler. He encouraged us.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(shaking his head)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>So it's not that?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>It's politics.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Then go to Hitler.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf is hesitant.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Don't be ridiculous.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Why not? You're the one who actually carries out his orders. Once you peel away all the layers.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>We have to face facts. We have to leave.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>You have to leave.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Well.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(gobsmacked)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Well, well.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE> Your work is in Oranienburg now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>I'll do that from here thank you very much.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>I never thought that you wouldn't be with me. Never crossed my mind.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE>(defiant)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>They'd have to carry me out of here.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>This is our home. We're living how we dreamed we would. Since we were seventeen. Beyond how we dreamed. Out of the city finally. Everything we want. On our doorstep. And our children strong and healthy and happy.</Utterance>
+</Turn>
+
+<NARRATIVE>Everything the Führer said about how we should live is exactly how we do. Drive East. Lebensraum. Here it is.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(tears in her eyes)</Utterance>
+<Utterance>I know you agree with me. Arthur can find somewhere else to live. You should make it a condition. It's the least they can do. He'll want a townhouse anyway. Rudi?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>Yes, I heard you.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE>(So)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>So?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>I'll, I'll ask, I'll speak to Pohl.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE>You'll be working all the time.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>Yes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>HEDWIG</Scene Heading>
+
+<NARRATIVE>We'd never see you.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>I'll miss you of course. But you'll come home when you can.</Utterance>
+<Parenthetical>(puts her hand to her heart)</Parenthetical>
+<Utterance>I'll be with you. Just like you'll be with me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>And after the war, we'll farm. Like we said.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They both say nothing. Stare into the fast-flowing river instead.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG (CONT'D)</Character_Name>
+<Utterance>And after the war, we'll farm. Like we said.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They pick up the sandals and walk back to the steps together.</NARRATIVE>
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - DUSK</Scene Heading>
+
+<NARRATIVE>Linna, left dozing, wakes in her deckchair to find the swimming party over. The guests have all gone and the staff have cleared up around her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANIELA/MARTA (O.S.)</Character_Name>
+<Parenthetical>(bringing crockery back to the house)</Parenthetical>
+<Utterance>No dialogue provided.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aniela and Marta are up by the gazebo bringing the last of the crockery back to the house. Linna takes in the peace and quiet of the garden. And a tall single arc of black smoke drifting, phantom-like, across the late-afternoon sky, high above the wall.</NARRATIVE>
+
+<NARRATIVE>She rises. Unnerved by it. Then turns and walks back to the house.</NARRATIVE>
+
+<Scene Heading>RUDOLF'S VOICE (O.S.)</Scene Heading>
+
+<NARRATIVE>Do you all understand?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS/HEIDERAUD/HAN/INGE-BRIGIT (O.S.)</Character_Name>
+<Voice>VOICES (O.S.)</Voice>
+<Utterance>No dialogue provided.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Revision 41.</NARRATIVE>
+
+Here's the annotated script in the required format:
+
+<Scene Heading>INT. DINING ROOM WINDOW, HÖSS VILLA - EVENING</Scene Heading>
+
+<NARRATIVE>The Höss family are sat at a dinner of turtle soup. Rudolf at the head of the table. Hedwig stood behind him. Her arm resting on the back of his chair.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>So, I'll be missing Hans's birthday. And maybe even our anniversary. Depending on how long I'll be gone. So, those are some of the things that definitely add to the struggle. But the life we enjoy is very much worth the sacrifice.</Utterance>
+</Turn>
+
+<NARRATIVE>Sullen faces all round. A pregnant pause.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEIWIG</Character_Name>
+<Utterance>It's time for bed.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Murmurs as the family rise from the table and start to clear up.</NARRATIVE>
+
+<Scene Heading>INT. GIRL'S BEDROOM, HÖSS VILLA - NIGHT, LATER</Scene Heading>
+
+<NARRATIVE>Heideraud is asleep in her bed. Inge-Brigit is absent. A flickering red light dapples the walls.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Linna</Character_Name>
+<Utterance>(thought)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Faint sound of crying baby above...</NARRATIVE>
+
+<Scene Heading>INT. ELFRYDA'S ATTIC ROOM, HÖSS VILLA, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Which is loud in Elfryda's room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Elfryda</Character_Name>
+<Utterance>(to herself)</Utterance>
+</Turn>
+
+<NARRATIVE>She is sat, blind drunk, in her nightdress on the edge of her bed, pouring from a bottle of vodka. Anesthetizing herself.</NARRATIVE>
+
+<Scene Heading>...</Scene Heading>
+
+(Note: There's no clear scene heading for scene 65, which seems to be missing. I've added it as a placeholder.)
+
+<Scene Heading>EXT. WINDOW, GIRLS BEDROOM, HÖSS VILLA, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A girl's bedroom somewhere in <Location>Höss Villa</Location>. We look back at <Character_Name>LINNA</Character_Name>, in her nightgown, through glass, the distant red flames of the crematorium chimney reflected in the glass.</NARRATIVE>
+
+<NARRATIVE>Linna looks at it quickly, then lets the curtain drop.</NARRATIVE>
+
+<Scene Heading>INT. GIRL'S BEDROOM, HÖSS VILLA, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Linna is by the now-shaded window, looking down pensively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LINNA</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>BOYS' BEDROOM, HÖSS VILLA, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hans, in bed, holds his torch out, making shadow shapes in its beam with the other hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. MASTER BEDROOM, HÖSS VILLA, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig lies in bed, fast asleep. Undisturbed by hellish sounds from the camp.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. STABLES AUSCHWITZ - NIGHT, LATER</Scene Heading>
+
+<NARRATIVE>Alone, in the dark quiet of the stables, Rudolf, wearing white trousers and shirt, stands in his horse Merer's stall feeding her carrots.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+<Parenthetical>(to <Location>Merer</Location>)</Parenthetical>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf feeds Merer more carrots.</NARRATIVE>
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> stands in silence, looking at his horse.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. RUDOLF'S OFFICE, COMMANDANT BUILDING AUSCHWITZ - NIGHT</Scene Heading>
+
+<NARRATIVE>Rudolf stands by his desk holding a phone receiver to his ear.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(into phone to his adjutant)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Call Walter Durrfeld first thing and see if he can join us at selection.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Tell him they're Dutch and he can have his pick.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Otherwise I'll see him at the IG lunch.</Utterence>
+</Turn>
+
+<NARRATIVE>Rudolf begins to pace around his desk holding the phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(dictating)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Letter to Kurt Prufer and Fritz Sander, Topf and Sons.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He continues pacing around his desk.</NARRATIVE>
+
+<Scene Heading>INT. RUDOLF'S OFFICE, COMMANDANT BUILDING AUSCHWITZ - LATER</Scene Heading>
+
+<NARRATIVE>Rudolf is sitting at his desk, writing a letter.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He begins to read over what he has written.</NARRATIVE>
+
+<Scene Heading>CLOSE ON RUDOLF'S HAND AS HE HOLDS IT OVER THE PAPER</Scene Heading>
+
+<NARRATIVE>She munches and listens and breaths on her master's hand as he tells her all about it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(to the dog) Good girl. There you go.. There you go.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>It'll be hard for you too. I know that.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Don't you think I know that?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>I know that. I love you my girl.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Yes I do.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RUDOLF (CONT'D)</Scene Heading>
+
+<NARRATIVE>Subject. Ring Crematorium.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I'm glad you were able to make the journey.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>He stops by a window, places the phone on the sill, raises the blind. Outside he can see his back garden over the camp wall, the greenhouse in the background.</Utterance>
+<Parenthetical>(action)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>SS-Obersturmbannführer Bischoff and I both agree the ring crematorium is definitely the answer.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>He peers to the right, in the direction of the family house. He pulls the blind down.</Utterance>
+<Parenthetical>(action)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>What a difference it will make.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>He drops the blind.</Utterance>
+<Parenthetical>(action)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Bravo.</Utterance>
+</Turn>
+
+<NARRATIVE>A beat passes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I welcome your suggestion that the design should be patented in order to secure priority.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>He leans on the front of his desk.</Utterance>
+<Parenthetical>(action)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat passes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I welcome your suggestion that the design should be patented in order to secure priority.</Utterance>
+</Turn>
+
+<NARRATIVE>He leans on the front of his desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>No further dialogue is spoken.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. RUDOLF'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A man, <Character_Name>Rudolf</Character_Name>, sits at a desk, talking on the phone.</NARRATIVE>
+
+<NARRATIVE>Rudolf indicates that he will be sending a letter of intent to someone off-screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I will follow up with a letter of intent.</Utterance>
+</Turn>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>You should be aware I've been promoted to Deputy Inspector of Concentration Camps at the IKL.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A light double tap on his office door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(towards the door)</Parenthetical>
+<Utterance>Come.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The door is opened by a redheaded woman, (30's), wearing civilian clothes.</NARRATIVE>
+
+<NARRATIVE>Rudolf points her matter-of-factly to the seating area at the far end. She sits.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(Back into the phone)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>And there future communications will be from Oranienberg-Berlin.</Utterance>
+</Turn>
+
+<NARRATIVE>The Redheaded Woman starts to take off her shoes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(Continuing on the phone) The focus there is now on labour.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>This direction will affect our plans, and although it may seem counterintuitive...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(Continuing on the phone) And although it will affect our plans...</Utterance>
+</Turn>
+
+<NARRATIVE>Matter-of-factly.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A Nazi officer's office, likely Auschwitz.</NARRATIVE>
+
+<NARRATIVE>Rudolf, a high-ranking Nazi official, sits at his desk, dictating a letter to his adjutant as he walks into view.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Letter to Gruppenführer Glücks, IKL. Subject: Transfer.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf stops walking and continues dictating the letter as he pauses a few feet away from his desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Dear Gruppenführer Glücks, I would like my family to remain at 88 Bielitzstrasse, KL Auschwitz for the duration of my transfer.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf seems preoccupied with his thoughts as he continues dictating the letter.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Revision 45.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf's adjutant is out of frame, but we hear his voice as he acknowledges the instructions.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Heil Hitler et cetera.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf hangs up the phone and keeps a lustful eye on a woman, now barefoot, who is sitting in the corner of the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>What are you doing here?</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf walks slowly over to the woman, his movements lascivious and deliberate.</NARRATIVE>
+
+<NARRATIVE>The camera pans out as Rudolf approaches the woman, showing the dimly lit office.</NARRATIVE>
+
+<Scene Heading>INT. BASEMENT TUNNEL - NIGHT, LATER</Scene Heading>
+
+<NARRATIVE>A faint, pin prick of light approaches through the darkness as Rudolf lurches in his white suit down a long, underground tunnel from the camp.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>He walks slowly and deliberately through the tunnel, dictating another letter to his adjutant as he goes.</Utterance>
+</Turn>
+
+<NARRATIVE>The camera follows Rudolf as he continues down the tunnel, the only sound being his voice and footsteps echoing off the walls.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BASEMENT, HÖSS VILLA, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A man continues his dictation as he emerges through a door in the mouth of the tunnel and into the basement of the Höss house.</NARRATIVE>
+
+<NARRATIVE>The room is dimly lit, with grey-white clammy skin on the walls. The man locks the door behind him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>It would be a great favour to me for this to be permitted.</Utterance>
+</Turn>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>I must stress what a wonderful environment Hedwig is making for the children since settling here...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The man lights a kerosene lamp and walks over to the laundry sink with it.</NARRATIVE>
+
+<NARRATIVE>He turns on the taps.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>An inspiration in many ways for our new German community in the East...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The man undoes his belt and his trousers fall to the floor.</NARRATIVE>
+
+<NARRATIVE>He pulls his underpants down to his knees.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>If this is acceptable, provision of a simple lodging for myself in Oranienburg will suffice. I would be very grateful for a speedy answer.</Utterance>
+</Turn>
+
+<NARRATIVE>He adds <Character_Name>Rudolf's Voice (O.S.)</Character_Name> Heil Hitler, et cetera.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The man plunges his hands in the sink and scrubs them.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. MASTER BEDROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig lies in bed fast asleep, next to Rudolf's still-made empty bed.</NARRATIVE>
+
+<Scene Heading>INT. BASEMENT, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf does up his trousers, and pushes his hair into shape in the mirror.</NARRATIVE>
+
+<Scene Heading>INT. HALL, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>Rudolf, dressed now, emerges from the basement. He turns a light on, to find Inge-Brigit sleepwalking in the pantry, gazing at nothing in particular.</NARRATIVE>
+
+<Scene Heading>INT. PANTRY, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>He picks her up gently and walks to the corridor, her hands instinctively holding onto her father's back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Rudolf</Character_Name>
+<Utterence>Sshh.</Utterance>
+</Turn>
+<Dialog Character_Name>Inge-Brigit</Character_Name>
+<Parenthetical>(half-asleep)</Parenthetical>
+<Utterence>Sweaty.</Utterance>
+</Dialogue>
+
+<Scene Heading>EXT. ORCHARD, BRZESZCZE - NIGHT (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>THERMAL NIGHT VISION: No light outside. The open mouth of a sack flat on the ground strewn with pears.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(no character specified)</Character_Name>
+<Utterence>A couple more are thrown in.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. ORCHARD/CONSTRUCTION SITE, BRZESZCZE - NIGHT</Scene Heading>
+
+<NARRATIVE>A Polish Girl, ALEKSANDRA, is throwing low-hanging pears she's gathered from a tree.</NARRATIVE>
+
+<NARRATIVE>We hear RUDOLF'S VOICE (O.S.) reading Hansel & Gretel to Inge-Brigit throughout the scene.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(reading) The little snow white bird flew down and sang, "Be warned, be warned."</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aleksandra walks up past an SS warning sign in German and Polish.</NARRATIVE>
+
+<NARRATIVE>The sign reads: 'Camp area KL Auschwitz/ Entry is forbidden! Violators will be shot on sight! / The Camp Commandant.'</NARRATIVE>
+
+<NARRATIVE>Aleksandra disregards the warning sign as she carries a now bulging sack of pears over her shoulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(reading) Gretel understood what the witch had in mind.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Aleksandra walks onto the black slag of an empty construction site.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. WORKCAMP - DAY</Scene Heading>
+
+<NARRATIVE> A workcamp somewhere, likely Germany during the war or industrial era. There are several large machines on the far side of the area.</NARRATIVE>
+
+<NARRATIVE> RUDOLF'S VOICE (O.S.) is heard throughout this scene, narrating a story to Gretel and Hansel about a witch who was punished for her deeds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>And said, "Please show me first, I don't know how to do that."</Utterence>
+</Turn>
+
+<NARRATIVE>The camera pans down to reveal GRETEL pushing a witch into an oven. The witch is carrying a sack of pears.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterence>The witch sat on the shovel and Gretel pushed her into the oven, as deep as she could.</Utterence>
+</Turn>
+
+<NARRATIVE>Then she closed the iron door of the oven and secured it with a bar. The camera cuts to GRETEL looking misshapen by the sack of pears she's carrying.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterence>The witch got cooked alive as a punishment for her horrible deeds.</Utterence>
+</Turn>
+
+<NARRATIVE> The camera pans out to reveal GRETEL's tiny figure walking down towards the machinery on the far side of the workcamp.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Gretel ran straight to Hansel, unlocked the goose cage and let him out.</Utterence>
+</Turn>
+
+<NARRATIVE>Hansel jumps out of the goose cage and throws his arms around Gretel's neck. They kiss one another and thank God.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterence>They kissed one another, cried with joy, and thanked God.</Utterence>
+</Turn>
+
+<NARRATIVE>The little white bird sings "Pearls and gems for bread crumbs". GRETEL dips down out of sight into a deep trench.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterence>Pearls and gems for bread crumbs.</Utterence>
+</Turn>
+
+Here is the annotated script:
+
+<Scene Heading>END THERMAL NIGHT VISION:</Scene Heading>
+
+<NARRATIVE>Rudolf is unbuttoning his white shirt, undressing for bed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn/>
+</DIALOGUE>
+
+<Scene Heading>EXT. CONSTRUCTION SITE, BRZESZCZE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>THERMAL NIGHT VISION:</NARRATIVE>
+
+<NARRATIVE>Aleksandra pauses every few yards to deposit pears in the earth near the spades planted in the ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ALEKSANDRA</Character_Name>
+<Utterence>(to herself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As she does so, she spots a small, circular tin can pressed into the earth.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ALEKSANDRA</Character_Name>
+<Utterence>(to herself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She removes it and opens the lid. Peers inside.</NARRATIVE>
+
+<NARRATIVE>We see a sheet of paper tightly folded-up lengthwise coiled inside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn/>
+</DIALOGUE>
+
+<NARRATIVE>Aleksandra closes the can, puts it in her bag, and leaves a pear in its place, before continuing.</NARRATIVE>
+
+<Scene Heading>EXT. COUNTRY ROADSIDE, BRZESZCZE - LATER</Scene Heading>
+
+<NARRATIVE>Aleksandra is stock still astride a bicycle set furtively back from the road among trees. She's looking intently out from her hiding place at two SS MEN, and a huge pig, passing nearby.</NARRATIVE>
+
+<DIALOGUE>
+<Turn/>
+</DIALOGUE>
+
+<NARRATIVE>She waits for her moment, then cycles silently across the street and drops down into another.</NARRATIVE>
+
+<Scene Heading>EXT. BACK-STREETS, BRZESZCZE OUTSKIRTS - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>Aleksandra is moving cautiously through the back-streets.</NARRATIVE>
+
+<DIALOGUE>
+<Turn/>
+</DIALOGUE>
+
+<NARRATIVE>She turns to glance around a corner and disappears from view.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>EXT. ALEKSANDRA'S STREET, BRZESZCZE OUTSKIRTS - SHORT WHILE</Scene Heading>
+
+<NARRATIVE>Aleksandra turns onto a narrow track and freewheels down it towards the houses below.</NARRATIVE>
+
+<NARRATIVE She stops at the bottom, dismounts, then pushes her bicycle through a back yard.</NARRATIVE>
+
+<Scene Heading>EXT. ALEKSANDRA'S STREET, BRZESZCZE OUTSKIRTS - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE She rests it at the back of her apartment building, walks down the side passage, skips up the front steps and hurries inside.</NARRATIVE>
+
+<NARRATIVE THERMAL NIGHT VISION ENDS:</NARRATIVE>
+
+<Scene Heading>INT. HALLWAY, ALEKSANDRA'S APARTMENT BUILDING, BRZESZCZE - MOMENTS LATER</Scene Heading>
+
+<NARRATIVE A woman, her mother WANDA (40's) opens the door for Aleksandra.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WANDA</Character_Name>
+<Utterance>(in Polish)</Utterance>
+<Parenthetical>(speaking to Aleksandra)</Parenthetical>
+<Utterance>Here you are at last.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. LIVING ROOM, ALEKSANDRA'S APARTMENT, BRZESZCZE - LATER</Scene Heading>
+
+<NARRATIVE Wanda is sat embroidering by kerosene light. In the background Aleksandra is asleep in a bedroom.</NARRATIVE>
+
+<NARRATIVE Then the smell comes. Foul. Overpowering. Wanda stands and hurries to the curtained living room windows, which overlook the street.</NARRATIVE>
+
+<Scene Heading>EXT. STREET - NIGHT</Scene Heading>
+
+<NARRATIVE> Aleksandra stands at an open window, drawing something on paper. 
+She draws them, revealing an open window, and through it in the distant night sky blazing crematorium chimneys. The sound of wind gusting.</NARRATIVE>
+
+<NARRATIVE> She shuts the window, re-draws the curtains, and goes into...</NARRATIVE>
+
+<Scene Heading>INT. ALEKSANDRA'S BEDROOM, APARTMENT, BRZESZCZE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE> The kerosene reading light from Aleksandra's bedside table flickers in the draft. Wanda hurries over to the open bedroom window, where the same view is glimpsed, and closes that too.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JOSEPH WULF</Character_Name>
+<Utterence>(in Yiddish)</Utterence>
+</Turn>
+
+<NARRATIVE> Over this we hear a real archive recording of a MAN'S VOICE, JOSEPH WULF speaking in Yiddish </NARRATIVE>
+
+<NARRATIVE> Words by Joseph Wulf. Written in 1943 in Owicim, Auschwitz III.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JOSEPH WULF</Character_Name>
+<Utterence>(in Yiddish)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Wanda turns, stands with her back to the window looking at Aleksandra who hasn't stirred. The kerosene lamp on her bedside table no longer flickers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WANDA</Character_Name>
+<Utterence>(actions: removing light)</Utterence>
+</Turn>
+
+<NARRATIVE> Wanda goes to remove the light, and next to it in on the table we see the now-unfolded piece of paper by the empty tin which Aleksandra found at the construction site that night.</NARRATIVE>
+
+<NARRATIVE> The sheet is still holding the creases from its lengthwise folds, but we can make out pencil hand-drawn musical notation on it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WANDA</Character_Name>
+<Utterence>(actions: taking away light)</Utterence>
+</Turn>
+
+<NARRATIVE> Wanda takes away the light, leaving us in darkness for a moment...</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CORRIDOR, ALEKSANDRA'S APARTMENT - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A corridor somewhere in <Location>Breszczze</Location>. <Character_Name>Wanda</Character_Name> carries a light and walks upstairs.</NARRATIVE>
+
+<Scene Heading>INT. 2ND FLOOR LANDING, ALEKSANDRA'S APARTMENT - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Wanda opens a door to the balcony.</NARRATIVE>
+
+<Scene Heading>EXT. BALCONY, ALEKSANDRA'S APARTMENT, BRZESZCZE - SAME</Scene Heading>
+
+<NARRATIVE>THERMAL NIGHT VISION: Shutters clatter in the wind out here as <Character_Name>Wanda</Character_Name> emerges and hurriedly rescues washing on the line from swirling ash, putting it into a basket.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Human bodies</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Young and old</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>And we</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Who are imprisoned here</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Our hearts</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NARRATOR</Character_Name>
+<Utterance>Are not yet cold</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>PRE LAP: Very tentatively played piano notes.</NARRATIVE>
+
+<NARRATIVE>And then words - Joseph Wulf's unsung lyrics to his song - appear on screen, in gold letters. The words appear on screen synchronized exactly with the piano notes as they are played. And they fade away as the note decays.</NARRATIVE>
+
+<NARRATIVE>NB: the words should be written in the language of the territory the film is showing in.</NARRATIVE>
+
+<Scene Heading>INT. LIVING ROOM, OLUSIA'S APARTMENT, OWICIM - DAWN</Scene Heading>
+
+<NARRATIVE>Aleksandra's hand is on a piano keyboard playing the notes we are hearing.</NARRATIVE>
+
+<NARRATIVE>She is sitting at a piano in the living room sight-reading the hand-drawn music written on the paper she found, which rests on the music rack, still curling from its folds.</NARRATIVE>
+
+<NARRATIVE>Opened out on the music rack is the paper from inside the tin can she found buried and she is tentatively playing the notes she is sight-reading</NARRATIVE>
+
+<NARRATIVE>Softly the prisoner-composed melody fills the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Aleksandra</Character_Name>
+<Utterence>(singing)
+Soul afire
+Like the blazing sun
+Tearing, breaking through their pain</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Aleksandra</Character_Name>
+<Utterence>(singing)
+Revision 51.</Utterence>
+</Turn>
+
+<NARRATIVE>Aleksandra finishes sight-reading the music on the paper.</NARRATIVE>
+
+<Scene Heading>INT. LOBBY, HÖSS VILLA - MORNING</Scene Heading>
+
+<NARRATIVE>The four eldest Höss children, dressed for school, are buttoning up their coats.</NARRATIVE>
+
+<NARRATIVE>Elfryda stands by the open front door holding their satchels.</NARRATIVE>
+
+<NARRATIVE>Shwarzer is waiting outside to drive them.</NARRATIVE>
+
+<NARRATIVE>As each of the children pass on their way out, they reach up, straight-armed, and she hooks their satchel onto it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Elfryda</Character_Name>
+<Utterence>(silently)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Each of the children say nothing as they leave with Shwarzer.</NARRATIVE>
+
+<NARRATIVE>The camera lingers on Elfryda, still standing by the door.</NARRATIVE>
+
+<NARRATIVE>Elfryda looks down at her hands, then back up, before exiting the lobby and disappearing from view.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. DINING ROOM, HÖSS VILLA - MORNING</Scene Heading>
+
+<NARRATIVE>A daily practice designed to inculcate the correct Nazi salute.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Utterance>Have a nice day at school.</Utterance>
+<Parenthetical>(to Claus)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Utterance>Have a nice day...</Utterance>
+<Parenthetical>(to Inge-Brigit)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Utterance>Have a nice day...</Utterance>
+<Parenthetical>(to Hans)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig is sat at the dining table, leans forward to better smell her pike and potatoes. Two place settings; one for her, one for Linna opposite.</NARRATIVE>
+
+<Scene Heading>INT. HALL, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A little time passes. Then she gets up. Goes to the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>(calling up the stairs)</Utterance>
+<Parenthetical>Have a nice day...</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HALL, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Sophie appears at the top of the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Utterance>She's not here. And her case has gone.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. GIRLS' BEDROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig skips upstairs. Sophie walks down.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Mum?</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>Hedwig enters the girls bedroom.</Scene Heading>
+
+<NARRATIVE>Linna's case is gone and the bed's been made.</NARRATIVE>
+
+<Location>Höss Villa</Location>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Did she leave a note?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Utterance>I don't know.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Parenthetical>(frustrated)</Parenthetical>
+<Utterance>Well, have you looked?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SOPHIE</Character_Name>
+<Utterance>Well, no. I hadn't thought to.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig walks to the lobby.</NARRATIVE>
+
+<Scene Heading>INT. LOBBY, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Is there anything there?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hedwig goes to the lobby table.</NARRATIVE>
+
+<NARRATIVE>There is. A folded paper, with `Hedwig Höss' written on it, tucked into the corner of the guest book.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>She unfolded it. Stands there reading. Then re-folds it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Opens the front door. Looks out. Walks back to the dining room with the note.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. DINING ROOM, HÖSS VILLA - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Hedwig enters, throws the note into the wood-fired ceramic heater. Then plonks herself down in the chair.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Aniela!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. KITCHEN - DAY</Scene Heading>
+
+<NARRATIVE>Aniela enters from the kitchen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Take it away.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANIELA</Character_Name>
+<Parenthetical>(perplexed)</Parenthetical>
+<Utterence>No, Mrs. Höss?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>I could have my husband spread your ashes across the fields of Babice.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> </NARRATIVE>
+
+<Scene Heading>INT. BATHROOM, HÖSS VILLA - LATER</Scene Heading>
+
+<NARRATIVE>Hedwig is stretched out in the bathtub.</NARRATIVE>
+
+<Scene Heading>EXT. OPEN COUNTRY, AUSCHWITZ REGION - DAY</Scene Heading>
+
+<NARRATIVE>Rudolf and Claus trot along the edge of a field, then drop down onto lower ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Relax. Let her find it.</Utterance>
+</Turn>
+
+<NARRATIVE>They trot past strip fields where Polish farm LABOURERS are working. Bonfire smoke washes over the landscape.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - DAY, LATER</Scene Heading>
+
+<NARRATIVE> The scene is set at <Location>The Höss Villa's back garden</Location>, where <Character_Name>ELFRYDA</Character_Name>, <Character_Name>HEIDERAUD</Character_Name>, and <Character_Name>INGE-BRIGIT</Character_Name> are sitting at a patio table.</NARRATIVE>
+
+<NARRATIVE> The girls are immortalizing flowers by pressing them into flower presses.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Utterence>It has a great name. It's girl's eye, or tickseed.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HEIDERAUD</Character_Name>
+<Utterance><Parenthetical>(skeptical)</Parenthetical>Girl's eye?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ELFRYDA</Character_Name>
+<Utterence>Girl's eye, yes. I guess that's because of its serrated petals.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf rides into the scene with Merer on horseback, and they canter across the landscape.</NARRATIVE>
+
+<Scene Heading>EXT. LANDSCAPE - DAY</Scene Heading>
+
+<NARRATIVE>The horses are galloping freely as Rudolf digs his heels into Merer's flanks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Inspecting their camps, seeing where improvements can be made. Their yield, that kind of thing.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera pulls back as Rudolf rides further away from the scene.</NARRATIVE>
+
+<Scene Heading>EXT. BACK GARDEN, HÖSS VILLA - DAY, LATER (CONT'D)</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(CONT'D) Are you not going to be a commandant anymore?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence> I'll be head of all the commandants.</Utterance>
+<Parenthetical>(MORE)</Parenthetical>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterence>Inspecting their camps, seeing where improvements can be made. Their yield, that kind of thing.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts back to the girls at the patio table, who are still pressing flowers into flower presses.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterence>Revision 54.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. GREENHOUSE, TOP GARDEN, HÖSS VILLA - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>A KAPO, BÖHNER (30's), is repairing the greenhouse roof with wooden planks he's carrying from inside, under Hedwig's supervision.</NARRATIVE>
+
+<Location>Höss Villa, Germany (short while later)</Location>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOEHNER</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Hedwig walks into the greenhouse.</NARRATIVE>
+
+<Scene Heading>INT. GREENHOUSE, TOP GARDEN, HÖSS VILLA - MOMENTS LATER</Scene Heading>
+
+<NARRATIVE>Hedwig leans against a shelf surrounded by big green leaves from potted plants and small shrubs. Smoking a cigarette now. Her smoker's corner.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Böhner comes back in for another plank. Hedwig offers him a cigarette from her pack, and her lighter, which he takes and lights.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOEHNER</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Hedwig watches him smoke, and he her.</NARRATIVE>
+
+<Scene Heading>INT. BOYS' BEDROOM, HÖSS VILLA - LATER</Scene Heading>
+
+<NARRATIVE>Hans sits on the rug playing with dice and soldiers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Outside the bedroom window, the voice of Rudolf yelling can be heard. He's still on his horse as we can hear its clip clopping. And the sound of prisoners being marched into the camp. A returning work unit, with accompanying guards and Kapos.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterance>...</Utterance>
+</Turn>
+
+<NARRATIVE>Hans take notice of the sound.</NARRATIVE>
+
+<Note>A returning work unit with prisoners, accompanied by guards and Kapos.</Note>
+
+<Scene Heading>EXT. PRISON YARD - DAY</Scene Heading>
+
+<NARRATIVE>A prison yard somewhere, presumably <Location>Germany</Location>, during <Location>World War II</Location>. We hear RUDOLF'S VOICE (O.S.) shouting aggressively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>You there! Guard! Bring him here!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hans gets up and starts to move towards the window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>(shouting)</Utterance>
+<Utterance>What's he done?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SS GUARD'S VOICE (O.S.)</Character_Name>
+<Utterance>Fighting over an apple, Commandant.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hans pulls back the net curtain and we see for the first time the PRISONER outside struggling.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>(shouting)</Utterance>
+<Utterance>Drown him in the river!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hans quickly pushes it back. The sound of agony outside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SS GUARD'S VOICE (O.S.)</Character_Name>
+<Utterance>(shouting)</Utterance>
+<Utterance>Come!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Parenthetical>(under his breath to himself)</Parenthetical>
+<Utterance>Don't do that again.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cut to <Location>Garden, Hoss Villa</Location> - Day and Continuous.</NARRATIVE>
+
+<Scene Heading>EXT. GARDEN, HOSS VILLA - DAY, CONTINUOUS</Scene Heading>
+
+<Scene Heading>A Prisoner Gardener scatters human ash and ground bones as</Scene Heading>
+
+<NARRATIVE>fertilizer on the garden by the camp wall.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Move it! I don't care!</Utterance>
+</Turn>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Move it! Get out!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Close on the Prisoner Gardener's fork turning ash and bone into clods of garden soil.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.) (CONT'D)</Character_Name>
+<Utterance>Are you going to stand there trembling? Something to say?!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf walks through frame - winter coat, gloves, briefcase - then stops and turns to the bandstand for a while to enjoy.</NARRATIVE>
+
+<Scene Heading>EXT. BANDSTAND, TOWN PARK, ORANIENBURG - MORNING, WINTER</Scene Heading>
+
+<NARRATIVE>A GERMAN VETERAN MILITARY BRASS BAND dressed in winter coats, hats and boots.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONDUCTOR</Character_Name>
+<Utterance>(as he swings his arms and launches them into a bouncy traditional march)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>We look the other way at a city park covered in snow, below a grey sky. SS OFFICERS WITH BRIEFCASES walking to work and CIVILIANS, all dressed for the cold, pass by.</NARRATIVE>
+
+<Scene Heading>EXT. PARK - DAY</Scene Heading>
+
+<NARRATIVE> A snow-covered park with mostly empty benches facing a bandstand where <Character_Name>RUDOLF</Character_Name> is walking towards us.</NARRATIVE>
+
+<NARRATIVE> Three of the benches have TWO BADLY WAR-WOUNDED VETERANS (40's) in balaclavas and uniform, watching the concert, and a PORTLY CIVILIAN MAN (50's) reading the paper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance> Hello.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf stops to ask <Character_Name>WOMAN</Character_Name>, who is walking a MINIATURE SCHNAUZER, about her dog. She stops.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>You're lovely. Yes you are.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf bends down to pat the dog.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Male or female? What's their name?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The woman answers, but dialogue is improvised.</NARRATIVE>
+
+<NARRATIVE>Rudolf continues his conversation with the woman.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>You don't see so many with this coloring.</Utterance>
+</Turn>
+
+<NARRATIVE>The woman talks about that, but dialogue is improvised.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> continues walking as the conversation fades into the background.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CORRIDOR, CONCENTRATION CAMPS INSPECTORATE (CCI), ORANIENBURG, NEAR BERLIN - DAY</Scene Heading>
+
+<NARRATIVE>A corporate office building white corridor. In the foreground TWO SS OFFICERS stand by the open double doors of a large office.</NARRATIVE>
+
+<NARRATIVE>The tannoy announcement continues in the background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MALE CCI TANNOY ANNOUNCER (O.S.)</Character_Name>
+<Utterance>On Sunday at 19h there will be a benefit concert at the Marksmen's Club to raise money for War Winter Relief.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MALE CCI TANNOY ANNOUNCER (O.S.)</Character_Name>
+<Utterance>..Junior Squad Leader Johann Thissen will conduct the orchestra.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A GROUP OF CONCENTRATION CAMP COMMANDANTS approach from one end of the corridor, walking towards the SS OFFICERS.</NARRATIVE>
+
+<Scene Heading>RUDOLF (CONT'D)</Scene Heading>
+
+<NARRATIVE>Rudolf stands in a room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I had a black one when I was little.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf walks away from the camera.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterance>Elsa. Born on the same day I was.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf continues to walk away, disappearing from view.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterance>He's lovely.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera lingers on the empty space where Rudolf was standing.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BOARDROOM, CCI, ORANIENBURG - DAY, CONTINUOUS</Scene Heading>
+
+<NARRATIVE> A boardroom somewhere in <Location>Oranienburg</Location>. An SS waiter wheels out an empty trolley through the doors.</NARRATIVE>
+
+<NARRATIVE> Inside there are coffee pots on an end table, and glasses and water jugs down either side of a boardroom table, around which are twenty empty chairs.</NARRATIVE>
+
+<NARRATIVE> One of HÖSS'S ADJUTANTS is going round placing a file folder in front of each chair, while the other reads aloud from his notebook to Rudolf, who pours himself a coffee, then strolls casually round the table, quality checking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Liebehenschel, Auschwitz I.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Hartjenstein, Auschwitz II / Birkenau.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Schwarz, Auschwitz III / Monowitz.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Haas, Bergen-Belsen.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Pister, Buchenwald.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Weiter, Dachau.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Koegel, Flossenbürg.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Hassebroek, Groß-Rosen.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Grünewald, Herzogenbusch.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT</Character_Name>
+<Utterance> Sporrenberg, Hinzert.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(strolling around the table)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Rudolf continues to stroll around the table, quality checking.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>Goecke, Kauen...</Scene Heading>
+
+<NARRATIVE>As attendees are listed, Rudolf regards a large wall map which shows Germany and the countries under its occupation.</NARRATIVE>
+
+<Location>Germany</Location>
+
+<NARRATIVE>Black stickers denote the location of each concentration camp. From afar, the effect looks plague-like. He sips his coffee.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(silently)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Höss's adjutant speaks from off-screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT (O.S.)</Character_Name>
+<Utterance>...Weiss, Majdanek.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The adjutant continues listing the concentration camps.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT (O.S.)</Character_Name>
+<Utterance>...Ziereis, Mauthausen. Dieter, Moringen. Hartjenstein, Natzweiler-Struthof. Pauly, Neuengamme. Göth, Plaszow.</Utterance>
+</Turn>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT (O.S.)</Character_Name>
+<Utterance>Suhren, Ravensbrück. Kaindl, Sachsenhausen. Werner Hoppe, Stutthof...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CORRIDOR, CCI, ORANIENBURG - DAY, CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Many camp commandants and their adjutants are gathered and chit-chatting while they wait for the meeting to begin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HÖSS'S ADJUTANT (O.S.)</Character_Name>
+<Utterance>...Schnabel, Vaivara. Herbert, Warsaw. Apologies for absence, Förschner, Mittelbau-Dora. Sauer, Riga-Kaiserwald.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene continues with the camp commandants waiting for the meeting to begin.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BOARDROOM, CCI, ORANIENBURG - DAY, SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>The camp commandants are sat either side of the boardroom table.</NARRATIVE>
+
+<NARRATIVE>OBERGRUPPENFÜHRER OSWALD POHL, (50's), is sat commandingly at the centre. SS GRUPPENFÜHRER RICHARD GLÜCKS, (50's), Inspector of Concentration Camps, is sat to his left.</NARRATIVE>
+
+<NARRATIVE>Rudolf is sat at opposite.</NARRATIVE>
+
+<NARRATIVE>COLONEL GERHARD MAURER, (30's), Director of Economic Administration, is sat at one end.</NARRATIVE>
+
+<NARRATIVE>Adjutants, junior SS officials make up a second row behind. A BUSINESSMAN, DR. MEINDL (50s), in a civilian suit and tie, brown Homburg hat on his lap, is sitting by the doors.</NARRATIVE>
+
+<NARRATIVE>Other SS staff can be seen in offices in the far background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>The Führer has approved the deportation of Hungary's seven hundred thousand Jews for extermination and war production where able-bodied. An agreement was reached with the new Hungarian government to begin the action immediately.</Utterance>
+</Turn>
+
+<NARRATIVE>They are being amassed for transportation to Auschwitz. Four trains a day, three thousand in each, twelve thousand daily. Firstly via the Eastern zones, one to three. Then via four and five in the middle of the country, and finally, Budapest. Pressburg and Vienna are heavily loaded with military transports so Jewish transports will pass through Kassa and Muszyna instead.</NARRATIVE>
+
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>Based on estimates provided by</Utterance>
+</Turn>
+
+<NARRATIVE>(refers to his notes)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>No, my dear Oswald. You're getting ahead of yourself.</Utterance>
+</Turn>
+
+<NARRATIVE>POHL glances at GLÜCKS, then continues.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>I am merely stating the facts as we have been informed by HQ.</Utterance>
+</Turn>
+
+<NARRATIVE>Maurer clears his throat and stands up, indicating he wishes to speak.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAURER</Character_Name>
+<Utterance>If I may say so, gentlemen, this is an opportunity for us to demonstrate our efficiency in implementing the Führer's will. We must ensure that every resource is allocated accordingly.</Utterance>
+</Turn>
+
+<NARRATIVE>The room falls silent as the officials consider Maurer's words.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE> Obersturmbahnführer Höss, twenty five percent will be retained for labour after selection. Twenty percent of those will be used in Auschwitz sub camps, and the other eighty per cent will come to your camps in due course.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HOESS</Character_Name>
+<Utterance>The scale is many times larger than we've faced before. So get ready.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>Before I hand over to Obersturmbahnführer Höss, I'd like to announce the promotion of Colonel Maurer to the rank of SS- Standartenführer for consistently hitting his labour targets. Bravo.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The men knock the table as an expression of appreciation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>I get fan mail from CEOs for this man. He's more famous than me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(CONT'D)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAURER</Character_Name>
+<Utterance>Thank you Sir.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>Well deserved.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MAURER</Character_Name>
+<Utterance>As I've said before, I'm grateful for your leadership.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>POHL</Character_Name>
+<Utterance>Thank you. You have said that. I appreciate that.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Pohl signals Rudolf to begin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Thank you Obergruppenführer Pohl. Good morning everyone. Two apologies for absence; Sturmbannführer Förschner - </Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>Mittelbau-Dora</Scene Heading>
+
+<NARRATIVE>A meeting room in Mittelbau-Dora. Sturmbannführer Sauer is standing at a podium, addressing a group of high-ranking officers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>You will appreciate we have a very busy agenda today. The Hungarian action is urgent and complex, and will involve significant and converging challenges at every operational level.</Utterance>
+</Turn>
+
+<NARRATIVE>The commandants open their files.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Please turn to the first page in your files.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The officers begin to flip through their files.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>For item four, `Prisoner workers', Dr. Meindl from Steyr-Damiler-Puch, some of you know him some of you don't, is joining us today to discuss pay rates and incentives.</Utterance>
+</Turn>
+
+<NARRATIVE>Dr. Meindl stands so he can be seen. He waves and sits again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Item five: `fire and air defense measures'. This will effect all camps in the east of the Reich which are now within the range of Allied air raids.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The officers nod, taking notes on their files.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(beat)</Utterance>
+</Turn>
+
+<NARRATIVE>There is a moment of silence as the officers process the information.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>For now, I will turn it over to you, Dr. Meindl.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dr. Meindl steps forward, clearing his throat to begin speaking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. MEINDL</Character_Name>
+<Utterance>We have made significant changes to the pay rates and incentives for prisoner workers in recent months. I believe these changes will greatly improve morale and productivity among our prisoners.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The officers listen intently as Dr. Meindl presents his report.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. TOWN PARK, ORANIENBURG - DUSK</Scene Heading>
+
+<NARRATIVE>Rudolf walks home from work carrying his briefcase through the snowy park, along with OTHER SS OFFICERS.</NARRATIVE>
+
+<NARRATIVE>The camera pans across the snow-covered trees as Rudolf continues on his way.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>Rudolf is silent as he walks home.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BEDROOM, RUDOLF'S LODGING, ORANIENBURG - NIGHT</Scene Heading>
+
+<NARRATIVE>Rudolf on his back in his pyjamas, in bed, head propped on a pillow, but fast asleep.</NARRATIVE>
+
+<NARRATIVE>One arm hangs out over the edge of the bed and work papers are strewn around on the floor, and a pen.</NARRATIVE>
+
+<NARRATIVE>A small bar heater is on at the foot of the bed. A painting of a bird on the wall and a photograph frame on a dresser.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>Rudolf snores softly as he sleeps.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. TOWN PARK, ORANIENBURG - DAY, MORNING</Scene Heading>
+
+<NARRATIVE>Rudolf walks to work through the park again, carrying his briefcase, past the empty bandstand.</NARRATIVE>
+
+<NARRATIVE>OTHER CCI SS STAFF walking to work too, and some NURSES.</NARRATIVE>
+
+<NARRATIVE>In the far background black smoke rises, the aftermath of a night bombing raid on Berlin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>Rudolf is silent as he walks to work.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. RUDOLF'S OFFICE, CCI ORANIENBURG, NEAR BERLIN - DAY</Scene Heading>
+
+<NARRATIVE>Rudolf, in some kind of reverie, stands at his office window.</NARRATIVE>
+
+<NARRATIVE>Typewriters clack away behind him. He's gazing out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>Rudolf remains silent as he stares out the window.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. TOP GARDEN, HÖSS VILLA - DAY</Scene Heading>
+
+<NARRATIVE>The garden is all fallen leaves, frosted paths and bare trees.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence>No one speaks as the camera pans across the garden.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. CCI GARDEN - DAY</Scene Heading>
+
+<NARRATIVE> Winter trees. The pool is frozen over. Snow on the roof of <Location>the guard tower and camp building</Location> behind the garden wall.</NARRATIVE>
+
+<NARRATIVE> Claus and Hans play. Claus holds a wooden club.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterance>(improvised)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HANS</Character_Name>
+<Utterance>(improvised)</Utterance>
+</Turn>
+
+<NARRATIVE> Their play, conversation and scuffle will be improvised.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterance>(catches Hans)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterance>(puts Hans in the greenhouse and locks it behind him)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The crematorium chimney behind the far garden well is belching black smoke into the winter sky.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAUS</Character_Name>
+<Utterance>(makes a gas hissing sound)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Claus goes over to sit on the wall.</NARRATIVE>
+
+<Scene Heading>PRE-LAP: CCI OFFICE TANNOY ANNOUNCEMENT - DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MALE CCI TANNOY ANNOUNCER (O.S.)</Character_Name>
+<Utterance>Saturday's funeral ceremony for the pupils...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. WAITING ROOM, OUTSIDE GLÜCK'S OFFICE, CCI, ORANIENBURG - DAY</Scene Heading>
+
+<NARRATIVE>Rudolf is stood, with SS-Sturmbannführer, WILLHELM BURGER, (40's) sat in a chair. Nearby, an OFFICE ADJUTANT (20's) sits at a reception desk.</NARRATIVE>
+
+<NARRATIVE>The announcement continues above the sound of typewriters from the office beyond, as they wait.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MALE CCI TANNOY ANNOUNCER (O.S.)</Character_Name>
+<Utterance>...of the Air Force School who died...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf and Burger wait.</NARRATIVE>
+
+Note: Some of the improvisational elements in the script are not annotated as they are not clear what the dialogue should be.
+
+Here is the annotated script:
+
+<Scene Heading>INT. RICHARD GLÜCKS OFFICE, CCI, ORANIENBURG - DAY</Scene Heading>
+
+<NARRATIVE>A room in <Location>Camp 1 of Auschwitz-Birkenau</Location>, specifically Richard Glücks' office.</NARRATIVE>
+
+<NARRATIVE>The scene is set to depict a <Location>Hans Schemm School funeral procession</Location> for Rudolf Höss, the commandant of Auschwitz. The event will take place on <Date>March 6th</Date>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS ADJUTANT</Character_Name>
+<Utterance>Obersturmbannführer Höss.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf Höss is referred to in the context of a funeral procession, indicating his recent passing.</NARRATIVE>
+
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>(from the office behind)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterance>(entering the room)</Utterance>
+</Turn>
+
+<NARRATIVE>Glücks Adjutant exits, closing the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>Rudolf. Come on in.</Utterance>
+</Turn>
+
+<NARRATIVE>The scene shifts to show Glücks addressing Rudolf as he enters the office.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS (CONT'D)</Character_Name>
+<Utterance>How are you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The conversation begins, with Glücks inquiring about Rudolf's well-being.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> has just arrived at <Location>Hans Schemm School</Location>, where the funeral procession is to take place.</NARRATIVE>
+
+Here is the annotated script:
+
+
+<Scene Heading>INT. ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Glücks is standing in the middle of the room holding a <Location>telegram</Location>.</NARRATIVE>
+
+<NARRATIVE>Maurer looks up from a sofa in the corner, documents on his lap and in front of him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Good.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Parenthetical>(looking at the telegram)</Parenthetical>
+<Utterence>I've just received this. Obergruppenführer Pohl met with Reichsführer Himmler to assess the numbers involved.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterence>And your name came up.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Okay.</Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf reads it. Absorbs it. Moments pass. Rudolf folds the telegram and looks up at Glücks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterence>We're moving Leibehenschel out of Auschwitz to Madjanek. He's not energetic enough for this.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(a single nod)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterence>You'll receive operational orders from Eichmann.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>Glücks</Location> hands the telegram to <Character_Name>Rudolf</Character_Name>.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>RUDOLF</Scene Heading>
+
+<NARRATIVE>Perfect.</NARRATIVE>
+
+<NARRATIVE>GLÜCKS</NARRATIVE>
+
+<NARRATIVE>You'll tell me what resources you need once you get there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I will.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Revision 64.</NARRATIVE>
+
+<NARRATIVE>GLÜCKS (CONT'D)</NARRATIVE>
+
+<NARRATIVE>Any problems, come to me or Gerhard directly.</NARRATIVE>
+
+<NARRATIVE>Maurer waves from the corner.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>Those are your orders.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Thank you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>GLÜCKS (CONT'D)</NARRATIVE>
+
+<NARRATIVE>How's Hedwig?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Good.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>Obergruppenführer Pohl told me she sends the boss flowers from your garden every week.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RUDOLF (CONT'D)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Yes. When in bloom.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>They shake. Glücks returns to his desk.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>GLÜCKS (CONT'D)</NARRATIVE>
+
+<NARRATIVE>Get the job done.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I will. Thank you. I appreciate the trust and confidence you have in me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(half-bows)</Parenthetical>
+<Utterance>Gentlemen.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>MICKEY KNOX</Character_Name>, his back turned to us, is sitting at the counter finishing his meal.</NARRATIVE>
+
+<NARRATIVE>We hear the PING...BANG... of a pinball machine being played OFF SCREEN.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>And?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MAURER</Character_Name>
+<Utterance>I'm not sure yet.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>Relax. He won't put them all up the chimney. You'll get your workers. You'll see.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mickey turns to leave. Walking a little taller.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLÜCKS</Character_Name>
+<Utterance>(to Maurer)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. SS SURGERY, ORANIENBURG - DAY</Scene Heading>
+
+<NARRATIVE>A white-coated SS DOCTOR is examining <Character_Name>RUDOLF</Character_Name>, mid-medical exam, laying in his underpants, on a gurney in a white doctors office.</NARRATIVE>
+
+<NARRATIVE>The SS Doctor finishes with the stethoscope and moves on to palpation, tapping on the back of his own hand across Rudolf's midriff.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SS DOCTOR</Character_Name>
+<Utterance>(sensing something)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SS DOCTOR</Character_Name>
+<Utterance>Are you sleeping okay?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>No response.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The SS Doctor continues the examination.</NARRATIVE>
+
+<Scene Heading>INT. SS SURGERY - DAY</Scene Heading>
+
+<NARRATIVE>A room somewhere in <Location>CCI, Oranienburg</Location>. The SS Doctor is standing by a table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>How many bowel movements do you have per day?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Doctor begins to examine Rudolf's stomach with his hands.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SS DOCTOR</Character_Name>
+<Utterence>Twice per day.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>Urinating?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SS DOCTOR</Character_Name>
+<Utterence>Without issues.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Doctor continues to examine Rudolf's stomach.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SS DOCTOR</Character_Name>
+<Parenthetical>(to himself)</Parenthetical>
+<Utterence>I'll feel around now. On the surface, first. If there is any pain, then please let me know.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf waits as the Doctor continues his examination.</NARRATIVE>
+
+<Scene Heading>INT. CORRIDOR NEAR SS SURGERY, CCI, ORANIENBURG - LATER</Scene Heading>
+
+<NARRATIVE>A corridor somewhere in <Location>CCI, Oranienburg</Location>. Rudolf comes through a door and approaches a wall-mounted telephone by a main stairwell.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>This is Höss.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf waits on the phone, listening to the operator.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>(beat)</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>RUDOLF (CONT'D)</Scene Heading>
+
+<NARRATIVE>Long-distance priority call, KL</NARRATIVE>
+
+<NARRATIVE>Auschwitz, Höss private residence.</NARRATIVE>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I'll stay on the line.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He waits holding the receiver for the call to be connected. A group of three SS OFFICERS, and a BUSINESSMAN walk up the stairs together in the background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Are you there?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>HEDWIG'S VOICE (O.S.) through the receiver</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>Hello</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Can you talk?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>HEDWIG'S VOICE (O.S.) through the receiver</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>Is everything OK?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+
+<NARRATIVE>(enthused)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I have news. I told you I'd heard rumblings but nothing concrete.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>(through the receiver)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. MEDICAL FACILITY - DAY</Scene Heading>
+
+<NARRATIVE>A medical facility, possibly a hospital or clinic. <Location>Hungary</Location>, likely Budapest.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>That news?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> pauses, awaiting a response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>The Hungary thing.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat in the dialogue, indicating a pause.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>The old man gave me orders from <Location>Heinrich</Location>. It's happening at last.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> expresses relief.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I'm coming back to run it. Well I'm very relieved about that.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A long beat, indicating a pause in the dialogue.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>I have to admit, I'm as pleased as Punch.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>An SS DOCTOR carrying a folder exits through the same door as <Character_Name>Rudolf</Character_Name>.</NARRATIVE>
+
+<NARRATIVE>The scene reveals an SS OFFICER waiting on a bench, and the doctor skips down the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterance>Yes</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat in the dialogue, indicating a pause.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>I don't know. I go to Budapest first. Things will be clearer after that. Anyway my cogs are turning.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Rudolf</Character_Name> indicates he needs to leave.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (CONT'D)</Character_Name>
+<Utterance>I must get on. I'll call you later, after the party..</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene shifts to Hedwig's voice over the phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>(through the receiver)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. COURTYARD, POHL RESIDENCE, BERLIN - NIGHT</Scene Heading>
+
+<NARRATIVE>Rudolf stands alone smoking a Swiss cheroot by a table laden with champagne in ice buckets, glasses, and a centrepiece ice sculpture swastika.</NARRATIVE>
+
+<NARRATIVE>Three SS MEN and a woman in a fur coat chat in a group nearby. HEDWIG'S VOICE (O.S.) CONT'D ...when she receives her parcel, to look in the compact. They're inside.</NARRATIVE>
+
+<NARRATIVE>Rudolf looks preoccupied and stiff. Music from a string quartet leaks from inside the tall windowed doors of the adjoining room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>No, no. Wait please. Tell Eleanor...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He looks at his watch.</NARRATIVE>
+
+<Scene Heading>EXT. COURTYARD, POHL RESIDENCE, BERLIN - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf stubs his cheroot out in a standing ashtray and moves towards the doors.</NARRATIVE>
+
+<Scene Heading>INT. ANTLER ROOM, POHL RESIDENCE, BERLIN - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf enters high walled room covered with antler trophies and an imposing fireplace, through which PARTY GUESTS are still arriving. Some have stopped to watch the string quartet.</NARRATIVE>
+
+<NARRATIVE>White-jacketed waiters with trays pass to and fro.</NARRATIVE>
+
+<Scene Heading>INT. SALON, POHL RESIDENCE, BERLIN - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Nazi dignitaries, SS, army officers, war wounded, veterans...</NARRATIVE>
+
+<NARRATIVE>Rudolf ambles through the salon.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>122</Utterance>
+</Turn>
+
+<NARRATIVE>He looks around at the guests.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence>No, no. Wait please. Tell Eleanor...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera pans across the room as Rudolf disappears into the crowd.</NARRATIVE>
+
+<Scene Heading>IG FARBEN EXECUTIVES, WIVES and other CIVILIANS, of all ages,</Scene Heading>
+
+<NARRATIVE>Uniforms, black tie, evening gowns, mingle.</NARRATIVE>
+
+<Location>Berlin</Location>
+
+<NARRATIVE>WHITE-SUITED WAITERS come and go.</NARRATIVE>
+
+<NARRATIVE>A party in full flow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Rudolf</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>He enters awkwardly. Small groups of party guests in here. Mingling and chatting.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Rudolf</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>He catches the eye of the `lady of the house', ELANOR POHL.</NARRATIVE>
+
+<NARRATIVE>She is surrounded by friends. Respectfully, he goes to greet her. We watch their small-talk from a distance. She seems animated and happy to see him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Rudolf</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Then, with a little servile bow, he excuses himself and meanders away towards the next salon, his eyes darting from group to group, as Elanor Pohl raises a glass to another guest.</NARRATIVE>
+
+<Scene Heading>INT. PIANO ROOM, POHL RESIDENCE, BERLIN - MOMENTS LATER</Scene Heading>
+
+<NARRATIVE>A grand piano plays. Guests pass through to and from the ballroom beyond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Rudolf</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Rudolf is being greeted by Dr Meindl from Steyer-Daimler-Puch, now wearing black tie, with a group of senior SS OFFICERS, including EICHMANN (30's). Drinks and smiles all round.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Eichmann</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>An older SS MAN interrupts and pats Rudolf on the back in congratulation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SS Man</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>After a few moments, Eichmann grabs two champagne glasses from the tray of an SS WAITER. Hands one to Rudolf. Makes a toast.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Eichmann</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. GRAND HALLWAY, POHL RESIDENCE - SHORT WHILE LATER</Scene Heading>
+
+<NARRATIVE>Rudolf, drink-less, makes his way along the hallway, which leads to the huge internal French windows of the ballroom.</NARRATIVE>
+
+<NARRATIVE>He stands looking in, people watching. Then looks up and around at what must be the impressively-high ceiling within.</NARRATIVE>
+
+<NARRATIVE>After a short contemplation of it, he turns around, notices the central stairs behind, and climbs them in search of a better vantage point to observe.</NARRATIVE>
+
+<Scene Heading>INT. STAIRS, POHL RESIDENCE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>He arrives at a landing. It's darker up here, save for blazing chandelier light coming from the ballroom. Tall glass doors open onto a viewing balcony.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A MIDDLE-AGED COUPLE are out there. Rudolf waits his turn.</NARRATIVE>
+
+<Scene Heading>INT. BALCONY, POHL RESIDENCE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Bides his time, hands behind his back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then the middle-aged couple leave and return to the party.</NARRATIVE>
+
+<NARRATIVE>Rudolf walks over to the viewing balcony.</NARRATIVE>
+
+<Scene Heading>INT. BALCONY, POHL RESIDENCE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>He walks out onto it, and peers over the ledge at the ballroom below.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The huge windows of a ballroom. Chandeliers blaze inside. A throng of guests. He surveys them.</NARRATIVE>
+
+<NARRATIVE>Most stand in groups socializing. Others, in the centre, waltz.</NARRATIVE>
+
+<NARRATIVE>He looks up at the gilded ceiling.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CHURCH - DAY</Scene Heading>
+
+<NARRATIVE>A church somewhere in an unspecified location, possibly Germany or Eastern Europe. <Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name> and <Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name> can be heard from off screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>I heard Himmler's calling it Operation Höss.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>That's fantastic. I'm so happy for you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>Than you, Mutzi. It's your name too.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG'S VOICE (O.S.)</Character_Name>
+<Utterance>Who was there?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.)</Character_Name>
+<Utterance>To tell you the truth I wasn't really paying attention.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then at the mass below. Takes it all in. His lips are moving, like he's calculating.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.) (CONT'D)</Character_Name>
+<Utterance>I was too busy thinking how I'd gas everyone in the room. Very difficult, logistically, because of its high ceiling.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then again at the mass below. Takes it all in. His lips are moving, like he's calculating.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF'S VOICE (O.S.) (CONT'D)</Character_Name>
+<Utterance>I heard Himmler's calling it Operation Höss.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. RUDOLF'S OFFICE, HÖSS VILLA - NIGHT (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Hedwig stands by Rudolf's desk holding the phone. She's wearing a winter nightdress, slippers, and her hairs down.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>Well, It's the middle of the night</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF (V.O.)</Character_Name>
+<Utterence>and I need to be in bed.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf is sitting at his desk, speaking on the phone with Hedwig. His feet are up on the window sill. He looks at the snow falling outside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (V.O.)</Character_Name>
+<Utterence>I shouldn't have called so late. I was just excited to tell you the name.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. RUDOLF'S OFFICE, CCI, ORANIENBURG - NIGHT</Scene Heading>
+
+<NARRATIVE>Rudolf is sitting at his desk, speaking on the phone with Hedwig.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterence>You can tell me about it when you're back.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. RUDOLF'S OFFICE, HÖSS VILLA - NIGHT (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Rudolf is still on the phone with Hedwig.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF (V.O.)</Character_Name>
+<Utterence>(beat)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF (V.O.)</Character_Name>
+<Utterence>You have told them Daddy's coming</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the specified XML-like format:
+
+<Scene Heading>INT. RUDOLF'S OFFICE, HÖSS VILLA - NIGHT (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Hedwig speaks on the phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HEDWIG</Character_Name>
+<Utterance>Goodnight.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She hangs up the phone and starts to walk away.</NARRATIVE>
+
+<Scene Heading>INT. RUDOLF'S OFFICE, CCI, ORANIENBURG - NIGHT (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Rudolf hangs up the phone and walks out of his office.</NARRATIVE>
+
+<Scene Heading>INT. HALLWAY, HÖSS VILLA - NIGHT (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Hedwig enters and turns off the light on her way to bed.</NARRATIVE>
+
+<Scene Heading>INT. CORRIDOR/STAIRS, CCI , ORANIENBURG - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Rudolf locks the office door behind him and walks down a long corridor towards the stairs, pumping his fists in self-congratulation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(to himself) Ah...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A smile grows across his face and he skips down the first flight, but at the landing he slows suddenly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(groaning) Oh no...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He clutches at the bannister and vomits on the polished stone floor.</NARRATIVE>
+
+<Scene Heading>INT. LOWER CORRIDOR, CCI, ORANIENBURG - CONTINUOUS</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(retching) Ah...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RUDOLF</Character_Name>
+<Utterance>(gagging) Ugh...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>After spitting out the last bit of vomit, he gingerly continues down the next flight.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BLACK SPACE</Scene Heading>
+
+<NARRATIVE>A white pin prick of light in a black screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterence>Indeterminate noises, becoming footsteps.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterence>Human voices we can't make out. The clank of unlocking.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The door's been opened by TWO POLISH WOMEN, CLEANERS in present day blue outfits, lanyards round their necks, carrying cleaning materials - cloth, spray bottle, broom, dustpan.</NARRATIVE>
+
+<Scene Heading>INT. CREMATORIUM 1, AUSCHWITZ-BIRKENAU STATE MUSEUM</Scene Heading>
+
+<NARRATIVE>The light reveals dark mottled cement walls and floor inside, a modern fire extinguisher and signage in Polish ('Wyjscie Ewakuacyjne'/ Emergency Exit).</NARRATIVE>
+
+<NARRATIVE>We're inside the gas chamber of Crematorium I in what is now the Auschwitz-Birkenau State Museum in Owicim.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterence>But then convulses again.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterence>A final long wretch, and spit.   It's all gone.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He cautiously straightens up. SS officer's hat in hand by his side.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterence>Looks one way down the long empty dark corridor.   No one around.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterence>Then the other way, towards camera.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. CREMATORIUM 1, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>Auschwitz-Birkenau State Museum in Owicim.</NARRATIVE>
+
+Note: Since the original script does not contain dialogue or character names, I have added a "Narrator" as a placeholder to maintain consistency with the example.
+
+Here is the annotated script:
+
+<Scene Heading>INT. GAS CHAMBER, CREMATORIUM 1, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>Above Crematorium 1, the other side of the chimney we saw previously from the Hoss's garden and house. There is museum signage outside for visitors. The cleaners bring in their materials.</NARRATIVE>
+
+<Scene Heading>INT. CREMATORIUM 1, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>The other cleaner wipes the black cast iron corpse delivery trolleys and brick furnaces designed and built by Topf and Sons.</NARRATIVE>
+
+<Scene Heading>INT. EXHIBIT ROOM, BLOCK 5, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>A wall of 1930's battered suitcases piled high behind glass across the screen. Their owners' family names and addresses scrawled in different hands on most of them in white letters.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANOTHER CLEANER</Character_Name>
+<Utterance>(whistling to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Another cleaner carries a vacuum cleaner past the length of them. We're in Block 5 of Auschwitz I, the exhibit of `Physical evidence of the crime' where items seized from murdered Jews deported there for extermination are displayed.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. EXHIBIT CORRIDOR BLOCK 5, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>A corridor somewhere within <Location>The Auschwitz-Birkenau State Museum</Location>. The sound of a vacuum cleaner, sucking up the dust and detritus of yesterday's visitors.</NARRATIVE>
+
+<NARRATIVE>Along the length of the corridor now a vast pile of old shoes behind glass on either side. TWO OTHER CLEANERS wipe the glass, one on either side.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANOTHER CLEANER</Character_Name>
+<Utterance>wipes the high display glass in front of a big pile of children's shoes, carefully wiping fingerprints with a cloth.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Closer on the small shoes, singles as well as pairs.</NARRATIVE>
+
+<Scene Heading>INT. EXHIBIT ROOM BLOCK 5, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>Along the length of the corridor now a vast pile of old shoes behind glass on either side.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANOTHER CLEANER</Character_Name>
+<Utterance>vacuums in front of a display case of 1930/1940's prosthetic limbs, crutches and supports.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. EXHIBIT ROOM BLOCK 6, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<NARRATIVE>Another cleaner wipes the glass of a display case of blue and white striped prisoner uniforms in Block 6, the exhibit of `The life of the prisoners'.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANOTHER CLEANER</Character_Name>
+<Utterance>wipes the glass.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sound of the vacuum cleaner continues in the background.</NARRATIVE>
+
+<Scene Heading>INT. EXHIBIT ROOM BLOCK 5, AUSCHWITZ-BIRKENAU STATE MUSEUM - DAWN, PRESENT</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANOTHER CLEANER</Character_Name>
+<Utterance>continues to vacuum.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. EXHIBIT CORRIDOR BLOCK 6, AUSCHWITZ-BIRKENAU STATE</Scene Heading>
+
+<NARRATIVE>A long, corridor lined on either side with three rows of black and white framed photographs.</NARRATIVE>
+
+<NARRATIVE>The CLEANER noisily vacuums the floor, and in the distance TWO CLEANERS wipe photographs on either side.</NARRATIVE>
+
+<NARRATIVE>In the foreground we can make out the photographs are shaved-headed Auschwitz prisoner registration photographs.</NARRATIVE>
+
+<DIALOGUE>
+</DIALOGUE>
+
+<Scene Heading>INT. LOWER CORRIDOR, CCI, ORANIENBURG - NIGHT</Scene Heading>
+
+<NARRATIVE>We're suddenly back to Rudolf on that landing in the empty CCI building, exactly as we left him in Scene 136 after he vomited.</NARRATIVE>
+
+<NARRATIVE>He's still looking down the corridor towards camera. Silence.</NARRATIVE>
+
+<NARRATIVE>Almost as if at the Museum corridor we were just looking down.</NARRATIVE>
+
+<DIALOGUE>
+</DIALOGUE>
+
+<NARRATIVE>Rudolf slowly turns around, and steps down the staircase, still a little gingerly.</NARRATIVE>
+
+<Scene Heading>INT. STAIRWELL. CCI, ORANIENBURG - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>We watch him descend another floor, and another, his steps more confident now.</NARRATIVE>
+
+<DIALOGUE>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. DESERT - DAY</Scene Heading>
+
+<NARRATIVE> A vast and arid desert landscape, with sand dunes stretching out as far as the eye can see. <Character_Name>MICKEY KNOX</Character_Name> is walking alone, his footsteps echoing through the stillness of the environment.</NARRATIVE>
+
+<NARRATIVE> Mickey continues to walk down a slight incline, disappearing from view.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICKEY</Character_Name>
+<Utterence>(whispering to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sound of Mickey's footsteps continues for a moment longer, until they fade into the distance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICKEY</Character_Name>
+<Utterence>(now quieter and more distant)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sound of Mickey's footsteps continues to echo through the desert, growing fainter with each passing moment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICKEY</Character_Name>
+<Utterence>(barely audible)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sound of Mickey's footsteps finally disappears from earshot, leaving an eerie silence in its wake.</NARRATIVE>
+
+<NARRATIVE>End music starts.   Alarming, in ascending patterns.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICKEY</Character_Name>
+<Utterence>(no longer audible)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO BLACK</NARRATIVE>
+

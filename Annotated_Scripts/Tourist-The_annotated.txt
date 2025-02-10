@@ -1,0 +1,4149 @@
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4AD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB5370>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB5C40>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB64B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F10D14F20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8950>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367E30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB5550>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4D40>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4560>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13365550>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F112C2FC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1316FCE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4980>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB5250>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB5A00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13044E30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F112C28A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9850>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB56A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4440>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB43E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB6D50>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13044E30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F131F6B40>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAF30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB9B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5CEC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB53A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5F830>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8B90>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1314FCE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367DA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1301D190>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4DD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F133462D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1329BBC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E7320>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8620>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8860>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB46B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB59D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8AA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9850>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E7080>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1316FCE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13278F20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BB4BC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13062F90>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367980>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB110>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB380>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024F13C5DA30>, 'Connection to llm.srv.webis.de timed out. (connect timeout=None)'))
+
+<Scene Heading>INT. PARKING GARAGE - DAY</Scene Heading>
+
+<NARRATIVE>Frank (CONT'D) continues speaking.</NARRATIVE>
+
+<NARRATIVE>There are some people trying to kill me--</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Um... you may not believe this but there are some people trying to kill me-</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>I know.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara drives toward the ramp.</NARRATIVE>
+
+<NARRATIVE>He looks at her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Do you know why?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>It's because I kissed you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She stops the car and waits for the metal gate at the top of the ramp to open.</NARRATIVE>
+
+<NARRATIVE>The gate rises with a loud creaking to REVEAL...</NARRATIVE>
+
+<NARRATIVE>A BLACK CAR with two men inside. One of them steps out and ducks under the gate as it rises up.</NARRATIVE>
+
+<NARRATIVE>While he's briefly silhouetted by the car's headlights we glimpse the outline of an AUTOMATIC WEAPON.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Shit.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>With remarkable sangfroid she cuts the engine and lets her car roll backwards, gliding silently and perfectly into a parking spot.</NARRATIVE>
+
+<NARRATIVE>Silence.</NARRATIVE>
+
+<NARRATIVE>They watch the BLACK CAR slowly descend the ramp. The Russian with the gun in his hand walks carefully alongside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(holding his breath)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sound of another engine cuts through the silence. A pair of headlights come up from the level below.</NARRATIVE>
+
+<NARRATIVE>CLOSE ON THE CAR. The MALE NURSE from the elevator is driving up toward the exit ramp, toward the exit where the Russians are waiting.</NARRATIVE>
+
+<Scene Heading>CLOSE ON THE GUNMAN slipping back into the shadows and</Scene Heading>
+
+<NARRATIVE>The gunman readies his gun to fire.</NARRATIVE>
+
+<NARRATIVE>FRANK sees what is about to happen. His face betrays his concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>That guy has nothing to do with this.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He reaches for the door.</NARRATIVE>
+
+<NARRATIVE>Cara presses the central door lock. Frank's door doesn't budge. He looks over at her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(re: the Nurse)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Neither do you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He looks her straight in the eye. She relents.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>Okay. If you want to play hero...</Utterance>
+</Turn>
+
+<NARRATIVE>Cara turns over the ignition.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA (CONT'D)</Character_Name>
+<Utterance>Hold on.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara revs the car and pulls out fast, cutting off the Nurse's car. He leans on the horn.</NARRATIVE>
+
+<NARRATIVE>At the top of the exit ramp, the metal parking gate is slowly being lowered.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NURSE</Character_Name>
+<Utterance>(implied)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara weaves around the black car, deliberately heading for the gunman. He opens fire.</NARRATIVE>
+
+<NARRATIVE>BRRRRRAAAP!! Bullets spray wildly, ricocheting off the walls, shattering windshields... Frank covers his face as a side-window pops, showering him with glass.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(re: the gunfire)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The GUNMAN is forced to jump out of the way as Cara scrapes the side of her car along the wall. Sparks fly.</NARRATIVE>
+
+<NARRATIVE>The black car burns rubber as it U-turns to follow her.</NARRATIVE>
+
+<Scene Heading>EXT. FENCE - DAY</Scene Heading>
+
+<NARRATIVE> A fence somewhere, likely a checkpoint or border crossing. <Location>The scene seems to be at an international boundary</Location>. <Character_Name>FRANK</Character_Name> and <Character_Name>CARA</Character_Name> are trying to escape through the gate.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>There's not enough room!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>There's enough room.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The fence whirs at head height and keeps lowering. The black car is closing in behind them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>We won't make it!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>I thought Americans were optimists.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>At the last second he ducks instinctively and closes his eyes. The gate clips the top of Cara's car with a tremendous CLANG! Traps it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(pressing her foot all the way down on the accelerator)</Utterance>Smoke pours from the tires.</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CRASH!</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(the sound of burning gears as the engine hits its limit)</Utterance></Turn>
+</DIALOGUE>
+
+<NARRATIVE>A Russian leans out the window and fires at the outlines of Cara and Frank's HEADS. Bullets shatter the back window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(pushing Frank's head down)</Utterance></Turn>
+</DIALOGUE>
+
+<NARRATIVE>Suddenly, scraping paint, Cara's car SPRINGS forward, jetting out onto the street.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(the sound of tires screeching)</Utterance></Turn>
+</DIALOGUE>
+
+<NARRATIVE>The fence drops further and shudders to a halt. The black car is trapped. The Russians can only watch as Cara speeds away.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>INT. CARA'S CAR - NIGHT</NARRATIVE>
+
+<Scene Heading>The quiet hum of the autostrade is the only sound in the</Scene Heading>
+
+<NARRATIVE>car.</NARRATIVE>
+
+<NARRATIVE>Frank sits in a daze.   He turns to her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Do I look that much like Alexander Pearce?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara turns sharply.</NARRATIVE>
+
+<NARRATIVE><Location>52.</Location></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>How do you know--?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>The watch.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She hesitates.   A pause.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>I don't know. You're about his size. That's all.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(incredulous)</Parenthetical>
+<Utterance>You don't know what your own boyfriend looks like?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara turns sharply.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Alexander crossed a very dangerous man. He changed his appearance in order to vanish.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Great.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara hesitates.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Dont worry. I'm taking you somewhere you'll be safe.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>We should go to the police.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Because they did such a good job</Utterance>
+<Parenthetical>(smirking)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+Here's the annotated script:
+
+<Scene Heading>INT. CAR - DAY</Scene Heading>
+
+<NARRATIVE> The car is parked in a dimly lit area, possibly <Location>VENICE</Location>. We see <Character_Name>CARA</Character_Name> trying to wake up <Character_Name>FRANK</Character_Name>, who's sleeping in the passenger seat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Protecting you before?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Frank doesn't respond, so Cara tries again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Trust me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Frank looks at her and then relents, leaning his head back against the car support and closing his eyes. The scene fades to black.</NARRATIVE>
+
+<Scene Heading>EXT. OUTSKIRTS OF VENICE - MORNING</Scene Heading>
+
+<NARRATIVE> We see a car parked along a <Location>muddy canal</Location>. Beside it runs a small disconnected set of palazzos. Cara shakes Frank awake.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Frank... Frank.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(snoring)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Pinches his nose closed...</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(startled awake)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>She smiles mischievously.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. SIDE STREET - DAY</Scene Heading>
+
+<NARRATIVE> Frank follows Cara past abandoned <Location>tricycles</Location> and very old men sitting on stone steps.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>And I thought I wouldn't get to do any sight-seeing.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Frank steps over a <Location>greenish puddle</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Here we are.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. RUN DOWN PALAZZO - DAY</Scene Heading>
+
+<NARRATIVE>We see Cara standing in front of a run-down palazzo.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(pauses before the door)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. RUN DOWN PALAZZO, HALL - NIGHT</Scene Heading>
+
+<NARRATIVE>The narrow hall is dark and shabby.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(walks up the stairs to a door on the landing)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in XML-like format:
+
+<Scene Heading>INT. PEARCE'S "SAFE HOUSE" - NIGHT</Scene Heading>
+
+<NARRATIVE> It is completely dark inside. The two of them maneuver in the darkness. The sound of a hand bumping against a wall.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Sorry.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Whoa!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank leans over, catching his breath.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Sorry again.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>What were you doing?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara starts to giggle. Frank starts to laugh too.</NARRATIVE>
+
+<Scene Heading>INT. KITCHEN, PEARCE'S "SAFE HOUSE" - NIGHT</Scene Heading>
+
+<NARRATIVE>The apartment appears as if it was leased, stocked and then never set foot in again. Brand new appliances that have never been used.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>What are you doing?</Utterance>
+<Parenthetical>(concerned)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Making sure no one sabotaged the gas lines.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank walks over to a flat screen TV and curiously peels off the protective clear film...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(muffled sound)</Utterance>
+<Parenthetical>(looking up at Cara in the oven)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara pulls out, a flashlight in her mouth.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Got it!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>...and shines the light into the oven...</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. KITCHEN - DAY</Scene Heading>
+
+<NARRATIVE>Frank watches her walk over to the <Location>FUSE BOXES.</Location></NARRATIVE>
+
+<Scene Heading>MINUTES LATER</Scene Heading>
+
+<NARRATIVE>Frank pokes through the cupboards.</NARRATIVE>
+
+<NARRATIVE>Stocked with fine olives, tins of expensive smoked fish, viands, stewed fruit from orchards in <Location>France.</Location></NARRATIVE>
+
+<Scene Heading>INT. ICEBOX - DAY</Scene Heading>
+
+<NARRATIVE>He opens the icebox. Inside is frozen meat and fish.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>He goes Barracuda fishing?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. DINING AREA, PEARCE'S "SAFE HOUSE" - LATER</Scene Heading>
+
+<NARRATIVE>CLOSE ON THE FISH -- now seasoned, grilled and surrounded by whipped sweet potatoes, beets and almonds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>He goes Marlin fishing. You catch the Barracudas by accident.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara has poured herself a glass of wine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>And she left you for a cook?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>No.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CLOSE ON FRANK - DAY</Scene Heading>
+
+<NARRATIVE>Frank looks at the steak...</NARRATIVE>
+
+<Scene Heading>CLOSE ON FRANK'S FACE - DAY</Scene Heading>
+
+<NARRATIVE>He smiles and pours himself a glass of wine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Mmmmm! That's decadent.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>With these ingredients, it's not hard.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank savors a bite of his meal.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. DINER - DAY</Scene Heading>
+
+<NARRATIVE> A diner somewhere. <Character_Name>FRANK TAYLOR</Character_Name> and <Character_Name>CARA</Character_Name> are sitting at a booth, eating.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You know something? Food tastes better after you've been shot at.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Cara laughs.   She clinks his glass.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>I'm glad I decided to come back for you, Frank Taylor.</Utterance>
+</Turn>
+
+<NARRATIVE>They watch one another eat for several moments.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Can I ask you a question.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Cara sets down her fork.   Leans back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>What's it like? Being a criminal?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(scoffs)</Parenthetical>
+<Utterance>I'm not a criminal.</Utterance>
+</Turn>
+
+<NARRATIVE>56.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You carry a gun, you consort with people being chased by killers... I hate to break it to you, but--</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Okay, I'm a criminal.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Cara takes a big gulp of wine.     Moves over to the sofa.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA (CONT'D)</Character_Name>
+<Utterance>I didn't mean for things to turn out like this. I always lived by a certain code. But then... I broke it.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Cara lapses into silence.    Frank comes and sits beside her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>For Alexander Pearce?</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Cara doesn't answer.   Which is an answer.</NARRATIVE>
+
+<DIALOGUE>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<Turn></Turn>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. LIVING ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>A living room somewhere in a luxury home, lit with dim, warm lighting. <Character_Name>FRANK</Character_Name> and <Character_Name>CARA</Character_Name> are seated on a couch together.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>What's he like?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>He's the most interesting man I've ever known. When I first met him, I wasn't expecting that. He took me by surprise.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She shifts deeper into the leather cushions as if reliving a memory of sensual pleasure.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>If I'd been prepared, I might not have loved him. But I wasn't. So I did.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She frowns into her empty wine glass.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(soft)</Parenthetical>
+<Utterance>I don't regret it, you know.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank slides a little closer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Regret what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>57.</NARRATIVE>
+
+<NARRATIVE>The lights are low. The mood is romantic...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Kissing you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank puts an arm over her shoulders and leans in for a kiss-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>What are you doing?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He looks up at her, questioningly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>I thought...</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. CARA'S APARTMENT - DAY</Scene Heading>
+
+<NARRATIVE>Cara sits at a table, looking frustrated. She addresses Frank, but he doesn't respond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>You thought what? That I saw you on the train and my heart stopped?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank remains silent, still not responding.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>That all my life I've been waiting for a math teacher from the Midwest to sweep me off my feet?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank's humiliation becomes apparent as he stands up with dignity.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(CONT'D) I picked you because of your height. Do you understand?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank carries the plates into the kitchen, and Cara looks after him with a mix of exasperation and regret.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(CONT'D) When she is about to say something...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Her cell phone rings with a special ring.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>She answers right away.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PIAZZA SAN MARCO - EVENING</Scene Heading>
+
+<NARRATIVE>The Englishman strolls through the Piazza San Marco, speaking into his phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN</Character_Name>
+<Utterance>Have you been reading the newspaper?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara narrows her focus and walks away from Frank, stealing into the bedroom.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(CONT'D) Yes... there was nothing there today. Is it you? Alexa--</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN</Character_Name>
+<Utterance>No names. Not on the phone.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERPOL FIELD HQ, VENICE - EVENING</Scene Heading>
+
+<NARRATIVE>The scene cuts to a different location.</NARRATIVE>
+
+(Due to the format restrictions, I was unable to complete the rest of the scene in this response. Please provide further clarification if needed.)
+
+<Scene Heading>The WAVE PATTERNS of the man's voice shimmer on a</Scene Heading>
+
+<NARRATIVE>computer monitor. <Character_Name>Goyal and Ackerman</Character_Name> stand watching, hanging on every word.</NARRATIVE>
+
+<NARRATIVE>The Englishman (V.O.) is heard from the speakers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN (V.O.)</Character_Name>
+<Utterance>It's been a busier weekend than I expected.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A horn-rimmed aide zooms in on a map screen.</NARRATIVE>
+
+<NARRATIVE>The screen gives him a map of Venice. Then zooms into a map of the San Marco district...</NARRATIVE>
+
+<Scene Heading>INT. BEDROOM, "SAFE HOUSE" - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Cara holds one finger in her ear, listening intently.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN (V.O.)</Character_Name>
+<Utterance>There's a recipe in a Tuscan cookbook there I need. Would you look it up for me?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara looks skeptical.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Do we really need another "recipe?"</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Englishman responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN</Character_Name>
+<Utterance>I want to make sure our guests are surprised.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PIAZZA SAN MARCO - EVENING</Scene Heading>
+
+<NARRATIVE>The Englishman passes the Lagoon to his left, and enters an enormous courtyard, the Arco Foscari. He looks down at his watch...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN</Character_Name>
+<Utterance>You're a brave and loyal girl. I'm in awe of you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERPOL FIELD HQ, VENICE - EVENING</Scene Heading>
+
+<Scene Heading>INT. BEDROOM, "SAFE HOUSE" - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Cara folds her arms as she listens.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>That's because you leave everything up to me.</Utterance>
+</Turn>
+
+<NARRATIVE>She pouts, only partially joking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>I'm fine by the way, in case you were concerned about me.</Utterance>
+</Turn>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN</Character_Name>
+<Parenthetical>(playful)</Parenthetical>
+<Utterance>My only concern is for those who cross you, my love.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PIAZZA SAN MARCO - EVENING</Scene Heading>
+
+<NARRATIVE>At last The Englishman arrives before the lower colonnade of the DOGE'S PALACE, the seat of medieval Venetian civic government.</NARRATIVE>
+
+<NARRATIVE>It is a wonder of Gothic architecture with spires piercing the blue sky.</NARRATIVE>
+
+<NARRATIVE>The Englishman gazes up at it for a moment.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE ENGLISHMAN</Character_Name>
+<Utterance>You may not believe it, but every step of this miserable game is taken in the hope of earning your trust and ever-lasting regard. I mean that.</Utterance>
+</Turn>
+
+<NARRATIVE>The Englishman is at the Ponte del Suspiri-- the "Bridge of Sighs."</NARRATIVE>
+
+<Scene Heading>INT. BEDROOM, "SAFE HOUSE" - EVENING</Scene Heading>
+
+<NARRATIVE>Cara's expression softens.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>You have a talent for saying the right thing.</Utterance>
+<Parenthetical>(to herself)</Parenthetical>
+<Utterance>You always did.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>OUTSIDE THE BEDROOM DOOR</NARRATIVE>
+
+<NARRATIVE>Frank listens to the end of Cara's conversation, his forehead creased with concern.</NARRATIVE>
+
+<Scene Heading>EXT. PIAZZA SAN MARCO, CAFE - NIGHT</Scene Heading>
+
+<NARRATIVE>The Englishman closes his phone and disappears into the crowd.</NARRATIVE>
+
+<Scene Heading>INT. BEDROOM, "SAFE HOUSE" - NIGHT</Scene Heading>
+
+<NARRATIVE>Cara speaks urgently.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Wait--</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The line is dead.</NARRATIVE>
+
+<Scene Heading>EXT. PONTE DEL SUSPIRI - SECONDS LATER</Scene Heading>
+
+<NARRATIVE>A silent caravan of three black SUV's - a strange sight in Venice - pull up in perimeter around the Bridge of Sighs and skids to a stop.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+
+<NARRATIVE>Ackerman and the others leap out, looking around. Then Ackerman sees it:</NARRATIVE>
+
+<NARRATIVE>The Englishman's CELL PHONE, sitting on the cobblestones.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>(picking up phone with a plastic bag)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BEDROOM, "SAFE HOUSE" - NIGHT</Scene Heading>
+
+<NARRATIVE> Holding her now unimportant phone in her hand, <Character_Name>CARA</Character_Name> draws herself up and walks into the SITTING AREA.</NARRATIVE>
+
+<NARRATIVE><Character_Name>FRANK</Character_Name> lies asleep on the couch.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Cara</Character_Name> walks to the kitchen and retrieves the Tuscan Cookbook. Thinking herself unobserved, she opens it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>A PAGE has been turned down. A recipe for LAMB.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Cara</Character_Name> pulls out her red, felt-tipped pen. She finds a sentence in the recipe with a single pen dot beside it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Tapping her pen under letters on the page, <Character_Name>Cara</Character_Name> works out the code, memorizes the contents of the message and closes the book.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ON <Character_Name>FRANK</Character_Name>. His eyes are open.</NARRATIVE>
+
+<Scene Heading>EXT. VENICE - MORNING</Scene Heading>
+
+<NARRATIVE>Establishing shots of the city as it comes to life in the winter time.</NARRATIVE>
+
+<NARRATIVE>Boats are pushed out into the canals...</NARRATIVE>
+
+<NARRATIVE>Trash is hosed from the cobblestone streets...</NARRATIVE>
+
+<NARRATIVE>Tables and chairs are set out at sidewalk cafes, waiting for the tourists to come...</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. SITTING ROOM, "SAFE HOUSE" - MORNING</Scene Heading>
+
+<NARRATIVE> With an unfamiliar gentleness, <Character_Name>CARA</Character_Name> approaches <Character_Name>FRANK</Character_Name> sleeping on the sofa and touches his shoulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Frank... I have to go.</Utterence>
+</Turn>
+
+<NARRATIVE> He opens his eyes and looks at her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Don't go out. All you need is here. In four or five days everything will be resolved...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Resolved?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>It will all be over. I'll give you the all clear and you can go back to your life. This will be a great adventure you can look back on.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>When will I see you again?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Never.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She looks at him evenly; one last glance between two people from two completely different worlds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Good-bye, Frank.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She leaves.</NARRATIVE>
+
+<Scene Heading>INT. RUN DOWN PALAZZO, HALL - DAY</Scene Heading>
+
+<NARRATIVE> She has started down the stairs when <Character_Name>Frank</Character_Name> appears on the landing. He leans over the balustrade.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Is he worth it?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Get back inside.</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>EXT. CARA'S APARTMENT BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>She has stopped mid-flight.</NARRATIVE>
+
+<NARRATIVE>Cara stands on a balcony overlooking a cobblestone street, 63.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You're going to risk everything for him. Would he do the same for you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She is quite straightforward in her response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>It doesn't matter. I love him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>He doesn't deserve it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She shakes her head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance_None of this is your business anymore. Now get back inside Frank!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Just as she raises her voice a door opens below them in the hall, and an old man comes out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>OLD MAN</Character_Name>
+<Utterance>Signorina.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>This is exactly what she did not want. But she controls her annoyance, nods in greeting and continues towards the front door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(to the neighbor)</Parenthetical>
+<Utterance> Mi dispiace, Signor.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Old Neighbor nods as Cara walks out the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>OLD MAN</Character_Name>
+<Utterance>(admiringly)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He glances back up at Frank and whistles appreciatively. Frank turns and goes back inside.</NARRATIVE>
+
+<Scene Heading>INT. INTERPOL FIELD HQ, VENICE - DAY</Scene Heading>
+
+<Scene Heading>ACKERMAN'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>Ackerman sits in an office chair, gently revolving.</NARRATIVE>
+
+<NARRATIVE>Jones, Goyal and Jean Luc are there as well.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Why do women find these con men so appealing?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones is the only woman nearby...</NARRATIVE>
+
+<NARRATIVE>64.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterence>Don't look at me. I married my personal trainer.</Utterence>
+<Parenthetical>(sotto Jean Luc)</Parenthetical>
+<Utterence>She's twenty-six.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jean Luc can't tell if she's serious.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>How did Pearce seduce that beautiful woman? Was it his charm? His looks?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterence>Lights change.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman sips from his ten thousandth cup of espresso.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Maybe it's because if he adores himself and spends every moment gratifying his desires, so then can she.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman looks around to see if the others like this theory.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN (CONT'D)</Character_Name>
+<Utterence>She can become a child again. Who wouldn't want that?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>There is a bitterness in Ackerman's tone that reveals he is personally hurt by this.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterence>She's on the move. Time to go.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman pushes himself wearily to his feet.</NARRATIVE>
+
+<Scene Heading>INT. KITCHEN, "SAFE HOUSE" - DAY</Scene Heading>
+
+<NARRATIVE> Paging through the cookbook, <Character_Name>FRANK</Character_Name> locates the page. He smiles in recognition at the familiar CODE pattern of red dots.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>By all means. Let's follow the children.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> pulls out a PEN...</NARRATIVE>
+
+<Scene Heading>INT. BATHROOM, "SAFE HOUSE" - DAY</Scene Heading>
+
+<NARRATIVE> <Character_Name>Frank</Character_Name> examines a sleek, tiny electric razor that resembles a lollipop.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> turns it on and applies it. Pleased, he keeps shaving.</NARRATIVE>
+
+<Scene Heading>INT. BATHROOM, "SAFE HOUSE" - DAY</Scene Heading>
+
+<NARRATIVE>Getting out of the shower, <Character_Name>Frank</Character_Name> enjoys the soft Frette towels.</NARRATIVE>
+
+<Scene Heading>INT. MASTER BEDROOM, "SAFE HOUSE" - DAY</Scene Heading>
+
+<NARRATIVE>In the closets are dozens of flawless, custom-tailored suits.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(flipping through the rack)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> arrives at a suit that catches his fancy. Elegant and simple.</NARRATIVE>
+
+<Scene Heading>IN THE MIRROR</Scene Heading>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> struggles to close <Character_Name>Alexander Pearce's</Character_Name> pants around his lightly padded mid-section... a little too tight.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> is irritated to discover he's not quite as trim as <Character_Name>Pearce</Character_Name>.</NARRATIVE>
+
+<Scene Heading>ON THE BEDROOM FLOOR</Scene Heading>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> engages himself in a spontaneous program of calisthenics.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(grunting)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> struggles through a batch of push-ups, then sit ups.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>IN THE MIRROR</Scene Heading>
+
+<NARRATIVE>Frank flosses his teeth. Then he backs up, taking in his outfit. The lines of the suit highlight his frame.</NARRATIVE>
+
+<NARRATIVE>He likes what he sees.</NARRATIVE>
+
+<Scene Heading>INT. DEMIDOV'S HOTEL ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Demidov is getting dressed. It's an elaborate ritual: carefully pressed pants, ironed shirt, starched collar, etc.</NARRATIVE>
+
+<NARRATIVE>His two BODYGUARDS stand nervously at attention, watching him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>When I was a young man, times were very hard. When an opportunity presented itself, you took it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He pats talcum powder on himself. The men remain stone-faced.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>I was twelve years old when Gregor asked me if I was ready for a man's job. He was the top chelovek in our housing block. So I said yes. He gave me a crowbar and told me to go bash in the skull of another boy who had stolen something from him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He points at his platinum cufflinks on a bedside table and snaps his fingers. Scarface hands them to him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>Now it just so happened this boy was a friend of mine. I did not want to do this terrible thing. But when you come from the streets, you have no choice.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He carefully knots his tie in the mirror.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>(continuing)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. A ROOM - DAY</Scene Heading>
+
+<NARRATIVE> I worked   very hard for years to <Location>a life he no longer wants</Location>. So I would not have   to do these terrible things. So I would have a choice...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDEV (CONT'D)</Character_Name>
+<Utterance>I worked very hard for years to get past that life. So I would not have to do these terrible things. So I would have a choice...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> He turns and smiles at his THICK-NECKED bodyguard.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDEV (CONT'D)</Character_Name>
+<Utterance>He gestures toward the man's holstered pistol --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> DEMIDOV (CONT'D) I have people like you to do these terrible things for me...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDEV (CONT'D)</Character_Name>
+<Utterance>He holds out his hand; THICK NECK hands him the pistol.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Suddenly Demidov pistol whips the man across the face!</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDEV (CONT'D)</Character_Name>
+<Utterance>Blood explodes from THICK NECK's nose. He falls down to one knee, clutching his face in pain.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scarface looks on in fear. Demidov calms himself almost as quickly as he lost his temper. He drops the gun on the carpet and steps back in disgust.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDEV (CONT'D)</Character_Name>
+<Utterance>If you did your job properly, I wouldn't have to get my hands dirty, you piece of shit.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He turns and walks into the bathroom to wash his hands.</NARRATIVE>
+
+<CUT TO>
+<Scene Heading>EXT. CIPRIANI HOTEL - DAY</Scene Heading>
+
+<NARRATIVE>Heels clicking on the cobblestones, Cara strides quickly along the Palazzo Vendramin en route to the Cipriani. She checks her watch. Then walks faster.</NARRATIVE>
+
+<NARRATIVE>Cara approaches the poolside hotel restaurant.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>??</Character_Name>
+<Utterance>??</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CIPRIANI HOTEL - DAY</Scene Heading>
+
+<NARRATIVE>A second-story suite of rooms in a hotel, The ENGLISHMAN peers through the curtains.</NARRATIVE>
+
+<NARRATIVE>He sees Cara seat herself at a table between the pool and the lagoon.</NARRATIVE>
+
+<NARRATIVE>The Englishman's eyes settle on the transporto. Workers step on and off, carrying fresh linens into the hotel.</NARRATIVE>
+
+<Scene Heading>INT. TRANSPORTO - DAY</Scene Heading>
+
+<NARRATIVE>A small cabin on the deck of a vehicle.</NARRATIVE>
+
+<NARRATIVE>Inside the cabin, Ackerman, Goyal, a videographer, a signals surveillance officer, and a coordinating tactics officer huddle.</NARRATIVE>
+
+<NARRATIVE>Ackerman stares out the tinted window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. CIPRIANI HOTEL, POOLSIDE RESTAURANT - DAY</Scene Heading>
+
+<NARRATIVE>Fanning herself with a newspaper, Cara discreetly evaluates the men in her sight lines.</NARRATIVE>
+
+<NARRATIVE>Venetian civic leaders chatting by the bar, tourists reading maps...</NARRATIVE>
+
+<NARRATIVE>Over her sunglasses she catches sight of a pair of YOUNG LOVERS drunk in each other's grasp in the pool.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(to herself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. TRANSPORTO - DAY</Scene Heading>
+
+<NARRATIVE>Squinting, Ackerman evaluates his placements.</NARRATIVE>
+
+<NARRATIVE>A WAITER, idling at his bussing station, his eyes roaming the palazzo.</NARRATIVE>
+
+<NARRATIVE>A VAPORRETTO CAPTAIN, who quietly turns away requests for a ride into St. Marks Square, his finger to his ear.</NARRATIVE>
+
+<NARRATIVE>An OLDER COUPLE sitting a few seats away from Cara.</NARRATIVE>
+
+<Scene Heading>EXT. CIPRIANI HOTEL, POOLSIDE RESTAURANT - DAY</Scene Heading>
+
+<NARRATIVE>An <Location>AGENTE DI POLIZIA (police patrolman)</Location>, loud and jovial, joking with passersby while quietly checking his earpiece.</NARRATIVE>
+
+<NARRATIVE>The AGENTE DI POLIZIA speaks into the air.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>AGENTE DI POLIZIA</Character_Name>
+<Utterance>Eh, we do not know any further...characteristics?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>You know what we know.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. CIPRIANI HOTEL, POOLSIDE RESTAURANT - DAY</Scene Heading>
+
+<NARRATIVE>The <Location>VIDEO CAMERA</Location> swivels to follow a <Character_Name>MAN</Character_Name>, elegantly dressed with trim hair who swiftly approaches <Character_Name>CARA'S TABLE</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WAITER</Character_Name>
+<Utterance>(walking quickly toward Cara's table)</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>CARA</Character_Name> glances up from her menu as she senses the elegant man approaching.</NARRATIVE>
+
+<Scene Heading>IN THE TRANSPORTO</Scene Heading>
+
+<NARRATIVE>Ackerman holds his hand up, standing in front of a screen displaying <Character_Name>FRANK'S FACE</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(into the speaker)</Utterance>
+<Hold...wait for my signal...</Hold></Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman stares at the monitor with Frank's face on it, quietly furious.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>MALLORY KNOX</Character_Name>, her back turned to us, is sitting at a table with <Character_Name>CARA</Character_Name>.</NARRATIVE>
+
+<NARRATIVE><Character_Name>FRANK</Character_Name>, a man who has given himself a complete make-over, walks in and approaches their table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Time for Alexander and me to meet face to face.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(quietly)</Parenthetical>
+<Utterance>I don't know what you're talking about. Please go, I'd like to have a quiet coffee.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank sits at the table with Cara and eats a CASHEW.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(looking away)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You look lovely today, Cara.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Cara</Character_Name> doesn't respond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(whispered into speaker) Move off. Move off.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>UNDERCOVER WAITER</Character_Name>
+<Parenthetical>(quickly)</Parenthetical>
+<Utterance>(moving away from Cara's table)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman stares at the monitor which captures <Character_Name>Cara's</Character_Name> angry expression.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(to the screen) Get rid of him!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman continues to bark orders into the speaker.</NARRATIVE>
+
+<Scene Heading>CUT TO: INT. TRANSPORTO - DAY</Scene Heading>
+
+<NARRATIVE>Ackerman is in a room filled with screens and technology, barking orders at his team.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(frustrated)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The UNDERCOVER WAITER quickly exits the scene.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>AT THE POOLSIDE RESTAURANT</Scene Heading>
+
+<NARRATIVE>A luxurious poolside restaurant, possibly in a high-end resort or hotel.</NARRATIVE>
+
+<NARRATIVE>Defiantly, <Character_Name>FRANK</Character_Name> pulls his chair in closer to <Character_Name>CARA</Character_Name>. He signals to a different THIN WAITER.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Caffe, per favore?</Utterance>
+<Parenthetical>(to the waiter)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank turns back to Cara.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Cameriere!   No caffe for signor!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>With milk!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She stares at him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Do you want to be dead?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Not particularly, but I'm tired of being afraid. I've been running around like a frightened mouse long enough and I've decided I'm finished.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank pulls out a Gitane cigarette.   He lights it, smoking while he talks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>When I first saw the name I got scared: "Alexander Pearce." He even sounds like some super cool master criminal with Russian enemies and the beautiful girlfriend... he probably works out. He might own a pizza shop on the side for all I know.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>These are disgusting.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. TRANSPORTO - DAY</Scene Heading>
+
+<NARRATIVE>Goyal is seated at the communication station.</NARRATIVE>
+
+<NARRATIVE>On the monitor, Frank is settled in opposite Cara.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>He's not going anywhere.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman peers directly out the window, as if he's going to see something different.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Put Lipetti in. Tell him to play it like he's dealing with a rowdy guest-- escort him out.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. CIPRIANI HOTEL, POOLSIDE RESTAURANT - DAY</Scene Heading>
+
+<NARRATIVE>Cara looks all around. No sign of any suitor approaching.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Frank, you have no idea what you're sticking your nose into.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CLOSE ON: the hands of the Thin Waiter, who sprinkles pepper carefully, presumably onto a dish. He then platters the dish and lifts it over his shoulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Probably not. But I'm doing it anyway. Alexander Pearce nearly got me killed. It was his idea, right?</Utterance>
+<Parenthetical>(MORE)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>He told you to pick out some random sap on the train to take a bullet for him, didn't he?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank works himself up, drawing courage from his anger.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>Well I'm not playing the role anymore. I'm going to confront...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New York</Location>. <Character_Name>CARA</Character_Name>, sitting at a table, is visibly upset. We see <Character_Name>FRANK</Character_Name>, standing next to her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>him. He's supposed to meet you here, isn't he? I'm going to tell him exactly what I think of him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Wonderful. Another macho idiot.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(to the waiter)</Parenthetical>
+<Utterance>Conto, per favore!</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Frank leans in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>What's the lure, Cara? Obviously not his character. Is it the money? The luxury? What's any of that worth if you're getting shot at and you could go to jail?</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Cara looks at Frank.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>I'm leaving Frank.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Frank continues speaking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>He's smooth, right? He probably has mistresses in every European city, too.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Cara turns to Frank again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>It's really a shame you've scared him off--</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Cara tosses some Euros on the table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA (CONT'D)</Character_Name>
+<Utterance>The two of you make a nice couple.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The THIN WAITER arrives with a PLATTER.</NARRATIVE>
+
+<NARRATIVE>He sets it down in front of Cara.</NARRATIVE>
+
+<NARRATIVE>The UNDERCOVER WAITER now moves toward the table with a grim expression...</NARRATIVE>
+
+<NARRATIVE>The THIN WAITER removes the platter. Cara looks down.</NARRATIVE>
+
+<NARRATIVE>Spelled out in SALT and PEPPER on the plate is the following:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>MY VILLA.    TONIGHT. 8PM.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<Scene Heading>INT. RESTAURANT - DAY</Scene Heading>
+
+<NARRATIVE>Cara no sooner reads it than the Thin Waiter, who we now see is <Location>The Englishman</Location>.</NARRATIVE>
+
+<NARRATIVE><Character_Name>THE ENGLISHMAN</Character_Name> blows on the platter, scattering the salt and pepper granules to the wind.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>What the hell?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As <Character_Name>Frank</Character_Name> looks up.</NARRATIVE>
+
+<NARRATIVE><Character_Name>THE ENGLISHMAN</Character_Name> has already turned away, but the Undercover Waiter is moving quickly toward Cara's table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Is this him?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Frank!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>INT. TRANSPORTO - DAY.</NARRATIVE>
+
+<NARRATIVE><Character_Name>ACKERMAN</Character_Name> slaps the cabin table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Abort! Abort, goddammit!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Pooldside Restaurant.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>You hide out poolside and send your girlfriend and a total stranger to face the murderers who are after you? Not much of a tough guy, are you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> shoves him back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>UNDERCOVER WAITER</Character_Name>
+<Utterence>(no spoken dialogue)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Undercover Waiter tries to move past Frank.</NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT - DAY</Scene Heading>
+
+<NARRATIVE> Frank is still scuffling with the Undercover Waiter, determined to get his point across.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Where I come from, we don't treat women like that!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank grabs the Undercover Waiter's collar with unaccustomed strength.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>UNDERCOVER WAITER</Character_Name>
+<Utterance>(struggling)</Uttterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara quietly picks up her bag and leaves the restaurant, walking as fast as she can without being noticed toward the Palazzo Vendramin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>(looking around)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>In the midst of his scuffle, Frank looks around and realizes she's gone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>UNDERCOVER WAITER</Character_Name>
+<Parenthetical>(defeated)</Parenthetical>
+<Utterence>You got her!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Undercover Waiter's earpiece falls out in the melee... Frank sees it and hesitates. Maybe this guy isn't Pearce.</NARRATIVE>
+
+<Scene Heading>INT. TRANSPORTO - DAY</Scene Heading>
+
+<NARRATIVE>Getting up from his seat in the cabin, Ackerman gestures for the captain of the transporto to leave the dock.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>That goddamn fool!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman rubs his face and squats down, frustrated beyond measure.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterence>What do we do with him?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Throw him in the lagoon!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PALAZZO VENDRAMIN - DAY</Scene Heading>
+
+<NARRATIVE>Frank brushes past tables, hits the street and RUNS down the Palazzo, toward Cara.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Cara!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. VENICE CANALS - DAY</Scene Heading>
+
+<NARRATIVE>Cara shoots Frank an angry glance and climbs onto A VAPORETTO (water taxi).</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank runs to the edge of the water as it motors away.</NARRATIVE>
+
+<NARRATIVE>TWO of ACKERMAN'S MEN are right there, pinning his arms forcefully.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>AGENT</Character_Name>
+<Utterence>Ok Signor... you can come with us now.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank looks at the two big men on either side of him, then at Cara disappearing over the water.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The fight drains out of him and he doesn't resist.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. INTERROGATION ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A sparsely furnished, windowless room with a table, two chairs, and a large mirror on the wall.</NARRATIVE>
+
+<NARRATIVE>Frank sits alone, straightening his slightly disheveled suit.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He glances in the mirror periodically, suspiciously.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Parenthetical>(entering)</Parenthetical>
+<Utterence>Please...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman pulls up one of the chairs and gestures for Frank to do the same.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Nice suit.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>It's borrowed.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN (CONT'D)</Character_Name>
+<Utterence>It's a good fit.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERROGATION ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A man, <Character_Name>FRANK</Character_Name>, is sitting across from <Location>INTERPOL agent ACKERMAN</Location>. Frank appears defiant, while Ackerman seems calm.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Unfortunately.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman reaches into his breast pocket and takes out his INTERPOL credentials. He tosses them on the table for Frank to see.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>Police... better than the alternative I suppose.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman smiles, and Frank remains defiant. He jerks his head toward the mirror confidently.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>Who's watching from behind there?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman looks over at the mirror, taken off guard by the question. He stands and goes to the mirror -- lifts it off its hooks and sets it on the floor.</NARRATIVE>
+
+<NARRATIVE>Nothing but plain wall underneath. Ackerman sits back down. Frank is a little bit chastened.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>You have a vivid imagination.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>I haven't needed it lately.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman smiles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK (CONT'D)</Character_Name>
+<Utterance>You're in for a disappointment. I'm not Alexander Pearce.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>I know that.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Since when?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Since the beginning.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. INTERPOL FIELD HQ, VENICE - DAY</Scene Heading>
+
+<NARRATIVE>Ackerman leads Frank through the maze of desks and police.</NARRATIVE>
+
+<NARRATIVE>Varying members of the task force follow their progress... Jean Luc, Jones, etc.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Come. I want to show you something Frank.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They arrive at a central INTEL area where Goyal sits in front of several computer monitors.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(to Goyal)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Parenthetical>(raises an eyebrow)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Goyal does as he's told. A few moments later a photo of POLICE RECRUITS in uniform comes up on screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Pull up the CID Academy graduating class for 2002.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Parenthetical>(looks up)</Parenthetical>
+<Utterance>(no spoken line)</Utterance>
+</Turn>
+
+<NARRATIVE>A few moments later a photo of POLICE RECRUITS in uniform comes up on screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Take a good look.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank peers at the screen. He spots the instructor-- Ackerman seven years younger.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman gestures for Frank to take a look at the second row.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Take a look at the second row.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>INSERT CLOSE UP on the screen.</NARRATIVE>
+
+<NARRATIVE>Frank examines the second row. One of the young women is... CARA MASON. Her hair is pulled back. She looks more the determined police cadet than the sexy siren... but...</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE> A police station, somewhere in a foreign country, possibly <Location>Moscow</Location>. <Character_Name>FRANK TAYLOR</Character_Name>, his face filled with emotion and concern, is standing in the center of the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>We've been watching you this entire time.</Utterence>
+</Turn>
+
+<NARRATIVE>Frank's expression changes from concern to shock and anger as he takes in Ackerman's words.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(dawning)</Parenthetical>
+<Utterence>You saw those men try to kill me and you didn't intervene?</Utterence>
+</Turn>
+
+<NARRATIVE>Akerman looks at Frank with a firm expression, his hands on his hips.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>I'm trying to apprehend a major criminal. I'm not a babysitter.</Utterence>
+</Turn>
+
+<NARRATIVE>Frank's face turns red with anger as he begins to speak quickly and passionately.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>I want to speak with somebody at the American Embassy. I'm going to tell them that you and your undercover officer knowingly and recklessly endangered the life of an American citizen! Let's see what my government has to say about that!</Utterence>
+</Turn>
+
+<NARRATIVE>Akerman looks at Frank calmly, his expression unchanging.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterence>We're aware of the situation, Mr. Taylor. But we take a long view of these things... fortunately you are unhurt...</Utterence>
+</Turn>
+
+<NARRATIVE>Frank looks at Jones with incredulity, his arms crossed over his chest.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Then I'll go to the press. I'll tell the entire story to the New York Times.</Utterence>
+</Turn>
+
+<NARRATIVE>Akerman looks at Frank with a stern expression, but says nothing further.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. ROOM - DAY</Scene Heading>
+
+<NARRATIVE> Frank, his back turned to us, stands in a room. We hear his quiet voice.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>No. I don't think you'll do that.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Ackerman, standing next to Frank, speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Why not?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman puts an arm around Frank's shoulder and leads him away from the others.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Because I don't think you want to see Cara's entire career destroyed.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman falls silent. He hands Frank a cup of espresso and they exit the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Espresso?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>EXT. INTERPOL FIELD HQ, VENICE - DAY</Scene Heading>
+
+<NARRATIVE> Frank stands on a balcony overlooking a waterway.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Women like Cara don't come along very often.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>In my case, they don't come along at all.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman hands Frank a cup of espresso.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>She's the worst combination: stunning looks and a brilliant mind.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>If she's so smart, how did she get caught up with Pearce?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman begins to explain.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>It started out as a straightforward placement...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. DOGE'S PALACE - DAY [FLASHBACK]</Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>INT. ANTI COLEGIO - DAY</Scene Heading>
+
+<NARRATIVE>Cara (younger) poses as an art student, sketching a SCULPTURE in the Anticollegio.</NARRATIVE>
+
+<NARRATIVE>ACKERMAN (V.O.)...we ran her deep cover to build a case against Pearce. It took. He hired her as an assistant.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>We ran her deep cover to build a case against Pearce. It took. He hired her as an assistant.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara turns her face and smiles at an UNSEEN MAN.</NARRATIVE>
+
+<Scene Heading>EXT. YACHT - DAY [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>The wind blows in Cara's hair. She sits on the top deck.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(smiling)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A MAN'S HAND passes her a drink as he walks by. She smiles at him (again we do not see his face).</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(smiling)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ACKERMAN (V.O.) Then she began missing drops. Omitting important details.</NARRATIVE>
+
+<Scene Heading>EXT. BALCONY - RESUME SCENE</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>She was no longer with us. She was with him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman finishes his espresso.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>She explains it now as the confusion of her new life outside the academy. That I misread her capacity for this kind of work.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Then why are you still using her?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>She's all I have, Mr. Taylor.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Beat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You think she'll turn him in this...</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. LOCATION - DAY</Scene Heading>
+
+<NARRATIVE>A room somewhere, <Location>ACKERMAN</Location> is speaking on phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>I don't know.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Goyal walks up behind Ackerman waiting patiently for a moment to interrupt him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN (CONT'D)</Character_Name>
+<Utterance>I do know however, that you are very smitten with her.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>It's not just me, is it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman acknowledges the point with the barest of nods.</NARRATIVE>
+
+<NARRATIVE>Goyal signals that Ackerman has a phone call.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>EXT. GRAND SALONE, VENICE - DAY</NARRATIVE>
+
+<NARRATIVE>The principal apartment of a Venetian palazzo, looking out over the Grand Canal.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Have you got him?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN (V.O.)</Character_Name>
+<Utterance>Cara? Where have you been?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>INTERCUT WITH Ackerman on the phone at his office.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Have you got him?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>You mean the idiot who ruined our operation?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman glances out the window at Frank.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>81.</NARRATIVE>
+
+<Scene Heading>ACKERMAN</Scene Heading>
+
+<NARRATIVE><Character_Name>ACKERMAN</Character_Name> says <Location>yes.</Location></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>It's your own fault. We never had to endanger a civilian.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>You should have put an agent into place.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>There was no time. Besides Pearce is too smart for that; he would have spotted the agent a mile away.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>He didn't spot me.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman smiles bitterly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Apparently he didn't have to.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara doesn't answer. Ackerman regrets the jibe. He steps into a HALLWAY where it's quiet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>I'm sorry Cara. That was uncalled for.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE	ON HER FACE as she listens to him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>I'm on edge because of our failure today. If only the American hadn't messed everything up... I felt sure Pearce would show up today.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>What makes you think he didn't?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman's face lights up...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>He wasn't supposed to. He was just a diversion.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. INTERPOL FIELD HQ, VENICE - DAY</Scene Heading>
+
+<NARRATIVE>Ackerman strides into the room, calling for attention.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Okay everybody, listen up.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones, Quinn, Jean Luc and the rest of the team assemble. Goyal has Frank with him, dragging him around like a lost puppy dog...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>We have a location and time for the next meet. Pearce's villa.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Eight o'clock. We have to move fast-</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>Pearce's own villa? Why would he risk going back there? He must know we'd be watching.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jean Luc chimes in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEAN LUC</Character_Name>
+<Utterance>Perhaps he's nostalgic.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>I doubt that. Maybe there's something of value still there.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>He left in a hurry after all.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones speaks up again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>Call in a search team.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>We searched the place after the raid last year. If there's anything hidden there, only Pearce knows where it is.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman picks up his coat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>We need to get agents in place all around the villa.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank speaks up unexpectedly.</NARRATIVE>
+
+<DIALOGUE>
+<-- Note: There is no dialogue from Frank, only an action -->
+<NARRATIVE>Ackerman continues speaking without any additional narrative or dialogue from other characters.</NARRATIVE>
+
+Here is the annotated script in a structured XML-like format:
+
+<Scene Heading>FRANK</Scene Heading>
+
+<NARRATIVE>Frank stands up and starts to walk, addressing an unseen audience.</NARRATIVE>
+
+<NARRATIVE>A dozen heads turn to look at him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>If I needed your advice Mr. Taylor, I'd ask.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank shrinks down in his chair.</NARRATIVE>
+
+<NARRATIVE>A beat. Ackerman turns back to the rest of the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Establish a wide perimeter. We'll keep our distance and wire the entire villa for video surveillance.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The meeting breaks up. Everybody jumps into action.</NARRATIVE>
+
+<NARRATIVE>ON QUINN as he slips out a side door.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. CIPRIANI HOTEL - DAY</Scene Heading>
+
+<NARRATIVE>A standard hotel room-- no lavish suite this time.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Come in.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank enters the room. Sees her half-dressed-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>I'm sorry.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>                             CARA</Scene Heading>
+
+<NARRATIVE>It's okay.   Come over here.    I</NARRATIVE>
+
+<NARRATIVE>need your help.</NARRATIVE>
+
+<NARRATIVE>In an echo of their first meeting on the train (but</NARRATIVE>
+
+<NARRATIVE>without the false flirtation) she turns to him and hands</NARRATIVE>
+
+<NARRATIVE>him a piece of tape.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>It's okay.   Come over here.    I</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>need your help.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Their eyes meet.   A flicker of a smile passes between them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Ackerman told me everything.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>I'm sorry Frank.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>There's no apology necessary.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He steps back from her.    She smooths her blouse.   Turns to him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(re: the wire)</Parenthetical>
+<Utterence>How do I look?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Like the most beautiful woman on earth.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The complete honesty and directness of his compliment takes her by surprise. She's strangely moved by it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>When will you go home?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mallory</Character_Name> is not mentioned in this scene, but the character Frank is present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Ackerman asked me to stay with the surveillance team in case the thugs who came after me at the</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>thugs are not seen in this scene, but Frank mentions them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>thugs who came after me at the</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. LOCATION - DAY</Scene Heading>
+
+<NARRATIVE> Danieli show up. I'm the only one who can identify them.</NARRATIVE>
+
+<NARRATIVE> Something occurs to Frank.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Did you tell him to keep an eye on me?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(busted)</Parenthetical>
+<Utterance>I told him to make sure you were safe until this was over.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> He nods. A little pleased at her concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You shouldn't worry about me. What about you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>What about me?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>What are you going to do?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She takes a beat, then puts her game face on.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>My job.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>EXT. ALEXANDER'S VILLA - NIGHT</NARRATIVE>
+
+<NARRATIVE>A light mist. The sound of water lapping against the shore. The scene is familiar... almost identical to the night of the raid just over a year ago.</NARRATIVE>
+
+<NARRATIVE>Then a wind picks up and blows the mist clear.</NARRATIVE>
+
+<NARRATIVE>REVEAL an undercover POLICEMAN with an earpiece walking a dog a block away...</NARRATIVE>
+
+<NARRATIVE>ON A ROOFTOP three blocks away - A SNIPER with a scope.</NARRATIVE>
+
+<NARRATIVE>INSIDE AN APARTMENT - a FEMALE AGENT with binoculars scans the empty street below.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+Here is the annotated script in XML-like format:
+
+<Scene Heading>ON THE CORNER - two blocks down is a village CHURCH.</Scene Heading>
+
+<NARRATIVE>Two blocks down from here is a village church, incongruous with the high-tech equipment set up by Ackerman and his team for surveillance.</NARRATIVE>
+
+<NARRATIVE>The high-tech equipment looks out of place in the thousand year-old stone walls and worn oak pews of the church.</NARRATIVE>
+
+<Scene Heading>INT. CHURCH - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Ackerman and his team have set up a make-shift surveillance outpost here, with monitors revealing various views of Alexander's villa inside and outside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>You all read the same newspaper.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman is holding a copy of the International Herald Tribune, which Frank notices.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Parenthetical>(to Frank)</Parenthetical>
+<Utterance>It's a good paper. And sold throughout the world. Makes the classified ads especially useful...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman sits down next to Frank, as if they are old friends.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Since the internet came about, hardly anybody uses old school methods like that to communicate anymore. Except Alexander Pearce. No lines to tap. No signals to intercept.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman admires Alexander's cleverness in using old-school communication methods.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>I look forward to meeting him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance	So do I.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. WATERWAY - NIGHT</Scene Heading>
+
+(Note: There is no narrative or dialogue for this scene, so it can be omitted if desired)
+
+<Scene Heading>A PATROL BOAT circles in the canal behind the villa.</Scene Heading>
+
+<NARRATIVE> One of Ackerman's Italian AGENTS is at the wheel, looking out towards a flat-bottomed black BOAT motoring toward him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>AGENT</Character_Name>
+<Utterance>You'll have to turn around, sir. There's been a chemical spill in this area-</Utterance>
+<Parenthetical>(interrupted)</Parenthetical>
+</Turn>
+
+<NARRATIVE>A silenced bullet strikes the agent in the forehead.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>AGENT</Character_Name>
+<Utterance>FWWWAP!</Utterance>
+</Turn>
+
+<NARRATIVE>The agent topples into the water with a gentle splash, and the black boat steers around the rudderless patrol boat and heads toward the villa.</NARRATIVE>
+
+<Scene Heading>INT. ALEXANDER'S VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE>BINOCULAR POV: a lone female figure, CARA, walks down the cobblestone streets toward the villa.</NARRATIVE>
+
+<NARRATIVE>SURVEILLANCE AGENT (V.O.) narrates as Cara approaches the destination now.</NARRATIVE>
+
+<Scene Heading>EXT. BACK OF THE VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE>The black boat slips underneath some moorings and a gloved hand tosses a grappling hook up to a beam ten feet overhead, catching it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SILENT FIGURE</Character_Name>
+<Utterance>(silently)</Utterance>
+</Turn>
+
+<NARRATIVE>A masked figure begins to climb from the boat up into the bottom floor of the villa in semi-darkness.</NARRATIVE>
+
+<Scene Heading>INT. SURVEILLANCE OUTPOST IN CHURCH</Scene Heading>
+
+<NARRATIVE	ON THE MONITOR WE SEE PEARCE'S ENTRY HALL, where Cara unlocks the front door with a key.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(unlocks door)</Utterance>
+</Turn>
+
+<Scene Heading>INT. ALEXANDER'S VILLA/VIDEO MONITORS - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A deserted mansion, turned into a museum-like atmosphere, with cold and lifeless decor. WE FOLLOW <Character_Name>CARA</Character_Name>, moving through the rooms via video monitors.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>(points)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A male figure, masked, approaches a surveillance camera lens on a lower floor monitor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterence>What happened? Get it back on line!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>How did he know there would be a camera?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Surveillance technicians frantically work to restore the system.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterence>He's taking out the entire surveillance system-</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts off abruptly as another monitor goes dark.</NARRATIVE>
+
+<Scene Heading>ACKERMAN</Scene Heading>
+
+<NARRATIVE>Frank looks anxiously at Cara on the monitor climbing the stairs...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEAN LUC</Character_Name>
+<Utterance>How can one man move through the house that fast?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Parenthetical>(overlapping)</Parenthetical>
+<Utterance>What should we do?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Shut up! Everyone.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They quiet down. Ackerman turns to the tech.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN (CONT'D)</Character_Name>
+<Utterance>Do we still have audio?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The tech nods.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN (CONT'D)</Character_Name>
+<Utterance>Turn it up.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Everybody in the Church stands stock still. Staring at the dark monitors. Listening.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA (V.O.)</Character_Name>
+<Utterance></Utterance> <!-- Cara's breathing gets louder. There's somebody else in the building. -->
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>We hear a thump. A door or a heavy footstep?</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>ON FRANK -- concerned.</Scene Heading>
+
+<NARRATIVE>Frank's expression turns from indifference to concern as he looks at Alexander.</NARRATIVE>
+
+<Scene Heading>ON ACKERMAN -- calm.</Scene Heading>
+
+<NARRATIVE>Ackerman remains unruffled, a calm demeanor still evident on his face.</NARRATIVE>
+
+<Scene Heading>INT. ALEXANDER'S VILLA, PENTHOUSE - NIGHT</Scene Heading>
+
+<NARRATIVE>Cara stands in the center of the large room, catching sight of her reflection in the floor-to-ceiling window.</NARRATIVE>
+
+<NARRATIVE>There's a movement in the doorway behind her...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>Sorry to disappoint you, my dear.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov steps toward her.</NARRATIVE>
+
+<NARRATIVE>Cara pales.</NARRATIVE>
+
+<Scene Heading>INT. CHURCH - NIGHT</Scene Heading>
+
+<NARRATIVE>Everybody strains to hear what is happening.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>(whispers)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones whispers something to the others.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV (V.O.)</Character_Name>
+<Utterance>How are you this evening?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara responds in a tremulous voice.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA (V.O.)</Character_Name>
+<Utterance>(a tremor in her voice)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEAN LUC</Character_Name>
+<Utterance>The accent is Russ-</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman interrupts Jean Luc, telling him to be quiet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Parenthetical>(shushing)</Parenthetical>
+<Utterance>Shh!</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE> It's Ivan Demidov. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterence>(uncertainly) Not possible.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> INTERCUT WITH THE VILLA </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance> </Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Demidov follows. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterence> You're waiting for someone, Ms. Mason? </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance> </Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterence> You haven't seen Alexander Pearce in a long time, yes? I'm sure it will be a touching reunion. (MORE) </Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> 91. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterence> If you don't mind, we'll keep you company while you wait. </Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>(anxious) What are we going to do? </Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence> We're going to wait for Alexander Pearce. Just like them. </Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. ROOFTOP - NIGHT</Scene Heading>
+
+<NARRATIVE> SNIPER'S POV - CARA has maneuvered close enough to the window that she is visible. As they approach, Demidov and his two men come into range as well. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SNIPER</Character_Name>
+<Utterence>(into his radio mic) She's brought them to the window... </Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CHURCH - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Everybody is listening.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SNIPER (V.O.)</Character_Name>
+<Utterance>...there are three of them.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ON FRANK'S FACE - he looks around at the cops desperately hoping somebody will do something. They all look to Ackerman.</NARRATIVE>
+
+<Scene Heading>INT. ALEXANDER'S VILLA, PENTHOUSE - NIGHT</Scene Heading>
+
+<NARRATIVE>Demidov circles Cara dangerously close.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>Not very polite of your boyfriend to keep you waiting.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>He loses track of time easily.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>I have a hard time believing that.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Parenthetical>(pause)</Parenthetical>
+<Utterance>Perhaps he's already here somewhere... hiding... even watching us.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>INSIDE THE CHURCH</Location></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV (V.O.)</Character_Name>
+<Utterance>What do you think?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A long silence. The tension grows. Then we hear... A LOUD SLAP.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV (V.O.)</Character_Name>
+<Utterance>You know... I have a feeling he is around here somewhere. And if he cares about you... if he wants to see your lovely face again... he should show up before it's too late.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>A police station, somewhere in a city. We see <Character_Name>CARA</Character_Name>, a woman, being slapped by <Character_Name>Goyal</Character_Name>. The camera cuts to <Location>interior of the police station</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>Sir?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Demidov's right. He's here somewhere...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara cries out in pain after another SLAP.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Parenthetical>(to Ackerman)</Parenthetical>
+<Utterance>What if he doesn't come?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman remains silent.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEAN LUC</Character_Name>
+<Utterance>We have to do something---</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Parenthetical>(harsh)</Parenthetical>
+<Utterance>She's my agent. She's my responsibility.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A muffled THUD is heard, followed by Cara groaning and hitting the floor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>We have to wait---</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Every cop in the room clutches their weapon, desperate for an order to move. They are all waiting for Ackerman's decision.</NARRATIVE>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Cara lies on the floor, groaning in pain.</NARRATIVE>
+
+<Scene Heading>The lack of sound in the church is even more disturbing</Scene Heading>
+
+<NARRATIVE>than before.</NARRATIVE>
+
+<NARRATIVE>Suddenly Goyal notices...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>Where's Taylor?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>SMASH CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. STREET - NIGHT</Scene Heading>
+
+<NARRATIVE>Frank runs for all he's worth.</NARRATIVE>
+
+<NARRATIVE>Panting for breath.</NARRATIVE>
+
+<Scene Heading>INT. ALEXANDER'S VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE>Frank bursts through the front door.</NARRATIVE>
+
+<NARRATIVE>Races to the steps without hesitating...</NARRATIVE>
+
+<Scene Heading>INT. ALEXANDER'S VILLA, PENTHOUSE - NIGHT</Scene Heading>
+
+<NARRATIVE>Cara lies on her side at Demidov's feet.</NARRATIVE>
+
+<NARRATIVE>Blood trickles from the side of her mouth.</NARRATIVE>
+
+<NARRATIVE>Her eyes are clouded with fear and pain as she views the room half-askew.</NARRATIVE>
+
+<NARRATIVE>Then they suddenly come into focus as she sees...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>(standing motionless in the doorway, surprisingly calm)</Utterance>
+</Turn>
+
+<Scene Heading>Demidov turns.</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Parenthetical>(leans down to Cara)</Parenthetical>
+<Utterance>Good news. He loves you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov's men take Frank by either arm and roughly drag him forward.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(lifting her head with an effort)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. ABANDONED WAREHOUSE - DAY</Scene Heading>
+
+<NARRATIVE> That's not Alexander Pearce.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>You know, Mr. Pearce, I thought I was finished with this sort of thing. But in your case, I've been forced to make an exception.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He holds out his hand and one of his THUGS gives him a PISTOL and a SILENCER.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>He is NOT Alexander Pearce!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov begins screwing the silencer onto the barrel.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>(screwing on silencer)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The thugs push Frank to his knees.</NARRATIVE>
+
+<NARRATIVE>But he's barely paying attention to them. His eyes are locked on Cara.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(meeting Frank's gaze)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She meets his gaze. For a moment, it's as if nothing else in the world exists but the two of them.</NARRATIVE>
+
+<NARRATIVE>He may only be a hapless tourist, but he loves her. He's the one here, willing to give up his life to save hers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(CONT'D) Oh Frank...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Nothing to be sorry for.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov finishes attaching the silencer. He points the gun at the back of Frank's head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEMIDOV</Character_Name>
+<Utterance>Good bye Mr. Pearce.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara fills her lungs and screams:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>Ackerman!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She bends her head toward her cleavage, yelling into the ...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(yelling into her cleavage)</Parenthetical>
+<Utterance>Ackerman!</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CHURCH - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A church somewhere in an undisclosed location.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(furious)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov is taken off guard.</NARRATIVE>
+
+<NARRATIVE>Ackerman gives the order.</NARRATIVE>
+
+<Scene Heading>EXT. ROOFTOP - NIGHT</Scene Heading>
+
+<NARRATIVE>Sniper's POV, Demidov and his gun-wielding henchmen standing over Frank and Cara.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Ackerman</Character_Name>
+<Utterance>Do it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. ALEXANDER'S VILLA, PENTHOUSE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>The huge, plate glass window shatters as the high-powered bullet slams through it!</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(no character specified)</Character_Name>
+<Utterance>Everything explodes in a mass of blood and glass. Scarface is blown off his feet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov looks from the window to Cara with cold fury in his eyes-- she's the one who has called in the artillery.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Demidov</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank holds Scarface's smoking pistol in his hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>The life drains from his eyes and he topples...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Demidov's other bodyguard fires out the windows wildly and makes a run for it. Glass flies everywhere.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>He throws his body over Cara to protect her.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades out as chaos erupts in the background.</NARRATIVE>
+
+<Scene Heading>EXT. ALEXANDER'S VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE>A short and furious exchange of gunfire occurs at <Location>Alexander's Villa</Location>. Several plate glass windows explode, and wood splinters fill the air as furniture is torn apart.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Are you all right?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara nods in response. She looks at <Character_Name>Frank</Character_Name> for a long moment, then breaks out into a smile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>I did well to choose you on the train...</Utterence>
+<Parenthetical>(she says with a smile)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>You didn't get to arrest Alexander Pearce...</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>He never showed up.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(gently)</Parenthetical>
+<Utterence>Are you all right?</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> slides closer to <Character_Name>Cara</Character_Name> and gently slips his hands into her cleavage.</NARRATIVE>
+</DIALOGUE>
+
+<Scene Heading>INT. SOMEWHERE - DAY</Scene Heading>
+
+<NARRATIVE>Cara starts to pull back, but he puts a <Character_Name>FRANK</Character_Name> finger to her lips.</NARRATIVE>
+
+<NARRATIVE>She hesitates and looks at him questioningly. But she doesn't protest as his fingers move toward her bra...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>You're wrong. I'm here.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(covers her mouth)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> leans a little closer and whispers in her ear.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>It's me.   I'm here.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(covers her mouth)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Parenthetical>(her eyes mist over with tears)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Cara</Character_Name> runs her fingers over his face with loving amazement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>(like a blind person trying to recognize a familiar face)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> and <Character_Name>Cara</Character_Name> kiss. And kiss.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>(finally pulling away)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>Why?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(pause)</Parenthetical>
+<Utterence>You said I'd told so many lies, you wouldn't believe me even if I did tell the truth...</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>This was the only way to convince you.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>(stares into his eyes)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Frank</Character_Name> looks at her without a trace of deception. <Character_Name>Cara</Character_Name> believes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>The truth is that I love you. All that matters is that you believe me.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>(stares into his eyes)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>She believes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. SAFEROOM - DAY</Scene Heading>
+
+<NARRATIVE>They hear voices on the stairs below.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>wait</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank holds up a finger to her-- wait.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(to herself)</Parenthetical>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank crawls across the room and presses a hidden latch on a built-in bookshelf. It swings out of the way to reveal a hidden safe built into the floor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank removes the fitted floor boards. There is a sophisticated BIO-METRIC LOCK -- just like the one at the gate in the beginning of the movie.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank places his finger on the spot and the lock clicks open.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. ALEXANDER'S VILLA - NIGHT</Scene Heading>
+
+<NARRATIVE>TRACK WITH ACKERMAN up the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He leads the team into the PENTHOUSE.</NARRATIVE>
+
+<NARRATIVE>He looks around at the mess as the agents fan out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara leans on Frank's arm as she heads for the exit.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>I want the paramedics to make sure you're all right--</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cara blows right past him. Ackerman calls out after her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She pauses. Turns to face him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>I'm sorry... I... we'll talk about this later.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman looks down for a moment, ashamed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>No we won't. There's nothing to talk about.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A high-tech office setting. <Character_Name>FRANK</Character_Name>, a man in his mid-40s with an American accent, stands facing <Character_Name>ACKERMAN</Character_Name>, a well-dressed middle-aged man.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>talk about. I don't work for you anymore.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(looking at a document) You're telling me you quit?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She walks past him. For a moment Ackerman and Frank look at one another.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Mr. Taylor... you're free to go.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(looking at Ackerman with a measure of begrudging respect)</Parenthetical>
+<Utterance>It seems I underestimated you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(acknowledging Frank's comment) It seems you did, Mr. Ackerman.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>With that, Frank steps out of the room. Ackerman's attention is distracted by--</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>Sir... over here. Take a look at this!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Goyal has found the safe. Ackerman comes over and looks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterance>(to the tech) unless I'm mistaken... he left the money behind.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>(looking on eagerly)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Parenthetical>(to Ackerman) Account numbers... access codes...</Parenthetical>
+<Utterance>(to the tech) unless I'm mistaken... he left the money behind.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>(looking at the laptop screen)</Utterance>
+</Turn>
+
+<NARRATIVE>While they are doing this, Ackerman bends to inspect the BIO-METRIC LOCK.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>He was here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A TECH reads from the laptop screen, but nothing is visible to us. Ackerman stands up and walks over to Goyal.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>(reading from the laptop) Account numbers... access codes...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A close-up of a FLASH DRIVE is inserted, showing its contents: account numbers and access codes. Goyal's eyes widen in surprise.</NARRATIVE>
+
+<Scene Heading>A mistake perhaps?</Scene Heading>
+
+<NARRATIVE>A room somewhere with <Location>JONES</Location>, sitting at a desk. A computer screen is behind her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterence>How much is there?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Goyal scans down to a total...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GOYAL</Character_Name>
+<Utterence>Lets like 744 million.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones walks over.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES (CONT'D)</Character_Name>
+<Utterence>That's no mistake... That's his tax bill.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A Tech is standing next to Jones, holding a Flash Drive. Jones holds out her hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES (CONT'D)</Character_Name>
+<Utterence>I'll take that.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She slips the Flash Drive into her pocket, then turns to Ackerman. He is standing away from Jones, staring at the ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES (CONT'D)</Character_Name>
+<Utterence>100.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman moves forward, a mix of emotions on his face. Jones puts her hand on his back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES (CONT'D)</Character_Name>
+<Utterence>Well John... with the funds recovered, I don't think there's going to be any appetite from our side to continue this investigation.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ackerman turns around. Jones steps back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterence>Oh but I did get my man, Ms. Jones.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones' expression changes, realizing Ackerman's motives all along.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES (CONT'D)</Character_Name>
+<Utterence>Demidov's body lies on the ground. Ackerman is staring at it with a mix of emotions, but suddenly his face lights up with a smile as he looks directly at Jones.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jones' eyes widen in realization.</NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>A police station somewhere, <Location>we're not sure where</Location>. <Character_Name>ACKERMAN</Character_Name>, his back to us, is standing by a window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>Mr. Goyal, you may place Mr. Quinn under arrest now.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>QUINN</Character_Name> is taken completely off guard. Before he can move, <Character_Name>GOYAL</Character_Name> and another agent have placed him in handcuffs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(to Quinn) What? You thought I didn't know?</Utterance>
+<Utterance>You were unwittingly quite helpful; without you Mr. Demidov might have escaped justice.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>ACKERMAN</Character_Name> turns to <Character_Name>JONES</Character_Name> with a smile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>There's something I don't understand... how did Pearce manage to get here and open that safe without anybody noticing? And where did he go?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>ACKERMAN</Character_Name> stands at the window with his hands behind his back. For a brief moment, <Character_Name>FRANK</Character_Name> looks back up at him and their eyes connect.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JONES</Character_Name>
+<Utterance>(to Frank) There's something I don't understand...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ACKERMAN</Character_Name>
+<Utterance>(smiling) For a moment he doesn't move. Then, in spite of himself, a small smile creeps over his face too.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CARA</Character_Name> takes <Character_Name>FRANK'S</Character_Name> arm to climb onto the boat.</NARRATIVE>
+
+<NARRATIVE>A water taxi approaches.</NARRATIVE>
+
+<NARRATIVE>The camera cuts to a POV shot of Ackerman looking out the window, his eyes narrowing. He knows something.</NARRATIVE>
+
+<Scene Heading>ACKERMAN</Scene Heading>
+
+<NARRATIVE>Because <Character_Name>Pearce was cleverer than all of us.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Location>EXT. WATER TAXI - NIGHT</Location>
+
+<NARRATIVE><Character_Name>Cara</Character_Name> and <Character_Name>Frank</Character_Name> step on board.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DRIVER</Character_Name>
+<Utterance>The $20 million dollars worth of surgery and that's the face you chose?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Parenthetical>(English accent)</Parenthetical>
+<Utterence>It's good to see you too.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Cara</Character_Name> is in disbelief, realizing just how completely <Character_Name>Frank/Alexander</Character_Name> has planned things out. She casts one last glance backwards.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>You really think they'll just give up?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>The Americans have their money. I left it all for them.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterence>What about Demidov's money?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterence>Well... (smiles) You have to save something for your pension.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The <Location>DRIVER</Location>, who is revealed to be the "ENGLISHMAN" we've seen throughout the movie, and <Character_Name>Frank</Character_Name> look at one another for a moment.</NARRATIVE>
+
+<Scene Heading>INT. CABIN - DAY</Scene Heading>
+
+<NARRATIVE>The Englishman opens the door to the cabin for them.</NARRATIVE>
+
+<NARRATIVE>A bottle of Crystal Champagne and two glasses are set out for them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRANK</Character_Name>
+<Utterance>Enjoy?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Frank leads Cara in and offers her a glass.</NARRATIVE>
+
+<NARRATIVE>Instead, she slips into his arms and presses against him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARA</Character_Name>
+<Utterance>(whispering)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They begin to kiss...</NARRATIVE>
+
+<NARRATIVE> CAMERA STAYS discreetly behind as they pull away from us,</NARRATIVE>
+
+<NARRATIVE>the water taxi swinging out into the Grand Canal.</NARRATIVE>
+
+<NARRATIVE>As it recedes from view, the vaporetto's tail lamps shimmer and blend into the beautiful lights of Venice... a city for lovers.</NARRATIVE>
+
+<Scene Heading>CUT TO</Scene Heading>
+
+<Scene Heading>EXT. GRAND CANAL - DAY</Scene Heading>
+
+<NARRATIVE>The city's lights and reflections dance on the water.</NARRATIVE>
+
+<NARRATIVE>A romantic moment, suspended in time.</NARRATIVE>
+
+<Scene Heading>CUT TO</Scene Heading>
+
+<Scene Heading>THE END</Scene Heading>
+

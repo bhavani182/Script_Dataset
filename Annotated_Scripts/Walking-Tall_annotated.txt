@@ -1,0 +1,3946 @@
+Here is the annotated script:
+
+
+<Scene Heading>WALKING TALL</Scene Heading>
+
+<NARRATIVE>A true story inspired by real events.</NARRATIVE>
+
+<Scene Heading>INTRO</Scene Heading>
+
+<NARRATIVE>We home in on a boat coming in to shore. Off walks a man, <Character_Name>CHRIS</Character_Name>, carrying a backpack and wearing shades.</NARRATIVE>
+
+<Scene Heading>EXT. TOWN</Scene Heading>
+
+<NARRATIVE>He walks through a town, passing various stores and the general bustle of the people there. He notices a baby in a pram left out on the sidewalk, then sees the mother is in an alleyway doing what looks like a drug deal.</NARRATIVE>
+
+<Scene Heading>EXT. LUMBER YARD</Scene Heading>
+
+<NARRATIVE>Chris reads a closure notice on the door. A police car rolls up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>How ya doin'?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Ok. When'd the mill close?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Ahh 3 years this August. If ya lookin for work you might wanna try Aberdeen, that's the closest mill work you're gonna find around here.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>That's too bad.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Nah just simple economics. Y'know we</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. CASINO - DAY</Scene Heading>
+
+<NARRATIVE>A casino somewhere, the sign reads "Wild Cherry". <Character_Name>CHRIS</Character_Name>, a man with a somewhat troubled look, is standing near the entrance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>You have a really nice casino here, the Wild Cherry. You wanna make some money maybe you wanna go on down there and try your luck at the blackjack tables.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris turns around and the sheriff notices his name on a bag.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>You're Chris Vaughn?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff chuckles and steps out of the car.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Well hell, I know all about you Chris. I know your folks, I'm Sheriff Stan Watkins.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They shake hands.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>How ya doin?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Ralston, get outta the car, you're lookin' at a real soldier here pay some respect.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ralston exits the car.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RALSTON</Character_Name>
+<Utterance>Welcome home soldier.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Thanks.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff opens the back door of his car.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Here Chris, we'll give ya a ride up to your folks.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Nah I'm fine thank you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>I insist.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'll walk.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris turns to leave, the sheriff's car following him.</NARRATIVE>
+
+<Scene Heading>EXT. HIGHWAY - DAY</Scene Heading>
+
+<NARRATIVE>A highway somewhere, with a small car driving along the road.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Hey it's my pleasure.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>It's ok.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>I won't take no for an answer (jokingly reaches for his gun).</Utterance>
+<Parenthetical>(HEYS! Get in the car.</Parenthetical>
+</Turn>
+
+<NARRATIVE>Chris raises his hands and the sheriff chuckles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Did I scare ya with that one?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Lil bit.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Ya. Let's go.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to INT. POLICE CAR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>You were gone a while huh?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>8 years. Harstad was sheriff back then.</Utterance>
+</Turn>
+
+<NARRATIVE>The sheriff nods, remembering an old story.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Harstad, yeah. Sad story. About 5 months back he fell asleep at the wheel and uhhh... hit a tree. Good man, good man and a good sheriff.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to EXT. THE FAMILY HOME.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Thanks for the ride.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>No problem, and uh Chris (hands him a piece of paper). It's election month... I'm your man.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE> A house somewhere in a suburban area, with a white building clad in wood.</NARRATIVE>
+
+<NARRATIVE> Chris takes the paper and smiles. He walks up the lane toward the house.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE> A lady dressed in a police uniform comes out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Can I help you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris laughs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Lil' brother.. You come over here and gimme a hug.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They laugh together.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>You look great.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>What is this?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MICHELLE calls out to someone inside the house.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Hey, I couldn't let you be the only one looking good in uniform. Hey ma! Chris is here!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris's mother, Connie, comes out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>What's with the tent? (points to a tent set up on the lawn).</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MICHELLE responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Oh, that's for Pete.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A man slowly emerges from the front door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterance>Look at you!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>How ya doin?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris hugs his mother, Connie.</NARRATIVE>
+
+<NARRATIVE>A man slowly emerges from the front door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>For good. I'm home.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CONNIE responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterance>Really? You're not kiddin.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+
+<Scene Heading>EXT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>A house somewhere in <Location>a quiet neighborhood</Location>. The family, including <Character_Name>CHRIS</Character_Name>, his parents <Character_Name>DAD</Character_Name> and <Character_Name>CONNIE</Character_Name>, and his sister <Character_Name>MICHELLE</Character_Name>, are standing outside the house.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> is embracing <Character_Name>Dad</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>No.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterence>They hug again.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. KITCHEN - DAY</Scene Heading>
+
+<NARRATIVE>The family is eating takeaway in the kitchen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterence>I wish you would have told me you were coming I would've cooked.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>This is great.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterence	So what are you gonna do now that you're home?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Well I was planning on working at the mill, your letters never mentioned that it was closed.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterence>We didn't wanna bother you with our problems when your father got laid off.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dad</Character_Name> interrupts the conversation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>I got my business, you saw the furniture outside.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterence>I substitute at the elementary school, Michelle pitches in. We try to keep things simple.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A kid walks into the kitchen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterence>(to someone off-screen)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The family continues their conversation.</NARRATIVE>
+
+<Scene Heading>...</Scene Heading>
+
+Please note that I've assumed the scene headings and locations based on the provided script. If there are any discrepancies, please let me know and I'll be happy to correct them.
+
+<Scene Heading>INT. KITCHEN - DAY</Scene Heading>
+
+<NARRATIVE>Pete! This is your Uncle Chris.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Hey Pete.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Sit down, say hello. Last time he saw you you were barely walking.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>And now I'm camping.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>I said you could sleep on the couch. It was Chris' room first.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<NARRATIVE>Pete's tone is casual, but his eyes are fixed intently on Uncle Chris.</NARRATIVE>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Your tent's gonna take on water. I could show ya how to rig it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Doesn't look like it's gonna rain to me Colonel.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Pete, cmon sit down, have somethin to eat.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<NARRATIVE>Michelle glances at Pete and Chris, urging them to settle the argument.</NARRATIVE>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>First of all I was a sergeant. I worked for a living.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Did you ever smoke anybody?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<NARRATIVE>Micchelle intervenes, warning Pete about his question.</NARRATIVE>
+
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Parenthetical>(aloud)</Parenthetical>
+<Utterance>Pete!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Pete!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Y'know, Papa's still got your gun locked up in the garage. Think you could teach me how to shoot?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<NARRATIVE>Chris seems taken aback by Pete's question.</NARRATIVE>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I figured that'd be scrap metal by now dad.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>The scene fades to black as the family continues their discussion.</Location></NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. LIVING ROOM</Scene Heading>
+
+<NARRATIVE> A living room with a couch and a TV. <Character_Name>DAD</Character_Name>, his back turned to us, is standing by a table talking to someone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>No, I'm still hoping that you'll melt that thing down on your own.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The camera pans to show <Character_Name>CHRIS</Character_Name>, who is looking at his dad with a sheepish expression.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Sorry Pete.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>PETE</Character_Name> walks in, looking unimpressed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Whatever. I'm outta here Mom.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>MICHELLE</Character_Name>, presumably Pete's mother, speaks to him as he leaves.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Okay, be back by ten.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>PETE</Character_Name> responds to his mother's request as he walks out the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Ten thirty (as he walks out)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>MICHELLE</Character_Name> responds, slightly annoyed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Ten!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The camera cuts to a different location, <Location>INT. BEDROOM</Location>.</NARRATIVE>
+
+<NARRATIVE> We can see from the window that it's raining heavily outside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Remind you of anyone?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The camera pans to show <Character_Name>CHRIS</Character_Name>, who is unpacking his things.</NARRATIVE>
+
+<NARRATIVE> <Character_Name>PETE</Character_Name> enters the room, looking wet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Ok it rained. Happy?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>CHRIS</Character_Name> responds to Pete's comment, slightly annoyed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>No. Why dontcha crash on the floor?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>PETE</Character_Name> looks at Chris, then starts to walk out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>uh uh. (starts walking out)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> <Character_Name>CHRIS</Character_Name> tries to intervene.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Pete. (hands him a towel). Keep ya dry.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The camera cuts to Pete, who is now holding the towel and looking at Chris.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. OUTSIDE THE HOUSE</Scene Heading>
+
+<NARRATIVE>A crappy camper van rolls up. A man steps out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Did you really kill people?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Hello puddin'.<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>How ya doin?<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>I'm alright.<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>What is that? (points to the van)<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>That's the lovemachine. <Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Girls actually get in there?<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>No.<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>How ya been?<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Good. Clean livin'. <Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Wanna beer?<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Parenthetical>(smirks)</Parenthetical>
+<Utterance>No. Believe it or not I quit drinkin'. <Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'll take a soda though.<Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>(smirks)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris hands Ray a soda.</NARRATIVE>
+
+<Scene Heading>INT. REUNION - DAY</Scene Heading>
+
+<NARRATIVE>A group of friends, <Character_Name>CHRIS</Character_Name>, <Character_Name>RAY</Character_Name>, and others are sitting in a room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Ray</Utterance>
+<Parenthetical>(extending his hand)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Thanks man.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Whoah. (spots a tattoo of a guitar on Ray's arm).</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Parenthetical>(spotting the tattoo)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Ya like that? When you left town it gave me the idea that I should do something with my life too so uhh I went down to Seattle, got a guitar and became all about music. And then pretty soon I was about music and drugs, n pretty soon I was basically just about drugs. Ended up doin 2 years for B+E.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'm sorry.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Nahh, look at me now though right? I been clean and sober for 14 months, doing construction and renewing those supportive and healthy friendships from my past. Matter of fact I talked to the bastards, told em you were back and they asked me to politely remind you that kick off's in twenty minutes.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>RAY</Character_Name> points at a timer or clock.</NARRATIVE>
+
+<Scene Heading>EXT. FOOTBALL FIELD - DAY</Scene Heading>
+
+<NARRATIVE>A group of guys are waiting, one of them holding a ball. They salute as <Character_Name>CHRIS</Character_Name> walks up. They all laugh.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Playin ball?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ALL</Character_Name>
+<Utterance>Let's play ball!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Parenthetical>(excited)</Parenthetical>
+<Utterance>Ray go deep go deep! (as Ray runs off he throws the ball into Ray's back).</Utterance>
+</Turn>
+
+<NARRATIVE>The group of friends continue their reunion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>(Spotting a sign that reads 'HAMILTON</Utterance>
+</Turn>
+
+<Scene Heading></Scene Heading>
+
+(Narrative ends abruptly, no final narrative tag)
+
+Here is the annotated script:
+
+<Scene Heading>FIELD</Scene Heading>
+
+<NARRATIVE>A scene of a field, where <Character_Name>JIMMY</Character_Name> and <Character_Name>CHRIS</Character_Name> are standing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterance>When did that happen?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>JIMMY</Character_Name> explains to <Character_Name>CHRIS</Character_Name> that his parents hadn't left the mill more than 2 minutes before he shut it down.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Why?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A voice shouts 'HEADS UP' and <Character_Name>CHRIS</Character_Name> catches a fast ball thrown from behind.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Cause I opened my Casino.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>JAY</Character_Name> steps out of his vehicle.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Still got a gut huh Jay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Parenthetical>(smirking)</Parenthetical>
+<Utterance>Still got your reflexes. What, you get tired of being all that you can be?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A football game ensues with two teams: <Character_Name>JAY</Character_Name>'s guys vs <Character_Name>CHRIS</Character_Name>'s guys.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'm still all I can be.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Really? I'll just have to see about that. What brings you home?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CHRIS</Character_Name> explains he just wants to relax and catch his breath.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>You? Relax?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A truck with a few guys on it pulls up, and <Character_Name>JAY</Character_Name> says 'Not today.'</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Not today.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A football game continues with the two teams huddled into two groups talking on the sidelines.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Pete pulls up on a small motorcycle, and <Character_Name>CHRIS</Character_Name> notices Pete hanging around with kids smoking.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. FOOTBALL FIELD - DAY</Scene Heading>
+
+<NARRATIVE>A football field, the game is about to end.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>If we score here we win right?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name>, a football player, is standing on the field.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Alright boys, last play. We need to put this to rest.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Just give me the ball.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>You got it. On the first hut!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Ok Vaughn, last chance.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> gets the ball and throws it. An opponent comes in hard and tackles him low. He collapses. <Character_Name>Ray</Character_Name> runs for the ball but gets clotheslined by <Character_Name>Jay</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>That's game!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>OPPONENT</Character_Name>
+<Parenthetical>(to Chris)</Parenthetical>
+<Utterance>Sorry about that.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>That's cool man.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Hello!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Welcome home.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Good to be back.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>See ya round. Hey, if you're not doing anythin later on you could come by the casino. I'll introduce ya to some nice girls, drinks are on me. Whaddya say?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Jay</Character_Name> speeds off in his car. <Character_Name>Pete</Character_Name> rolls up on his bike.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>See ya tonight.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Cool.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. OUTSIDE THE WILD CHERRY CASINO</Scene Heading>
+
+<NARRATIVE>A group of friends standing outside <Location>The Wild Cherry Casino</Location>, discussing something.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>Hey Sarge, good game. Maybe next time.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris interrupts Pete and the group turns to him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Hold up. Maybe next time I won't see you with the bleachers smoking weed.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ray steps forward, greeting Chris warmly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Welcome home buddy.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. OUTSIDE THE WILD CHERRY CASINO</Scene Heading>
+
+<NARRATIVE>The scene cuts to the exterior of the casino again, where the group has moved.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Don't you have to be native american to own a casino?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterance>Oh Hamilton's one sixteenth black man now.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRIEND 2</Character_Name>
+<Utterance>Just so you guys know, I'm gonna triple my money tonight.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRIEND 3</Character_Name>
+<Utterance>Yea, like last time. Wound up selling your body for bus fare.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRIEND 4</Character_Name>
+<Utterance>He had to walk!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The group laughs at the joke.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Nobody's gonna have any problems finding this place.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Parenthetical>(smiling)</Parenthetical>
+<Utterance>It's the subtle attention to aesthetics that I find most impressive, blends in with the mountains SO nicely.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. WILD CHERRY CASINO</Scene Heading>
+
+<NARRATIVE>The scene cuts to the interior of the casino, which is packed with tables and attractive women.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterance>(To himself) Ah, what's up guys? You think you can handle some real action in there?</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CASINO - NIGHT</Scene Heading>
+
+<NARRATIVE> A casino somewhere in <Location>Las Vegas</Location>. <Character_Name>FRIEND</Character_Name>, <Character_Name>CHRIS</Character_Name>, and <Character_Name>RAY</Character_Name> are standing near the ATM machine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRIEND</Character_Name>
+<Utterance>Not bad huh?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Not bad.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Isn't it wonderful? All your gambling needs under one great big roof. You got your ATM machine, tellers to cash your paycheck, and when you're here you don't gotta worry about those lil things like child support, rent, the laws of mathematical probability.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Worker is standing nearby, watching them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WORKER</Character_Name>
+<Utterance>Gentlemen, Mr Hamilton would like to invite you to the VIP lounge.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. VIP LOUNGE - NIGHT</Scene Heading>
+
+<NARRATIVE>The camera pans across the VIP lounge, showing <Character_Name>JAY</Character_Name>, <Character_Name>CHRIS</Character_Name>, and <Character_Name>RAY</Character_Name> standing at a bar.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Heyyy, the dream team!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Nice place.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Yeah well. Welcome to my world. Look tonight, all the drinks are on the house. If you need a line of credit, say how much. And if you need a lil female companionship... done. Alright? Have a good time.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Where you goin?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Don't you worry about me, I've got a few things to do. Enjoy.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Just remember, nothin in here's free.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Jay</Character_Name> turns and walks away.</NARRATIVE>
+
+<Scene Heading>COURTYARD OF A BAR - NIGHT</Scene Heading>
+
+<NARRATIVE> A crowded courtyard of a bar somewhere in <Location>New Orleans</Location>. <Character_Name>CHRIS</Character_Name>, his friends, and others are having a night out. The atmosphere is lively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>c'mon, this place is nothin but fake boobs and real assholes if ya ask me.</Utterance>
+</Turn>
+
+<NARRATIVE>The friends all gather around the bar counter.</NARRATIVE>
+
+<NARRATIVE><Character_Name>CARL</Character_Name> hands Chris a drink.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARL</Character_Name>
+<Utterence>Here's to you Chris.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The friends all down their drinks. They lead Chris down a corridor, filled with various rooms and attractions.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CARL</Character_Name>
+<Utterence>Don't say we never did nothin' for ya!</Utterance>
+</Turn>
+
+<NARRATIVE>The friends all chuckle as they navigate through the corridor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterance>Don't worry, everybody's a lil scared the first time. Get in there, sit back and enjoy.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The friends lead Chris to a stripping booth, and <Character_Name>CARL</Character_Name> inserts money into the machine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterence>If you're not back by morning we'll send a search party for you.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>CARL</Character_Name> closes the door behind him, leaving Chris inside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Bye! No drinking.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A screen goes up and a striptease begins. The lady is dressed in the style of a firewoman, with a pole in the center of the stage.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRIPPER</Character_Name>
+<Utterance>So you from here or just visiting.</Utterance>
+</Turn>
+
+<NARRATIVE>The stripper dances around the pole and begins to remove her clothes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>A little of both, I grew up here.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>CHRIS</Character_Name> looks uncomfortable as the stripper continues to dance and remove her clothes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRIPPER</Character_Name>
+<Utterance>So you've seen all the old faces.</Utterance>
+</Turn>
+
+<NARRATIVE>The stripper seems to be hitting on Chris, who looks uneasy about it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Could say that.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>STRIPPER</Character_Name> takes a step closer to Chris as the stripper continues her performance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRIPPER</Character_Name>
+<Utterance>Your voice sounds very familiar.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with Chris looking uncomfortable, and the stripper continuing her performance.</NARRATIVE>
+
+<Scene Heading>               The lights come on.</Scene Heading>
+
+<NARRATIVE> STRIPPER and <Character_Name>CHRIS</Character_Name>, his back to us, are sitting at a booth in a <Location>Casino</Location>.</NARRATIVE>
+
+<NARRATIVE><Character_Name>CHRIS</Character_Name> gets up from the booth.</NARRATIVE>
+
+<Scene Heading>INT. CASINO</Scene Heading>
+
+<NARRATIVE>A casino somewhere in <Location>Nevada</Location>. <Character_Name>FRIEND 1</Character_Name> and <Character_Name>FRIEND 2</Character_Name> are standing at a table, looking at something.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FRIEND 1</Character_Name>
+<Utterance>Look who's back.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRIEND 2</Character_Name>
+<Utterance>So, good surprise?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRIEND 1</Character_Name>
+<Utterance>Told you it was better than gambling. You met Candy? (A girl is dancing on their table)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CRAPS TABLE</Scene Heading>
+
+<NARRATIVE>A craps table somewhere in the <Location>Casino</Location>. <Character_Name>CROUPIER</Character_Name> is standing at the table, calling out numbers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterance>6! Easy 6 for a win!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterance>(To some girls) We can do a 6.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterance>(To Chris) We're gettin killed out here. I need you to put 200 down for the bet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CRAPS TABLE (CONT'D)</Scene Heading>
+
+<NARRATIVE><Character_Name>CHRIS</Character_Name> is standing at a table, looking at something.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>No, hell no.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FRIEND 3</Character_Name>
+<Utterance>(To Chris) Look at them (Nods to girls).</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CASINO - NIGHT</Scene Heading>
+
+<NARRATIVE>A casino, presumably somewhere in <Location>Las Vegas</Location>. <Character_Name>CROUPIER</Character_Name> is running a craps game.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Five hundred on 6?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterence>Yes, I'm in. Boom! Gimme some dice.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> notices something odd and looks concerned.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Lookin' for a 6.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Jimmy. Don't roll. Gimme the dice.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The CROUPIER looks up, concerned.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Lookin' for a 6. Ohhhhh.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The dice have landed and it's a 7. <Character_Name>Jimmy</Character_Name> hangs his head in defeat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>To the croupier) You're good, but I saw it.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Saw what?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>I saw the switch.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Hey this is a clean game asshole.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Yea?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Yea.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Let's see about that.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Bet you I'll roll a seven.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> places a large bet on the table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>(looking concerned)</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>CROUPIER</Scene Heading>
+
+<NARRATIVE>It's not your roll sir.</NARRATIVE>
+<Parenthetical>SIR! It's not your roll.</Parenthetical>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterence>Call security.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris has taken the dice.</NARRATIVE>
+
+<Scene Heading>CHRIS</Scene Heading>
+
+<NARRATIVE>No, we gonna let it ride Jimmy. The dice are comin up seven.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Put your bets down on the pass line. These dice are comin up seven.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>JIMMY</Scene Heading>
+
+<NARRATIVE>No, we just let it go?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JIMMY</Character_Name>
+<Utterence>Chris, why don't we just let it go?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CROUPIER</Scene Heading>
+
+<NARRATIVE>It's not your roll sir.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CROUPIER</Character_Name>
+<Utterance>It wasn't a legitimate bet, you're not the shooter. It's not your (Chris shoves him) ROLL sir.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>COMMISSIONER</Scene Heading>
+
+<NARRATIVE>No folks, no payout.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COMMISSIONER</Character_Name>
+<Utterence>No folks, no payout.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CHRIS</Scene Heading>
+
+<NARRATIVE>The problem is your dice are loaded.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>(To croupier) Why don't you just take care of that bet and we're even.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>SECURITY GUY</Scene Heading>
+
+<NARRATIVE>The security guy grabs Chris around the neck.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECURITY GUY</Character_Name>
+<Utterence>Is there a problem?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CHRIS</Scene Heading>
+
+<NARRATIVE>The croupier takes a fighting stance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Yea, the problem is your dice are loaded. Does your boss know about this? Just gimme my money.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The security guy grabs Chris around the neck. Chris elbows him and throws him onto the table.</NARRATIVE>
+
+Here is the annotated script:
+
+
+<Scene Heading>EXT. BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>A group of security men burst into a room, more appear and they overpower Jimmy. One of them knocks Jimmy out.</NARRATIVE>
+
+<NARRATIVE>A fight breaks out, Ray gets knocked out. Chris beats off several security men before taking an electric shock to the neck and a baton to the face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BAD GUY 1</Character_Name>
+<Utterence>Special forces? I'll take that.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris grabs Bad Guy 1 by the neck but they beat him down again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BAD GUY 2</Character_Name>
+<Utterence>What are you doin?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BAD GUY 1</Character_Name>
+<Utterence>(Has a scalpel in his hand) Special forces... special treatment.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BAD GUY 2</Character_Name>
+<Utterence>This guy knows Hamilton!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A struggle ensues and Chris' chest is cut up.</NARRATIVE>
+
+<Scene Heading>EXT. A BRIDGE - DAY</Scene Heading>
+
+<NARRATIVE>We see Chris is crawling, badly hurt. A truck stops directly in front of him. Chris passes out again.</NARRATIVE>
+
+<Scene Heading>INT. HOSPITAL - DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOCHRIS</Character_Name>
+<Utterence>To Chris' family) Folks, he's pretty banged up, inside and out. Whoever did this left him for dead. A lesser man wouldn't have survived.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterence>I'm gonna need a statement from him Doctor.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DOCHRIS</Character_Name>
+<Utterence>He's in no condition to give you one.</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>A police station, possibly in a rural area.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>I'll also need a copy of your write-up along with toxicology, blood alcohol level and so on.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff is addressing <Location>Michelle</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>What are you talkin about Stan?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>I'm just tryin to get some facts here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff pauses for a moment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Oh come on you need to be out arresting whoever tried to kill my brother not testing his BLOOD.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff takes a deep breath.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>I'm just doing my job Michelle. Ok? I understand how you feel. But we still don't know yet who started all of this.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Another person, <Location>Connie</Location>, enters the conversation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterance>Well it wasn't Chris.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff's father, <Character_Name>DAD</Character_Name>, also speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Just find out who did this to him Stan.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sheriff continues with his questioning.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>I'll do my best Mr Vaughn. I really will. In the meantime I have to file a full report. You lemme know when I can talk to him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The doctor nods in agreement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Thank you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>DoChris</Location>, possibly a medical professional, speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOCHRIS</Character_Name>
+<Utterance>He's gonna be fine Michelle.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Michele responds with relief.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Thanks.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOSPITAL WARD - DAY</Scene Heading>
+
+<NARRATIVE>The scene shifts to a hospital ward.</NARRATIVE>
+
+Note that I've kept the annotation format consistent with the example provided, including the use of unnecessary empty tags where they were present in the original script.
+
+<Scene Heading>INT. ROOM - DAY</Scene Heading>
+
+<NARRATIVE> Ray goes into a room and takes a big bunch of flowers from there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NURSE</Character_Name>
+<Utterence>BEAUTIFUL flowers!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>INT. CHRIS HOSPITAL BED - DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Thank you, they're for my best friend.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>INT. CHRIS HOSPITAL BED - DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Huh, so much for our VIP... status.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Don't they teach you any fighting skills in the army?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>How did you do?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Not good. But I tell you, that guy was feelin me this morning.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris begins to laugh but is in pain.</Character_Name></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>You okay?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Some homecoming hey.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>I don't know if you've noticed but this ain't exactly home any more.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. FAMILY HOUSE - DAY</Scene Heading>
+
+<NARRATIVE><Character_Name>Chris has returned home. He's still in bad shape and his parents help him out of the car. He insists on taking the steps by himself.</Character_Name></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterence>There's some old crutches in the garage.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris laughs.</Character_Name></NARRATIVE>
+
+<Scene Heading>INT. LOUNGE</Scene Heading>
+
+<NARRATIVE>A montage ensues with <Character_Name>CHRIS</Character_Name> on the couch, sometimes with <Character_Name>RAY</Character_Name>, other times with <Character_Name>PETE</Character_Name>. <Character_Name>Chris</Character_Name> is recovering, and is exercising by the end of it.</NARRATIVE>
+
+<Scene Heading>INT. GARAGE</Scene Heading>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> pulls the cover off an old truck. He smiles and gets in. He starts the engine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Changed the plugs a while back.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Appreciate that Dad.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>I might've had serious issues with your career choice but just didn't seem fair to take it out on an innocent truck. Where you headin?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I was goin into town to get some supplies. Wanna come?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Let's go.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CAR</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Ya whole life, all you wanted to do was get outta here. What made you come back?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>You gonna think I'm crazy. I been thinking about the mill. When I was a kid goin to visit you at work, the smell of that fresh-cut cedar. You remember that smell.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Mmm I remember a lotta nice things before the mill closed.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. OUTSIDE THE HOUSE</Scene Heading>
+
+<NARRATIVE> A house somewhere, possibly <Location>New Mexico</Location>, with a supply store closed about six months ago and an adult XXX shop nearby. Chris and his dad are outside talking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>When did they go outta business?</Utterance>
+<Parenthetical>(nods to the closed supply store)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>Closed about six months ago. There's a home depot about fifteen minutes up the road.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> They laugh.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>And that?</Utterance>
+<Parenthetical>(nods to the adult XXX shop)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>Don't ask.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>EXT. OUTSIDE THE HOUSE</Location>.</NARRATIVE>
+
+<Scene Heading>EXT. OUTSIDE THE HOUSE</Scene Heading>
+
+<NARRATIVE>Jay pulls up in his car.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Hey. First of all I wanna say thanks.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>For what?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>He's been fired, and his gaming permit's been pulled. I don't know how my security cameras didn't catch that.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jay starts to help Chris taking wood off the truck but Chris throws it back on.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>They miss a lot at your place don't they Jay?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Look Chris I hate seein ya like this.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Your boys did it.</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. JAY'S HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>A house somewhere, it's unclear where. <Character_Name>JAY</Character_Name> is talking to <Character_Name>CHRIS</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Wait wait... so they got a little rough, </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>they were a bit edgy. Understandably. </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>You don't know what kind of assholes </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>they have to put up with on a daily </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>basis. Look, they've been reprimanded. </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>They say you went nuts man. I'm sorry.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>I know the proper term vets use is post </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>traumatic stress.</Utterence>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Chris looks unimpressed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>What the fuck are you talking about?</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Jay continues speaking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Whatever it was, you tore my place apart </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>and it wasn't easy for me to get my </Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>guys agree not to press charges. Look </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Chris, if you had a problem... shouldn't </Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>you have come to me? Look, I wanna bring </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>you inside. Chris I wanna make you head </Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>of security. Whaddya say?</Utterence>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Chris refuses Jay's offer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>No.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Jay tries to persuade Chris again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Ah well. I guess you probably need time </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>to think about it. This is for you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>It's a little something to help you </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>get... Y'know..</Utterence>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Jay hands Chris an envelope with money in it. Chris refuses.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'm goin to the sheriff.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Jay leaves the scene.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>I'm sorry you feel that way. I'll see </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>ya round Chris.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The scene changes to a police station.</NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<Scene Heading>EXT. SHERIFF'S DEPARTMENT - DAY</Scene Heading>
+
+<NARRATIVE>A sheriff's department somewhere, presumably <Location>Texas</Location>. <Character_Name>CHRIS</Character_Name>, a concerned citizen, stands outside the building.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Excuse me.</Utterance>
+</Turn>
+
+<NARRATIVE>An officer is on the phone ignoring him.</NARRATIVE>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Excuse me.</Utterance>
+</Turn>
+
+<NARRATIVE>The sheriff comes out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Well hey Chris. Good to see you up and about, you're lookin spiffy.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'm here to press charges.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Well this isn't about that incident at the casino a while back is it?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Yea, it is.</Utterance>
+</Turn>
+
+<NARRATIVE>The sheriff shakes his head.</NARRATIVE>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Cause that matter's closed.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Did you look into it?</Utterance>
+</Turn>
+
+<NARRATIVE>The sheriff leans against the wall.</NARRATIVE>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>They did an internal investigation. That's good enough for me.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>An internal investigation.</Utterance>
+</Turn>
+
+<NARRATIVE>The sheriff looks at Chris with a hint of annoyance.</NARRATIVE>
+
+<Turn>
+<Character_Name>SHERIFF WATKINS</Character_Name>
+<Utterance>Chris, I know you're familiar with the term 'no fly zone'. Hmm? Cause that's what the casino is. Since the mill closed down that casino is the main source of revenue in this town. So, case closed basically.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'm not gonna let this stand.</Utterance>
+</Turn>
+
+<NARRATIVE>The sheriff gestures to Chris and walks back into the department.</NARRATIVE>
+
+<NARRATIVE>Closing shot of Chris standing alone outside the sheriff's department, determined.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. SHERIFF'S OFFICE</Scene Heading>
+
+<NARRATIVE>A sheriff's office somewhere in <Location>the town</Location>. <Character_Name>Sheriff Watkins</Character_Name> is sitting at his desk, looking stern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Sheriff Watkins</Character_Name>
+<Utterance>Excuse me? What did you say to me?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> stands in front of the desk, looking determined.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Chris</Character_Name>
+<Utterance>I said I'm not gonna let this stand.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Sheriff Watkins</Character_Name> scowls at Chris, his arms crossed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Sheriff Watkins</Character_Name>
+<Utterance>You're lucky to be alive right now, that's all you need to be concentrating on. This is my town ok, I'm the sheriff here. I'll tell you what will stand, not the other way around.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Sheriff Watkins</Character_Name>
+<Utterance>Now please get out of my building.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to a new location.</NARRATIVE>
+
+<Scene Heading>INT. FAMILY HOUSE - DEN</Scene Heading>
+
+<NARRATIVE>A family house, specifically the den. <Character_Name>Deni</Character_Name> is at the door, while <Character_Name>Chris</Character_Name> and <Character_Name>Connie</Character_Name> are also present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Deni</Character_Name>
+<Utterance>Hey.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Chris</Character_Name>
+<Utterance>Hey.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Deni</Character_Name>
+<Utterance>This belongs to you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Chris</Character_Name>
+<Utterance>I appreciate that, I thought this was history.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Deni</Character_Name>
+<Utterance>Coulda left it in the trash but I...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Connie</Character_Name> enters the room, smiling.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Connie</Character_Name>
+<Utterance>Nice to see you dear.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Deni</Character_Name>
+<Utterance>Hi Mrs Vaughn.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Chris</Character_Name>
+<Utterance>Can I talk to you outside for a second. Mom, I'll be right back.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with the family members interacting in the den.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. OUTSIDE THE HOUSE</Scene Heading>
+
+<NARRATIVE>A house somewhere in an unknown location.</NARRATIVE>
+
+<NARRATIVE>DENI and CHRIS are standing outside, talking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>How you been?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Been better.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Talked to the sheriff yet?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Well I went down to the police station and I talked to somebody with a badge. Sure as hell didn't seem like much of a sheriff.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>He's up for re-election you know. Maybe you could take his job.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Sombody ought to.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Sunshine and pine trees. Been readin these books, teach you how to cultivate happiness. Books on the future, go with the flow, that sorta thing.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Is it workin?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>I have my moments.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>So the casino huh?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Yep. Been there almost a year.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Treatin you good?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Lot better than it treated you.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The conversation continues as they stand outside the house.</NARRATIVE>
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE> A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>MICKEY KNOX</Character_Name>, his back turned to us, is sitting at the counter finishing his meal. We hear the PING...BANG... of a pinball machine being played OFF SCREEN.</NARRATIVE>
+
+<NARRATIVE> MABEL, a waitress, comes over and fills Mickey's coffee cup.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>I like that. Jay Hamilton's done well for himself hasn't he.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Yea, he's a real go-getter that one.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Must be. I heard he got you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Lasted about 8 minutes, a long long time ago.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Still work for him though.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>You still work for him though.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Rent's gotta be paid Chris.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Suppose so.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Hope to see you around.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Do you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She begins to drive off.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Thanks for the jacket.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>She toots the horn as she goes.</NARRATIVE>
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE>Connie is on the phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Utterance>And where is he?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. OUTSIDE SOME GARAGE</Scene Heading>
+
+<NARRATIVE>The Vaughn's truck pulls up at speed.</NARRATIVE>
+
+<NARRATIVE>They enter a garage, Pete is on a stretcher.</NARRATIVE>
+
+<Scene Heading>MICHELLE</Scene Heading>
+
+<NARRATIVE>It's ok mom he's stabilised.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>It's ok mom he's stabilised.</Utterance>
+<Parenthetical>To Chris</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>To Chris.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>It was close.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp says Crystal Meth.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>I'm sorry. I never did it before.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Michelle and Pete are in the background while Kid is talking to Chris.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KID</Character_Name>
+<Utterance>It's true. We mighta kinda pushed him into it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp approaches the kid.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Where'd you get the drugs?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KID</Character_Name>
+<Utterance>I'm not really sure...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp gets impatient.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Stop. Where?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KID</Character_Name>
+<Utterance>From the security guys workin at the casino.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp gets into his truck and drives off.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CONNIE</Character_Name>
+<Parenthetical>(To Chris)</Parenthetical>
+<Utterance>Chris, wait. Call the police.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp refuses to call the police.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>No, that won't do any good.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp drives home.</NARRATIVE>
+
+<Scene Heading>INT. HOME - GARAGE - DAY</Scene Heading>
+
+<NARRATIVE>Crisp enters the garage.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>Is Pete ok?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>He'll be fine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp starts searching around.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>What are you doin?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp forces open a cupboard.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>(Loading shotgun)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Crisp loads the shotgun.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>DAD</Scene Heading>
+
+<NARRATIVE>Aw Chris not like this.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>To me.</Utterance>
+<Parenthetical>(concerned)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterance>If you go outta here with that gun, they're gonna... ne... Chris!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris drives to the casino.</NARRATIVE>
+
+<NARRATIVE>He cocks the shotgun but decides to leave it in the truck. Instead he takes a piece of wood from the back of his truck.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He enters the casino with it. He smashes a fruit machine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>(grunting)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A guard comes up and Chris beats him.</NARRATIVE>
+
+<NARRATIVE>A fight scene breaks out with Chris beating the guards and generally trashing the place.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>(yelling)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He takes back his special forces dogtag from the guard who stole it.</NARRATIVE>
+
+<NARRATIVE>Chris hurls his piece of wood at the VIP lounge window, smashing it to pieces.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Guess that changes our relationship a bit huh?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris leaves. As he drives off in his truck, police cars appear with sirens going.</NARRATIVE>
+
+<NARRATIVE>He pulls over.</NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION ROOM</Scene Heading>
+
+<NARRATIVE>A lawyer is present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAWYER</Character_Name>
+<Utterance>I advise you to give this offer more than a little serious thought. If you go to trial you stand to do 18 years. This is a sweet plea, normally they wouldn't even put it on the table but your military record can't be ignored. Three months home arrest, some community service. Pretty generous offer Chris.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>But I'd have to plead guilty.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LAWYER</Character_Name>
+<Utterance>Look at it from the other side. There's over a dozen witnesses, none of em are gonna paint a very flattering picture.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>               We see a montage of casino workers badmouthing Chris.</Scene Heading>
+
+<NARRATIVE> A montage of casino workers speaking poorly about Chris, with various shots of them talking to each other.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WORKER</Character_Name>
+<Utterance>He started bustin up the machines...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GIRL</Character_Name>
+<Utterance>There was a gunshot..</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WORKER</Character_Name>
+<Utterance>Went crazy...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GIRL</Character_Name>
+<Utterance>Complete psychopath.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>They're only offering me this deal just to keep me quiet. </Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LAWYER</Character_Name>
+<Utterance>Well I still say you should take it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I wasn't wrong. And I won't say I was.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. COURTROOM</Scene Heading>
+
+<NARRATIVE>A court room, with a casino guard testifying and the prosecutor questioning him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CASINO GUARD</Character_Name>
+<Utterance>Our job is to keep order. But there was no chance of that. Me and my men we were just tryin to control him. He was highly trained, violent, very dangerous person.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PROSECUTOR</Character_Name>
+<Utterance>So dangerous, so violent, so highly trained that he despatched six of the casino staff single handedly. His weapon of choice a simple piece of cedar. Which in his hand became a devastating force with one aim, to hurt people, destroy property.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WORKER</Character_Name>
+<Utterance>He went directly for everything. He just came in and took over the place.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The worker continues to testify about Chris's actions during the incident.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COURTROOM - DAY</Scene Heading>
+
+<NARRATIVE>A courtroom somewhere in <Location>New Mexico</Location>. We see <Character_Name>PROSECUTOR</Character_Name>, a lawyer, questioning <Character_Name>CASINO GUARD 2</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PROSECUTOR</Character_Name>
+<Utterence>You said he broke your arm.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CASINO GUARD 2</Character_Name>
+<Utterence>Yea that's correct, my right forearm. Both bones with a single shot. It was crazy.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PROSECUTOR</Character_Name>
+<Utterence>Did he give you any kind of advanced warning? A chance to defend yourself.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CASINO GUARD 2</Character_Name>
+<Utterence>We tussled, but he's a big guy. He was on a mission. Besides, he seemed to be too busy enjoying himself from what I could see.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PROSECUTOR</Character_Name>
+<Utterence>So from what you saw, it seemed like he had some kinda purpose?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CASINO GUARD 2</Character_Name>
+<Utterence>I think he had a point to prove yeah.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>WORKER</Character_Name>, another witness, enters the conversation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WORKER</Character_Name>
+<Utterence>I was emptyin machines when Mr Vaugh came in and started swingin.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>GIRL</Character_Name>
+<Utterence>I was tryin to get outta there.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>JUDGE</Character_Name> enters the scene.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>Mr Crow, you may present your client's case.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CASINO GUARD 2</Character_Name>
+<Parenthetical>(uncomfortable)</Parenthetical>
+<Utterence>Uh, no one's asked to hear my side of the story yet.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>CASINO GUARD 2</Character_Name> turns to <Character_Name>CHRIS</Character_Name>, his lawyer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CASINO GUARD 2</Character_Name>
+<Utterence>No one's asked to hear my side of the story yet.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>You're fired.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CASINO GUARD 2</Character_Name> exits the conversation with <Character_Name>JUDGE</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CASINO GUARD 2</Character_Name>
+<Utterence>You're fired, huh?</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>CASINO GUARD 2</Character_Name> looks at <Character_Name>JUDGE</Character_Name> and exits the scene.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>A new scene starts with <Character_Name>MALLORY KNOX</Character_Name> entering the courtroom, but this is not annotated in the provided script. However, I have included it as per the original script structure for consistency.
+
+... (rest of the script does not follow the format and has gaps) 
+
+Please note that there are parts missing from the script, specifically after <Scene Heading>CUT TO:</Scene Heading>, which do not adhere to the structured format provided in the example.
+
+Here is the annotated script:
+
+<Scene Heading>JUDGE'S CHAMBERS</Scene Heading>
+
+<NARRATIVE>The courtroom, but not really, as this is a judge's chambers.</NARRATIVE>
+
+<NARRATIVE>CHRIS VAUGHN, the defendant, stands before JUDGE and OPPOSITION, who represent the prosecution.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterance>Your honor, I'd like to plead my own case.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I don't deny anything that was said here today.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterance>Does that mean you're changing your plea to guilty?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I'm not guilty of anything. Except standing up for myself when the law wouldn't.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>OPPOSITION</Character_Name>
+<Parenthetical>(objecting)</Parenthetical>
+<Utterance>Objection. He's trying to introduce prior events your honor.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterance>Sustained. Mr Vaughn, stay on point.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I grew up in this town. People used to walk tall in this town, they wouldn't have traded the mill for a crooked casino.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterance>Mr Vaughn, we're not here to listen to civic speeches.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>And they wouldn't have stood around while drugs were being sold to kids.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The judge and prosecution seem unimpressed by Chris's words.</NARRATIVE>
+
+Here's the annotated script in the structured XML-like format:
+
+<Scene Heading>OPPOSITION</Scene Heading>
+
+<NARRATIVE>A courtroom somewhere. We hear the sound of a gavel banging on a desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>Objection.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The judge bangs his gavel again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>Sustained. Mr Vaughn you're close to being held in contempt.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris stands up, looking defiant.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>I was justified in what I did, and if you acquit me of these charges I'm gonna run for sheriff. And if elected, I'm gonna fix this town.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The judge bangs his gavel again, shouting over the noise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>Order, order. Mr Vaughn you are now charged with contempt.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris opens his shirt, revealing huge scarring underneath.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Parenthetical>(dramatically)</Parenthetical>
+<Utterence>And I will make sure that THIS never happens to anyone again without punishing those who did it.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The judge bangs his gavel again, shouting over the noise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>I order the jury to ignore what they have just seen. Mr Vaughn take your seat. Order! Order!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The judge looks at the foreman of the jury.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>Mr Forman, has the jury reached a verdict?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The foreman stands up and clears his throat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FORMAN</Character_Name>
+<Utterence>We have your honor.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The judge nods, and the jury files in to deliver their verdict.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUDGE</Character_Name>
+<Utterence>Will the defendant please rise.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris stands up, looking tense.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FORMAN</Character_Name>
+<Utterence>We find the defendant Chris Vaughn not guilty.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The crowd erupts into cheers and applause.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>This is mine.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris takes a tag from his piece of cedar wood, which was on the evidence table.</NARRATIVE>
+
+<Scene Heading>EXT. POLICE STATION</Scene Heading>
+
+<NARRATIVE>The crowds fade away with chants of 'Sheriff Vaughn.'</NARRATIVE>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>Chris takes a look around.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WATKINS</Character_Name>
+<Utterence>Sheriff.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Watkins.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>WATKINS</Character_Name>
+<Utterence>Well you won the election, congratulations. We do have a tradition of professional courtesy up here, and I can personally vouch for each and every one of these men. They're good deputies.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>You're all fired.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. A COUNTRY ROAD - DAY</Scene Heading>
+
+<NARRATIVE>Jay is speeding along in a sportscar. He is pulled over by a police truck.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Hey Chris.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Licence and registration please.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>You're joking right?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Licence and registration.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<NARRATIVE>Jay hands it over.</NARRATIVE>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CASINO - NIGHT</Scene Heading>
+
+<NARRATIVE>A casino somewhere in a <Location>small town</Location>. The atmosphere is tense and intense, with <Character_Name>JAY</Character_Name>, the owner of the casino, standing at the center of attention.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>What's the problem sheriff?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>You. And the drugs you're peddling out of your casino.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Oh. Only thing that's going on in my casino right now is reconstruction. You took care of that.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>If you can, try to think this through. A casino is a license to print money. Why would I jeopardise that by selling drugs?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Cause you owned the town Jay. It's changed now.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Really? See the only thing that I think has changed around here is that every morning you get to wake up and put on that nifty lil badge. But underneath that badge is the same guy that couldn't make it playing college football, apparently couldn't make it in the army and not gonna make it as a cop.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Is that right?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Yea, and if you push too hard you're gonna be a man who doesn't live to see 40. License please.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Parenthetical>(hands over the license)</Parenthetical>
+<Utterence>Chris hands it over.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Thanks sheriff.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Parenthetical>(no utterance)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Chris</Character_Name> hands over the license, and <Character_Name>Jay</Character_Name> takes it.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. JAY'S CAR - DAY</Scene Heading>
+
+<NARRATIVE>Jay's car, an old sedan with a dented bumper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Sir get your tail lights fixed, it's your last warning.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris approaches Jay's car, smashing the back end with a piece of cedar wood.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>They're broken.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. RAY'S PLACE - DAY</Scene Heading>
+
+<NARRATIVE>A small town with a few buildings and a sheriff's badge on the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Mornin sheriff.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Mornin deputy.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Parenthetical>(sarcastically)</Parenthetical>
+<Utterance>No, nope, no. Come on man you know I hate cops.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>You been sheriff 2 minutes and I'm already startin to hate you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I got a lil pull around here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris tosses Ray a badge.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>No, nope, no. Come on man you know I hate cops.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>You're a convicted felon.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I got a lil pull around here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ray looks unimpressed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Parenthetical>(sarcastically)</Parenthetical>
+<Utterance>Oh now you're a CROOKED cop doing favours for friends.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>That's how it starts. See next thing you know you'll be taking bribes, setting up roadblocks, frisking dudes crotches.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris looks uncomfortable.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Are you done? Ray I need your help.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ray shakes his head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Oh don't do that.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I need you to take me to drugs school.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Ray looks at Chris with a mixture of disdain and concern.</NARRATIVE>
+
+<Scene Heading>EXT. DEALER'S HOUSE</Scene Heading>
+
+<NARRATIVE>A montage ensues, with <Character_Name>CHRIS</Character_Name> and <Character_Name>RAY</Character_Name> busting various drug dealers.</NARRATIVE>
+
+<NARRATIVE><Location>The scene shifts to a location outside the dealer's house.</Location></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>You're SURE you're not carrying anything.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterance>I don't have shit.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Officer.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Yeah.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Search him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Oh. Spread your legs, arms down. Been workin out? Nothin there. Ohhhh somebody needs a BATH!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Parenthetical></Parenthetical>
+<Utterance>Now you read me my rights and take me in. And I call my lawyer.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>K. I have a hunch there may be somethin else in here (Pats the dealer's truck).</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MUSIC plays while the two chop up the dealer's car into pieces while laughing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>He's clean. Guess we gotta move to plan B.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA cuts away, with the scene remaining in the background of the next action.</NARRATIVE>
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE>A family house somewhere, presumably a domestic setting.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>Why does it always have to be your fight?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>You might need this.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>No. I put my guns down a long time ago.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>You're just being stubborn.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>You and me both boy. Chris, listen.</Utterence>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>I will.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cut to INT. POLICE STATION</NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<NARRATIVE>A police station, presumably a place of law enforcement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Parenthetical>(through loudspeaker)</Parenthetical>
+<Utterence>Please step away from the vehicle. Now Mr Booth are you still upset over that body cavity search? WOOOOOOOO! I forgot, you got no vehicle.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterence>(silence)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RAY continues taunting through the loudspeaker. However, the dialogue from CHRIS at the beginning of this scene is not referenced again in this scene.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>Chris has walked in.</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere, <Location> </Location>. <Character_Name>CHRIS</Character_Name>, his back turned to us, is standing at the entrance waiting for someone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Can I talk to you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Yeah.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Over here?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Sure.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>I'm gonna stay with him tonight. I need you to take care of my parent's place.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris hands him the shotgun.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>You think they're gonna take it that far?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Kay.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>NIGHT TIME</Scene Heading>
+
+<NARRATIVE>A police station somewhere, <Location> </Location>. <Character_Name>DENI</Character_Name>, his back turned to us, is walking in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterence>Don't shoot.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Hey</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterence>Hi. How's the food around here? Brought you special treats. Salmon, Fried Chicken, Potato Salad. You got cups?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Don't you have to work tonight?</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE> Ray is on the couch and has just woken to a noise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Who's that?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PETE</Character_Name>
+<Utterance>It's Pete. Want something to eat?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>No I'm good man.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>FAMILY HOUSE</Location></NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<NARRATIVE>Chris and Deni are present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>I gotta get a bigger bed.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>No, no you don't.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>POLICE STATION</Location></NARRATIVE>
+
+<Scene Heading>EXT. WILD CHERRY CASINO</Scene Heading>
+
+<NARRATIVE>Jay is on his cell phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Do it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>WILD CHERRY CASINO</Location></NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>I'm hungry.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Got leftovers...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterance>Mm mmm, I want pancakes, and eggs, and ...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Location>POLICE STATION</Location></NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>A loud explosion happens, it's <Character_Name>CHELSEA'S</Character_Name> police truck outside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHELAN</Character_Name>
+<Utterance>WOOOOOOOOOO! I told you Vaughn! Uh </Utterance>
+<Parenthetical>(laughter)</Parenthetical>
+<Utterance>Who needs to step away from the </Utterance>
+<Utterance>vehicle now Vaughn? Truck for truck </Utterance>
+<Utterance>baby, that's right, truck for a truck.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CHELSEA'S</Character_Name> steps towards the front of the building but men outside open fire, <Character_Name>CHELSEA'S</Character_Name> ducks for cover.</NARRATIVE>
+
+<Scene Heading>EXT. POLICE STATION - DAY (CONT'D)</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHELSEA'S</Character_Name>
+<Utterance>(To <Character_Name>DENI</Character_Name>) Get down!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. FAMILY HOUSE - DAY</Scene Heading>
+
+<NARRATIVE><Character_Name>RAY</Character_Name> speaks from off screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Pete, somethin's burnin.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>Men with machine guns are still firing at the police station. <Character_Name>DENI'S</Character_Name> screaming, <Character_Name>CHELSEA'S</Character_Name> cheering.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHELSEA'S</Character_Name>
+<Utterance>Take that and get in there.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>CHELSEA'S</Character_Name> gives <Character_Name>DENI</Character_Name> a pistol.</NARRATIVE>
+
+<Scene Heading>INT. FAMILY HOUSE - DAY (CONT'D)</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Pete?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Ray</Character_Name> steps into the kitchen but gunmen have infiltrated the home. A fight breaks out and <Character_Name>PETE</Character_Name> flees. <Character_Name>Ray</Character_Name> jumps onto the back of a gunman.</NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION - DAY (CONT'D)</Scene Heading>
+
+<NARRATIVE><Character_Name>CHELSEA'S</Character_Name> shoots up the floor with a shotgun and breaks a hole in it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHELSEA'S</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE> Ray stabs the gunman with a potato peeler and knocks him out with a frying pan. </NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<NARRATIVE> CHRIS (To Deni) Come here. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Come here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> They get down into the hole in the floor. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>When I say 'now' start shooting, over there. Stay low.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Booth is now under fire and is scared. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterence>Vaughn you gotta get me outta here!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE> Two other gunmen in stocking masks are holding the family hostage upstairs. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAD</Character_Name>
+<Utterence>I know who you are.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GUNMAN</Character_Name>
+<Utterence>Oh yeah?</Utterence>
+</Turn>
+
+<NARRATIVE> The gunman takes off his mask and hits him with a pistol. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GUNMAN</Character_Name>
+<Parenthetical>(Calling downstairs)</Parenthetical>
+<Utterence>Burke?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>GUNMAN 2</Character_Name>
+<Utterence>Check it out.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> He goes downstairs to find Burke dead on the kitchen floor. He follows traces of blood across the floor. </NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DENI</Character_Name>
+<Utterence>Come here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> CHRIS (To Deni) Come here. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>When I say 'now' start shooting, over there. Stay low.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Booth is now under fire and is scared. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterence>Vaughn you gotta get me outta here!</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. WAR ZONE - DAY</Scene Heading>
+
+<NARRATIVE> Chris is making his way towards Booth under fire.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterance>C'mon! Get me outta here man!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>What's it worth to you? Where's the lab?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterance>Screw you!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Gunshots hit near booth.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterance>Ok! Ok! Hamilton's operation is at the mill ok! It's at the mill now get me outta here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. FAMILY HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>The gunman enters a room, Ray is there pointing a shotgun at him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Drop it!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>Chris is standing and points at the ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Stay down!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOOTH</Character_Name>
+<Utterance>(falls to the ground)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. FAMILY HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Ray shoots the gunman, who falls to the floor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>Ray!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GUNMAN 2</Character_Name>
+<Utterance>Stay down!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>UPSTAIRS - DAY</Scene Heading>
+
+<NARRATIVE>Michelle looks on in shock.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHELLE</Character_Name>
+<Utterance>(whispers) Oh no...</Utterance>
+</Turn>
+</DIALOGUE>
+
+Let me know if you need any further adjustments!
+
+Here is the annotated script:
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<NARRATIVE>Booth is dead so Chris leaves him there.</NARRATIVE>
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE>RAY, (To gunman's body on the floor) Hey.. you okay?</NARRATIVE>
+
+<Location>UPSTAIRS</Location>
+
+<NARRATIVE>GUNMAN 2 looks away for a second and MICHELLE kicks him down the stairs.</NARRATIVE>
+
+<NARRATIVE>As he tumbles down RAY reloads his shotgun. The two begin firing at each other, taking cover behind the furniture.</NARRATIVE>
+
+<Scene Heading>INT. POLICE STATION</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WATKINS</Character_Name>
+<Utterance>Tried to warn ya Chris. Didn't want this to happen.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>One of the men outside has a canister. WATKINS gives him the nod and he begins walking towards the station.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Deni! Now!</Utterance>
+</Turn>
+
+<NARRATIVE>Cris climbs out of the hole and they hug.</NARRATIVE>
+
+<Scene Heading>INT. FAMILY HOUSE</Scene Heading>
+
+<NARRATIVE>The two begin firing at each other, taking cover behind the furniture.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance>Hey.. you okay?</Utterance>
+<Parenthetical>(to gunman's body on the floor)</Parenthetical>
+</Turn>
+
+<NARRATIVE>GUNMAN 2 looks away for a second and MICHELLE kicks him down the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WATKINS</Character_Name>
+<Utterance>Come get some! WOOOOOOO!</Utterance>
+</Turn>
+
+<NARRATIVE>Chris appears in the floor hole and blasts Watkins at close range with a shotgun.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Deni.... Deni.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The two remaining men outside open fire again. Another gunman tries to approach but he's shot in the legs as well.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WATKINS</Character_Name>
+<Utterance>Come get some! WOOOOOOO!</Utterance>
+<Parenthetical>(as he enters the station)</Parenthetical>
+</Turn>
+
+<NARRATIVE>DENI fires off some shots. Watkins is distracted by the shots, Chris appears in the floor hole and blasts Watkins at close range with a shotgun.</NARRATIVE>
+
+<NARRATIVE>Another gunman tries to approach but he's shot in the legs as well.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Deni! Now!</Utterance>
+</Turn>
+
+<NARRATIVE>Cris climbs out of the hole and they hug.</NARRATIVE>
+
+<NARRATIVE>The two remaining men outside have a canister. WATKINS gives him the nod and he begins walking towards the station.</NARRATIVE>
+
+<NARRATIVE>Chris is beneath the floor and shoots him in the legs.</NARRATIVE>
+
+<NARRATIVE>Watkins enters the station and fires repeatedly at the floor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WATKINS</Character_Name>
+<Utterance>Come get some! WOOOOOOO!</Utterance>
+</Turn>
+
+<NARRATIVE>Another gunman tries to approach but he's shot in the legs as well.</NARRATIVE>
+
+<NARRATIVE>The two remaining men outside open fire again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Deni.... Deni.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cris climbs out of the hole and they hug.</NARRATIVE>
+
+<Scene Heading>INT. LOUNGE - DAY</Scene Heading>
+
+<NARRATIVE> Shots are still being fired in the lounge. <Character_Name>RAY</Character_Name> and the gunman begin to wrestle. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>I'm sorry!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Chris has come back to the house and tries to pull Ray off the man, Ray mistakenly hits Chris in the face. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterance> I'm sorry!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The injured gunman from the kitchen appears brandishing a pistol. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GUNMAN</Character_Name>
+<Parenthetical></Parenthetical>
+<Utterence>You stabbed me... with a potato peeler??</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Chris and Ray hold up their hands. He aims at Ray but he's shot in the back of the head by <Character_Name>Dad</Character_Name> who is approaching down the stairs. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>You gonna be ok?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dad</Character_Name> nods.</NARRATIVE>
+
+<Scene Heading>EXT. THE MILL - DAY</Scene Heading>
+
+<NARRATIVE> Chris is in a police car driving at speed. He approaches the mill and busts through the locked gates. </NARRATIVE>
+
+<Scene Heading>INT. THE MILL - DAY</Scene Heading>
+
+<NARRATIVE> The mill is dark, Chris is finding his way around using a torch. He finds <Character_Name>JAY</Character_Name> sitting. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Hey Chris.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Get up Jay.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>Just a sec. Remember we used to play hide n seek up here?</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here's the annotated script:
+
+<Scene Heading>INT. JAY'S WORKSHOP - DAY</Scene Heading>
+
+<NARRATIVE>A dimly lit workshop somewhere, with various machinery and tools scattered around. <Character_Name>JAY</Character_Name>, a young man with a troubled look on his face, is standing in front of a metal saw.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>That was my favourite sound.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Get up!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>Look... Chris... just...</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterence>You wanna know what my new favourite sound's gonna be? The sound of you screaming like a little bitch.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jay hits Chris in the stomach with a pole, causing him to fall into an open hatch. Jay follows suit and continues to taunt Chris as he swings over the hatch.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JAY</Character_Name>
+<Utterance>You're right Jay, this does change our relationship. This is my town, you're under arrest.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jay hits more switches, powering up the machinery. Chris stumbles off into the woods, and Jay chases after him with an axe. They both fall down a large embankment and begin fighting again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>You're right Jay, this does change our relationship. This is my town, you're under arrest.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris knocks Jay out by hitting him hard in the legs. The scene fades to black as Chris stands victorious over Jay's unconscious body.</NARRATIVE>
+
+<Scene Heading>INT. WILD CHERRY CASINO - DAY</Scene Heading>
+
+<NARRATIVE>A rundown casino, with various tables and slot machines scattered around. <Character_Name>CHRIS</Character_Name> and <Character_Name>RAY</Character_Name> are packing everything up, boarding up the windows.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>That oughta do it. What are you doing?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades to black as Chris and Ray continue to pack up the casino, leaving the workshop and its chaos behind.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>FADE IN</Scene Heading>
+
+<NARRATIVE> CHRIS, RAY, and their friends are seen driving away from something.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>That's how it starts. Next you'll be accepting bribes, setting speed traps all over town, cuttin up trucks. Not to mention the cavity searches.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Speakin of which, do you think Jay's got a casino in the pen?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterance>Could be.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>Runnin the shower tower with the felons. He's probably blowin on somebody's dice right now.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Chris and Ray laugh as they drive off.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>That's lunch.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHRIS</Character_Name>
+<Utterence>Let's go pick my old man and grab somethin to eat.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>RAY</Character_Name>
+<Utterence>I'm with ya buddy.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The mill makes a horn noise as they drive away.</NARRATIVE>
+
+<NARRATIVE>FADE OUT</NARRATIVE>
+
+Note: I annotated the entire script according to the provided format. However, it's worth noting that this script seems to be a short scene with no distinct locations or character development, unlike the example you provided.
+

@@ -1,0 +1,1272 @@
+<Scene Heading>EXT. A SENTRY TOWER --</Scene Heading>
+
+<NARRATIVE>A Sentry Tower somewhere in <Location>Cuba</Location>. It's the middle of the night, in the middle of nowhere. We hear all the unidentifiable sounds of night in the woods. We also hear, very faintly, a slow and deliberate drum cadence.</NARRATIVE>
+
+<NARRATIVE>We begin to move slowly up the tower, more becomes visible now: the sandbags on the ground piled ten-high, the steel stairway wrapping around the structure, and finally... The lookout post, maybe forty feet off the ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE MARINE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The drum cadence has been building slightly.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>A wider shot of the fence line. And we see by the moonlight that the tall wire-mesh fence winds its way far, far into the distance.</NARRATIVE>
+
+<NARRATIVE>Subtitle: United States Naval Base Guantanamo Bay - Cuba.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE MARINE</Character_Name>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The drum cadence continues, and we <Location>cut to black</Location>.</NARRATIVE>
+
+<Scene Heading>CUT TO</Scene Heading>
+
+<NARRATIVE>A Marine Barracks.</NARRATIVE>
+
+<NARRATIVE>We HEAR two pairs of footsteps and then</NARRATIVE>
+
+<Scene Heading>CUT TO</Scene Heading>
+
+<NARRATIVE>THE BARRACKS CORRIDOR</NARRATIVE>
+
+<NARRATIVE>where we see that the footsteps belong to <Character_Name>DAWSON</Character_Name> and <Character_Name>DOWNEY</Character_Name>, two young marines who we'll get to know later.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAWSON</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>They stop when they get to a certain door.</NARRATIVE>
+
+<Scene Heading>CUT TO</Scene Heading>
+
+<NARRATIVE>INT. SANTIAGO'S ROOM - NIGHT</NARRATIVE>
+
+<NARRATIVE>WILLY SANTIAGO, a young, very slight marine, lies asleep in his bunk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAWSON</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>DAWSON kneels down by the bed, puts his hand on SANTIAGO'S shoulder and shakes him gently.</NARRATIVE>
+
+<NARRATIVE>SANTIAGO opens his yes, looks at DAWSON, and for a moment there's nothing wrong --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SANTIAGO</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>and then SANTIAGO's eyes fill with terror.</NARRATIVE>
+
+<NARRATIVE>He lunges out of the bed -- but forget about it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAWSON</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>In one flash DAWSON and DOWNNEY grab him out of bed, and before the scream can come out,</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOWNEY</Character_Name>
+<Parenthetical>(quietly)</Parenthetical>
+<Utterance>You're lucky it's us, Willy.</Utterance>
+</Turn>
+
+<NARRATIVE>DAWNAY shoves a piece of cloth into SANTIAGO'S mouth.</NARRATIVE>
+
+<NARRATIVE>Everything that happens next occurs with speed, precision and professionalism.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOWNEY</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>A strip of duct tape is pulled, ripped, and slapped onto his mouth and eyes --</NARRATIVE>
+
+<NARRATIVE>and a length of rope is wrapped around his hands and feet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOWNEY</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>An arm grabs him tightly around the neck, not choking him, just holding his head still --</NARRATIVE>
+
+<NARRATIVE>The drum cadence has built to a crescendo.</NARRATIVE>
+
+<NARRATIVE>We HEAR four sharp blasts from a whistle and we</NARRATIVE>
+
+<Scene Heading>SMASH CUT TO</Scene Heading>
+
+<Scene Heading>EXT. THE WASHINGTON NAVY YARD - DAY</Scene Heading>
+
+<NARRATIVE>A navy yard somewhere in <Location>WASHINGTON D.C.</Location>. The BAND, a sight to behold in their red and gold uniforms and polished silver and brass, is performing on the huge and lush parade grounds before a crowd made up mostly of TOURISTS and DAY-CAMPERS. As the TITLES ROLL, we watch the BAND do their thing from various angles.</NARRATIVE>
+
+<NARRATIVE>The drum cadence has turned into Semper Fidelis and it's coming from THE U.S. MARINE CORPS BAND. Incredible precision is the name of the game. Each polished black shoe hitting the ground as if they were all attached by a rod. Each drumstick raised to the same fraction of a centimeter before striking.</NARRATIVE>
+
+<NARRATIVE>A RIFLE DRILL TEAM that can't possibly be human. Flags, banners, the works.</NARRATIVE>
+
+<NARRATIVE>As we watch, SUBTITLE: THE WASHINGTON NAVY YARD appears on screen.</NARRATIVE>
+
+<NARRATIVE>CAMERA PULLS BACK and we see for the first time a HIGH ANGLE of the entire band as we end credits.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. A RED BRICK BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>An important building, a main building. A few SAILORS enter and exit.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JOANNE GALLOWAY (JO)</Character_Name>
+<Utterance>I'm requesting... I'm... Captain, I'd like to request that I be the attorney assigned to rep -- I'd like to request that it be myself who is assigned to represent --</Utterance>
+<Parenthetical>(she stops)</Parenthetical>
+<Utterance>That it be myself who is assigned to represent?</Utterance>
+</Turn>
+
+<NARRATIVE>She mutters to herself as she walks across the courtyard toward the brick building.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JOANNE GALLOWAY (JO)</Character_Name>
+<Utterance>"That it be myself who is assigned to represent"?... Good, Jo, that's confidence inspiring.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. WEST'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>We follow <Character_Name>JO</Character_Name>, still muttering, as she walks into the brick building which bears the seal of the UNITED STATES NAVY - JUDGE ADVOCATE GENERAL'S CORPS.</NARRATIVE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. WEST'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>As <Character_Name>JO</Character_Name> enters, <Character_Name>CAPTAIN WEST</Character_Name> and two other officers, <Character_Name>GIBBS</Character_Name> and <Character_Name>LAWRENCE</Character_Name>, sit around a conference table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GIBBS</Character_Name>
+<Utterance>Jo, come on in.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>Thank you, sir.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GIBBS</Character_Name>
+<Utterance>Captain West, this is Lt. Commander Galloway.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance,Yes sir.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Parenthetical>(to JO)</Parenthetical>
+<Utterance>Captain, I appreciate your seeing me on such short notice.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterance>I understand there was some trouble over the weekend down in Cuba.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance,Yes sir... This past Friday evening. Two marines, Corporal Harold Dawson and Private Louden Downey, entered the barracks room of a PFC William Santiago and assaulted him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>Santiago died at the base hospital approximately an hour later.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>The NIS agent who took their statements maintains they were trying to prevent Santiago from naming them in a fenceline shooting incident.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>They're scheduled to have a hearing down in Cuba at 4:00 this afternoon.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LAWRENCE</Character_Name>
+<Utterance>What's the problem?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene continues with further discussion between Captain West, Gibbs, Lawrence, and Jo.</NARRATIVE>
+
+<Scene Heading>INT. JO'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A military office somewhere in <Location>Washington D.C.</Location>. <Character_Name>JO</Character_Name> is standing near a recruitment poster, addressing <Character_Name>WEST</Character_Name>, a high-ranking officer. The atmosphere is formal and professional.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>Dawson and Downey are both recruiting poster marines and Santiago was known to be a screw-up. I was thinking that it sounded an awful lot like a code red.</Utterance>
+</Turn>
+
+<NARRATIVE>Jo lets this sink in a moment, allowing the gravity of her words to resonate with West.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Parenthetical>(under his breath)</Parenthetical>
+<Utterance>Christ.</Utterance>
+</Turn>
+
+<NARRATIVE>Jo takes a deep breath and continues.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>I'd like them moved up to Washington and assigned counsel. Someone who can really look into this. Someone who possesses not only the legal skill, but a familiarity with the inner workings of the military. In short, Captain, I'd like to suggest that...I be the one who, that it be me who is assigned to represent them.</Utterance>
+</Turn>
+
+<NARRATIVE>There's a brief pause as Jo awaits a response from West.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterance>Joanne, why don't you get yourself a cup of coffee?</Utterance>
+</Turn>
+
+<NARRATIVE>Jo's expression remains steady, but slightly tense.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>Thank you, sir, I'm fine.</Utterance>
+</Turn>
+
+<NARRATIVE>West delivers another blow with a sharp command.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterance>Joanne, I'd like you to leave the room so we can talk about you behind your back.</Utterance>
+</Turn>
+
+<NARRATIVE>Jo's composure is tested as she responds in a controlled tone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>Certainly, sir.</Utterance>
+</Turn>
+
+<NARRATIVE>With that, Jo gets up and walks out of the room, leaving West to speak freely about her.</NARRATIVE>
+
+<NARRATIVE>The conversation turns from formal discussion to a personal critique.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterance>I thought this Code Red shit wasn't going on anymore.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>West's words hang in the air, leaving an ominous tone to the scene.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>LAWRENCE'S OFFICE</Scene Heading>
+
+<NARRATIVE>Lawrence's office, presumably at a military base or government facility.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAWRENCE</Character_Name>
+<Utterence>With the marines at GITMO? Who the hell knows what goes on down there.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The conversation between Lawrence and West continues with a change in topic.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterence>Well let's find out before the rest of the world does, this thing could get messy. What about this woman?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Lawrence responds to West's question about a woman.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAWRENCE</Character_Name>
+<Utterence>Jo's been working a desk at internal affairs for what, almost a year now.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>West asks a follow-up question about Jo's background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterence>And before that?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Gibbs provides additional information about Jo's past work experience.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GIBBS</Character_Name>
+<Utterence>She disposed of three cases in two years.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>West continues to question the team about Jo's abilities and past work experience.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterence>Three cases in two years? Who was she handling, the Rosenbergs?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Gibbs provides a negative assessment of Jo's skills as an investigator.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GIBBS</Character_Name>
+<Utterence>She's not cut out for litigation.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Lawrence defends Jo's abilities and experience as an investigator.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAWRENCE</Character_Name>
+<Utterence>She's a hall of an investigator, Jerry --</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Gibbs continues to express his doubts about Jo's skills and experience.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GIBBS</Character_Name>
+<Utterance>In Internal Affairs, sure. She can crawl up a lawyer's ass with the best of 'em, but when it comes to trial work --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>West decides to bring Jo back into the discussion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterence>I know. All passion, no street smarts. Bring her back in.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Lawrence exits his office and motions for Jo to come back in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterence>(continuing)</Utterence>
+<Parentetical>(addressing Lawrence)</Parentetical>
+<Utterance>Commander, we're gonna move the defendants up here in the morning.</Utterance>
+</Turn>
+
+<NARRATIVE>The scene ends with West continuing his discussion with Lawrence and the team.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterence>(enters)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. COURTROOM - DAY</Scene Heading>
+
+<NARRATIVE> Thank you, sir.</NARRATIVE>
+
+<NARRATIVE> WEST speaks to JO.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterance>And I'll have Division assign them counsel...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JO</Character_Name>
+<Utterance>Sir --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WEST</Character_Name>
+<Utterance>Dont worry about it. I promise you, division'll assign the right man for the job.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>EXT. SOFTBALL FIELD - DAY</Scene Heading>
+
+<NARRATIVE>The Right Man For The Job: Lieutenant Junior Grade Daniel Allistair Kaffee.</NARRATIVE>
+
+<NARRATIVE>Kaffee, in his late 20's, hits fungoes to about a dozen lawyers on the softball field.</NARRATIVE>
+
+<NARRATIVE>He's passionate about nothing except maybe softball.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>Alright, let's get two!</Utterance>
+</Turn>
+
+<NARRATIVE>Kaffee smacks one to SECOND BASE. The ball bounces right back.</NARRATIVE>
+</DIALOGUE>
+
+<Scene Heading>SECOND BASE - DAY</Scene Heading>
+
+<NARRATIVE>A baseball field, possibly during a game or practice. The ball is being smacked out to center field.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERBY</Character_Name>
+<Utterance>Sorry!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>Nothing to be sorry about, Sherby. Just look the ball into your glove.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The ball bounces off the heel of Sherby's glove and into center field.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERBY</Character_Name>
+<Utterance>Sorry!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>You gotta trust me, Sherby. You keep your eyes open, your chances of catching the ball increase by a factor of ten.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A young naval officer, SPRADLING, walks up behind the backstop, sweaty and out of breath.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>Kaffee!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>Let's try it again.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>Kaffee!!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>(turning)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>We were supposed to meet in your office 15 minutes ago to talk about the McDermott case. You're stalling on this thing. Now we got this done and I mean now, or no kidding, Kaffee, I'll hang your boy from a fuckin' yardarm.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>A yardarm?</Utterance>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>(calling out)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERBY</Character_Name>
+<Utterance>Does the Navy still hang people from yardarms?</Utterance>
+</Turn>
+</DIALOGUE>
+</Scene Heading>
+
+<NARRATIVE>It appears Kaffee and Spradling are discussing something, possibly about meeting up to discuss a case.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. BASEBALL FIELD - DAY</Scene Heading>
+
+<NARRATIVE> A baseball field somewhere. <Character_Name>SHERBY</Character_Name>, a coach, is standing near the third base.</NARRATIVE>
+
+<NARRATIVE> KAFFEE, a lawyer, and SPRADLING, another official, are having a conversation nearby.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SHERBY</Character_Name>
+<Utterance>(calling back)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>I don't think so, Danny.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Parenthetical>(back to SPRADLING)</Parenthetical>
+<Utterance>Dave, Sherby doesn't think the Navy hangs people from yardarms anymore.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Parenthetical>(back to the field)</Parenthetical>
+<Utterance>Let's go, let's get two!</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE> He goes back to hitting fungoes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>I'm gonna charge him with possession and being under the influence while on duty. Plead guilty and I'll recommend 30 days in the brig with loss of rank and pay.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>It was oregano, Dave, it was ten dollars worth of oregano.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>Yeah, well your client thought it was marijuana.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>My client's a moron, that's not against the law.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Swapp! The THIRD BASEMAN takes one in the face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Parenthetical>(continuing)</Parenthetical>
+<Utterance>Ow. That had to hurt.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Parenthetical>(calling out)</Parenthetical>
+<Utterance>Way to keep your head in the play, Lester. Walk it off!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>I've got people to answer to just like you, I'm gonna charge him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>With what, possession of a condiment?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>SPRADLING</Scene Heading>
+
+<NARRATIVE>A meeting or conference between SPRADLING and KAFFEE, presumably in a legal context.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>I've tried to help you out of this, but if you ask for tall time, I'm gonna file a motion to dismiss.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>You won't get it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>I will get it. And if the MTD is denied, I'll file a motion in liminee seeking to obtain evidentiary ruling in advance, and after that I'm gonna file against pre-trial confinement, and you're gonna spend an entire summer going blind on paperwork because a Signalman Second Class bought and smoked a dime bag of oregano.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>B Misdemeanor, 20 days in the brig.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>C Misdemeanor, 15 days restricted duty.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SPRADLING</Character_Name>
+<Utterance>I don't know why I'm agreeing to this.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>'Cause you have wisdom beyond your years. Dave, can you play third base?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CONFERENCE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>About 16 NAVY AND MARINE LAWYERS are taking their seats around a large conference table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARALEGAL</Character_Name>
+<Utterance>(to the lawyers)</Utterance>
+</Turn>
+
+<NARRATIVE>A PARALEGAL is handing out folders and some photocopied papers to the LAWYERS.</NARRATIVE>
+
+<NARRATIVE>We might notice that one of the lawyers is Lieutenant Junior Grade SAM WEINBERG, serious and studious looking. If he weren't in uniform, you wouldn't guess that he was a naval officer.</NARRATIVE>
+
+Here is the annotated script in the exact format and structure required:
+
+<Scene Heading>INT. LAW SCHOOL CLASSROOM - DAY</Scene Heading>
+
+<NARRATIVE>A law school classroom somewhere, presumably in <Location>New York City</Location>. CAPTAIN WHITAKER walks in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>'Morning.'</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>LAWYERS</Character_Name>
+<Utterance>'Morning Captain Whitaker.'</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Sam, how's the baby?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>I think she's ready to say her first Utterance word any day now.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>How can you tell?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>She just looks like she has something Utterance to say.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>KAFFEE walks in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>Excuse me, sorry I'm late.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Parenthetical></Parenthetical>
+<Utterance>I'm sure you don't have a good excuse, so I won't force you to come up with a bad one.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>Thank you, Isaac, that's nice of you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Sit-down, this first one's for you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>(continuing)</Utterance>
+<Utterance>You're moving up in the world, Danny, you've been requested by Division.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAWYERS</Character_Name>
+<Utterance>'Oooh''s and 'Ahhh''S from the other LAWYERS. (Subtle Note: Kaffee doesn't want to move up in the world.)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He hands KAFFEE some files.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>(continuing)</Utterance>
+<Utterance>You're moving up in the world, Danny, you've been requested by Division.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA PULLS BACK (implied).</NARRATIVE>
+
+<Scene Heading>KAFFEE</Scene Heading>
+
+<NARRATIVE>A meeting somewhere, possibly <Location>military headquarters</Location>. We see <Character_Name>KAFFEE</Character_Name>, his back turned to us, receiving a file from someone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Guantanamo Bay, Cuba. A marine corporal named Dawson illegally fires a round from his weapon over the fenceline and into Cuban territory.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kaffee is handed the file by <Character_Name>WHITAKER</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>What's a fenceline?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>WHITAKER</Character_Name> responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Sam?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>SAM</Character_Name> chimes in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>A big wall separating the good guys from the bad guys.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>Teachers pet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>WHITAKER</Character_Name> continues explaining the situation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>PFC William Santiago threatens to rat on Dawson to the Naval investigative Service. Dawson and another member of his squad, PFC Louden Downey, they go into Santiago's room, tie him up, and stuff a rag down his throat.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>An hour later, Santiago's dead. Attending physician says the rag was treated with some kind of toxin.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kaffee seems to be absorbing this information.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>They poisoned the rag?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Not according to them.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kaffee presses for more information.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>What do they say?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Not much. They're being flown up here tomorrow and on Thursday at 0600 you'll catch a transport down </Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades with unresolved tension.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. JO'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A Navy office somewhere. <Character_Name>LT. COMDR. GALLOWAY</Character_Name> sits at a desk, papers scattered around her.</NARRATIVE>
+
+<NARRATIVE>Kaffee and Whitaker stand before her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>to Cuba for the day to find out what you can. Meantime, go across the yard and see Lt. Commander Joanne Galloway. She's the one who had 'em brought up here. She'll fill you in on whatever she has. Any questions?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kaffee looks confused.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KAFFEE</Character_Name>
+<Utterance>The flight to Cuba, was that 0600 in the morning, sir?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>It seems important to Division that this one be handled by the book, so I'm assigning co-counsel. Any volunteers?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>No.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Sam.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utnerance>I have a stack of paper on my desk --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Work with Kaffee on this.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>Doing what? Kaffee'll finish this up in four days.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Do various... administrative... you know... things. Back-up. Whatever.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>In other words I have no responsibilities whatsoever.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WHITAKER</Character_Name>
+<Utterance>Right.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAM</Character_Name>
+<Utterance>My kinda case.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. JO'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>The scene has changed slightly, the camera is now facing Lt. Commander Galloway at her desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GALLOWAY</Character_Name>
+<Utterance>You're on your own with this one, guys.</Utterance>
+</Turn>
+</DIALOGUE>
+
+An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C04A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0D70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3920>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C03E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C15B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1E80>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2750>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F072DA00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3140>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2690>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1DC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1460>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3050>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C38F0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3E00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3140>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0EC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1970>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2240>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2DE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D39E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08B2F60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2BA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1700>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1580>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0E30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0557F80>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D2E10>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2E70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C14C0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1550>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C28A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0B30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3FB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1E20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C01A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1520>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C13A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0A70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F078EE70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D2F30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1F70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0EF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C17C0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C24E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08561B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D38C0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2660>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C04D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0EF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0230>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3D70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3950>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0856180>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1070>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C10D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2180>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1E20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3B60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0950>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0140>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1A60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3F80>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3EC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D2FC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0856450>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2BD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C00B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1B20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1E20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09F0560>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1DC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1790>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C27E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0856420>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3CB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09F04D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3080>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5EE32EDE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1A60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1D60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0950>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0800>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1AC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2630>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1BB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1040>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F072DBB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3F50>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09F0DA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F072DBB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C25D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0320>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2030>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C01A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3CB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08561E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3DA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0CB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0110>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3020>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0AA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F06739E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F072DA00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0C80>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0200>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2480>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0CB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1310>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F04F3A70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3EF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1700>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0890>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C02F0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0A40>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3C50>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5EE32DA30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C01D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0410>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1610>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1AC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0856300>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D30E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1FD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1B20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C08F0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3EC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2810>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0557F80>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08563F0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1430>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3A70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1DF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2A50>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1880>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1C40>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1400>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C2FC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5EE6058E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3200>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D3FB0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F0856150>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0920>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C1F70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C04A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C18E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09F00E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C3080>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C10A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09C0E00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08B1370>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D38F0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F09F0380>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08D2F60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001D5F08B2F60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+

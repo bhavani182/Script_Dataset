@@ -1,0 +1,6872 @@
+<Scene Heading>EXT. CATHERINE AND DAN'S COUNTRYSIDE HOUSE - NIGHT</Scene Heading>
+
+<NARRATIVE>An old grand house sits isolated in an idyllic rural setting. Fruit trees, shrubs and scented plants sway in the wind. A patio decked with wicker chairs stares out at the horizon.</NARRATIVE>
+
+<NARRATIVE>A low rumble of thunder in the distance underscores the NATURAL OUTDOOR SOUNDTRACK OF NOCTURNAL ANIMALS.</NARRATIVE>
+
+<NARRATIVE>A dim glow flickers in the TOP ATTIC WINDOW.</NARRATIVE>
+
+<NARRATIVE>Below it, curtains flutter in a wide open window on the third floor.</NARRATIVE>
+
+<NARRATIVE>The NATURAL OUTDOOR SOUNDTRACK OF NOCTURNAL ANIMALS carries into --</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>-- A moonlit bedroom decorated in modest tones with PINK ACCENTS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>sits wide-eyed under the duvet in her bed staring at the ceiling.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Her comfort of heavy layers protects her from the world. She shivers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>The comfort of heavy layers protects me from the world. I shiver.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Next to her, lies her husband DAN ( 37), sound asleep on top of the duvet with his back to her. Well built and handsome, he sleeps in boxer shorts.</NARRATIVE>
+
+<NARRATIVE>Oddly, the room is cold for Catherine and hot for Dan. Catherine's breath is visible and Dan sweats profusely.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(looks at her husband as though she's forgotten why she ever married him. Like he's an imposter)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>O.S. UNINTELLIGIBLE VOICES spoken in a backwards language creep into the bedroom.</NARRATIVE>
+
+<Scene Heading>The VOICES hit her from all sides.</Scene Heading>
+
+<NARRATIVE>Catherine's eyes dart around.</NARRATIVE>
+
+<NARRATIVE>The VOICES grow in both volume and occupants.</NARRATIVE>
+
+<NARRATIVE>A terror rises within her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan. Dan wake up.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She shakes him harder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Dan!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan is dead asleep.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>DAN!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The VOICES louder now.</NARRATIVE>
+
+<NARRATIVE>Catherine turns away from Dan and tugs on the chain of a bedside lamp. It won't turn on.</NARRATIVE>
+
+<NARRATIVE>Catherine frantically tries again. Nothing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She turns back to Dan.</NARRATIVE>
+
+<NARRATIVE>Her eyes widen in shock and fear.</NARRATIVE>
+
+<NARRATIVE>The VOICES CRESCENDO and explode into -- SILENCE.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan is no longer beside Catherine, the comforter oddly peeled back on his side of the bed.</NARRATIVE>
+
+<NARRATIVE>Catherine stares at the empty space.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She turns to check the ENSUITE BATHROOM.</NARRATIVE>
+
+<NARRATIVE>The bathroom door is open. The light is off. Dan is not there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She turns away from the bathroom and looks around the room in paranoia.</NARRATIVE>
+
+<NARRATIVE>She tugs on the lamp chain again. It turns on.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Dan!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BEDROOM</Scene Heading>
+
+<NARRATIVE> The chain again. The lamp turns off. She repeats this a few times.</NARRATIVE>
+
+<NARRATIVE> She turns to look at <Character_Name>Dan's</Character_Name> empty side of the bed.</NARRATIVE>
+
+<NARRATIVE> The wheels in her head turn.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She touches the empty space.</NARRATIVE>
+
+<NARRATIVE> A mixture of fear and disappointment etch her face. Reluctantly, she slips out of bed -- </NARRATIVE>
+
+<Scene Heading>3   INT. HOUSE - STAIRCASE - NIGHT</Scene Heading>
+
+<NARRATIVE> Catherine nervously ascends the dark staircase.</NARRATIVE>
+
+<NARRATIVE> Her hand braces the banister.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> O.S. a loud floor CREAK.</NARRATIVE>
+
+<NARRATIVE> Catherine stops.</NARRATIVE>
+
+<NARRATIVE> Nothing.</NARRATIVE>
+
+<NARRATIVE> She continues cautiously.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The wooden steps randomly creak as she tip-toes upwards. 3.</NARRATIVE>
+
+<Scene Heading>4   INT. HOUSE - UPPER HALLWAY/DAN'S OFFICE - NIGHT</Scene Heading>
+
+<NARRATIVE> Catherine stops on the moonlit landing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She notices a dim fluorescence creeping out from under a closed door.</NARRATIVE>
+
+<NARRATIVE> Filled with dread, Catherine approaches it then stops short.</NARRATIVE>
+
+<NARRATIVE> On the wall beside her hangs an ANTIQUE OIL PAINTING OF MEN FISHING.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She stands before it with a deep sense of foreboding. </NARRATIVE>
+
+<NARRATIVE> She steps forward and with trembling hands, quietly lifts it off the wall.</NARRATIVE>
+
+<NARRATIVE> There's a hole in the wall the size of Catherine's face. Within that hole, there's a smaller hole so she can spy into the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Catherine stares into the hole. </NARRATIVE>
+
+<NARRATIVE> Fear, dread and disgust engulf her.</NARRATIVE>
+
+<NARRATIVE> She looks away, alarmed by what she sees. Deep breaths, then -- </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She forces herself to look back through the hole.</NARRATIVE>
+
+<NARRATIVE> Rage consumes Catherine and a primal urge overtakes her.</NARRATIVE>
+
+<Scene Heading>5   INT. HOUSE - STAIRCASE - NIGHT</Scene Heading>
+
+Here is the annotated script in the exact format you requested:
+
+
+<Scene Heading>INT. HOUSE - KITCHEN - NIGHT</Scene Heading>
+
+<NARRATIVE>The kitchen is dark and empty.</NARRATIVE>
+
+<NARRATIVE>A large wooden table sits in the middle adorned with unlit candles. A PINK TEA POT sits on the stove. Plants in PINK VASES nestle on windowsills.</NARRATIVE>
+
+<NARRATIVE>Catherine rushes in and makes straight for the cutlery drawer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Zip it.</Utterance>
+</Turn>
+
+<NARRATIVE>The UNINTELLIGIBLE VOICES return in a cacophony of explosive sound around her.</NARRATIVE>
+
+<NARRATIVE>She turns sharply to address them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Thank you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - DAN'S OFFICE - NIGHT</Scene Heading>
+
+<NARRATIVE>Dan, in pyjama bottoms and a loose robe, sits at his desk in the dark.</NARRATIVE>
+
+<NARRATIVE>With his back to the door and headphones on, he's oblivious as he types on his laptop. His body obscures the screen.</NARRATIVE>
+
+<NARRATIVE>He types and scrolls with an odd intensity.</NARRATIVE>
+
+<NARRATIVE>The laptop glow illuminates his face and a sense of danger behind his eyes.</NARRATIVE>
+
+<NARRATIVE>He wipes sweat from his brow.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - UPPER HALLWAY/OFFICE DOOR - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine's hand carefully turns the doorknob.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAN'S OFFICE - NIGHT</Scene Heading>
+
+<NARRATIVE>The door creeps open.</NARRATIVE>
+
+<NARRATIVE>Catherine slowly approaches Dan from behind, practically floating like a ghost.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine it's not what you...</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine lets out an almighty, FERAL SCREAM.</NARRATIVE>
+
+<NARRATIVE>She whips out her hidden arm, raises it and slams down a PINK HANDLED BUTCHER'S KNIFE right into Dan's right temporal lobe.</NARRATIVE>
+
+<NARRATIVE>A lightening flash illuminates her silhouette as her SCREAM reverbs eerily throughout the house and into the night --</NARRATIVE>
+
+<Scene Heading>EXT. HOUSE - GARDEN - DAY - 1 YEAR AGO</Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>A GARDEN SP ADE slams deep into soil.</Scene Heading>
+
+<NARRATIVE>Dirt flies onto a two-foot soil pile. <Character_Name>Catherine</Character_Name>, dressed in gardening gear, wipes sweat from her brow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>This one's a beaut.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan comes up from behind her carrying an expensive GERTRUDE JEKYLL bush. He places it beside the freshly dug hole and picks Catherine up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It's a Juliet Rose -- </Utterence>
+</Turn>
+
+<NARRATIVE>Dan oozes charm and lovingly recites an Emily Dickinson poem.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>"I hide myself within my flower, That wearing on your breast, You, unsuspecting, wear me too. And angels know the rest."</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine kisses him long and deep.</NARRATIVE>
+
+<NARRATIVE>Dan carries her through the garden and up into the house.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - OFFICE - NIGHT - PRESENT</Scene Heading>
+
+<NARRATIVE>The pitter patter of rain hits the small attic window. Catherine, covered in blood, stands up in frustration.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Should have locked the door.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan now has a BLOODIED PINK TOWEL wrapped around his head, tied tight at the point where the PINK BUTCHER'S KNIFE protrudes from his temple.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(to Dan)</Utterence>
+</Turn>
+
+<NARRATIVE>She bends down out of sight again. Dan's legs are hoisted into the air as she attempts to push Dan into the office closet.</NARRATIVE>
+
+<NARRATIVE>She struggles, shoves and pushes from all sides until -- FINALLY! -- The body goes in.</NARRATIVE>
+
+<NARRATIVE>Catherine slams the door and leans against it. Breathing heavily, she looks down at her blood-stained clothes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Bastard.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine pushes off the door and leaves.</NARRATIVE>
+
+<NARRATIVE>The closet door slowly creaks open.</NARRATIVE>
+
+<Scene Heading>EXT. HOUSE - MORNING</Scene Heading>
+
+<NARRATIVE>The SOUND OF MORNING BIRD SONG as the sun rises behind the house fills the silence, and morphs into -- </NARRATIVE>
+
+<Scene Heading>INT. HOUSE - LAUNDRY ROOM - MORNING</Scene Heading>
+
+<NARRATIVE> Catherine's bloody pink pyjamas slosh around in soapy water. The LOW HUM of the washing machine calming and hypnotic. Two legs hang down in front of the machine, sporting jeans and white Converse All Stars. The legs kick back and forth like a child on a swing. </NARRATIVE>
+
+<NARRATIVE> Catherine sits on top of the machine in a PINK SWEATER, engrossed in Bronte's 'JANE EYRE' as she munches on a swedish caramel wafer. Her nails freshly painted over old, chipped varnish. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> An old doorbell chimes.</Utterance>
+</Turn>
+
+<NARRATIVE> GONG! </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Catherine looks up. She knows exactly who it is.</Utterance>
+</Turn>
+
+<NARRATIVE> It chimes again. GONG!! </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Catherine takes a PINK BOOKMARK, sets it on her page, closes the book and hops off the washing machine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - FRONT DOOR - MORNING</Scene Heading>
+
+<NARRATIVE> Anita (32) stands smoking a cigarette out of a short cigarette holder. Sporting a RED LEATHER JACKET and AVIATOR SUNGLASSES she's larger than life, yet true to life. She has a working class toughness that masks an achingly sentimental heart. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Happy and relieved to see Anita, Catherine gives her a big smile.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Anita</Character_Name>
+<Utterance> There you are. Almost forgot w hatcha looked like.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Huggers.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Catherine goes to hug Anita. Anita ignores her and walks past her, straight into the house. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Well -- That was rude.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Anita</Character_Name>
+<Utterance> Smoke inside?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Of course not.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Catherine grabs Anita's cigarette and throws it outside. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance> Catherine looks out the door in all directions to see if Anita was seen. Nobody. They're safe.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Catherine slams the front door shut. </NARRATIVE>
+
+<Scene Heading>INT. HOME - DAY</Scene Heading>
+
+<NARRATIVE>Anita circles the large entrance, impressed by the home.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>This your home?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine nods her head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>My husband --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Husband?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita grabs Catherine's hand and examines her WEDDING RING.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>That real?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine responds affirmatively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance,Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita expresses her surprise and disapproval.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Mother of fuck.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine attempts to explain her situation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>He's well off. Well his family was. He's a lecturer.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Adorable. How long?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine answers Anita's question about the length of her relationship.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Three years. Five years together.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>No. I mean how long you been out?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine clarifies the duration of her separation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Five years.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Jumped right into it didn't you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Kids?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine appears uncomfortable and shifts her body.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We like to do -- outdoorsy stuff okay --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>That sounds retarded. You tell him about me?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita picks up a framed picture of Catherine and Dan from a side table.</NARRATIVE>
+
+<NARRATIVE>The table is cluttered with photos of them in various outdoor activities, such as cycling down a country lane, trekking on a hilltop, and fishing off the river bank.</NARRATIVE>
+
+<NARRATIVE>Anita's expression remains unimpressed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Adorable.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine attempts to reclaim the photo and restore it to its place on the side table.</NARRATIVE>
+
+<NARRATIVE>Anita's disapproval persists.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We like to do -- outdoorsy stuff okay --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The conversation between Anita and Catherine continues, with no clear resolution or conclusion.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. PARK - DAY</Scene Heading>
+
+<NARRATIVE>A park somewhere.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Of course.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Liar.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>On our first date I did.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>What'd he say?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>He was -- understanding.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Hmmm.    His name is Dan?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence,Yes.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Dan the man?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Just Dan.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Just Dan.    Adorable.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Why are you being aggressive,</Utterence>
+<Utterance>darling?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Darling?</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Why --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>9.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Because you never call!</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine slowly approaches her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>The phone works two ways darling.</Utterence>
+</Turn>
+
+<NARRATIVE>Inches apart, the sexual tension is palpable.   It seems as if Catherine's about to kiss her then --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Suppose you're right.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Tea?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>With Scotch in it.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Lovely!</Utterance>
+</Turn>
+
+<Scene Heading>INT. HOUSE - KITCHEN - MORNING</Scene Heading>
+
+<NARRATIVE>Catherine and Anita sit across from each other at the kitchen table.</NARRATIVE>
+
+<NARRATIVE>They drink tea out of FANCY PINK TEA CUPS. Catherine sips hers with two fingers gently pinching the small handle. Anita holds her cup tight with her whole hand.</NARRATIVE>
+
+<NARRATIVE>A BOTTLE OF EXPENSIVE SCOTCH sits on the table next to them.</NARRATIVE>
+
+<Scene Heading>ANITA'S APARTMENT - DAY</Scene Heading>
+
+<NARRATIVE>A living room somewhere in <Location>New York</Location>. <Character_Name>Catherine</Character_Name>, smiling warmly, greets <Character_Name>Anita</Character_Name>. We see them embracing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>sulks and pours Scotch into her tea.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan says that's a good one.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>It's all the same once it's in your gut.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Now, now, darling. Don't sulk. I should have called. I really should have. So very sorry. The important thing is that we're here now, isn't it?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Suppose.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Don't suppose. Know.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Yeah - I know.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Good.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance	So what is it, Catherine?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What is what?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Why'd you call me?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Oh. Of course.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine pulls away and takes a deep breath before taking a sip of her tea.</NARRATIVE>
+
+<NARRATIVE>Catherine sets the tea cup down gently and crosses her hands on the table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I caught Dan -- watching -- it -- again.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>What's IT?</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine takes a deep breath before taking another sip of tea.</NARRATIVE>
+
+<NARRATIVE>Catherine sets the tea cup down and crosses her hands on the table again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Oh...</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(stammers)</Parenthetical>
+<Utterance>Po -- porn -- pornogr--</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine kicks out her chair, stands and paces.</NARRATIVE>
+
+<Scene Heading>CATHERINE (CONT'D)</Scene Heading>
+
+<NARRATIVE> Catherine throws herself back into her chair, sipping her tea and attempting to calm down. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>He promised me he'd stopped. He even went to counselling. But what good is working on your illegally libidinous shortcomings if you're not making a lifetime commitment to destroying them?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita watches and waits.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>It was the middle of the night. His office door was closed. I saw that glow under the door. So I went and looked through my peephole.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita raises an eyebrow, reacting to "peephole".</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Peephole.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>He was on his laptop.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>And that means? --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>Duh! Of course! Door closed. Laptop on. Three in the morning?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita looks at Catherine, still confused.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>Because I know!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita is at a complete loss.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>Well. Go ahead. Judge away, Anita. Judge away.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>So what the fuck happened?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>What do you mean "what happened"? Do I have to spell it out for you? I caught him watching it again so I stabbed him in the side of the head. Right in the right temporal lobe.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita's eyes widen in horror, reacting to Catherine's words.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>WHAAAT?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>(no emotion) Is he DEAD?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita can't believe this. Catherine is eerily proud and calm.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAN'S OFFICE - MORNING</Scene Heading>
+
+<NARRATIVE>Catherine and Anita are standing inside Dan's office, looking at the closet door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Yes. I'd imagine he is.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Anita freaks.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine responds, indicating her awareness of Dan's situation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>You ain't sure?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Well if he's not at the moment, I can't imagine he'll last much longer.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita presses for more information about Dan's status.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>The bloody hell is he!?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Upstairs. In the closet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine reveals Dan's location, and Anita reacts with surprise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(gallows humour)</Parenthetical>
+<Utterance>Like you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No. Not like me. I am not "in the closet". He's literally -- in the closet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita attempts to lighten the mood with a dark joke, but Catherine clarifies that she means Dan is physically inside the closet.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAN'S OFFICE - MORNING (CONT'D)</Scene Heading>
+
+<NARRATIVE>The closet door opens, revealing Dan's corpse.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Fuckin' Bambino Jesus Christo!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(proudly)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita reacts to seeing Dan's body, and Catherine stands proudly beside her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>You gave him the death sentence!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Affirmative.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita tries to process what has happened, and Catherine confirms her role in Dan's demise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>No -- I mean -- shit -- I mean -- (jumps into a bad Moonwalk)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What are you doing?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Gotta do the MJ. The MJ gets my mind right.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita tries to distract herself with a poor Moonwalk, and Catherine asks what she's doing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(laughs)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine laughs at Anita's antics.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>Would you like a cigarette?</Scene Heading>
+
+<NARRATIVE>Anita</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>That'll be fun.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita continues to MOONWALK.</NARRATIVE>
+
+<Scene Heading>Catherine slams the closet door shut.</Scene Heading>
+
+<NARRATIVE>EXT. HOUSE - BACK GARDEN - DAY</NARRATIVE>
+
+<Location>Houses backyard</Location>
+
+<NARRATIVE>Catherine and Anita, both in SUNGLASSES, lounge on wicker lawn chairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I need you to go into town.   Buy a bow saw.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>A bow saw?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>In pink if you can find it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Hell.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We have to dismember him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Shit.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dismember and burn him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Fuck.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Then hose the place down.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Speaking of -- after you go to the "pink bow saw" store, I need you to go to a different store and buy some cleaning supplies. Bin bags, bleach, sponges --</Utterance>
+</Turn>
+
+<NARRATIVE>Anita takes a deep drag.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Bow saw at one store --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Cleaning supplies at the other.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>To avoid suspicion.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Obviously.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Obvio usly.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine sips her tea. Anita sips her whisky tea and takes another long drag.</NARRATIVE>
+
+<Scene Heading>CONT'D</Scene Heading>
+
+<NARRATIVE>Anita continues to smoke and drink.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CAFÉ - DAY</Scene Heading>
+
+<NARRATIVE> Two women, CATHERINE and ANITA, sit at a table sipping their tea and smoking.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>You coming with?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Can't.     I'm known in town.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence_Of course.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence_Of course.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine sips her tea.     Anita smokes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>But nobody knows me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Correct.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Correct.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine sips her tea.     Anita smokes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA (CONT'D)</Character_Name>
+<Utterence>That's why you called me? I'm your 'undercover scummer'?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Agitated, Catherine sits up and clocks a SPIDER crawling near her chair.</NARRATIVE>
+
+<DIALOGUE></DIALOGUE>
+
+<NARRATIVE>Catherine lifts her foot and stomps on it.</NARRATIVE>
+
+<Scene Heading>EXT. PLAYGROUND - AFTERNOON - 1993</Scene Heading>
+
+<NARRATIVE>A rusty pair of RED SWINGS, a rusty RED SLIDE, and a dilapidated RED SEESAW sit on top of gravel with dead grass growing through it. A few dilapidated park benches sit to the side.</NARRATIVE>
+
+<NARRATIVE>The playground is empty except for CATHERINE, AGED 7, who sits alone on a bench.</NARRATIVE>
+
+<NARRATIVE>Catherine gently rocks herself to stay warm as she reads 'PYGMALION' by BERNARD SHAW with a PINK BOOKMARK between the pages.</NARRATIVE>
+
+<NARRATIVE>Wind blows through trees. O.S. the SCHOOL BELL RINGS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks up from her book, stares in all directions at the closed school doors. The calm before the storm.</NARRATIVE>
+
+<NARRATIVE>She looks back down at her book.</NARRATIVE>
+
+<NARRATIVE>WHOOSH!   SLAM!</NARRATIVE>
+
+<NARRATIVE>The school doors open and a rush of CHILDREN spill out, charging past Catherine, oblivious to her reading on the bench.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>Catherine spies over the top of her book and watches a FEW</Scene Heading>
+
+<NARRATIVE>KIDS being hugged and snuggled by their PARENTS. Some are given treats.</NARRATIVE>
+
+<NARRATIVE>YOUNG CATHERINE is sitting on a bench, reading a book.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Babies.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine goes back to reading.</NARRATIVE>
+
+<NARRATIVE>A SUCKING NOISE is heard O.S., then --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>Whatcha readin'?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ANITA, AGED 7, appears next to Catherine on the bench.</NARRATIVE>
+
+<NARRATIVE>Anita is wearing blue jeans, WHITE CONVERSE ALL STARS and a RED JACKET. Her hair is sprinkled with fake strands of BRIGHT RED HAIR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>Sorry to scare you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks over both her shoulders.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>Saw you sitting alone and wanted ta say hello. So -- "Hello!"</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita waves her lollypop.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Catherine.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>You like books?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine nods.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>'REMEMBERENCE OF THINGS PAST'.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>That's a big word!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>(smirking) No, it's not.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>Your favourite book?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>'REMEMBERENCE OF THINGS PAST'.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>That's a children's book!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>(looking at Anita square on) I don't read children's books. I read books that will impress someone someday.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>GOOSEBUMPS.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>(skeptical) You like GOOSEBUMPS?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>(defensively) Yeah!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks at Anita with a mixture of amusement and annoyance.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>YOUNG ANITA</Scene Heading>
+
+<NARRATIVE>Young Anita stands there, <Character_Name>YOUNG ANITA</Character_Name>, looking puzzled.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Why?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita stares at Catherine, who avoids her stare.</NARRATIVE>
+
+<NARRATIVE>Awkward silence as Anita continues to stare at Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>(Continued)</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine slowly turns her head back to Anita.</NARRATIVE>
+
+<NARRATIVE>Upon eye contact Anita's face lights up in a smile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Trying to start a staring match?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>Yep!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine slams her book shut.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Well I won't have it.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>(Continued)</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine turns to Anita and stares back at her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>(Continued)</Utterence>
+</Turn>
+
+<NARRATIVE>They actually ARE having a stare off.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>Gotcha!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Got what?   I didn't blink.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>(Continued)</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine blinks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>You blinked!     I win!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita laughs.</NARRATIVE>
+
+<NARRATIVE>Catherine punches her book in frustration.</NARRATIVE>
+
+<NARRATIVE>(Continued)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>(Continued)</Utterence>
+</Turn>
+
+<NARRATIVE>Anita waves at a BIG BLURRY FIGURE in the distance.</NARRATIVE>
+
+<NARRATIVE>Catherine follows her gaze.     Jealousy engulfs her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>(Continued)</Utterence>
+</Turn>
+
+<NARRATIVE>Anita calls out to her friend.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>Come on over!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>(to Catherine)</Utterence>
+</Turn>
+
+<NARRATIVE>Anita turns to Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>Don't be shy. You'll love her.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>FILLED WITH JEALOUSY, Catherine's eyes dart from ANITA to</Scene Heading>
+
+<NARRATIVE>the BLURRY BLOB in the distance. She squints hard to focus</NARRATIVE>
+
+<Scene Heading>CUT TO BLACK:</Scene Heading>
+
+<Scene Heading>INT. HOUSE - UPPER HALLWAY/STAIRCASE - DUSK - BACK TO PRESENT</Scene Heading>
+
+<NARRATIVE>Catherine struggles with Dan's dead weight as she drags his body by the feet along the top landing.</NARRATIVE>
+
+<NARRATIVE>The BLOODIED PINK TOWEL wrapped around his head has dried in places.</NARRATIVE>
+
+<NARRATIVE>She looks down the staircase with irritation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Shit.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan's head bounces down the first few steps.</NARRATIVE>
+
+<NARRATIVE>This won't work.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Oh dear.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan's PJ BOTTOMS are caught on a protruding nail.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Parenthetical>(to Dan)</Parenthetical>
+<Utterance>Oh dear.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She drops Dan's torso and detaches his boxers from the nail.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Okay. Let's go.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - LOWER HALLWAY/STAIRCASE - DUSK</Scene Heading>
+
+<NARRATIVE>O.S heavy breathing.</NARRATIVE>
+
+<NARRATIVE>Dan's legs drag along the landing.</NARRATIVE>
+
+<NARRATIVE>Catherine stops dead in front of TWO ADJACENT BEDROOM DOORS.</NARRATIVE>
+
+<NARRATIVE>One door is open and leads to their bedroom. The door adjacent to it is CLOSED.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>(to herself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She drops his torso to catch her breath.</NARRATIVE>
+
+<NARRATIVE>She looks up at the CLOSED DOOR.</NARRATIVE>
+
+<NARRATIVE>An odd mix of emotions cross her face that end in resigned determination.</NARRATIVE>
+
+<NARRATIVE>Lost in thought, a SHADOW slowly creeps up behind Catherine.</NARRATIVE>
+
+<NARRATIVE>As it LOOMS LARGE --</NARRATIVE>
+
+<Scene Heading>EXT. PLAYGROUND - AFTERNOON - BACK TO 1993</Scene Heading>
+
+<NARRATIVE>A HUMAN-SIZED STUFFED TEDDY BEAR towers over Catherine (7) and Anita (7) but they surprisingly keep their cool.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Hello.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Parenthetical>(to Anita)</Parenthetical>
+<Utterence>What's her name?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>TEDDY answers and speaks only in a 'Charlie Brown Gibberish'.</Scene Heading>
+
+<NARRATIVE> A room, presumably <Location>a classroom</Location>, where we see two children: <Character_Name>YOUNG CATHERINE</Character_Name> and <Character_Name>YOUNG ANITA</Character_Name>. They are sitting at a desk. The <Character_Name>TEDDY BEAR</Character_Name> is also present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEDDY BEAR</Character_Name>
+<Utterance>[Gibberish.]</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>YOUNG CATHERINE</Character_Name> speaks to <Character_Name>Teddy Bear</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>One Hundred and Thirteen? Ha!</Utterance>
+<Utterance>Were your parents crazy?</Utterance>
+<Utterance>19.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEDDY BEAR</Character_Name>
+<Utterance>[Gibberish.]</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Young Catherine</Character_Name> asks <Character_Name>Teddy Bear</Character_Name> a question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>No.     I just met her.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Teddy Bear</Character_Name> responds in gibberish again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEDDY BEAR</Character_Name>
+<Utterance>[Gibberish.]</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Young Catherine</Character_Name> repeats herself, slightly frustrated.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>I just MET her.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> slams her book against her head in frustration.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Are you trying to cause me grief?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Teddy Bear</Character_Name> responds in gibberish, further frustrating <Character_Name>Young Catherine</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEDDY BEAR</Character_Name>
+<Utterance>[Gibberish.]</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> explains the meaning of the word "grief" to <Character_Name>Anita</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Parenthetical>(to TEDDY)</Parenthetical>
+<Utterance>Like when a bloke rubs the back of your neck and smiles through the moustache. If you pee your pants when that happens - that's grief.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA (CONT'D)</Character_Name>
+<Utterance>'Bout right, don't cha think?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> is impressed by <Character_Name>Anita's</Character_Name> explanation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA (CONT'D)</Character_Name>
+<Utterance>Wanna swing on swings?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene transitions to an <Location>EXT. PLAYGROUND - DAY</Location>. The camera shows <Character_Name>Catherine</Character_Name> and <Character_Name>Anita</Character_Name> swinging on swings.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>(smiling)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. PLAYGROUND - DAY</Scene Heading>
+
+<NARRATIVE>A playground, likely at a school or daycare center. <Location>The sound of children playing can be heard in the background.</Location>. Two young girls, <Character_Name>YOUNG ANITA</Character_Name> and <Character_Name>YOUNG CATHERINE</Character_Name>, are on swings. They are seated side by side, their feet dangling above the ground.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Young Anita</Character_Name>'s feet slam down on the gravel.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>So -- you don't like to be</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>touched?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>Nope.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Parenthetical>(speaking of something unrelated)</Parenthetical>
+<Utterence>I'm in the class for supremely precocious children. Although there's this one boy who drools, but apparently he's brilliant.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>You're in a retard kids class, ain't you?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Parenthetical>(correcting Anita)</Parenthetical>
+<Utterance>No! It's a SMART kids class. We get special attention for being superior.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine's feet slowly do the same as Anita's, both pairs of feet in perfect alignment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>My Daddy causes me grief. Sometimes he plays the "Itsy Bitsy Spider" game up my leg.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine is mortified and extremely concerned.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>You believe me?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterance>I do. I absolutely do.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine thinks hard for a second.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE (CONT'D)</Character_Name>
+<Utterance>If those things are happening, my parents will take you in. I'll force them to.</Utterance>
+</Turn>
+
+<NARRATIVE>Anita jumps off her swing and throws down her lollypop.</NARRATIVE>
+
+<NARRATIVE>Anita paces and bites her fingernails.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE (CONT'D)</Character_Name>
+<Utterance>Anita -- you need to stay somewhere else.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine mirrors Anita's pacing as she jumps off her swing.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<Scene Heading>CONTINUOUS</Scene Heading>
+
+(Note: I have assumed the "CONTINUOUS" heading indicates a continuation of the scene, but it can be adjusted or modified to fit specific script formatting requirements.)
+
+Here is the annotated script:
+
+<Scene Heading>YOUNG ANITA</Scene Heading>
+
+<NARRATIVE>How do you know?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Because I read books on therapy!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita stops. Catherine stops. They look at each other.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG ANITA</Character_Name>
+<Utterence>Can I sleep in your bed?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine claps and jumps up and down, full of excitement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>Of course! You see? This is a multiple person's victory!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine extends her hand. Anita takes it, leans in and gently kisses Catherine on the cheek.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>You sure are pretty.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Anita stares lovingly at Catherine, a large SHADOW grows over them.</NARRATIVE>
+
+<NARRATIVE>The shadow starts at their feet and slowly grows over their small bodies, eventually blocking out all daylight --</NARRATIVE>
+
+<Scene Heading>23   INT. HOUSE - LOWER HALLWAY/STAIRCASE - DUSK - BACK TO PRESENT</Scene Heading>
+
+<NARRATIVE>Catherine notices the LARGE SHADOW growing behind her and turns.</NARRATIVE>
+
+<NARRATIVE>Anita stands on the staircase holding several shopping bags. That same sulky look plastered on her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Fuck, it's like 'Welcome to Dead House' in here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine grabs the bags of supplies from her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Tick-tock, Darling.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine makes her way through the bedroom and into the ensuite bathroom.</NARRATIVE>
+
+<NARRATIVE>Anita reluctantly follows, stepping gingerly over Dan's body.</NARRATIVE>
+
+<Scene Heading>24   INT. BEDROOM/ENSUITE BATHROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>A needle settles unto an OLD RECORD PLAYER.</NARRATIVE>
+
+<NARRATIVE>The sultry tones of Dusty Springfield's "SPOOKY" float into the bedroom.</NARRATIVE>
+
+<NARRATIVE>Anita turns away from the player and slinks her way towards the large ensuite bathroom, stopping at the door.</NARRATIVE>
+
+<NARRATIVE>A claw-footed porcelain tub sits in the middle of the carefully decorated, oversized bathroom with TASTEFUL PINK ACCENTS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Can I help you with something?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine kneels on the floor and rummages through shopping bags, pulling out Anita's best buys and examining each one.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>First the bleach.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>               Lovely.</Scene Heading>
+
+<NARRATIVE>    <Location>A house somewhere</Location>. <Character_Name>CATHERINE</Character_Name> is in a room, holding an item and talking to <Character_Name>ANITA</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Fab.</Utterance>
+</Turn>
+
+<NARRATIVE>She pulls out TWO PAIRS of utility gloves.</NARRATIVE>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Four LARGE PINK SPONGES.   One at a time.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A LOUD THUMP pierces through the MUSIC, followed by what sounds like a CHANDELIER landing on carpet.</NARRATIVE>
+
+<NARRATIVE>Anita looks up at the sound in fear.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You hear --</Utterance>
+</Turn>
+
+<NARRATIVE>Anita nods.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(whispering)</Parenthetical>
+<Utterance>Anyone follow you?</Utterance>
+</Turn>
+
+<NARRATIVE>Anita oddly shrugs one shoulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(whispering)</Parenthetical>
+<Utterance>What is that?</Utterance>
+</Turn>
+
+<NARRATIVE>Anita whispers back in response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(whispering)</Parenthetical>
+<Utterance>What?</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine mimics Anita shrugging one shoulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(still whispering)</Parenthetical>
+<Utterance>That.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A LOUD house creak.</NARRATIVE>
+
+<NARRATIVE>Anita freaks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(panicked)</Parenthetical>
+<Utterance>Fuuuuck.     Dan's back from the dead!</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine quietly whispers in response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(still whispering)</Parenthetical>
+<Utterance>Pull yourself together!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine quietly rummages in the shopping bags and pulls out a PINK BOW SAW.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Pink!</Utterance>
+</Turn>
+
+<NARRATIVE>Anita smiles, pleased with herself.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(smiling)</Parenthetical>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine stands and attempts to take the safety-slide off the bow saw's blade.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - UPPER LANDING - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine struggles and hops around on one foot trying to get the safety off.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Good lord!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Need help?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>For the love of --</Utterance>
+</Turn>
+
+<Parenthetical>(it comes off)</Parenthetical>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>GOT IT!</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine throws the safety in frustration.</NARRATIVE>
+
+<NARRATIVE>Catherine puts a firm grip on the bow saw and makes her way to the hallway, leaving Anita cowering behind.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - LOWER HALLWAY/STAIRCASE - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine approaches the landing slowly but confidently.</NARRATIVE>
+
+<NARRATIVE>The SONG is finished.</NARRATIVE>
+
+<NARRATIVE>Anita's nowhere in sight.</NARRATIVE>
+
+<NARRATIVE>SILENCE as Catherine tip toes towards the landing.</NARRATIVE>
+
+<NARRATIVE>Her eyes grow in disbelief as she looks up to --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>DAN.</Utterance>
+</Turn>
+
+<NARRATIVE>No longer dead on the landing, but standing in a suit and loose tie, clutching his briefcase and a PINK SHOPPING BAG.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Hey there Sweetheart. Nice bow saw.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine shakes her head. This can't be real.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Sorry I'm late. I had to make a little detour.</Utterance>
+</Turn>
+
+<NARRATIVE>Dan holds up the shopping bag and makes for the ADJACENT CLOSED DOOR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I think you'll love it.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine softens as she watches Dan grasp the door handle and walk into the dark room, out of sight.</NARRATIVE>
+
+<NARRATIVE>Catherine edges to the bannister and looks up and down the staircase in all directions.</NARRATIVE>
+
+<NARRATIVE>Nothing seems amiss.</NARRATIVE>
+
+<NARRATIVE>Catherine turns to face the door Dan walked through, now ajar.</NARRATIVE>
+
+<NARRATIVE>Catherine approaches it, terrified of what lurks behind.</NARRATIVE>
+
+<NARRATIVE>With a deep breath, she musters courage and steps into the darkness that explodes into A BRIGHT SILVER FLASH --</NARRATIVE>
+
+<Scene Heading>EXT. RIVER BANK - DAY - 3 MONTHS AGO</Scene Heading>
+
+<NARRATIVE>-- Of a FISHING LINE as it catches the sun and plonks into the sparkling river.</NARRATIVE>
+
+<NARRATIVE>An imposing Castle looms on the horizon.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance> (implied, but no direct speech given)
+</Turn>
+
+<NARRATIVE>Catherine, in waders and a pink checked shirt, walks towards Dan, into her fully decked out fishing chair.</NARRATIVE>
+
+<Scene Heading>EXT. COUNTRYSIDE - DAY</Scene Heading>
+
+<NARRATIVE>A serene countryside landscape, with various <Location>HORTICULTURE AND BIRD WATCHING MAGAZINES</Location> stacked neatly on a hamper.</NARRATIVE>
+
+<NARRATIVE>DAN and CATHERINE sit beside each other in an identical setup, reading books.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Nice cast.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I learned from the best.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(gently)</Parenthetical>
+<Utterance>And I'm sure you did.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan carefully pries Catherine's hand into his, kisses it, and continues to caress it as he settles back into his journal.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - ENSUITE BATHROOM - NIGHT - BACK TO PRESENT</Scene Heading>
+
+<NARRATIVE>Catherine, oddly calm, returns to a pacing ANITA.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>What was it?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Nothing.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Was it Dan?     Dan the man?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine dumps the contents of shopping bags on the floor, revealing various items such as thick black tape, surgical masks, bin bags, and disinfectant.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>What's wrong --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Nothing!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You are surprisingly good at this Anita.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What's wrong --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Nothing!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - ENSUITE BATHROOM - NIGHT - LATER</Scene Heading>
+
+<NARRATIVE>The upbeat jazzy notes of 'L-O-V-E' by NAT KING COLE waft into the room.</NARRATIVE>
+
+<NARRATIVE>Much of the bathroom is covered in plastic sheets, and Catherine stands on a step ladder, tearing off black tape.</NARRATIVE>
+
+<Scene Heading>INT. ABANDONED WAREHOUSE - DAY</Scene Heading>
+
+<NARRATIVE> A dimly lit and abandoned warehouse somewhere in <Location>unknown location</Location>. <Character_Name>CATHERINE</Character_Name> is standing, seemingly lost in thought, with various cleaning products scattered around her. <Character_Name>ANITA</Character_Name> sits on the floor juggling tape balls.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You ever get over your fear of being touched?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Not the back of the neck.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Your girlfriends -- they respect your boundaries?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>The last one didn't. She'd get drunk and grab my neck.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>And she knew you can't be touched there?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Anita nods in shame.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>And she did it regardless?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Anita nods again.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Now that you're back I won't let anyone harm you. Just like the old days.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>That's why you called me, right?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Called you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You want me to off her?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Off who?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Your ex-girlfriend.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Catherine --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>You called me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks at Anita stunned as she holds the BOW SAW in her hand.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine is standing in a room, holding a bow saw.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Are you demented? You called me up.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>You called me 'cause you needed me to help you with --</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine clenches the bow saw.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I was in a happy marriage! I Didn't need you coming here and ruining it all for me!</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine's crazed eyes bore into Anita, the BOW SAW now dangerously close to Anita's neck.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Terrified.</Utterance>
+<Parenthetical>(implied)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Catherine calms on a dime and smiles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Deeply sorry, da rling. Don't know what came over me.</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine puts the bow saw down.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Dan's suits are in the wardrobe. Line the bathtub with them.</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine turns away to inspect the cleaning supplies.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Catherine --</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine stops, her back to Anita.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Yes?</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Catherine -- maybe you should call the police.</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine's face morphs into an eerie gargoyle-like manifestation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I'm not going to do that.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>You need help.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I'm not calling the police! Are you fucking crazy?</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Crime of passion --</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine grabs the roll of bin bags and turns to Anita.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>'Crime of passion' my arse! -- Call the police --</Utterence>
+</Turn>
+
+<NARRATIVE> The scene continues with Catherine's escalating behavior.
+
+Here is the annotated script:
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<Location>The same upscale restaurant where Catherine feels out of place.</Location>
+
+<NARRATIVE>Catherine (27) sits alone at a table, wearing a conservative black dress and long flowing hair. She seems calm but feels awkward in social situations.</NARRATIVE>
+
+<NARRATIVE>She attempts to smile at the strangers around her and contemplates the 'normal life' of others. A carafe of water and two wine glasses sit on the table with menus.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>You are funny Anita. Now help me bag this bastard up.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A FEMALE PIANO PLAYER plays the same JAZZY TUNE as earlier, and the restaurant is decorated with CHRISTMAS DECOR.</NARRATIVE>
+
+<Scene Heading>CUT TO BLACK:</Scene Heading>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>The same scene as before, but now Dan (32) arrives at Catherine's table and pulls out his chair.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>Catherine?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Dan?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>Catherine? I'm sorry to keep you waiting --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I just arrived myself.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>My lecture ran --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>No no no. No apologies are necessary. I absolutely understand. When I was a student my long-winded essays most likely kept teachers late. Meaning: I...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They almost kiss on the lips and do a "face dance" as they laugh and sit down.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE> A coffee shop somewhere. <Character_Name>CATHERINE</Character_Name> and <Character_Name>DAN</Character_Name>, both smiling, are sitting at a table for two.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Catherine</Character_Name>
+<Utterance>Awkward silence.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine smiles at Dan. Dan smiles back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Well if your writing in essays was half as poetic as your writing in emails, I'm sure your teachers delighted in overtime.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan smiles. Catherine blushes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Do you bring all of your dates here?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>'All of my dates'. Ha. No. I don't date much. Too much of a busy-body for casual romance. No.</Utterance>
+</Turn>
+
+<NARRATIVE>Dan smiles again. Catherine blushes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>This is new to me. Actually I have a confession to make.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine's expression changes slightly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I've never been on an online date.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Awkward silence. Catherine blushes again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Nothing.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan doesn't press her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Well, I'm not one to interrogate a woman on a first date.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Dan smiles and grabs the menu.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine decides to plunge in anyway.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Well I didn't tell you everything online. But I was very honest in my profile when I said that I've never --</Utterance>
+</Turn>
+
+<NARRATIVE>Dan looks at her curiously.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Been on an online date?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine shakes her head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No. Not just an online date.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan's expression changes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>You're kidding.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. RESTAURANT - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine sits across from Dan in a restaurant, looking somewhat out of place.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>You've never been out with a man?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine blushes at the question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Never.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>What a crime.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>An attractive WAITRESS walks to the table with the wine list.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WAITRESS</Character_Name>
+<Utterance>How are you this evening?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Wonderful.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The waitress gives Dan a smile that borderlines flirting.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN (CONT'D)</Character_Name>
+<Utterance>What's your best red?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine's instinct tells her the Waitress is being inappropriate, but she attempts to suppress her irritation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WAITRESS</Character_Name>
+<Utterance>Red. For red I'd recommend --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine interrupts the waitress's response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Both Dan and the Waitress look at Catherine in surprise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Um -- Um --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine tries to disarm them with a smile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>No thank you. I don't drink. It will mess with my -- um. Well I take things that don't work with --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine tries to backtrack.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>But you -- you -- you feel free to drink. I'm not an alcoholic or anything so it's not as though</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>DAN</Character_Name>, his back turned to us, is sitting at a table with <Character_Name>CATHERINE</Character_Name>. We hear the sound of a conversation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>We're fine for the moment. Thank you.</Utterence>
+</Turn>
+<NARRATIVE>The waitress leaves.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>You really could have ordered it.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>No, no. Best for people to meet under the eyes of sobriety.</Utterence>
+</Turn>
+<NARRATIVE>Catherine likes Dan more by the minute.</NARRATIVE>
+</DIALOGUE>
+
+<Scene Heading>30   INT. HOUSE - EN-suite BATHROOM - NIGHT - BACK TO PRESENT</Scene Heading>
+
+<NARRATIVE>Catherine, now covered in bin bags with holes cut out for her limbs, wears utility gloves and a surgical mask. Dan's corpse sits in the tub on top of five or six of his suits.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Not. Now.</Utterence>
+</Turn>
+<NARRATIVE>Catherine places the bow saw against the shoulder, then the middle of Dan's forearm.</NARRATIVE>
+
+<Scene Heading>31   EXT. BOAT - EARLY MORNING - 1993</Scene Heading>
+
+<NARRATIVE>Catherine (7) sits in a small fishing boat with a pink life vest on. Her Daddy (40's), sits next to Catherine in green flannels and fishing gear.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>I like it here. I don't ever want to go home.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Parenthetical>(no face shown)</Parenthetical>
+<Utterence>Catherine?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterence>I like it here. I don't ever want to go home.</Utterence>
+</Turn>
+<NARRATIVE>Daddy never responds, but Catherine's expression is contemplative.</NARRATIVE>
+</DIALOGUE>
+<NARRATIVE>The scene fades to black.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. LAKE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine smiles up at him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>We caught one!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Yeah!!</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine jumps up and down in excitement.</NARRATIVE>
+
+<NARRATIVE>The boat rocks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>Steady -- Steady --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Moments later -</NARRATIVE>
+
+<NARRATIVE>A fish flops around in a bucket.</NARRATIVE>
+
+<NARRATIVE>Catherine looks from the bucket to Daddy.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>What do we do now?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Daddy pulls out his hunting knife.</NARRATIVE>
+
+<NARRATIVE>Catherine stares at the knife in fascination.</NARRATIVE>
+
+<NARRATIVE>The live fish slaps down onto a board.</NARRATIVE>
+
+<NARRATIVE>Daddy holds down the squirming fish with one hand and wields a knife in the other to demonstrate.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>There's three ways to kill a fish humanely. One is you cut their throat. You go in here --</Utterance>
+<Parenthetical>(knife on throat)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>And cut the blood vessels to the gill s.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>Or you can hit it on its head with this</Utterance>
+<Parenthetical>(he points to a small donger/priest)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>Or you can brain spike em here.</Utterance>
+<Parenthetical>(point to head)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterance>I find the brain spike to be the kindest way to send Mr. Fishy to heaven.</Utterance>
+</Turn>
+
+<NARRATIVE>Daddy angles the knife properly on top of the fish's head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY (CONT'D)</Character_Name>
+<Utterance>Look away if you're squeamish princess.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The fish flops around in terror.</NARRATIVE>
+
+<NARRATIVE>Catherine watches in fascination as Mr. Fishy's head is smashed and its brains splatter the board.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - BATHROOM - NIGHT - BACK TO PRESENT</Scene Heading>
+
+<NARRATIVE>The bathroom is deadly quiet.</NARRATIVE>
+
+<NARRATIVE>Catherine's bow saw still poised on Dan's forearm.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Nada, Rosey.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MABEL</Character_Name>
+<Parenthetical>(annoyed)</Parenthetical>
+<Utterence>My name's not Rosey. It's Mabel.</Utterence>
+<Parenthetical>(points at name tag)</Parenthetical>
+<Utterence>It's Mabel.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mabel exits FRAME.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOUSE - KITCHEN - DAY</Scene Heading>
+
+<NARRATIVE>Determined, she saws into Dan's flesh.</NARRATIVE>
+
+<NARRATIVE>Anita looms over her from behind.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Uh -- Do I need to be here for this?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>For a girl who loves Goosebumps, you sure are queasy darling.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Completely committed to the act of dismemberment, Catherine saws with vigour.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>You'd better double bag it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita gags and backs away.</NARRATIVE>
+
+<NARRATIVE>The bottom half of Dan's arm falls to the floor.</NARRATIVE>
+
+<NARRATIVE>Catherine picks it up and throws it into a bin bag without hesitation or emotion.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAN'S OFFICE - DUSK - 6 MONTHS AGO</Scene Heading>
+
+<NARRATIVE>Catherine sits in Dan's office chair completely still wearing an elegant LITTLE BLACK DRESS. With coiffed hair and perfect make-up, she evokes 'Holly Golightly'. Dan's laptop sits open on her lap.</NARRATIVE>
+
+<NARRATIVE>Shock, disgust and heavy disappointment play across her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine!? What's for dinner? Smells delicious! Hellooo!?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine stares at the screen, completely mortified.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DINING ROOM - NIGHT - LATER</Scene Heading>
+
+<NARRATIVE>The large dining room table is lovingly set out for a romantic dinner at one end.</NARRATIVE>
+
+<NARRATIVE>Dan sits at the opposite end with his head in hands, totally ashamed of himself. His tie loose. The top shirt buttons open. He can't breathe.</NARRATIVE>
+
+<NARRATIVE>Catherine, now slightly smudged, stands a good distance from him, like he's a leper.</NARRATIVE>
+
+<NARRATIVE>The laptop sits open on the dining table, facing Dan.</NARRATIVE>
+
+<NARRATIVE>This is the most serious moment of Catherine's life. She needs to get this right.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Tell me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>(no response)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>I want to know. I have a right to know --</Utterance>
+</Turn>
+
+<NARRATIVE>A tear runs down Dan's flushed cheek.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - NIGHT</Scene Heading>
+
+<NARRATIVE> Catherine is on her knees, holding a bow saw.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I bared my soul to you. Every single dark crevice of it -- and you -- you kept this from me --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine please -- it's not --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I trusted you --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I didn't know how to --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I want children, Dan.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>So do I.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>How can we with this -- this history?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Dan's taken aback. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>What are you -- I love children, Catherine. I'm sorry. I'll never do it again. Please. We can get through this --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine can't look at him anymore.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You need help.</Utterance>
+</Turn>
+
+<NARRATIVE> She storms out of the room. </NARRATIVE>
+
+<NARRATIVE> Dan crumples in his chair and stares at his closed laptop, angry and disgusted with himself. </NARRATIVE>
+
+<Scene Heading>INT. HOUSE - BATHROOM - NIGHT - BACK TO PRESENT</Scene Heading>
+
+<NARRATIVE> Catherine pulls Dan's leg over the edge of the tub. She carefully places the bow saw against his ankle.</NARRATIVE>
+
+<NARRATIVE> Her mind drifts. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine it's not what you --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> She stifles an anguished scream. A moment of clarity.</NARRATIVE>
+
+<NARRATIVE> Catherine can't believe what she's done. A lump swells in her throat. Eyes fill with tears. Her head drops.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I'm a monster.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(to Catherine)</Parenthetical>
+<Utterance>He's the monster if you ask me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>Catherine musters strength.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>C'mon Catherine. C'mon --</Utterance>
+</Turn>
+
+<NARRATIVE>Deep breath.   Head up.    Eyes focused.</NARRATIVE>
+
+<NARRATIVE>Catherine starts to saw Dan's foot off as silent tears run down her face.</NARRATIVE>
+
+<Scene Heading>36   INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>Dan prods Catherine lightly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>So -- are you under the weather?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Sick?   Are you sick?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No, I am not sick. I mean I was sick, I was, but I'm not -- anymore.</Utterance>
+</Turn>
+
+<NARRATIVE>Dan's confused.</NARRATIVE>
+
+<NARRATIVE>Catherine gathers herself before --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Okay. Let's say that we "like" each other and that we become a "couple". You were on the website because you were looking to be in a relationship, right?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>That I was.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Cool. Good. So we both want to be in relationships. And once you're in a relationship you find out all these things about your partner that maybe they were hiding early on so as not to scare the other person off and be left in the dust, right? That is how relationships work -- right?</Utterance>
+</Turn>
+
+<NARRATIVE>Dan laughs lightheartedly.</NARRATIVE>
+
+<NARRATIVE>Catherine turns serious.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New York City</Location>. <Character_Name>DAN</Character_Name>, a customer, is sitting at a table laughing to himself. We hear no background noise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>What's so funny?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> looks at Catherine with a confused expression.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>You.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> looks puzzled.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Why are you laughing at me?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> shakes his head and attempts to clarify.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>No, no, no.   I'm not laughing AT you, but rather WITH you.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> looks even more perplexed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>With me? I don't understand.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> tries to explain, but Catherine seems confused by his words.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>I'm not laughing. I was trying to be honest about something personal.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> takes a step back, clearly unsure of how to react.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>When someone says they're laughing with you it just means that they like you.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> makes a mental note of this information.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Oh.    I didn't know that.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> struggles to maintain a serious expression, but ends up laughing and coughing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>So -- you like me?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> tries to compose himself, but Catherine presses for an answer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence,Yes.   You're very funny.      And yes -- I like you.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> smiles, seeming to accept Dan's confession of affection.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Yeah!    You like me.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> tries to hide his laughter again, but Catherine joins in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>So anyway -- would you like to know what's wrong with me?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A loud noise is heard from off-screen, and Catherine's expression changes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence>...O.S. a DULL THUMP - THUMP - 37 INT. HOUSE - LOWER STAIRCASE/FOYER - NIGHT - PRESENT</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A large bin bag filled with Dan's limbs lands hard on the final step.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence>With a streak of BLOOD across her cheek and CLEAN GLOVES on, Catherine blows loose hair away from her flushed face and catches her breath.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> heaves the bag up as she looks up, reacting to a voice.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence>O.S. a LOW V OICE drifts towards her.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> looks up and sees Dan's broad back as he whispers into his mobile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN (CONT'D)</Character_Name>
+<Utterence>His suit </Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>CATHERINE</Character_Name> is sitting on a couch, surrounded by her belongings strewn across the side table. Longing and disappointment play across her face.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> makes her way cautiously towards <Character_Name>DAN</Character_Name>, who is holding the laptop case. The bin bag teeters dangerously on the step.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>(whispering) Yes. Yes, that's exactly right. I'm at a complete loss here. It's just -- I'm ashamed -- I'm ashamed I didn't ring sooner.</Utterance>
+<Parenthetical>yes</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I just thought -- I was afraid to - Yes, I did try but she won't --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> stops inches from <Character_Name>Dan</Character_Name> and reaches out to touch him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Who are you talking to --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(sharply turning around)</Parenthetical>
+<Utterance>Spooked</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Catherine I --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> takes in <Character_Name>Anita</Character_Name> holding the landline receiver. A FEMALE EMERGENCY SERVICE VOICE is muffled by <Character_Name>Anita's</Character_Name> hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Who are you talking to?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>That him?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Parts of him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>(half-gags)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(cold and threatening)</Parenthetical>
+<Utterance>You clean his office?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Yeah.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Hallway floors?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Yeah.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Closet?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Cleaned.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Good girl. Who the fuck are you talking to darling?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>(silence)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here's the annotated script:
+
+<Scene Heading>INT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine stands, her back to us, with Anita on a phone call.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>You asked me here to help --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Without flinching, Catherine rips the receiver from Anita a's</Utterance>
+<Parenthetical>(shaking hand)</Parenthetical>
+<Utterance>shaking hand, ends the call and rips the cord out of the wall.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You call that helping? Seriously,</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>when did you become so demented</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Anita? You know what they'll do</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>to me. They'll send me back</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>there. And this time they'll</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>never let me out. Is that what</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You want?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>No but -- this is bat shit crazy</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Catherine leans hard into Anita - it's sensual.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You have a short memory of what that really is.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine turns and grabs the bin bag.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Now go start a fire.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Catherine -- I really --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We are not calling the police!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine walks past Anita dragging the bin bag behind her.</NARRATIVE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>A cold-coloured room. An old wooden desk. A creepy cheap flower print on the wall beside a ticking silver clock. It's clinical and institutional.</NARRATIVE>
+
+<NARRATIVE>Fluorescent lights flicker from the low ceiling. A SECURITY CAMERA sits in a top corner of the room.</NARRATIVE>
+
+<NARRATIVE>Catherine, aged 15, sits on a chair in PINK PYJAMAS. She's agitated and swings her legs in frustration.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Hello Catherine. My name is Detective Reese. I know you've been through a lot tonight. I</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. POLICE STATION - DAY</Scene Heading>
+
+<NARRATIVE>A police station somewhere, possibly in a metropolitan area. <Character_Name>CATHERINE BLAKE</Character_Name>, 15 years old, is seated across from <Character_Name>DETECTIVE REESE</Character_Name> in an interrogation room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>want you to relax. This is a safe space here.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine fidgets.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Where's Anita?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Yes. Anita.</Utterance>
+</Turn>
+
+<NARRATIVE>Reese gives Catherine a disarming smile and studies her carefully.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE (CONT'D)</Character_Name>
+<Utterance>Catherine, I'm going to ask you some questions. We'll start simple and then work our way through. How does that sound?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine rapidly nods her head, almost 'head-banging'.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE (CONT'D)</Character_Name>
+<Utterance>Magnificent. May I have your name and age?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>First name Catherine. Surname Blake. Fifteen and a half years of age. IQ: 148. Non drug user. Shellfish allergies.</Utterance>
+</Turn>
+
+<NARRATIVE>Reese makes notes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>(under her breath, and without looking up)</Uttterance>Sorry.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine tugs at her pyjamas. Her leg swings nervously and she kicks Reese in the shin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Quite alright.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Uncomfortable silence, then Reese proceeds cautiously.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE (CONT'D)</Character_Name>
+<Utterance>Catherine, why do you think you're here?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Anita stabbed Daddy.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Anita.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Where's Mother? What is she saying?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Your Mother --</Utterance>
+</Turn>
+
+<NARRATIVE>The Detective hesitates.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Yes! Tell me what she said!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with an air of uncertainty and tension.</NARRATIVE>
+
+<Scene Heading>INT. INTERROGATION ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Catherine kicks back her chair and slams the table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>She found you with --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Tee N Catherine stands up. Reese doesn't flinch, but slowly slides the pen back in her pocket.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>She's a fucking liar --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Parenthetical>(calmly)</Parenthetical>
+<Utterance>O.S. A CACOPHONY OF SOUND scorches Catherine's mind. She squeezes her head. A moan escapes the side of her mouth.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Parenthetical>(calmly)</Parenthetical>
+<Utterance>Reese doesn't flinch, but slowly slides the pen back in her pocket.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine calms a little and slumps back into her chair. Reese cracks open the SODA and slides it across to Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Utterance>It's okay. You're not in trouble.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine sips the soda. Her hands shake. Liquid fizzes over.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Utterance>O.S. a KNOCK on the door.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Parenthetical>(knowingly)</Parenthetical>
+<Utterance>Reese knows who it is.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Detective Reese opens the door and in walks PSYCHIATRIST, DR. CHARMAINE JOHNSON (50s) holding a notepad and pencil. Friendly and dressed with a cultural flair, she gives Catherine a warm smile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Utterance>Now Catherine, I've asked a nice woman named Charmaine to come in and talk with you. Your Mother will be present.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Catherine lets out a loud CHORTLE and takes another sip of soda.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dr. Charmaine Johnson enters the room with Catherine's Mother, BETTY (40's) following behind her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What did you tell them Mother.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Parenthetical>(nervously)</Parenthetical>
+<Utterance>Detective Reese throws Charmaine a conspiratorial look and leaves.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Charmaine addresses Catherine and speaks in a calm manner.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Catherine.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Catherine turns her head sharply from Betty to Charmaine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>My name is Dr. Charmaine Johnson --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Catherine smirks in defiance and gives her a knowing look, like she's the smartest person in the room.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. SOMEWHERE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine, super confident, gestures for Charmaine to continue.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>By all means, Catherine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Charmaine looks at Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Do you know why you're here?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine rolls her eyes and nods her head back towards her mother, Betty.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Parenthetical>(gasping)</Parenthetical>
+<Utterance>Do you blame your Mother?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks at Charmaine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>I blame her for ratting on Anita.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Betty scoffs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Parenthetical>(to Charmaine)</Parenthetical>
+<Utterance>Look -- I don't cause trouble, I always do my chores. A model teenager --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Betty tries to defend herself.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>The girl talks to herself!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Charmaine looks at Betty.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Parenthetical>(to Betty)</Parenthetical>
+<Utterance Fluid conversations --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Betty continues to defend herself.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>Fluid conversations! She hardly eats, and when she does she just giggles at her food with Anita. Giggles at the potatoes. Giggles at the carrots. Giggles at the whole bloody stew!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>May I --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Betty continues to defend herself.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>Anita, Anita, Anita. This has been going on for EIGHT YEARS! --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Charmaine asks a question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Mrs. Blake, have you ever taken Catherine to be assessed --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Betty looks at Charmaine like she's speaking a foreign language.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Parenthetical>(looking confused)</Parenthetical>
+<Utterance>Assessed?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>TEEN CATHERINE</Scene Heading>
+
+<NARRATIVE>Catherine loses her patience.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>May I interject!</Utterance>
+</Turn>
+
+<NARRATIVE>Indignant and accusatory looks pass between them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Go ahead Catherine.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>All the other children on our street --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Parenthetical>(to Betty)</Parenthetical>
+<Utterance>Give Catherine room to respond.</Utterance>
+</Turn>
+
+<NARRATIVE>Betty bites her lower lip.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Thank you Charmaine. Look, I simply don't care what Mother thinks. My entire existence is one of balance and dignity with Anita -- it's not my fault she's threatened by her. I'm just happy to spend time alone with my friend.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>Oh Kitkat darling -- you're a laughing stock.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(angrily)</Parenthetical>
+<Utterance>I am not a laughing stock Mother -- and it's Catherine --</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>But you are -- Kitkat --</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine rails on her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I am not! I'm special!</Utterance>
+</Turn>
+
+<NARRATIVE>Betty scoffs.</NARRATIVE>
+
+<NARRATIVE>Charmaine is disturbed by this exchange. Betty is clearly just as unstable as Catherine - even given the circumstances.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>And I don't mean 'SPECIAL' in the way in which one describes a retard out of some abstract concept of respecting what we pity. I'm LITERALLY special.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine is dead serious.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I have powers. Very impressive</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. POLICE STATION - INTERVIEW ROOM - NIGHT - PRESENT</Scene Heading>
+
+<NARRATIVE>A detective's office, with various police equipment and files scattered about.</NARRATIVE>
+
+<NARRATIVE>TEEN CATHERINE (CONT'D)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>I can see things that others can't.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Parenthetical>(stops by putting up a hand)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Charmaine turns her head and looks to the opposite wall.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterence>Catherine, Detective Reese is going to join us. There's nothing to be afraid of. Alright?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine's suspicious, but doesn't protest.</NARRATIVE>
+
+<Scene Heading>EXT. HOUSE - BACK GARDEN - NIGHT - PRESENT</Scene Heading>
+
+<NARRATIVE>Anita smokes and stands over the drum, the low fire illuminates her concerned face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(ignoring Anita) I drop a bin bag with Dan's dismembered corpse on the ground beside another one.</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine picks up a log and throws it in the drum. The fire CRACKLES to life.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I pick up a poker and stoke the fire.</Utterence>
+</Turn>
+
+<NARRATIVE>Anita takes Catherine's other hand and watches Catherine lost in thought.</NARRATIVE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>The door opens.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<NARRATIVE>Following behind her is -- ANITA, AGED 15. A splatter of DRIED BLOOD sticks to her school uniform that's been stretched and personalised to have a punk rock feel.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>(to Anita) Where the hell were you?</Utterence>
+</Turn>
+
+<NARRATIVE>They share a mocking smile.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN ANITA</Character_Name>
+<Utterence>(nods to Reese) Being grilled by this one.</Utterence>
+</Turn>
+
+<NARRATIVE>Detective Reese and Charmaine exchange looks as she sits down beside her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. LIVING ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Catherine --, Anita, and Charmaine are sitting on a couch together.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Welcome, Anita.</Utterance>
+</Turn>
+
+<_turn><Character_Name>BETTY</Character_Name>
+<Parenthetical>(scoffing)</Parenthetical>
+<Utterance>Catherine does the same.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>She sticks her tongue out at Betty.</Utterance>
+</Turn>
+
+<NARRATIVE>They laugh.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Catherine has Anita ever hurt you?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Like my feelings? Of course.</Utterance>
+</Turn>
+
+<NARRATIVE>Teen Catherine turns to Reese and Charmaine gives each other a cautious look.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+
+  <Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterance>Physically?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Physically? Why would she hurt me physically? Who do you think I surround myself with? A bunch of psychopaths?</Utterance>
+</Turn>
+
+<NARRATIVE>Betty speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterance>Obviously there's violence in her. I'm a dead woman. Buy the casket now, darling. Buy the casket now.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine rolls her head towards Betty and looks her directly in the eye.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Really Mother? Is that what you think? You think voices in my head are telling me to kill you?</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine's smile turns sinister.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+
+  <Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>If I wanted to kill you, you'd already be dead.</Utterance>
+</Turn>
+
+<NARRATIVE>Betty gasps and Anita laughs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>(laughs)</Utterance>
+
+  <Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+
+  <Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>(to Reese)</Utterance>
+
+    <Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Obviously I'm joking.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with a 47 on the bottom of the page.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>DETECTIVE REESE</Scene Heading>
+
+<NARRATIVE>But if you were to harm your mother -- how would you do it?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>You mean my 'Modus Operandi'?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>DETECTIVE REESE</Character_Name> looks on.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>Well. I'd sneak into her room and stab her while she sleeps.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Parenthetical>(startled)</Parenthetical>
+<Utterence>Dear lord!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine and Anita laugh at Betty.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Stab her?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence,Yes.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine's eerie smile remains on her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Stab her with what?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>The knife under my bed.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Betty turns white and looks about to faint.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Parenthetical>(rushing to aid Betty)</Parenthetical>
+<Utterence>Mrs. Blake, let's get you some fresh air.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine and Anita 'high five' triumphantly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CHARMAINE (CONT'D)</Character_Name>
+<Utterence>Mrs. Blake, let's get you some fresh air.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>You keep a knife under your bed?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita yawns in boredom.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>You keep a knife under your bed?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN ANITA</Character_Name>
+<Parenthetical>(yawns)</Parenthetical>
+<Utterence>Duh.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine smirks at Betty as Charmaine leads her out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>You keep a knife under your bed?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Parenthetical>(to Anita)</Parenthetical>
+<Utterence>I know, I know.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita taps her wrist to signal it's time to go.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE (CONT'D)</Character_Name>
+<Utterence>I'm trying!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(yawns, opens mouth wide)</Parenthetical>
+<Utterence>Knock it off Anita.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN ANITA (CONT'D)</Character_Name>
+<Utterence>Fizzles and Pops her tongue with red and blue rock pops.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine's had enough now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE (CONT'D)</Character_Name>
+<Utterence>Knock it off Anita.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Catherine --</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades out as Catherine's anger grows.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>Detective Reese sits across from Catherine, a young girl.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Look Detective Reese. My grades are of the highest merit.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I don't smoke, drink, or take drugs.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>AND -- </Utterence>
+</Turn>
+
+<NARRATIVE>Catherine makes air circles above her crotch.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>I'm still a virgin. Tell me where the problem exists.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine stands with confidence.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>Now if you would be so kind as to let us return home. Anita and I are writing a novella.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Detective Reese raises an eyebrow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>REESE</Character_Name>
+<Utterence>A novella? How exciting. What's it about?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It's called: ZEBRA GIRL.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CHILDHOOD HOME - BEDROOM - DAY [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>A pink and red color-schemed room. Stuffed animals. Dollhouse. Twin bed with a modest frame, a slight tear in the wallpaper above it.</NARRATIVE>
+
+<NARRATIVE>The room hasn't changed since she was 7.</NARRATIVE>
+
+<NARRATIVE>Catherine (15) and Anita (15) lie on the floor, a blank red exercise book before them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It should be a novella. That's a short novel, Anita.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>What's it about?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It's about an almighty girl who can turn into a Zebra when her human father sneaks into her room at night. It's based on your family. Is that okay with you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Mmmm -- just so long as it makes me look powerful.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Powerful? You're a god in this!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita loves it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>I'll do the illustrations!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>END FLASHBACK</SceneHeading>
+
+<NARRATIVE>The scene fades to black as Catherine and Anita continue writing in their exercise book.</NARRATIVE>
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE> A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>MICKEY KNOX</Character_Name>, his back turned to us, is sitting at the counter finishing his meal.</NARRATIVE>
+
+<NARRATIVE>We hear the PING...BANG...of a pinball machine being played OFF SCREEN.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MALLORY</Character_Name>
+<Utterence>Zebra powers too.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Catherine puts her arm out for Anita. Anita grabs her arm.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>DETECTIVE REESE</Character_Name></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Catherine --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>Whaaaaat?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>DETECTIVE REESE</Character_Name></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>How does the story end?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>How does the story end Anita?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine turns to <Character_Name>ANITA</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>Anita says that in the end, Zebra Girl mauls her human father.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE (CONT'D)</Character_Name>
+<Utterence>She bites off his head and slowly digests him inside of her acidic Zebra stomach. Then she shits him out of her soul. Happy ending.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine waits with her arm around <Character_Name>ANITA</Character_Name>, cheery smile on her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>(MORE)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>DETECTIVE REESE</Character_Name> looks towards the mirror.</NARRATIVE>
+
+<NARRATIVE>Her face is a mix of horror and sympathy.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(MORE)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. OBSERVATION ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>On the opposite side of the mirror, <Character_Name>BETTY</Character_Name> holds her throat in horror.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FEMALE DETECTIVE</Character_Name>
+<Utterence>She on medication?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>FEMALE DETECTIVE</Character_Name> stands next to <Character_Name>BETTY</Character_Name>.</NARRATIVE>
+
+<Scene Heading>EXT. HOUSE - BACK GARDEN - NIGHT - PRESENT</Scene Heading>
+
+<NARRATIVE>The fire is brighter now as Catherine continues to stoke it, lost in thought.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>You ever finish it?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Well -- our original idea sort of manifested itself in life.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence>(gallows humour chuckle)</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>Dan told me it deserved a truly happy ending.</NARRATIVE>
+
+<NARRATIVE>Anita's hurt and offended.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Adorable. Can't believe you told him about it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance Yep. Prince Charming comes along and accepts Zebr a Girl for all her wickedly beautiful stripes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>That's 'Pretty Fuckin' Woman' adorable.</Utterance>
+</Turn>
+
+<NARRATIVE>Anita puts two fingers in her mouth and mocks a gag.</NARRATIVE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001 (CONT'D)</Scene Heading>
+
+<NARRATIVE>Catherine stands at the mirror, nose inches from the glass.</NARRATIVE>
+
+<NARRATIVE>She stares at it with hate, almost in front of where Betty stands behind it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Is Mother in there?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Catherine --</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine suddenly lets rip an ALMIGHTY FERAL SCREAM at the glass that tapers into what sounds like a wounded animal.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Catherine. Look at me. It's ok. Look at me. It's all right.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>She calms a little and Reese guides her to her chair.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Now. I need to ask you a few more questions about tonight. You just take your time and answer when you're ready. How does that sound?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Rapidly nods her head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Ok good. Now, to the best of your recollection, walk me through the sequence of events beginning with your father entering your bedroom.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Speaking in a trance like state...</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine stares at Reese with glazed eyes and speaks in a trance like state.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. ROOM - DAY</Scene Heading>
+
+<NARRATIVE> Anita and I were playing in our room.</NARRATIVE>
+<NARRATIVE> No, Studying.</NARRATIVE>
+<NARRATIVE> We were studying in our room. 19th Century literature.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>148.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>148.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine stares at the mirror again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Catherine -- </Utterence>
+</Turn>
+
+<NARRATIVE>Catherine turns from the mirror back to Detective Reese, her pen poised for notes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE (CONT'D)</Character_Name>
+<Utterence>There you are. Hi. You're studying in your room and -- </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>It's all a bit of a blur.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>O.S. a PIERCING SOUND followed by a cacophony of UNINTELLIGIBLE VOICES spoken in a backwards language that grows in volume and vehemence.</NARRATIVE>
+
+<NARRATIVE>Catherine's vision blurs into --</NARRATIVE>
+
+<Scene Heading>INT. CHILD HOOD HOME - BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine (15) and Anita (15) lay side by side on their bellies facing the headboard.</NARRATIVE>
+<NARRATIVE>MARY SHELLY's 'FRANKENSTEIN: OR, THE MODERN PROMETHEUS' lies between them.</NARRATIVE>
+<NARRATIVE>While Catherine reads, Anita picks at the wallpaper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>After we finished studying, Anita turned the lights off.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita turns the light off.</NARRATIVE>
+
+<NARRATIVE>They lie on their sides and face each other. Anita takes Catherine's hand and gives her a quick peck on the lips.</NARRATIVE>
+<NARRATIVE>They take a deep breath and attempt to fall asleep in unison.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE (CONT'D)</Character_Name>
+<Utterence>After we fell asleep -- I found myself reading a book with Daddy.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine takes a deep breath and looks around the room as her vision blurs into a different scene.</NARRATIVE>
+
+<Scene Heading>INT. CHILD HOOD HOME - BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>A low night-light shines onto Catherine's bed.</NARRATIVE>
+<NARRATIVE>DADDY, his face obscured, sits shoulder to shoulder next to her against the headboard as they read 'FLOWERS IN THE ATTIC' by V.C. ANDREWS.</NARRATIVE>
+<NARRATIVE>Catherine holds one end of the book and Daddy holds the other.</NARRATIVE>
+<NARRATIVE>The book is almost finished.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE (CONT'D)</Character_Name>
+<Utterence>When we read together. He likes it when I hold one end of the book and he holds the other. Two</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE> A bedroom somewhere in an unspecified location. <Character_Name>TEEN CATHERINE</Character_Name>, holding a book, is sitting on the bed with her hands on each end of the paper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Well -- </Utterance>
+</Turn>
+
+<NARRATIVE>Anita sees this and explodes into a fit of jealous rage.</NARRATIVE>
+
+<NARRATIVE>From the dark, <Character_Name>ANITA</Character_Name> lunges, grabs Daddy by his shirt, and yanks him off of the bed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Anita!   Stop!</Utterance>
+</Turn>
+
+<NARRATIVE>The book flies through the air.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Anita thought Daddy was trying to hurt me but we were simply reading a late 70's classic.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>A serious-looking room in an unspecified location, at night. <Character_Name>CATHERINE</Character_Name> is being interviewed by <Character_Name>DETECTIVE REESE</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Catherine, what I'm about to ask you next may make you -- </Utterance>
+<Parenthetical>(pauses)</Parenthetical>
+<Utterance>uncomfortable.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine stares down <Character_Name>DETECTIVE REESE</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Detective, don't you think that if Daddy were trying to hurt me that I'd be able to sort it out myself?</Utterance>
+<Utterance>Do you think I'm some internally vulnerable victim? Well I'm not that. Trust me. I am not a victim. I told you. I'm ZEBRA GIRL.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>I only ask to better understand Anita's intentions.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>Detective -- </Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>DETECTIVE REESE</Character_Name> interrupts <Character_Name>CATHERINE</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Catherine, there's an examination -- </Utterance>
+<Parenthetical>(pauses)</Parenthetical>
+</Turn>
+
+<NARRATIVE><Character_Name>CATHERINE</Character_Name> asks a question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterance>What do you mean by 'rape examination'?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterance>Well, I didn't use those exact words -- </Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE> A dimly lit interview room somewhere in a <Location>police station</Location>. <Character_Name>Catherine</Character_Name>, a teenager, sits across from <Character_Name>DETECTIVE REESE</Character_Name> with a determined look on her face. The air is tense.</NARRATIVE>
+
+<NARRATIVE> Detective Reese leans back in his chair, taking notes on a pad of paper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I won't take it.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>It would only help us understand --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>He didn't do anything! I wish he were still alive. Lord, If I were going to kill anyone it would have been Mother.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Why?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Because I hate her.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Why?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The sudden notes of a kitsch 1960's song floats into the scene, creating an eerie atmosphere.</NARRATIVE>
+
+<Scene Heading>INT. CHILDHOOD HOME - KITCHEN - NIGHT [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>A flashback to Catherine's childhood home in the kitchen. The year is not specified.</NARRATIVE>
+
+<NARRATIVE>The Blake's kitchen. A blood-soaked package of meat slams down on a worn chopping board, with blood oozing out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterence>For the stew.</Utterence>
+</Turn>
+
+<NARRATIVE>Daddy scrubs his rough hands, while Betty watches him from the corner of her eye and sips a large G&T.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Parenthetical>(to Catherine)</Parenthetical>
+<Utterence>Fix him a Scotch , Catherine.</Utterence>
+</Turn>
+
+<NARRATIVE>Daddy towers over Catherine at the kitchen table, stroking her hair. Catherine looks from Daddy to Betty with great discomfort.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterence>Fix him a Scotch , Catherine.</Utterence>
+</Turn>
+
+<NARRATIVE>Jean, Catherine watches her go with hate-filled eyes as Jealous Betty turns and downs a pill with her G&T and walks out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Because she's a lonely, depressive, pill-popping blame-shifter.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades to black as the flashback ends and the interview room reappears.</NARRATIVE>
+
+Here's the annotated script:
+
+<Scene Heading>INT. OBSERVATION ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Betty gasps and turns white.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BETTY</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CHARMAINE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<NARRATIVE>The Female Detectives simultaneously look to Betty.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FEMALE DETECTIVE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Silence.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>Why?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>Because he likes me more than her!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Detective Reese connects the dots.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE REESE</Character_Name>
+<Utterence>I'm so sorry Catherine.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>What for? I'm fine. Feel sorry</Utterence>
+<Utterence>for yourself. This is a waste of</Utterence>
+<Utterence>your time as much as it is mine.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The UNINTELLIGIBLE VOICES return with a vengeance and swarm Catherine's mind.</NARRATIVE>
+
+<NARRATIVE>The CACOPHONY crescendos, Catherine covers her ears and takes a deep breath --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>(stands behind Detective Reese dressed like POIROT)</Utterence>
+</Turn>
+
+<NARRATIVE>Moustache and all.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN ANITA</Character_Name>
+<Parenthetical>(sticks her chin up and imitates Poirot)</Parenthetical>
+<Utterence>I'm from France. I'm from France -</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine laughs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>You're from Belgium --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>TEEN ANITA</Character_Name>
+<Utterence>I'm from France.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine and Anita laugh.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN ANITA (CONT'D)</Character_Name>
+<Utterence>(suddenly beside Catherine and turns serious)</Utterence>
+<Utterence>Play it strong here Catherine.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine switches to control mode and stands.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TEEN CATHERINE</Character_Name>
+<Utterence>Listen, Detective. I respect the</Utterence>
+<Utterence>sensitivity you're displaying in</Utterence>
+<Utterence>the face of what appears to be</Utterence>
+<Utterence>chaotic madness. But it's as</Utterence>
+<Utterence>basic as this: Anita is jealous of</Utterence>
+<Utterence>Daddy. Mother is jealous of me.</Utterence>
+<Utterence>Anita stabbed Daddy out of</Utterence>
+<Utterence>jealousy and you're trying to find</Utterence>
+<Utterence>out who did what for whatever</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(56)</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine, a woman with dried blood on her pyjamas, sits across from Detective Reese.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera cuts back to the scene where Catherine is sitting at a restaurant with Dan.</NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>Catherine stops laughing and turns serious.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>When I was fifteen I killed my father.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>You're -- THAT -- Catherine?</Utterance>
+</Turn>
+
+<NARRATIVE>The piano player smiles at the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. INTERVIEW ROOM - NIGHT - 2001</Scene Heading>
+
+<NARRATIVE>Detective Reese looks at Catherine with a mix of shock and interest.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance,Yes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>You're Catherine Blake?</Utterance>
+</Turn>
+
+<NARRATIVE>The security camera zooms in on bloody Catherine and explodes into white frames.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Wow.   You were a national --</Utterance>
+<Parenthetical>(pauses)</Parenthetical>
+<Utterance>57.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan stares at Catherine with awe and morbid interest.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>My mother never believed -- It was a very abusive relationship between Daddy and Mother. And between her and me . Most importantly it was abuse between him -- and -- me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine nods and takes a sip of water.</NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>Dan looks at Catherine with a mix of confusion and interest.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>They never showed your face.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>My mother never believed -- It was a very abusive relationship between Daddy and Mother. And between her and me . Most importantly it was abuse between him -- and -- me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera cuts back to the scene where Catherine is sitting in the interview room with Detective Reese.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>But she's only fifteen. Three years in a juvenile correctional facility? Good. She could use it. At that point she'll be eighteen and able to start up her life again. Right?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks around the room with a sense of determination.</NARRATIVE>
+
+<Scene Heading>INT. CHILDHOOD HOME - BEDROOM - NIGHT [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>Daddy sits next to <Character_Name>CATHERINE</Character_Name> (15) in bed. He holds the book "FLOWERS IN THE ATTIC".</NARRATIVE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> wears the same PINK PYJAMAS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterence>The itsy bitsy spider climbs up the water spout.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine's</Character_Name> eyes are dead as Daddy takes <Character_Name>Catherine's</Character_Name> hand and guides it under the covers as he softly sings --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterence>Down came the rain and washed the spider out,</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine's</Character_Name> eyes flicker to life in fear. Tears sting her eyes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>One night, after a decade of pretending that it wasn't happening. Daddy was about to take it to the next level and --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> nudges to the edge of the bed and slowly reaches for something underneath.</NARRATIVE>
+
+<NARRATIVE>Taped under the mattress is a BUTCHER'S KNIFE. Below the knife on the floor is a STACK OF OLD GOOSEBUMP BOOKS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterence>Out came the sun and dried up all the rain,</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> struggles at first, then detaches the knife.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DADDY</Character_Name>
+<Utterence>And the itsy bitsy spider climbed up --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> quickly turns to face Daddy, the KNIFE raised above her head --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I stabbed him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A FLASH OF SILVER BLADE SLASHES THE AIR -</NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Stabbed him right in the right temporal lobe.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>She</Character_Name> looks <Character_Name>Dan</Character_Name> straight in the eye.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(gulps)</Parenthetical>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CHILDHOOD HOME - BEDROOM - NIGHT - [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>Catherine falls backward.</NARRATIVE>
+<NARRATIVE>The knife stuck in Daddy's brain.</NARRATIVE>
+<NARRATIVE>She stands looking down at his body in shock.</NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>The court said because I had the kni fe waiting that it was premeditated.</Utterance>
+</Turn>
+
+<NARRATIVE>Terrified, intrigued and fascinated, Dan's lost for words.</NARRATIVE>
+<NARRATIVE>The waitress appears from nowhere.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WAITRESS</Character_Name>
+<Utterance>Are we --</Utterance>
+</Turn>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No we are NOT. I will signal you when we are ready to order.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine gives the Waitress daggers and watches her leave.</NARRATIVE>
+<NARRATIVE>Dan tries to keep his shit together and pours more water into their glasses.</NARRATIVE>
+
+<Scene Heading>59</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Were you in an adult prison?</Utterance>
+</Turn>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Adult -- prison?</Utterance>
+</Turn>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Adult prison? No. I wasn't there --</Utterance>
+</Turn>
+
+<Scene Heading>59</Scene Heading>
+
+<NARRATIVE>A BARRAGE OF SOUNDS --</NARRATIVE>
+<NARRATIVE>- Handcuffs.</NARRATIVE>
+<NARRATIVE>- Transport.</NARRATIVE>
+<NARRATIVE>- CLANKING as several feet shuffle down a hall.</NARRATIVE>
+<NARRATIVE>- Teenage girls LAUGHING.</NARRATIVE>
+<NARRATIVE>- Heavy metal doors SLAM shut and LOCK.</NARRATIVE>
+<NARRATIVE>- Disturbed patients in a mental institution.</NARRATIVE>
+
+<Scene Heading>60</Scene Heading>
+
+<NARRATIVE>A white room with a single bed.</NARRATIVE>
+<NARRATIVE>Morning light creates odd shadows through barred windows.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I was diagnosed as a -- I was diagnosed with --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>Catherine struggles to get the words out. This 'diagnosis' is far more embarrassing to admit than the murder of her father.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I had no real friends. I don't know why. Never had them before Anita. And then of course AFTER Anita, who would be friends with me? And my god was she fabulous.</Utterance>
+</Turn>
+
+<Scene Heading>INT. MENTAL HEALTH INSTITUTION - ROOM - DAY [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>CATHERINE (19) sits on the bed reading a book on HORTICULTURE. Behind her, a CHART on the wall lists all the reasons why it's 'good' to take your medication while a stack of RED WORKBOOKS with 'ZEBRA GIRL' written on the front sit idle on her bedside table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Of course , I know why she'd disappear. I started taking the medicine. They wouldn't have released me had I not proven through years of hard work that I could recognise the correlation.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine hands the cup back to Nurse.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>But I'd miss her. God I'd miss her.</Utterance>
+</Turn>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO (CONT'D)</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>And I'd be so lonely when all the neuron s were functioning the way they're supposed to.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan's confused as hell.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Anita?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I mean once we went into the nuthouse together, the bitch was always running around with the other maniac's imaginary friends.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine chuckles at the memory and nearly drops a tear.</NARRATIVE>
+
+<Scene Heading>INT. MENTAL HEALTH INSTITUTION - ROOM - DAY [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>TWO LARGE FEMALE GUARDS (30's) hold Catherine (19) down while the NURSE attempts to give her a shot in the arm.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Get away!   Get away from me!</Utterence>
+</Turn>
+
+<NARRATIVE>The Nurse attempts to administer the injection, but Catherine resists.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NURSE</Character_Name>
+<Utterence>This is what happens when you fake swallow, Catherine.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I won't take it!</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine spits in the Nurse's face and then bangs her nose against the door frame.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>Fucking cunt!</Utterence>
+</Turn>
+
+<NARRATIVE>The Nurse takes advantage of Catherine's distraction to inject her with the medication.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Help me, Anita!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Can't Catherine.</Utterence>
+</Turn>
+
+<NARRATIVE>The Nurse continues to reassure the guards and tries to calm Catherine down.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NURSE</Character_Name>
+<Utterance>That's it.     It's all for the better.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine cries as her struggle subsides, and the scene fades to a flashback of another moment in Catherine's past.</NARRATIVE>
+
+<Scene Heading>EXT. MENTAL HEALTH INSTITUTION/PET CEMETARY - COMMUNAL ROOM - DAY [FLASHBACK]</Scene Heading>
+
+<NARRATIVE>Catherine is kneeling in the dirt of the PET CEMETERY, planting bright pink flowers for a deceased pet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>This cycle went on for years. It's why I was trapped there until I was twenty-six. But I had to get normal. Or else what the hell --</Utterance>
+</Turn>
+<NARRATIVE>The scene fades to black as Catherine's story continues.</NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT - NIGHT - 5 YEARS AGO</Scene Heading>
+
+<NARRATIVE>Catherine is lost in memory, recalling a past event.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I'd die a virgin.</Utterance>
+</Turn>
+<NARRATIVE>Dan tries to make eye contact with Catherine.</NARRATIVE>
+</DIALOGUE>
+
+<NARRATIVE>Dan continues trying to connect with Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Thank you.</Utterance>
+<Parenthetical>(Dan tries to express gratitude)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine looks at Dan, confused by his words.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>For what?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>For trusting me. For sharing with me. For your unadulterated honesty. You're an inspiration.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine and Dan share an ironic laugh, and the mood becomes more relaxed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Ha. Inspiration? To whom? Jack The Ripper?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>You can leave now. I'll understand.</Utterance>
+<Parenthetical>(Catherine tries to dismiss Dan)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine and Dan share an awkward laugh of relief, indicating a shift in their dynamic.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Why would I leave? This seems like the beginning of a never-a-dull-moment romance.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan continues to try and connect with Catherine, making a bold statement about their potential relationship.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>And I'm better now. For quite some time. The medicine. It really does help.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>To leaving the past where it belongs.</Utterance>
+<Parenthetical>(Dan raises his glass of water)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine and Dan clink their glasses together, sharing a strong eye contact and a moment of connection.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>So, as you're still sitting here --</Utterance>
+<Parenthetical>(Catherine trails off, letting out a deep sigh of relief)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with Catherine and Dan sharing a moment of understanding and connection.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. LIVING ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>A living room somewhere with a fireplace.</NARRATIVE>
+
+<NARRATIVE>DAN, Catherine's husband, and CATHERINE are sitting on a couch together, facing each other.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I suppose it's your turn.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>My turn for what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A flirty smile passes between them.</NARRATIVE>
+
+<NARRATIVE>This could be the beginning of 'under the cherry tree' love.</NARRATIVE>
+
+<NARRATIVE>The SOUND of WOOD BURNING builds and carries into --</NARRATIVE>
+
+<Scene Heading>EXT. HOUSE - BACK GARDEN - NIGHT</Scene Heading>
+
+<NARRATIVE>-- The fire burns high in the drum.     Catherine and ANITA stare into its bright orange glow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Do you know what he told me his dirty little secret was? That he liked reality television.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>And you believed him?    Wow.   That was stupid.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA (CONT'D)</Character_Name>
+<Utterance>Bright. But Stupid.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Stupid is as stupid does.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine sets down the poker, reaches into a bin bag and grabs one of Dan's feet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Stupid is as stupid does.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>(She tosses it into the fire.)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. ENSUITE BATHROOM - DAY - 1 MONTH AGO</Scene Heading>
+
+<NARRATIVE>A thick steam fills the bathroom.</NARRATIVE>
+
+<NARRATIVE>Catherine sits on the side of the tub, entranced by hot water flowing from the tap into a nearly full tub of bubbles.</NARRATIVE>
+
+<NARRATIVE>Her face is hard to read. A mixture of joy and fear. Her eyes focus on a BOTTLE OF PILLS and glass of water on the stool in front of her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(She turns off the tap.)</Utterance>
+</Turn>
+
+<NARRATIVE>Her robe hits the floor and she disappears into the tub.</NARRATIVE>
+
+<NARRATIVE>A PREGNANCY TEST with a POSITIVE SIGN lies on the bath mat next to her discarded robe.</NARRATIVE>
+
+<Scene Heading>INT. DOCTOR'S OFFICE - DAY - 1 MONTH AGO</Scene Heading>
+
+<NARRATIVE>A plain GP's office.</NARRATIVE>
+
+<NARRATIVE>DR. ANTO (40s), with an intelligent face, explains options to Catherine and Dan, who sit opposite her and anxiously listen.</NARRATIVE>
+
+<Scene Heading>INT. DR.'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A doctor's office, presumably with a concerned atmosphere.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. ANTO</Character_Name>
+<Utterence>So for example, the Stemetil you've been on for several years is associated with a higher risk of malformations in the first trimester.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>And after that?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DR. ANTO</Character_Name>
+<Utterence>After that, the risks increase and vary at different stages of your pregnancy. Stats are based off limited studies though --</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine stops listening, her gaze drifts to the window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. ANTO</Character_Name>
+<Parenthetical>(concerned)</Parenthetical>
+<Utterence>Catherine --</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dr. Anto looks from her to Dan with concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. ANTO (CONT'D)</Character_Name>
+<Utterence>There are newer forms of low dosage antipsychotics you can try that reduce the risk of side effects.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dr. Anto, thank you so much for your time --</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. ANTO (CONT'D)</Character_Name>
+<Utterence>Catherine, we should talk about options --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We will.</Utterance>
+<Parenthetical>(to Dan)</Parenthetical>
+<Utterance>Let's go sweetie.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine stands and stretches her hand out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. ANTO</Character_Name>
+<Utterence>Catherine, we should talk about options --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I -- well --</Utterance>
+<Parenthetical>(to Dr. Anto)</Parenthetical>
+<Utterance>Thank you for your time Doctor.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan shakes her hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. ANTO</Character_Name>
+<Utterence>Dan -- please keep me informed of your decision so we can monitor her properly -- her mental health is just as important as the baby --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Catherine</Character_Name> leaves the room.</NARRATIVE>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Dan</Character_Name> remains, slightly confused and embarrassed.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOUSE - BACK GARDEN - NIGHT - PRESENT</Scene Heading>
+
+<NARRATIVE> We know -- and I will.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>We know -- and I will.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Dan rushes out after Catherine.</Utterance>
+</Turn>
+
+<NARRATIVE> Dr. Anto sits back down, heavy with concern.</NARRATIVE>
+
+<NARRATIVE>Tears run down Catherine's face as she throws Dan's leg onto the fire.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Fuck.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Fuck.</Utterance>
+</Turn>
+
+<NARRATIVE> They stare into the orange glow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>A little you. When's it popping out?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>In 6 months.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>So that's really why you called me.</Utterance>
+</Turn>
+
+<NARRATIVE>Bitterness consumes Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>It could have been perfect.</Utterance>
+</Turn>
+
+<CUT TO>
+
+<NARRATIVE>Catherine breaks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>If he didn't l - l - lie -- if he wasn't such a p - per - perv --</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Lie down with me.</Utterance>
+</Turn>
+
+<NARRATIVE>Anita gently guides Catherine away from the fire.</NARRATIVE>
+
+<Scene Heading>EXT. EILDON HI LLS - DAY - 3 WEEKS AGO</Scene Heading>
+
+<NARRATIVE>Sun bounces off the rolling landscape and hills of Eildon in full bloom from Scott's View.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>What if it's a girl.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Then I'll love her forever.</Utterance>
+</Turn>
+
+<NARRATIVE>Dan kisses the top of her head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>What if it's a boy?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Then I'll love him forever!</Utterance>
+</Turn>
+
+<NARRATIVE>Dan laughs and kisses her again.</NARRATIVE>
+
+<NARRATIVE>(CONT'D)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+</Turn>
+
+Here is the annotated script:
+
+<Scene Heading>DAN's living room</Scene Heading>
+
+<NARRATIVE>Dan and Catherine are in Dan's living room, sitting on a couch.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Hmmm?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You're -- good. Right?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I...hesitates.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan moves his hand away, and Catherine sits up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>What do you mean?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>You know.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I've been --</Utterance>
+<Parenthetical>(pauses)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Why are you asking me that?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The tension is palpable.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I've been -- </Utterance>
+<Parenthetical>(tries to clarify)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Just being cautious.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>About what, Catherine? What are you being cautious about?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine is not giving him an inch.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Are you seriously asking me this?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(continues)</Parenthetical>
+<Utterance>After all I went through to get --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I just --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(continues)</Parenthetical>
+<Utterance>Would you like to check my laptop?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine pleads with her eyes for him to drop the defense.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>To answer your question. I. Am good.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Ok. I'm sorry. I just need to be sure --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>I'm sorry too sweetheart. God, you know I love you so much.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>You just gotta trust me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BEDROOM/ENSUITE BATHROOM - NIGHT - 3 WEEKS AGO</Scene Heading>
+
+<NARRATIVE>Catherine stares at the empty dark space where Dan should be.</NARRATIVE>
+
+<NARRATIVE>She turns away and tugs on the chain of her bedside lamp.</NARRATIVE>
+
+<NARRATIVE>Light floods the room.</NARRATIVE>
+
+<NARRATIVE>Catherine stands in her PINK PYJAMAS over the toilet.</NARRATIVE>
+
+<NARRATIVE>Inside, Catherine looks back into the bedroom.</NARRATIVE>
+
+<NARRATIVE>Only Dan is there, sleeping soundly on top of the bed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I do.   I really do.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - KITCHEN - DAY - 2 WEEKS AGO</Scene Heading>
+
+<NARRATIVE>A sultry JAZZ TUNE plays from the radio.</NARRATIVE>
+
+<NARRATIVE>Catherine, sporting preppy clothes, cuts meat for stew at a cutting board with the PINK HANDLED BUTCHERS'S KNIFE.</NARRATIVE>
+
+<NARRATIVE>She HUMS along - domestic bliss.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>O.S. A PIERCING SOUND.</NARRATIVE>
+
+<NARRATIVE>She stops.    Looks around.     Walks to the window and glances out.</NARRATIVE>
+
+<NARRATIVE>Nothing.</NARRATIVE>
+
+<NARRATIVE>As if it must just be the wind, Catherine returns to the cutting board.</NARRATIVE>
+
+<NARRATIVE>She turns up the radio, grabs her knife and returns to cutting meat.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - LOWER STAIRCASE/FOYER - NIGHT - 2 WEEKS AGO</Scene Heading>
+
+<NARRATIVE>Catherine walks down the staircase in a PINK ROBE - depressed and vacant.</NARRATIVE>
+
+<NARRATIVE>Dan walks into the house carrying his LAPTOP BAG and a pile of school papers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>How are you feeling?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We're alive.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Is she moving yet?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We're always moving.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine eyes him with suspicion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>Why are you so late?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Awkward silence.</NARRATIVE>
+
+<NARRATIVE>Dan clears his throat.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - LIVING ROOM - DAY</Scene Heading>
+
+<NARRATIVE>DAN and CATHERINE are sitting on a couch.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>Listen Catherine, Dr. Anto --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Shut the fuck up.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>Catherine. Please don't -- We need to keep your appointments --</Utterence>
+</Turn>
+
+<NARRATIVE>69 appears on screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>How was school?</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Dan takes a deep breath. He rubs his forehead in confusion and frustration.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>The usual. I've got papers to mark.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Catherine switches. Bright as sunshine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Of course you do darling.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>I'll be in my office.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>As Dan passes Catherine on the stairs, he stops. He puts a hand on her belly and looks her in the eyes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterence>We're good?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Perfect.</Utterence>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>He gives her a light peck on the cheek. She involuntarily cringes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>(CONT'D)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Pervert.</Utterence>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>Catherine gives him a warm smile and watches him until he's out of sight.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - LOWER HALLWAY/STAIRCASE - DAY - 1 WEEK AGO</Scene Heading>
+
+<NARRATIVE>An unkempt Catherine vacuums the landing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(CONT'D)</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>She opens the DOOR ADJACENT TO HER BEDROOM and -- She freezes in horror.</NARRATIVE>
+
+<Scene Heading>INT. MENTAL HEALTH INSTITUTION - WHITE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A bright white room in a mental institution with no windows.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(CONT'D)</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>A single twin bed with a TINY FIGURE underneath white sheets sits in the middle of the room.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HOSPITAL ROOM - DAY</Scene Heading>
+
+<NARRATIVE>The SOUND of a CHILD's WHIMPER comes from under the sheets.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Catherine cautiously approaches the bed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Shhhhhh.</Utterance>
+</Turn>
+
+<NARRATIVE>She puts her hand to YOUNG CATHERINE's forehead.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Catherine. You 're burning up.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Did you take your pills?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>You told me not.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine's confused.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I did?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Help me.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine hurries to the door and tries to push it open.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Nurse?</Utterance>
+</Turn>
+
+<NARRATIVE>There is no door handle --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(CONT'D)</Uttterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>NURSE!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Help me --</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I'm trying! Nurse! We have a sick little girl in here!</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine pounds violently on the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Catherine please!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>HELP US!</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine completely breaks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(CONT'D)</Uttterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Help us!     Nurse! Nurse! NURSE!</Utterance>
+</Turn>
+
+<NARRATIVE>She turns around and moves to help YOUNG CATHERINE when --</NARRATIVE>
+
+<NARRATIVE>The force of DEVILISH VOICES stop her dead in her tracks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Catherine SCREAMS --</NARRATIVE>
+
+<Scene Heading>EXT. HOUSE - GARDEN - DAY - 3 DAYS AGO</Scene Heading>
+
+<NARRATIVE>Catherine, disheveled and showing major signs of instability, pours her medication over the GERTRUDE JEKYLL ROSE BUSH she planted with Dan.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine stands on a foot stool, holding a water bucket.</NARRATIVE>
+
+<NARRATIVE>She picks up the water bucket and waters the bush.</NARRATIVE>
+
+<NARRATIVE>Her hand rests protectively on her belly.</NARRATIVE>
+
+<NARRATIVE>DEVILISH VOICES seep into the atmosphere and grow around her.</NARRATIVE>
+
+<NARRATIVE>Catherine lets go of the water bucket.</NARRATIVE>
+
+<NARRATIVE>She tries to place the VOICES.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I'm sorting it. Zip it!</Utterance>
+<Parenthetical>(to the air)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The VOICES stop.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>See? Mommy's here to protect you.</Utterance>
+<Utterance>Mommy will always be here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BEDROOM - MORNING - 3 DAYS AGO</Scene Heading>
+
+<NARRATIVE>Catherine and Dan, elegantly dressed, beam at us from a silver framed PHOTO on their honeymoon in Venice as they hug on the Rialto Bridge.</NARRATIVE>
+
+<NARRATIVE>O.S. NEEDLE STATIC then -- 'IL MONDO' by JIMMY FONTANA floats into the bedroom.</NARRATIVE>
+
+<NARRATIVE>Catherine's bare feet pad across the carpet as she hums and drifts into the landing that's filled with dust.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - UPPER HALL WAY/LANDING - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>The upper landing that's covered in plastic.</NARRATIVE>
+
+<NARRATIVE>Her feet pass a discarded PINK BUTCHER'S KNIFE and bits of strewn dry wall across it.</NARRATIVE>
+
+<NARRATIVE>The OIL PAINTING OF MEN FISHING sits on the ground.</NARRATIVE>
+
+<NARRATIVE>O.S. a DRILL starts and a fresh cloud of DUST hits the morning light.</NARRATIVE>
+
+<NARRATIVE>A hole, the size of Catherine's face, has been cut into the wall.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Hurry your lezza-ass up, Anita.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine starts the drill and resumes her task in spite of the voices.</NARRATIVE>
+
+<NARRATIVE>As the VOICES crescendo, Catherine stops and blows excess dust from the tiny hole revealing a peep into Dan's office.</NARRATIVE>
+
+<NARRATIVE>Catherine's face is hard to read as she slowly puts her eye to it.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAN'S OFFICE - LAST NIGHT - [FLASHBACK]</Scene Heading>
+
+<Scene Heading>INT. DAN'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine's hand rips the door handle and slowly pushes into Dan's office.</NARRATIVE>
+
+<NARRATIVE>Dan sits on the ground in his boxers and T-Shirt, holding YOUNG CATHERINE in PINK PYJAMAS. They laugh and innocently tickle each other as Dan sings --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>The itsy-bitsy spider crawled up the water spout. Down came the rain --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Hey, Catherine!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>Catherine!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG CATHERINE</Character_Name>
+<Utterance>Catherine!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterance>He y, Catherine!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They both wave and smile at Catherine. "Hey Catherine" repeats and REVERBS around the room as they morph into a blurred haze-trip.</NARRATIVE>
+
+<NARRATIVE>Dan is at his desk in boxers and T-Shirt, typing on his laptop. Young Catherine is gone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine's silhouette appears in the doorway. One arm behind her back. Her demeanour off - like she's possessed.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine practically floats towards Dan.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>As she gets closer, the laptop glow illuminates her deranged eyes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dan catches her reflection on his screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAN</Character_Name>
+<Utterance>Catherine! It's not what you --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine lets out an almighty, feral SCREAM.</NARRATIVE>
+
+<NARRATIVE>She whips out her hidden arm, raises it and slams down a PINK HANDLED BUTCHERS'S KNIFE right into Dan's right temporal lobe.</NARRATIVE>
+
+<NARRATIVE>Their SCREAM reverbs eerily throughout the house and into the night -</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - BACK GARDEN - NIGHT</Scene Heading>
+
+<NARRATIVE>NOCTURNAL SOUNDS echo across the peaceful garden setting.</NARRATIVE>
+
+<NARRATIVE>Catherine and Anita lay side by side on pushed-together wicker lounge chairs. Catherine holds her belly protectively. Anita holds her other hand tight.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I've gone and gotten ourselves --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. COUNSELING ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE> Catherine, seated on a couch, is visibly distressed. <Location>The camera captures her anguish.</Location></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>into another mess, haven't I?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine lets the tears flow.   Then --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>FULL PANIC ATTACK.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Catherine stands, hyperventilates.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>She slaps her face and rubs her eyes.      She paces.   She</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Catherine slaps herself again. Harder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(like a mantra)</Utterance>
+<Utterence>You're not a victim. You're not a</Utterence>
+<Utterence>You're not a victim.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita stands, reaches for her and accidentally touches the back of Catherine's NECK.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Jumps out of her skin and fumes. All the pain,</Utterence>
+<Utterence>hurt, frustration and loss of what she's strived to achieve</Utterence>
+<Utterence>hits her hard.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita's presence finally a stark reminder that she's not well, Catherine blasts her with an almighty feral scream and charges towards the house.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>(to self)</Utterance>
+<Utterence>You'r e not a victim. You're not a</Utterence>
+<Utterence>You're not a vict --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>It's okay to be -</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It is NOT okay to be a victim!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>It's --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It's NOT! Victim-hood is simply</Utterence>
+<Utterence>an excuse for a lack of personal</Utterence>
+<Utterence>progress!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita stops.     Catherine charges on.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Where are you going?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>To find ZEBRA GIRL!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - STAIRCASE - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine bounds up the staircase with purpose.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - BEDROOM - NIGHT - MOMENTS LATER</Scene Heading>
+
+<NARRATIVE>Catherine barges into the bedroom and heads straight for a small drawer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence	So you did finish it!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>And with a happy fucking ending!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine rips open the drawer.</NARRATIVE>
+
+<Scene Heading>INT. CATHERINE'S BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine feels around the back of her nightstand and pulls out a <Location>PINK LOCK BOX</Location>.</NARRATIVE>
+
+<NARRATIVE>She places it on the bed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>The hell is it!?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She grabs her large jewellery box from the nightstand and dumps the jewellery onto the bed.</NARRATIVE>
+
+<NARRATIVE>She pokes through the tangled mess.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>The hell is it!?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Parenthetical>(picks out key))</Parenthetical>
+<Utterance>Got it!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>After a few attempts, she finally opens the box.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>I'll show you. I'm not a victim,</Utterance>
+<Utterance>A nita. The Prince accepts Zebra Girl and they live happily ever after --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine gets to the end of the book.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterance>No --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>What is it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The book drops to the floor.</NARRATIVE>
+
+<NARRATIVE>A LOW FERAL NOISE escapes Catherine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>The bloody hell does that even mean?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I'll show you what it means!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Anita</Character_Name> looks up to Catherine.</NARRATIVE>
+
+<NARRATIVE>The camera pans out as the scene fades to black.</NARRATIVE>
+
+<Scene Heading>84   INT. HOUSE - STAIRCASE - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine storms past Anita.</NARRATIVE>
+
+<NARRATIVE>Catherine charges up the staircase and into --</NARRATIVE>
+
+<Scene Heading>85   INT. HOUSE - DAN'S OFFICE - NIGHT</Scene Heading>
+
+<NARRATIVE>The moonlit office.</NARRATIVE>
+
+<NARRATIVE>Catherine rushes to Dan's laptop and opens it.         The glow lights her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>It MEANS that I knew all along this perverted bastard was never going to --</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine's eyes widen in shock.</NARRATIVE>
+
+<NARRATIVE>She scrolls through Dan's history.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>To -- to --</Utterence>
+</Turn>
+
+<NARRATIVE>As Catherine scrolls, her eyes scanning like a maniac.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>No, no, no, no --</Utterence>
+</Turn>
+
+<NARRATIVE>Dan's HISTORY ON SCREEN READS:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ON SCREEN</Character_Name>
+<Utterence>- WATER THERAPY FOR THE MIND
+- ART THERAPY FOR THE MIND
+- ANTIPSYCHOTIC VITAMINS?
+- SIDE EFFECTS WHEN STOPPING ANTIPSYCHOTIC MEDICATION</Utterence>
+</Turn>
+
+<NARRATIVE>Tears sting her eyes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>No, no --</Utterence>
+</Turn>
+
+<NARRATIVE>She keeps scrolling.      Then --</NARRATIVE>
+
+<NARRATIVE>Big GASP.   Eyes wide.</NARRATIVE>
+
+<NARRATIVE>Her hand shakes with trepidation as she CLICKS on something unseen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>No, no --</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine can't breathe.</NARRATIVE>
+
+<NARRATIVE>Tears stream down her red face.</NARRATIVE>
+
+<NARRATIVE>Over Catherine's shoulder the fluffy tops of BABY HEADS can be seen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>What is it --</Utterence>
+</Turn>
+
+<NARRATIVE>As Anita approaches Catherine from behind, the obscured IMAGES on the screen come into view.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(CONT'D)</Parenthetical>
+<Utterence>Oh shit --</Utterence>
+</Turn>
+
+<NARRATIVE>Over Catherine's shoulder, the IMAGES on the screen are crystal clear as Catherine clicks through them like a maniac.</NARRATIVE>
+
+<Scene Heading>HAPPY BABIES MODEL - DAY</Scene Heading>
+
+<NARRATIVE> A store somewhere, filled with <Location>BABY CLOTHES, SOME CLADE IN PINK ZEBRA</Location>. PRINTS are displayed on walls. The camera pans across the room to show various items such as <Character_Name>BABY TOYS</Character_Name>, <Character_Name>BABY MONITORS</Character_Name>, and a large, beautiful <Character_Name>BABY MOBILE WITH CRYSTAL TEAR DROPS AND LITTLE PINK ZEBRAS FLOATING IN THE AIR</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>No --</Utterance>
+<Parenthetical>(in horror)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine steps back in horror, holding her belly and screams in anguish.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Catherine!</Utterance>
+<Parenthetical>(trying to comfort Catherine)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine violently shrugs her off and runs out of the office.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - STAIRCASE - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine descends the spiral staircase in a state of utter insanity.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Catherine, wait!</Utterance>
+<Parenthetical>(concerned)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HOUSE - LOWER STAIRCASE/LANDING/BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Catherine stands in front of the CLOSED ADJACENT DOOR to her OPEN BEDROOM DOOR.</NARRATIVE>
+
+<NARRATIVE>Eyes glazed with shock, she's terrified of what lies beyond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(whispering)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She grips the door handle and gently pushes the door open.</NARRATIVE>
+
+<NARRATIVE>Catherine cautiously makes her way in.</NARRATIVE>
+
+<NARRATIVE>O.S. her FOOTSTEPS CRUNCH on PLASTIC.</NARRATIVE>
+
+<NARRATIVE>Moonlight shimmers off PLASTIC COVERED FURNISHINGS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(whispering)</Utterance>
+<Parenthetical>(in shock)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>She looks to the floor. Small GASP.</NARRATIVE>
+
+<NARRATIVE>A pile of debris shimmers in a heap by her feet.</NARRATIVE>
+
+<NARRATIVE>She leans over in the dark and pulls on a cord.</NARRATIVE>
+
+<NARRATIVE>The room is suddenly awash in a DUSTY PINK hue. ZEBRA SHADOWS dance on the walls that emanate from a large rotating BABY LAMP.</NARRATIVE>
+
+<NARRATIVE>The walls have different coloured paint patches.</NARRATIVE>
+
+<NARRATIVE>It's an UNFINISHED BABY'S ROOM.</NARRATIVE>
+
+<NARRATIVE>On the floor at Catherine's feet lies the SAME BABY MOBILE seen on Dan's laptop, crashed in a heap on the floor. The PINK SHOPPING BAG discarded beside it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>(concerned)</Utterance>
+<Parenthetical>(as she reaches for Catherine's hand)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Catherine is holding the BLOODIED BUTCHERS KNIFE.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>(crumbling in anguish)</Utterance>
+<Parenthetical>(tears welling up)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>O.S. distant POLICE SIRENS cut through the eerie silence.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Catherine turns to Anita - eyes wild.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>Please tell me you didn't darling -</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Parenthetical>-</Parenthetical>
+<Utterence>She grabs Anita violently by her leather jacket and puts the KNIFE to her throat.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>...</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>Please tell me you didn't darling -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>She grabs Anita violently by her leather jacket and puts the KNIFE to her throat.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Because -- you're not alone anymore Catherine.</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine takes this in.</NARRATIVE>
+
+<NARRATIVE>The SIRENS LOUDER now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>Tick-tock darling.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Parenthetical>(guiding the knife away from her)</Parenthetical>
+<Utterance>Anita puts her hand on the knife and gently guides it away from her.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine gives in and drops the knife.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>She sits on the floor against the wall. Anita sits beside her.</Utterence>
+</Turn>
+
+<NARRATIVE>Catherine's head falls into Anita's lap.</NARRATIVE>
+
+<NARRATIVE>She wraps her arms protectively around her belly.</NARRATIVE>
+
+<NARRATIVE>An eerie sense of calm.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterence>Anita strokes Catherine's hair.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>We were so happy. I felt so secure. I thought I could -- I just wanted a healthy baby.</Utterance>
+</Turn>
+
+<NARRATIVE>Catherine breaks. Tears roll down her cheeks.</NARRATIVE>
+
+<NARRATIVE>O.S. POLICE CARS SCREECH to a halt outside and the baby's room is hit with flashing RED and BLUE lights.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterance>I guess I'm one of nature's mistakes.</Utterance>
+</Turn>
+
+<NARRATIVE>Anita gives Catherine a gentle kiss on the cheek.</NARRATIVE>
+
+<NARRATIVE>O.S. the SOUND of OFFICERS approaching the front door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MALE/FEMALE OFFICER (O.S.)</Character_Name>
+<Utterence>One, two, three!</Utterance>
+</Turn>
+
+<NARRATIVE>BOOM!</NARRATIVE>
+
+<NARRATIVE>O.S. the front door SMASHES open and POLICE are HEARD rushing into the house and up the staircase.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ANITA</Character_Name>
+<Utterance>You ain't no mistake.</Utterance>
+</Turn>
+
+<NARRATIVE>O.S. POLICE FOOTSTEPS on the stairs get closer and closer --</NARRATIVE>
+
+<Scene Heading>CUT TO BLACK</Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>ANITA (CONT'D)</Scene Heading>
+
+<NARRATIVE>Catherine smiles and puts her forehead against Anita's.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I'm gonna miss you.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>The door cautiously opens and A FEMALE POLICE OFFICER stands at the door with her GUN pointed at CATHERINE.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FEMALE OFFICER</Character_Name>
+<Utterence> </Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Anita is GONE.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>Catherine sits on the floor against the wall amongst all the debris. Her arms wrapped around her belly. A small cut bleeds near her throat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE</Character_Name>
+<Utterence>I'm not alone.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Officer connects the dots.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>She lowers her gun and speaks into her radio.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FEMALE OFFICER</Character_Name>
+<Utterence>I have a Pregnant Female, 30s -</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>Catherine smiles and the Officer's VOICE fades as we float out of the room --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence> </Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Into the BLOODIED BATHROOM and --</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>Down the SPIRAL STAIRCASE passing an ascending FEMALE POLICE OFFICER into --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FEMALE OFFICER (CONT'D)</Character_Name>
+<Utterence> </Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The KITCHEN past a FULL UNTOUCHED BOTTLE OF WHISKY and CLEAN TEA CUP and out the open door into the --</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>BACK GARDEN, past the PUSHED TOGETHER wicker lounge chairs with ANITA's SUNGLASSES, UNOPENED PACK OF CIGARETTES and RED LEATHER JACKET laid out like a body and PANNING ONTO --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence> </Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The DRUM at the end of the garden SPEWING FIRE with DAN's BAGGED REMAINS beside it and OVER TO --</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE>The JULIET ROSE BUSH in FULL BLOOM and down to Catherine's PILLS scattered at the base, the discarded WATER CAN beside them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence> </Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading></Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CATHERINE (CONT'D)</Character_Name>
+<Utterence> </Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>THE END</Scene Heading>
+

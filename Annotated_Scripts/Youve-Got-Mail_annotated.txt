@@ -1,0 +1,71 @@
+Here is the annotated script for "You've Got Mail":
+
+<Scene Heading>INT. CENTRAL PERK - DAY</Scene Heading>
+
+<NARRATIVE> A bustling coffee shop in New York City. <Character_Name>Joe Fox</Character_Name>, owner of an online bookstore, is sitting at a small table typing away on his computer.</NARRATIVE>
+
+<NARRATIVE> <Character_Name>Kathleen Kelly</Character_Name>, owner of an independent children's bookstore, enters the coffee shop and approaches the counter to order.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KATHLEEN</Character_Name>
+<Utterance>I'll have a large coffee, black.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GUZZI</Character_Name>
+<Parenthetical>(barista)</Parenthetical>
+<Utterance>Cream and sugar?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KATHLEEN</Character_Name>
+<Utterance>No, just black.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Kathleen exits the counter and walks over to a table where <Character_Name>Joe</Character_Name> is sitting, not noticing him. She trips on her own feet and falls onto the chair across from Joe's table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KATHLEEN</Character_Name>
+<Utterance>Oh my god...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JOE</Character_Name>
+<Utterance>(laughing) Are you okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Joe stands up to help Kathleen, but she brushes him off and gets up herself.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KATHLEEN</Character_Name>
+<Utterance>I'm fine. Just a little clumsy today.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Joe sits back down and continues typing on his computer, while Kathleen looks at him suspiciously but doesn't say anything.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KATHLEEN</Character_Name>
+<Utterance>(to herself) Who is this guy?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. THE BOOK STORK - NIGHT</Scene Heading>
+
+<NARRATIVE> The interior of Joe's online bookstore, "The Book Stork". Employees are busy packing orders and restocking shelves.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JOE</Character_Name>
+<Utterance>(to his employee) Alright, let's get these orders out the door. We have a long night ahead of us.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Joe walks over to the computer and starts typing away again, while his employees continue working around him.</NARRATIVE>
+

@@ -1,0 +1,88 @@
+Here is the annotated script:
+
+<Scene Heading>INT. PROFESSOR X'S LAB - DAY</Scene Heading>
+
+<NARRATIVE> A sprawling laboratory somewhere in <Location>Xavier's School for Gifted Youngsters</Location>. We see a flurry of activity as various <Character_Name>X-MEN</Character_Name> scurry about, setting up equipment and prepping for an experiment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PROFESSOR X</Character_Name>
+<Utterance>Alright team, let's get started. Today we're going to be working with a new student.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WOLVERINE</Character_Name>
+<Utterance>I thought we were just doing some routine maintenance on the Cerebro system?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PROFESSOR X</Character_Name>
+<Utterance>No, Logan. We've received a new mutant with unique abilities and I want to run some tests.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCOTT SUMMERS</Character_Name>
+<Utterance>What kind of abilities?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PROFESSOR X</Character_Name>
+<Utterance>I'm not entirely sure. The files on her are... sketchy.</Utterance>
+</Turn>
+
+<NARRATIVE>The camera pans across the room as the team begins to set up various machines and equipment for the experiment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAGNETO</Character_Name>
+<Utterance>What's her name?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PROFESSOR X</Character_Name>
+<Utterance>Jean Grey.</Utterance>
+</Turn>
+
+<NARRATIVE>The camera lingers on <Character_Name>MAGNETO</Character_Name>'s face as he raises an eyebrow in interest.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEAN GREY</Character_Name>
+<Parenthetical>(nervously)</Parenthetical>
+<Utterance>I don't know if I'm ready for this...</Utterance>
+</Turn>
+
+<NARRATIVE>The team moves in to assist <Character_Name>Jean Grey</Character_Name>, who looks visibly shaken.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PROFESSOR X</Character_Name>
+<Utterance>Nonsense, Jean. We'll take care of you. Just relax and let us do our job.</Utterance>
+</Turn>
+
+<NARRATIVE>The camera zooms out as the team begins to prepare <Character_Name>Jean Grey</Character_Name> for the experiment, her eyes wide with uncertainty.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. XAVIER'S SCHOOL FOR GIFTED YOUNG STUDENTS - DAY</Scene Heading>
+
+<NARRATIVE>We see a group of students walking through the halls of <Location>Xavier's School for Gifted Youngsters</Location>, chatting and laughing together.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STORM</Character_Name>
+<Utterance>I don't know how much more of this I can take...</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>STORM</Character_Name>'s words are interrupted by the sound of <Location>Sabinne's</Location> voice over the intercom.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SABINNE'S VOICE</Character_Name>
+<Utterance>Attention, students. Professor X will be addressing us shortly. Please report to the auditorium immediately.</Utterance>
+</Turn>
+
+<NARRATIVE>The camera pans out as the students begin to make their way to the auditorium, chattering excitedly among themselves.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+

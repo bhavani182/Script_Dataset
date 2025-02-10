@@ -1,0 +1,567 @@
+Here is the annotated script:
+
+<Scene Heading>INT. LIVING ROOM - NIGHT</Scene Heading>
+
+<NARRATIVE> Albert, a middle-aged man, feeds Melvin, a two-year-old. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADULT MELVIN (V.O.)</Character_Name>
+<Utterence>I loved my father and he taught me many useful things.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ADULT MELVIN (V.O.)</Character_Name>
+<Utterence>But he didn't teach me anything at all about women.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>ADULT MELVIN (V.O.)</Character_Name>
+<Utterence>There was a time when I resented that.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ADULT MELVIN (V.O.)</Character_Name>
+<Utterence>And then, one day, it occurred to me that perhaps he didn't know all that much about the fairer sex.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> On the other side of the room, Corinne, a vulgar, morbidly obese woman, sits on the couch and devours a large packet of potato chips. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADULT MELVIN (V.O.)</Character_Name>
+<Utterence>One look at my mother and I had conclusive proof.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ADULT MELVIN (V.O.)</Character_Name>
+<Utterence>She burps loudly and gives a smile of satisfaction.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. EAST PERTH STREETS - PRESENT DAY</Scene Heading>
+
+<NARRATIVE> Melvin, now thirty-two, walks along with Mike, three. Both are bespectacled. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterence>Hey, Dad.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>(smiling) Ah, hi kiddo!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The scene fades to black. </NARRATIVE>
+
+Here is the annotated script:
+
+
+<Scene Heading>MELVIN</Scene Heading>
+
+<NARRATIVE> Here's what I'm going to do, son. </NARRATIVE>
+
+<NARRATIVE> I'll give it to you straight. I'm not going to fill your head with stories about fictitious characters like Santa Claus or the Easter Bunny or God. There's only one thing you need to worry about in this life and that's women. And I'm going to teach you everything I know about the art of meeting, courting and seducing 'em. Don't worry about anything else, there's nothing more important. Reading, writing, toilet training you can learn later in life. </NARRATIVE>
+
+<Scene Heading>INT. DEPARTMENT STORE - DAY</Scene Heading>
+
+<NARRATIVE> Mike, wearing cute denim overalls with a teddy bear embroidered on the front, stands on a footstool in front of Melvin and a TAILOR. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Clothes maketh or unmaketh the man.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>What were you thinking when you put that on this morning? That you were going to spend the day in the sandpit?</Utterance>
+</Turn>
+
+<NARRATIVE>Mike responds with a look of innocence and confusion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>(to tailor)</Utterance>We'll take the best you've got.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>(to Mike)</Utterance>The finer the threads, the more inclined the ladies will be to tear them off. I know, don't try to make sense of their logic. They have none.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. CAFE - DAY</Scene Heading>
+
+<NARRATIVE>Melvin at a table with Mike, who is now dressed in smart casual attire and looks more like his father.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Of course, it's not all about clothes. It's the way you carry yourself too.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PRESCHOOL - DAY</Scene Heading>
+
+<NARRATIVE>A preschool somewhere in a higher socioeconomic suburb, indicated by the upscale surroundings.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>You've gotta make a conscious effort to be relaxed but in control in all situations. And a little playful.</Utterance>
+<Parenthetical>He glances over at Mike, who is picking his nose.</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Go for an expression where you're suppressing mild amusement. But don't overdo it. You want to look dignified at all times.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Melvin yanks Mike's finger out of his nostril.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Now meeting the right person is really all about spending enough time in the right places. So we're going to a new preschool today. One in a higher socioeconomic suburb.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Melvin and Mike approach the entrance of the preschool.</NARRATIVE>
+
+<Scene Heading>EXT. PLAYGROUND - DAY</Scene Heading>
+
+<NARRATIVE>Melvin and Mike sit on a bench, watching children at play.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Well?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>You like the girl over there?</Utterance>
+<Parenthetical>He nods towards Molly, a shy, bespectacled three-year-old who sits on her own and reads a book.</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Uh... yeah. I think there's enough geek genes in our family. It's time to diversify.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>Elsewhere - DAY</Scene Heading>
+
+<NARRATIVE>A playground somewhere, with children at play.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BRITTANY</Character_Name>
+<Utterence>Taunting another child.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MELVIN is watching from a distance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>And avoid that bitchy girl. She may be pretty but believe me, it's not worth the trouble. You definitely don't want to get involved with someone like your mother.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Melvin keeps looking and points out AMELIE, three, well-dressed and eating a baguette.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>Stay away from the French girl too. French women have no morals.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to another part of the playground, where SARAH, three, blonde and dressed in pink, sits at a table nearby with a group of girls.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>It might be great for a bit of slap and tickle after midnight when the only meat your buddies are getting is at a kebab shop. But there's no word in French for "fidelity" and what we're looking for is a serious relationship. I mean, what you're looking for.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Parenthetical>(awkwardly unconvincing)</Parenthetical>
+<Utterence>I'm fine.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mike doesn't look so sure, standing nearby with Melvin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>She's popular, good-looking. She seems friendly enough. I think Barbie there might be worth a try.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Melvin gives Mike a push in Sarah's direction.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>C'mon! It's better to get shot down than wonder "What if?"</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PLAYGROUND - DAY</Scene Heading>
+
+<NARRATIVE> A playground somewhere in <Location>the city</Location>. The girls, likely <Character_Name>Sarah</Character_Name>, are sitting on a bench together. Mike, looking completely out of place in his flashy clothes, apprehensively approaches the girls.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<NARRATIVE>Just show an interest in the things that interest her and you'll have plenty to talk about.</NARRATIVE>
+<Utterance></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<NARRATIVE>Mike, looking completely out of place in his flashy clothes, apprehensively approaches the girls. They stop talking and watch him.</NARRATIVE>
+<Utterance></Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>Would you like to go to the toyshop later on? You can pick out a nice fairy costume. What are you doing to me, boy?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<NARRATIVE>We need to toughen up your image now. Most girls are attracted to bad boys. See if you can start some sort of altercation with her. Understand?</NARRATIVE>
+<Utterance></Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<NARRATIVE>A moment later.</NARRATIVE>
+<Utterence>Mike grabs a handful of sand from the sandpit, marches up to Sarah and throws it forcefully into her face. Sarah starts to cry, drawing the attention of everyone in the playground. Mike smiles and looks to his father for approval. Melvin is horrified.</Utterance></Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<NARRATIVE>INT. FLORIST - DAY.</NARRATIVE>
+<Utterence>Mike struggles with a large arrangement of flowers.</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. FLORIST - DAY</Scene Heading>
+
+<NARRATIVE>Melvin pays the <Location>FLORIST</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Well that was over the top but at least you got her attention. And it's better to be known as a jerk rather than a fruitcake.</Utterance>
+<Parenthetical>(to florist)</Parenthetical>
+<Utterance>The good news is you now have the opportunity to apologise. If you can feign sincerity and a desperation for forgiveness, you should be able to endear yourself to her.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Parenthetical>(to florist)</Parenthetical>
+<Utterance>Leave the price tag on. We want her to know how much we paid.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PLAYGROUND - DAY</Scene Heading>
+
+<NARRATIVE>Melvin watches from the other side of the high fence.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>(to Mike)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterance>(carrying flowers across the playground)</Utterance>
+</Turn>
+
+<NARRATIVE>He sees <Character_Name>Sarah</Character_Name> being comforted by her friends. Then he sees <Character_Name>Molly</Character_Name>, who is still reading her book.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>(gesturing for Mike to give flowers to Sarah)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterance>(thinking, then giving flowers to Molly instead)</Utterance>
+</Turn>
+
+<NARRATIVE>Melvin groans and throws his hands up in frustration.</NARRATIVE>
+</DIALOGUE>
+
+<Scene Heading>EXT. CARPARK - DAY</Scene Heading>
+
+<NARRATIVE>Melvin points his finger in Mike's face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>I'm trying to do the right thing by you and you mess everything up!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>You're as incompetent as ... the government film funding bodies!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>(approaching with Molly, who carries flowers)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>Molly loves her flowers. Thank you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>(Melvin's attitude changes immediately)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. MELVIN'S HOUSE - DAY</Scene Heading>
+
+<NARRATIVE> Mary and Molly continue walking, then stop. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>We're going to lunch at the cafe on the corner. Would you and Mike like to join us?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Melvin responds, clapping his hands together </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Absolutely. We'll see you there.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Mary and Molly leave, Melvin turns back to Mike </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Great work my friend! Looks like we're in for a double date.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Melvin claps a high five with his son </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>And the perfect chance for you to learn from a master at work.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CAFE ON THE CORNER - DAY</Scene Heading>
+
+<NARRATIVE> Melvin, Mike, Mary and Molly sit around a table </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>They seem to like each other.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Unseen by the others, Melvin decides to give thanks too. And not for the food in front of him </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>They certainly do.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. PARK - DAY</Scene Heading>
+
+<NARRATIVE> Melvin and Mary sit and watch their children laugh as they chase each other about </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>(to himself) Oh. No problem. They were my idea.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Mary responds to Melvin's thoughts </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>Well it was a very nice gesture.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>MARY</Scene Heading>
+
+<NARRATIVE> Mary has a conversation with <Character_Name>MOLLY</Character_Name> about a birthday party coming up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>I'm thinking of having a sleepover. Would you like to come?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Melvin</Character_Name> responds positively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Absolutely.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mary</Character_Name> continues the conversation, hinting at a romantic sleepover.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>I'm thinking about a sleepover? Or is it too soon?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>She</Character_Name> smiles at <Character_Name>Melvin</Character_Name>, who raises an eyebrow seductively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>A "sleepover" would be great. No such thing as "too soon" when you're with the right person.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>He</Character_Name> moves closer to <Character_Name>Mary</Character_Name> and attempts to touch her leg and hair, but she reacts negatively.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>What are you doing?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Getting to know you. Before the "sleepover".</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MARY</Character_Name>
+<Utterance>I meant Mike coming over to spend the night. Not his Dad.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Oh.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mary</Character_Name> walks away, unimpressed, while <Character_Name>Melvin</Character_Name> remains in the same position.</NARRATIVE>
+
+<NARRATIVE>The scene cuts to <Character_Name>Mike</Character_Name>, who is left alone with his father, <Character_Name>Melvin</Character_Name>.</NARRATIVE>
+
+<NARRATIVE><Character_Name>Mike</Character_Name> picks flowers from a nearby garden while <Character_Name>Melvin</Character_Name> sits dejectedly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterance>(whispers to Melvin) It's better to get shot down than wonder "What if?"</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to a bus stop, where <Character_Name>Melvin</Character_Name> sits alone.</NARRATIVE>
+
+<Scene Heading>EXT. BUS STOP - DAY</Scene Heading>
+
+Here is the annotated script:
+
+<Scene Heading>INT. LIVING ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Mike whispers more.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MIKE</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MELVIN, Mike's father, turns to him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence>I now have the opportunity to apologise and endear myself to her?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MIKE presents his father with a small arrangement of hand-picked flowers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Melvin thinks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterance>Yeah! Yeah, you're right.   I've taught you well!</Utterance>
+<Parenthetical>(smiling)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Melvin takes the flowers, leans over and kisses his boy fondly on the head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MELVIN</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>FADE OUT.</NARRATIVE>
+

@@ -1,0 +1,5013 @@
+Here is the annotated script:
+
+<Scene Heading>EXT. SNOWSCAPE</Scene Heading>
+
+<NARRATIVE>A blinding white screen, under which we hear an ominous low end Dolby THX Big Screen rumble.</NARRATIVE>
+
+<NARRATIVE>We're not in 19" television land anymore, Toto.</NARRATIVE>
+
+<NARRATIVE>As the rumble builds, TWO BLACK FIGURES appear on what now has resolved into a distant horizon.</NARRATIVE>
+
+<NARRATIVE>From their movements we can shortly see that the figures are men.</NARRATIVE>
+
+<NARRATIVE>Moving along a windswept ice sheet in an otherwise featureless land.</NARRATIVE>
+
+
+<NARRATIVE>The two black figures come into clearer view as they move closer to us.</NARRATIVE>
+
+<NARRATIVE>They are dressed in long, dark coats and seem to be walking purposefully across the snow-covered landscape.</NARRATIVE>
+
+<NARRATIVE>As they draw nearer, we can see that one of them is carrying a small bag slung over his shoulder.</NARRATIVE>
+
+<DIALOGUE>
+
+</DIALOGUE>
+
+<NARRATIVE>The two men stop at the edge of a cliff overlooking a vast expanse of snow-covered terrain.</NARRATIVE>
+
+<NARRATIVE>They confer in hushed tones, then turn and begin to make their way down into the valley below.</NARRATIVE>
+
+<DIALOGUE>
+
+</DIALOGUE>
+
+<NARRATIVE>The camera follows them as they descend into the valley, the sound of their footsteps echoing off the walls of the snow-covered cliffs.</NARRATIVE>
+
+<NARRATIVE>As they reach the bottom of the valley, we see that they are standing in front of a large, ominous-looking door.</NARRATIVE>
+
+<DIALOGUE>
+
+</DIALOGUE>
+
+<NARRATIVE>The door is old and worn, with intricate carvings etched into its surface.</NARRATIVE>
+
+<NARRATIVE>One of the men reaches out to grasp the door handle, but hesitates as if unsure what lies beyond.</NARRATIVE>
+
+<NARRATIVE>He looks up at his companion, who nods curtly before reaching out and pulling open the creaking door.</NARRATIVE>
+
+<NARRATIVE>The camera follows them as they step through the doorway and into the unknown.</NARRATIVE>
+
+<NARRATIVE>The door slams shut behind them, plunging us into darkness.</NARRATIVE>
+
+<Scene Heading>A LEGEND appears: NORTH TEXAS, 35,000 B.C.</Scene Heading>
+
+<NARRATIVE> A legend appears on screen displaying the location and time period of the scene. The camera continues to show two men approaching us, dressed in crude animal skin garments.</NARRATIVE>
+
+<NARRATIVE> We can now see that they are Homo Sapiens, with long hair and jutting foreheads.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The wind is beating against them as the camera cranes down to show the snow on the ground with large three-toed tracks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The men track the three-toed prints to a rocky crevice in the hard-pack ice, and then follow them into the crevice.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>INT. ICE CAVE</NARRATIVE>
+
+<NARRATIVE>The cave is dark, except where sunlight penetrates the ice walls.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A TORCH CATCHES FIRE, illuminating the faces of the primitives.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>We see a creature in the torch light, fleeing from the light and men.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The creature is upright on two legs with gray dinosaur-like skin and large black eyes. It quickly moves away, losing any identifying features in the deeper shadows.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The primitives remove crude bone weapons from under their fur garments and give chase into the constricting cavern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera follows them as they move with animal-like agility through the tightening space, showing their predatory nature.</NARRATIVE>
+
+<Scene Heading>Torchlight catching</Scene Heading>
+
+<NARRATIVE> THE CREATURE As it disappears into a tight opening in a smaller crevice leading off the main one.</NARRATIVE>
+
+<NARRATIVE>The Primitives entering frame after a moment, only a few steps behind.</NARRATIVE>
+
+<NARRATIVE>The LEAD PRIMITIVE dropping to the cave floor, pulling himself into this same tight fissure in pursuit.</NARRATIVE>
+
+<NARRATIVE>Splitting off from his partner who exits frame still on the run.</NARRATIVE>
+
+<Scene Heading>INT. SMALLER ICE CAVE - HIGH ANGLE DOWN</Scene Heading>
+
+<NARRATIVE>The fiery torch comes through first, held by the lead man.</NARRATIVE>
+
+<NARRATIVE>Throwing dancing shadows on the walls of what appears to be a box cavern.</NARRATIVE>
+
+<Scene Heading>CLOSE ON LEAD PRIMITIVE</Scene Heading>
+
+<NARRATIVE>Rising quickly to his feet.</NARRATIVE>
+
+<NARRATIVE>Not seeing what the torch illuminates just behind him: The face of a dead Primitive Man, his body frozen into the ice.</NARRATIVE>
+
+<NARRATIVE>He does finally notice this, turning to see it, when he's ATTACKED VICIOUSLY FROM BEHIND.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LEAD PRIMITIVE</Character_Name>
+<Utterence>( grunt/scream )</Utterence>
+</Turn>
+
+<NARRATIVE>The torch falls to the floor so that the fight is difficult to see, but it is loud and cruel.</NARRATIVE>
+
+<NARRATIVE>The creature squealing wildly as the grunts of the Primitive now turn to the sounds of painful struggle. Until:</NARRATIVE>
+
+<Scene Heading>THE SECOND PRIMITIVE MAN</Scene Heading>
+
+<NARRATIVE>Suddenly appears, driving his bone weapon into the body of the Creature.</NARRATIVE>
+
+<NARRATIVE>Again and again, until the Creature is driven away into the shadows.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND PRIMITIVE MAN</Character_Name>
+<Utterence>( grunt/grunt )</Utterence>
+</Turn>
+
+<NARRATIVE>The Second Man grabs the torch now, not to see if his hunting mate has survived, but in pursuit of the Creature.</NARRATIVE>
+
+<NARRATIVE>In the light we see that he and his weapon are covered with spatters of OILY BLACK BLOOD.</NARRATIVE>
+
+<NARRATIVE>As is the First Primitive whose body lies heaving on the floor.</NARRATIVE>
+
+<NARRATIVE>The Second Primitive stepping over his hunting mate, stalking the Creature into the shadows, where it has collapsed.</NARRATIVE>
+
+<NARRATIVE>The torch finally landing, for the first time, on its face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CREATURE</Character_Name>
+<Utterence>( growl/snarl )</Utterence>
+</Turn>
+
+<NARRATIVE>When the torchlight hits its face, the Creature attacks.</NARRATIVE>
+
+<Scene Heading>BUT THE PRIMITIVE PREVAILS.</Scene Heading>
+
+<NARRATIVE>He drops his torch and dispatches the already wounded Creature with strong hard stabs of his weapon, one of which penetrates the Creature's eye.</NARRATIVE>
+
+<NARRATIVE>LOW ANGLE ON THE DEAD CREATURE</NARRATIVE>
+
+<NARRATIVE>The torch, which lies on the ground, illuminates the dead creature's face. Its wounds are flowing with the oily black blood, which, oddly now, BEGINS TO POOL. As if it has intelligence, sentience. Pooling and traveling into a fissure in the cave floor. And disappearing.</NARRATIVE>
+
+<NARRATIVE>ANGLE ON THE SECOND PRIMITIVE</NARRATIVE>
+
+<NARRATIVE>Watching this, unknowing. His chest heaving from the fight, as the spots of oily black blood which have spattered onto him begin to crawl. Crawling toward his eyes and mouth. Causing him to let out grunts of fear.</NARRATIVE>
+
+<NARRATIVE>Which are the sounds we hear as the CAMERA SLOWLY CRANES UP past the struggling Primitive to the roof of the cave, where the dancing shadows of the torch FADE AWAY with the sounds of struggle. Moving into darkness and silence. But only for a moment. Until:</NARRATIVE>
+
+<NARRATIVE>SUNSHINE BREAKS THROUGH THE ROOF OF THE CAVE - PRESENT DAY</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STEVIE</Character_Name>
+<Utterence>Hey, Stevie. You okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>INT. CAVE - PRESENT DAY</NARRATIVE>
+
+<Scene Heading>SUNSHINE BREAKS THROUGH THE ROOF OF THE CAVE - PRESENT DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterence>Hey, Stevie. You okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>THEIR POV OF STEVIE</Scene Heading>
+
+<NARRATIVE>On the floor below covered with dirt, in his nose and mouth. Spitting out. (All these boys have Texas in their voices.)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STEVIE</Character_Name>
+<Utterance>I got...I got....I got...</Utterance>
+<Parenthetical>(straining)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>This draws no sympathy from above, only LAUGHTER.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE BOYS UP ABOVE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>3RD BOY</Character_Name>
+<Utterance>Looks like a cave or something.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterance>What's down there, Stevie? Anything?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>OVER THE BOYS ABOVE</NARRATIVE>
+
+<NARRATIVE>Stevie has gotten up, moving out of the patch of sunlight. Disappearing from view for a moment. Then reappearing, still spitting out dirt. But holding:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STEVIE</Character_Name>
+<Utterance>Human skull.</Utterance>
+</Turn>
+
+<NARRATIVE>One side partially missing from the cranium. But it brings WHOOPS of delight from the boys above.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>3RD BOY</Character_Name>
+<Utterance>Toss it up here, dude.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STEVIE</Character_Name>
+<Utterance>No way, buttwipe. I found it. It's mine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ANGLE UP ON STEVIE</NARRATIVE>
+
+<NARRATIVE>The other boys looking down at him. Stevie looking at the skull. Strangely, the light shines through it. It is milky, opaque, as if it's bone that's turned somehow glassy in places. Then:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STEVIE</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CAVE - DAY</Scene Heading>
+
+<NARRATIVE> There's bones all over the <Location>place down here.</Location></NARRATIVE>
+
+<NARRATIVE> Stevie looks down at his feet. CAMERA FOLLOWING HIS LOOK DOWN to where there are indeed more human bones. And something else. He takes a couple of steps in place, standing in a familiar BLACK, OILY substance -- which is climbing up his tennis shoe from the rock floor, over the edge of the shoe and down into the shoe itself. Then the SKULL drops in the frame, clattering on the hard floor of the cave.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STEVIE</Character_Name>
+<Utterance>No dialogue spoken by Stevie as he's paralyzed.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA SLOWLY RISING UP FROM STEVIE'S SHOES following SUBCUTANEOUS WORMS which have begun locomoting aggressively up his legs. As his whole body is WRACKED by a shivering seizure of some kind.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>3RD BOY</Character_Name>
+<Utterance>Hey, Stevie...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA CONTINUING UP to the boys above. Looking down at their friend. Their eyes go wide.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterance>You okay?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>But what they see next answers that question for them.</NARRATIVE>
+
+<NARRATIVE>THEIR POV OF STEVIE His face suddenly alive with the subcutaneous worms. Moving toward his eyes which begin filling with BLACK OIL. Looking much now like ALIEN EYES.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>3RD BOY</Character_Name>
+<Utterance>Hey, man. Let's get outta here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. SMALL DIRT FIELD - NORTHERN TEXAS - DAY</Scene Heading>
+
+<NARRATIVE>A dirt hole is being dug by three kids, who suddenly run away from it.</NARRATIVE>
+
+<NARRATIVE>AMERA PUSHING UP THROUGH THIS HOLE to REVEAL the parched dirt patch where THREE KIDS are running away from us, as fast as their feet will take them. Toward A NEW HOUSING TRACT (five floorplans to choose from, including the model home.)</NARRATIVE>
+
+<NARRATIVE>Disappearing into the neighborhood. A LEGEND appears: NORTH TEXAS, 1998.</NARRATIVE>
+
+<NARRATIVE>CAMERA CONTINUES RISING ABOVE THE ROOFTOPS to see the surrounding expanse of empty Texas flatland. And in the distance, the DALLAS SKYLINE.</NARRATIVE>
+
+<NARRATIVE>As CAMERA SETTLES, there are a few moments of nothing but the sound of the wind gently whistling across the landscape. In which we bury a short TIME CUT.</NARRATIVE>
+
+<Scene Heading>EXT. NEIGHBORHOOD - NORTHERN TEXAS - DAY</Scene Heading>
+
+<NARRATIVE>Then we HEAR it, before we see it: FIRE ENGINES pulling into the neighborhood, sirens WAILING.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRE CAPTAIN</Character_Name>
+<Utterance>This is Captain Miles Cooles...we've got a rescue situation in progress...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA DROPPING AGAIN as the lead engine pulls up. FIREMEN are hopping off, moving to the hole the boys dug.</NARRATIVE>
+
+<Scene Heading>LOW ANGLE UP FROM BELOW GROUND LEVEL, IN THE DUGOUT HOLE</Scene Heading>
+
+<NARRATIVE>TWO firemen carrying a ladder clamber down PAST CAMERA, THREE OTHERS appearing on their heels. The other two firemen clamber down, too. THE CAPTAIN at the edge of the hole watching them. Holding a radio.</NARRATIVE>
+
+<Scene Heading>INT. CAVE - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>As the LEAD FIREMAN steps down the ladder into the cave. He scans the darkness, illuminated only by the shaft of light permitted by the hole above. As the 2ND FIREMAN</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CAVE - DAY</Scene Heading>
+
+<NARRATIVE> The camera drops down next to two firemen, who stand motionless now, as if sensing something.</NARRATIVE>
+
+<NARRATIVE> THEIR POV</NARRATIVE>
+
+<NARRATIVE> Stevie's feet are just visible on the floor of the cave, a short distance away.</NARRATIVE>
+
+<Scene Heading>RESUME FIREMEN - LOW ANGLE</Scene Heading>
+
+<NARRATIVE> The firemen start cautiously toward Stevie. CAMERA FINDING their feet.</NARRATIVE>
+
+<NARRATIVE> Tracking through the same OILY, BLACK SUBSTANCE we saw bleeding from the creature thirty five thousand years ago.</NARRATIVE>
+
+<NARRATIVE> As they move into the shadows, we HOLD ON THE SUBSTANCE....and see it MOVE. It's alive.</NARRATIVE>
+
+<Scene Heading>TIME CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. DIRT FIELD - SHORT TIME LATER</Scene Heading>
+
+<NARRATIVE> CAMERA RISES out of the dirt hole, finds A GROUP OF NEIGHBORS:</NARRATIVE>
+
+<NARRATIVE> Concerned PARENTS, KIDS, including Stevie's friends.</NARRATIVE>
+
+<NARRATIVE> They're held at a distance by the remaining firemen.</NARRATIVE>
+
+<NARRATIVE> Everyone turning their concerned gazes skyward. Looking at:</NARRATIVE>
+
+<Scene Heading>A MED-EVAC CHOPPER</Scene Heading>
+
+<NARRATIVE> Coming off the sun-setting horizon. Moving toward us at high speed.</NARRATIVE>
+
+<NARRATIVE> The WHOP, WHOP of its blade soon shaking the neighborhood as it banks in and around and hovers just over the dirt field.</NARRATIVE>
+
+<Scene Heading>LANDING GEAR DEPLOYED</Scene Heading>
+
+<NARRATIVE> Landing gently on the parched hard scrabble.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRE CAPTAIN</Character_Name>
+<Utterence>Nada, Rosey.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Parenthetical>(over the chopper)</Parenthetical>
+<Utterence>Keep those people back. Get them out.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The side door flies open and FIVE HAZ-MAT RESCUE PARAMEDICS jump out carrying a bubble litter.</NARRATIVE>
+
+<NARRATIVE> CAMERA PANS THEM to the dirt hole past THE FIRE CAPTAIN.</NARRATIVE>
+
+<NARRATIVE> The Haz-Mat Paramedics moving down into the hole. The Fire Captain watches this, then stares toward --</NARRATIVE>
+
+<NARRATIVE> DR. BEN BRONSCHWEIG (in shirtsleeves, tie), exiting the chopper, following up the rear.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. NEIGHBORHOOD - DAY</Scene Heading>
+
+<NARRATIVE> A neighborhood somewhere, presumably <Location>near the place where Stevie was found</Location>. The scene opens with a CHOPPER flying off into the distance.</NARRATIVE>
+
+<NARRATIVE> We see DR. BRONSCHWEIG standing amidst the chaos of rescue operations, focused on the earthen hole where young STEVIE is being pulled out and lifted into an enclosed QUARANTINE BUBBLE LITTER by the rescue squad.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(to his men)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FIRE CAPTAIN</Character_Name>
+<Utterence>Move them all back.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(dogging Bronschweig)</Utterence>
+<Utterence>I sent four men down after the boy.</Utterence>
+<Utterence>They're not responding.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Dr. Bronschweig's focus is elsewhere, though. He's making a bee line to the earthen hole where young Stevie is being pulled out and lifted into an enclosed QUARANTINE BUBBLE LITTER by the rescue squad.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(making a bee line)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Bronschweig watches with great concern as Stevie's paralyzed body is loaded aboard the QUARANTINE BUBBLE LITTER.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The chopper takes flight again, almost as quickly as it arrived. The prop wash blowing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Bronschweig watches the chopper bank away, then turns his look to:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The neighborhood, where A SERIES OF UNMARKED CARGO VANS, TRUCKS are rolling in. A fleet of vehicles, driven by what looks like MILITARY PERSONNEL.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRE CAPTAIN</Character_Name>
+<Utterence>What about my men?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Parenthetical>(brusquely)</Parenthetical>
+<Utterence>We're doing all we can.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> And he moves off toward the approaching trucks where the MILITARY PERSONNEL are pulling out tents, tent poles, scientific equipment. Leaving the Captain to wonder what.</NARRATIVE>
+
+<Scene Heading>REFRIGERATION UNITS being unloaded</Scene Heading>
+
+<NARRATIVE> We see a scene of refrigeration units being unloaded, with personnel carrying them and blowing past a character off-camera.</NARRATIVE>
+
+<NARRATIVE>Moving RIGHT TO CAMERA and plunging us into BLACK.</NARRATIVE>
+
+<Scene Heading>HOLD. Then OVER BLACK, a familiar sound again</Scene Heading>
+
+<NARRATIVE>The sound of a chopper auguring in is heard as we FADE UP.</NARRATIVE>
+
+<Scene Heading>EXT. TOP OF A SKYSCRAPER - DAY</Scene Heading>
+
+<NARRATIVE>The chopper banks over the side of the building, preparing to touch down on the rooftop where FIFTEEN FBI AGENTS are standing.</NARRATIVE>
+
+<NARRATIVE>A LEGEND appears: FEDERAL BUILDING, DALLAS, TEXAS. ONE WEEK LATER.</NARRATIVE>
+
+<Scene Heading>The chopper touches down</Scene Heading>
+
+<NARRATIVE>Again, the side door is thrown open and one man exits: SPECIAL AGENT IN CHARGE (S.A.C.) DARIUS MICHAUD.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SPECIAL AGENT IN CHARGE (S.A.C.) DARIUS MICHAUD</Character_Name>
+<Utterence>(approaching the waiting FBI Agents)</Utterence>
+</Turn>
+
+<Scene Heading>FBI AGENT steps up</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FBI AGENT</Character_Name>
+<Utterence>We've evacuated the building and been through it bottom to top. No trace of an explosive device or anything resembling one.</Utterence>
+</Turn>
+
+<Scene Heading>S.A.C. MICHAUD responds</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SPECIAL AGENT IN CHARGE (S.A.C.) DARIUS MICHAUD</Character_Name>
+<Utterence>Have you taken the dogs through?</Utterence>
+</Turn>
+
+<Scene Heading>FBI Agent responds</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FBI AGENT</Character_Name>
+<Utterence,Yes, sir.</Utterence>
+</Turn>
+
+<Scene Heading>S.A.C. Michaud gives a non-negotiable order</Scene Heading>
+
+<NARRATIVE>This is given as a non-negotiable order, to the somewhat weary FBI man. Who turns back to his charges, Michaud does not register this attitude, though.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SPECIAL AGENT IN CHARGE (S.A.C.) DARIUS MICHAUD</Character_Name>
+<Utterence>Well, take them through again.</Utterence>
+</Turn>
+
+<Scene Heading>Moving to the edge of the building</Scene Heading>
+
+<NARRATIVE>CAMERA FOLLOWING HIM, seeing what he sees now.</NARRATIVE>
+
+<Scene Heading>An adjacent skyscraper is seen in the distance</SceneHeading>
+
+<NARRATIVE>On an adjacent skyscraper is what appears to be AN FBI AGENT in an ID windbreaker exiting onto the roof.</NARRATIVE>
+
+<Scene Heading>CAMERA ZOOMING IN</SceneHeading>
+
+<NARRATIVE>The camera zooms in on the figure, which becomes clear as we see it is another FBI agent, also wearing a dark ID windbreaker and appearing to exit the adjacent skyscraper.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>CONTINUING AROUND into A CLOSE UP PROFILE of S.A.C</Scene Heading>
+
+<NARRATIVE> Michaud. Staring at this, his jaw set. He doesn't like what he sees. And what he sees is:</NARRATIVE>
+
+<Scene Heading>EXT. ROOFTOP OPPOSING SKYSCRAPER - DAY - CONTINUOUS</Scene Heading>
+
+<NARRATIVE> Special Agent Dana Scully is coming out the door leading onto the roof. The door slams shut behind her. She, too, is dressed in an FBI windbreaker.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I'm dialing my cell phone as I move around the rooftop looking for something.</Utterance>
+</Turn>
+
+<NARRATIVE>Dialing the number of:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER (FILTER)</Character_Name>
+<Utterence>Where are you, Scully?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I'm on the roof.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER (FILTER)</Character_Name>
+<Utterence>Did you find something?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(impatiently)</Parenthetical>
+<Utterence>No. I haven't.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER (FILTER)</Character_Name>
+<Utterence>What's wrong, Scully?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I've just climbed twelve floors. I'm hot and thirsty and I'm wondering, to be honest, what I'm doing here.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER (FILTER)</Character_Name>
+<Utterence>You're looking for a bomb.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I know that. But the threat was called in for the Federal Building across the street.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER (FILTER)</Character_Name>
+<Utterence>I think they have that covered.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>WE ARE TRACKING WITH SCULLY.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>SCULLY</Scene Heading>
+
+<NARRATIVE>Scully, <Location>impatience</Location>, is walking and talking to Mulder.</NARRATIVE>
+
+<NARRATIVE>Mulder... when a terrorist bomb threat is called in, the logical purpose of providing this information is to allow us to find the bomb. The rational object of terrorism is to promote terror. If you'd study model behavioral pattern in virtually every case where a threat has turned up an explosive device. If we don't act in accordance with that data -- if you ignore it as we have done -- the chances are great that if here actually is a bomb we might not find it. Lives could be lost----</NARRATIVE>
+
+<NARRATIVE>Scully, engrossed in her own argument, realizes she's been the only one speaking for the last short while. She stops walking.</NARRATIVE>
+
+<Scene Heading>SCULLY</Scene Heading>
+
+<NARRATIVE>Mulder...?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Mulder...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>What happened to playing a hunch?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully almost JUMPS out of her own skin. The voice has come not over the phone, but from two feet away where:</NARRATIVE>
+
+<Scene Heading>MULDER</Scene Heading>
+
+<NARRATIVE>Standing in the shadow of a large air conditioning unit. Cracking a trademark sunflower seed between his teeth. Clicking his cell phone off. Moving out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Jesus, Mulder...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(smirking)</Parenthetical>
+<Utterance>The element of surprise, Scully. Random acts of unpredictability. If we fail to anticipate the unforeseen or expect the unexpected in a universe of infinite possibilities, we find ourselves at the mercy of anyone or anything that cannot be programmed, categorized or easily referenced...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder has moved to the edge of the building where he---</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. HILLTOP - DAY</Scene Heading>
+
+<NARRATIVE> A hilltop somewhere, possibly a desert location like <Location>New Mexico</Location>. <Character_Name>MULDER</Character_Name> and <Character_Name>SCULLY</Character_Name> are standing together, looking out at the landscape.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What are we doing up here? It's hotter than hell.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> is moving toward the stairs, <Character_Name>Scully</Character_Name> catching him. <Character_Name>Mulder</Character_Name> allowing her to lead him up the steps.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I know you're bored in this assignment, but unconventional thinking is only going to get you into trouble now.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>How's that?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>You've got to quit looking for what isn't there. They've closed the X-Files. There's procedure to be followed here. Protocol.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What do you say we call in a bomb threat for Houston. I think it's free beer night at the Astrodome.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Scully</Character_Name> gives him a look. It's no use. She reaches the door first, grabs the knob but... it won't open. Turning to <Character_Name>Mulder</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Now what?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(suddenly nervous)</Parenthetical>
+<Utterence>It's locked?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Scully</Character_Name> wiggles the knob again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>So much for anticipating the unexpected.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> sails his sunflower seeds into the air. Dusting his hands off as if lost in a wistful thought for just a moment.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BUILDING LOBBY - DAY</Scene Heading>
+
+<NARRATIVE> The lobby of a building, day time. <Location>New York City</Location>. <Character_Name>MULDER</Character_Name> and <Character_Name>SCULLY</Character_Name> exit the stairwell and enter the lobby.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Had you.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>No you didn't.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Oh yeah. Had you big time.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The door to the stairwell slams shut behind them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(smirking)</Parenthetical>
+<Utterence>And that's how it continues as we re-enter the stairwell.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO: INT. BUILDING LOBBY - DAY</NARRATIVE>
+
+<Scene Heading>INT. BUILDING LOBBY - DAY</Scene Heading>
+
+<NARRATIVE>An elevator DINGS and the doors open, revealing <Character_Name>Mulder</Character_Name> and <Character_Name>Scully</Character_Name> standing in the lobby.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I saw your face, Mulder. There was a moment of panic.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Panic? Have you ever seen me panic, Scully?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I just did. You're buying.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder fishes for change in his wallet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Alright... what'll it be: Coke, Pepsi? A saline IV?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A GROUP OF KIDS on a field trip, being led into an elevator by THEIR TEACHER, pass through the lobby.</NARRATIVE>
+
+<Scene Heading>INT. HALLWAY OUTSIDE VENDING MACHINE ROOM - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Mulder moving to a door with a small shingle above it which says SNACKS/BEVERAGES.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A MAN IN A VENDOR'S UNIFORM appears, brushing past Mulder as he makes casual and ever-so-brief eye contact with him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(making no note of this)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. SNACK AREA AND SODA VENDING MACHINE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Mulder takes a few steps down into the windowless room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Moving past the snack machines to a LIGHTED soda machine.</NARRATIVE>
+
+<NARRATIVE>Finding the correct change and plunking it in. Hitting a button, but... nothing comes out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Oh, come on.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He beats his fist a couple of times on the front of the machine.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Nothing. He finds more change. Plunking it in. Hits the button. Nothing.</NARRATIVE>
+
+<NARRATIVE>He stares at the machine a minute, then beats it hard with his fist. Nothing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Moving around to the back of the machine, looking for:</NARRATIVE>
+
+<Scene Heading>ANGLE ACROSS BACK OF MACHINE</Scene Heading>
+
+<NARRATIVE>Mulder's face peering in on the slim space between the machine and the wall.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Reaching down and lifting the PLUG on the end of the electrical cord.</NARRATIVE>
+
+<NARRATIVE>It isn't plugged in. Realizing now why the machine hasn't spit out his sodas.</NARRATIVE>
+
+<Scene Heading>RESUME FRONT ANGLE ON MACHINE</Scene Heading>
+
+<Scene Heading>INT. BUILDING LOBBY - DAY</Scene Heading>
+
+<NARRATIVE>A building lobby somewhere. <Character_Name>SCULLY</Character_Name> stands looking at her watch, wondering where <Character_Name>MULDER</Character_Name> is.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Scully...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Her cell phone starts ringing. She answers it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER (FILTER)</Character_Name>
+<Utterance>I'm in the vending room.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(thinks he's joking) Where are you, Mulder?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully doesn't believe him for a second.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. HALLWAY OUTSIDE VENDING MACHINE ROOM - CONTINUOUS</Scene Heading>
+
+<NARRATIVE><Character_Name>SCULLY</Character_Name> appears, hearing a pounding following the noise to the door <Character_Name>Mulder</Character_Name> is on the other side of.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Is that you pounding?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. SNACK AND SODA VENDING MACHINE ROOM - DAY</Scene Heading>
+
+<NARRATIVE><Character_Name>MULDER</Character_Name> holds his phone to his ear, using his other hand to pound.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HALLWAY OUTSIDE VENDING MACHINE ROOM - CONTINUOUS</Scene Heading>
+
+<NARRATIVE> Mulder, who has been trying to get Scully's attention by pounding on the vending machine room door, is now using a filter to speak to her through the keyhole of the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Nice try, Mulder.</Utterance>
+</Turn>
+
+<NARRATIVE> Scully shakes her head and tries the door again, but Mulder's response is more hard pounding on the other side of the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>C'mon. Open the door.</Utterance>
+</Turn>
+
+<NARRATIVE> Mulder continues to speak through the keyhole, but Scully is unconvinced that this is not a joke.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Thirteen fifty nine, thirteen fifty eight, thirteen fifty seven...</Utterance>
+</Turn>
+
+<NARRATIVE> As Mulder speaks, Scully bends down to examine the keyhole and sees that it has been freshly soldered over.</NARRATIVE>
+
+<Scene Heading>INT. SNACK AND SODA VENDING MACHINE ROOM - DAY</Scene Heading>
+
+<NARRATIVE> The scene cuts to Mulder standing in front of an elaborately engineered explosive device, which is wired with circuit boards and electric belts.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Scully -- listen to me. It's in the coke machine. You've got about fourteen minutes to get this building evacuated.</Utterance>
+</Turn>
+
+<NARRATIVE> The digital read-out on the device displays 13:58, indicating that time is running out.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>The keyhole has been soldered over. We're out of time.</Utterance>
+</Turn>
+
+Here is the annotated script:
+
+<Scene Heading>MULDER</Scene Heading>
+
+<NARRATIVE>...thirteen fifty six...</NARRATIVE>
+
+<Scene Heading>SCULLY (FILTER)</Scene Heading>
+
+<NARRATIVE>Hang on. I'm gonna get you out of there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Hang on. I'm gonna get you out of there.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The line goes dead. And off Mulder's deepening anxiety, we:</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. BUILDING LOBBY - DAY</Scene Heading>
+
+<NARRATIVE>Scully enters like General Patton, taking charge.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I need this building evacuated and cleared out in ten minutes! I need you to get on the phone and tell the fire department to block off the city center in one mile radius around the building --</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SECURITY GUARD</Character_Name>
+<Utterence>In ten minutes.....?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>DON'T THINK! JUST PICK UP THE PHONE AND MAKE IT HAPPEN!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>And she's moving, dialing her cell phone now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(into phone)</Parenthetical>
+<Utterence>This is Special Agent Dana Scully. I need to speak to S.A.C. Michaud. He's got the wrong building --</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>UNMARKED FBI VANS, CARS are pulling up out front.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECURITY GUARD</Character_Name>
+<Utterence>(to someone O.S.)</Utterence>
+<Utterence>Evacuate the building. Now!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Agents in windbreakers are exiting, moving at a run to:</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. OFFICE BUILDING - DAY</Scene Heading>
+
+<NARRATIVE> The exterior of an office building. <Location>Miami, Florida</Location>. Among the evacuees are various S.A.C. Agents, including DARIUS MICHAUD and FBI AGENT S.CULLY.</NARRATIVE>
+
+<NARRATIVE> Moving to ANGLE ON SCULLY, who exits the building.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Exiting the building. Behind her, WORKERS are beginning to stream out of the building, as well as the young FIELD TRIPPERS.</Utterance>
+</Turn>
+
+<NARRATIVE> Michaud meeting up with Scully mid-plaza.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>Where is it?</Utterance>
+</Turn>
+
+<NARRATIVE> Moving WITH THEM now, back toward the building. As FIRE TRUCKS are pulling up out in the street out front.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>This has the distinct feel of a situation veering out of control.</Utterance>
+</Turn>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. SNACK AND VENDING MACHINE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>The digital readout hits 7:00.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>He's locked in with it.</Utterance>
+</Turn>
+
+<NARRATIVE>Mulder staring at the machine. If he wasn't sweating enough on the roof, he's certainly sweating now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Scully?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY (FILTER)</Character_Name>
+<Utterance>Mulder. Move away from the door. We're coming through it.</Utterance>
+</Turn>
+
+<NARRATIVE>No sooner is this said than the CAMERA WHIPS OFF MULDER to the door, where a GAS PLASMA TORCH FLAME is sizzling along the hinges.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. HALLWAY OUTSIDE VENDING MACHINE ROOM - CONTINUOUS</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(screaming) Ahh!</Utterance>
+</Turn>
+
+<NARRATIVE>The camera is now focused on the door, where a large explosion can be seen.</NARRATIVE>
+
+<Scene Heading>INT. BOMB SCENE - DAY</Scene Heading>
+
+<NARRATIVE> Michaud, wearing a Kevlar vest, is expertly cutting metal with a torch while Scully and TWO AGENTS and TWO DALLAS BOMB SQUAD men look on. In the background, BUILDING EMPLOYEES are streaming out. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>Go.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The other Agents kick the metal door in, sending it crashing to the floor. Mulder stands on the other side, watching Michaud pick up a tool kit and step over the downed door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Tell me this is just soda pop in those canisters.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>No. It's what it looks like. A big I.E.D. - ten gallons of astrolite.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Michaud studies the bomb, and Mulder watches anxiously. Michaud gives orders to clear the building.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>Okay, get everybody out of here and clear the building.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Sombody's got to stay with you --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>I gave you an order. Now get the hell out of here and evacuate the area.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Can you defuse it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Michaud sets down his tool kit and begins to work on defusing the bomb. The other Agents exit the room, following Michaud's orders.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>I think so.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. BOMB BUILDING - DAY</Scene Heading>
+
+<NARRATIVE> Mulder, <Character_Name>MICHAUD</Character_Name>, and Scully are in a high-stakes situation where they need to defuse a bomb with only four minutes left.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterence>Did you hear what I said?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>You've got about four minutes to find out if you're wrong.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Michaud turns on Mulder with unexpected intensity, while Scully starts moving off-screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Let's go, Mulder.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Let's go.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully starts out, and Mulder finally moves off-screen after staring at Michaud for a moment, following Scully.</NARRATIVE>
+
+<NARRATIVE>CAMERA HOLDS ON MICHAUD, just staring at the bomb. Just staring.</NARRATIVE>
+
+<Scene Heading>EXT. PLAZA OUTSIDE BOMB BUILDING - DAY - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>The last of the building occupants are being hauled off in CITY BUSES which have moved in curbside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(non-verbal, stopping and looking back to the building)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(concerned)</Parenthetical>
+<Utterence>What are you doing?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(non-verbal, looking back at the building)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>One last windbreakered Agent is exiting, moving past them to the last cop car other than the car waiting for Mulder and Scully.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAST AGENT OUT</Character_Name>
+<Utterence>All clear.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder has stopped and is looking back to the building now as Scully hustles back the few steps separating them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(non-verbal, still looking back)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>ANGLE OVER THEM TO THE WAITING CAR</Scene Heading>
+
+<NARRATIVE> The Last Agent Out's car zooms away, leaving only their car and the man driving it: a WINDBREAKERED AGENT.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WINDBREAKERED AGENT</Character_Name>
+<Utterance>What's he doing?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The plaza is desolate now, void of life.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Something's not right...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>-- Mulder! Get in the car!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully is pulling him now. Pulling him toward the car and the obviously impatient Windbreakered Agent.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>There's no time!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>INT. SNACK AND SODA VENDING MACHINE ROOM - DAY</NARRATIVE>
+
+<NARRATIVE>CLOSE ON BOMB. The seconds ticking off now, as it passes the :30 mark.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MICHAUD</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>His tool chest is closed up, and he is sitting on it improbably. Still staring at the bomb, then pulling his head down in what appears to be resignation.</NARRATIVE>
+
+<NARRATIVE>As the seconds tick away.</NARRATIVE>
+
+<Scene Heading>CUT BACK TO:</Scene Heading>
+
+<NARRATIVE>EXT. PLAZA OUTSIDE BOMB BUILDING - DAY - CONTINUOUS</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(reluctantly)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder has relented now, against his better instincts. Moving with Scully to the car, faster as they go.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WINDBREAKERED AGENT</Character_Name>
+<Utterance>(getting in behind the wheel)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT BACK TO:</Scene Heading>
+
+<Scene Heading>INT. VENDING MACHINE ROOM - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>S.A.C. MICHAUD is sitting motionless in front of the bomb as the seconds tick down: 8-7-6-5-4-3-2-1-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SA. Michaud</Character_Name>
+<Utterance>----</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>HARD CUT BACK TO:</NARRATIVE>
+
+<Scene Heading>EXT. PLAZA OUTSIDE BOMB BUILDING - DAY - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Mulder and Scully are getting in the car. TRACKING BACKWARDS with them now as the Agent driving pulls away, getting only thirty, maybe forty yards when: the BOMB DETONATES and the building EXPLODES.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>This is no fatwa symbolic little terror strike. This is Oklahoma City. Or do we say, Independence Day.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>REVERSE ANGLE ON CAR</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>As all the windows blow out and the car is lifted up, slamming into the corner of a parked car.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>The air so quickly full of debris that it would seem the whole city has been destroyed.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RESUME BUILDING</NARRATIVE>
+
+<NARRATIVE>We see the fires raging on every floor. That most of the front of the building has been torn away and we can see right into many floors.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(with darkest irony)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Next time you're buying.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RESUME ANGLE ON CAR</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(opening the passenger door for Scully)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. AERIAL SHOT OF WASHINGTON D.C. - DAY</Scene Heading>
+
+<NARRATIVE>HIGH ABOVE the U.S. capital, the entire beltway. With a <Location>LEGEND</Location>, to establish.</NARRATIVE>
+
+<NARRATIVE>LOWER AND TIGHTER NOW</NARRATIVE>
+
+<NARRATIVE>On the J. Edgar Hoover Building, FBI Headquarters.</NARRATIVE>
+
+<NARRATIVE>Descend low on the three-sided monolith and its large <Location>interior courtyard</Location>. As another <Location>LEGEND</Location> appears, under:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WOMAN'S VOICE (V.O.)</Character_Name>
+<Utterence>In light of Waco, and Ruby Ridge...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. FBI OFFICE OF PROFESSIONAL REVIEW - DAY</Scene Heading>
+
+<NARRATIVE>A formal hearing. Several <Character_Name>ASSISTANT DIRECTORS</Character_Name> sit at a head table, going over documents. NAME PLACECARDS in front of them.</NARRATIVE>
+
+<NARRATIVE>PANNING the group, the sound of papers shuffling, the occasional clearing of a throat creating a stale air of importance, under:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WOMAN'S VOICE (V.O.)</Character_Name>
+<Utterence>...there is a heightened need at the Attorney General's office to place responsibility as early as possible.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA LANDING ON <Character_Name>ASSISTANT DIRECTOR JANA CASSIDY</Character_Name></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CASSIDY</Character_Name>
+<Utterence>...for the catastrophic destruction of public property and the loss of life due to terrorist activities...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Next to Cassidy is <Character_Name>Assistant Director WALTER SKINNER</Character_Name>, Mulder and Scully's former superior on the X-Files. Looking ruefully at:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>AGENT SCULLY</Character_Name>
+<Utterence>(silence)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>At a small table, the chair next to her conspicuously empty.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>COURTROOM - DAY</Scene Heading>
+
+<NARRATIVE> Many details are still unclear; some agents' reports have not been filed, or have come in sketchy, without a satisfactory accounting of the events that led to the destruction in <Location>Dallas</Location>. But we're under some pressure to give an accurate picture of what happened to the Attorney General, so she can issue a public statement.</NARRATIVE>
+
+<NARRATIVE> The door to the room opens behind Scully now, and Mulder enters, his manner that of a man who knows he's late to a function.</NARRATIVE>
+
+<Scene Heading>RESUME A.D. CASSIDY</Scene Heading>
+
+<NARRATIVE> She looks up at Mulder and Scully with a stern glare.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CASSIDY</Character_Name>
+<Utterance> We now know that five people died in the explosion. Special Agent in Charge Darius Michaud who was trying to defuse the bomb that had been hidden in a vending machine. Three firemen from <Location>Dallas</Location>, and a young boy.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Excuse me -- the firemen and the boy -- they were in the building?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CASSIDY</Character_Name>
+<Utterance>Agent Mulder, since you weren't able to be on time for this hearing, I'm going to ask you to step outside so that we can get Agent Scully's version of the facts. So that she won't have to be paid the same disrespect.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>We were told the building was clear.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CASSIDY</Character_Name>
+<Utterance>You'll get your turn, Agent Mulder. Please step out.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. FBI BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>Mulder sits in a chair, looking down. He is with Agent Scully and A.D. Skinner.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>It does say there in your paperwork that we were the ones who found the bomb...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Cassidy, a person of authority, enters and addresses Mulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CASSIDY</Character_Name>
+<Utterance>Thank you, Agent Mulder. We'll call you in shortly...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder rises from his chair and looks at Skinner.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>About what?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterance>-- They're asking her for a narrative. They want to know why she was in the wrong building.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>She was with me...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Skinner studies Mulder, shaking his head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Parenthetical>(unsympathetically)</Parenthetical>
+<Utterance>Sit down...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to a hallway outside the OPR hearing room.</NARRATIVE>
+
+<Scene Heading>INT. HALLWAY OUTSIDE OPR HEARING ROOM - DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>What's going on?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterance>-- They're still talking to Agent Scully.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder looks concerned, looking at Skinner with an inquiring expression.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Why?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Parenthetical>(sternly)</Parenthetical>
+<Utterance>Sit down, Mulder.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene continues as Skinner exits and Mulder remains standing, looking concerned.</NARRATIVE>
+
+<Scene Heading>SKINNER</Scene Heading>
+
+<NARRATIVE>You don't see what's going on here, do <Character_Name>SKINNER</Character_Name> says to <Character_Name>MULDER</Character_Name>, looking at him with a mixture of frustration and concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterence>You don't see what's going on here, do you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(off Mulder's look)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterence>There's four hundred million dollars in damage to the city of Dallas. Lives have been lost. No suspects have been named. So the story being shaped is this could have been prevented.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>That the FBI didn't do its job.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>And they want to blame us?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>SKINNER</Character_Name> turns to <Character_Name>MULDER</Character_Name> with a serious expression.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterence>Agent Mulder -- we both know that if you and Agent Scully hadn't taken the initiative to search the adjacent building, you could have multiplied the fatalities by a hundred---</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(pausing for emphasis)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>But it's not the lives we saved. It's the lives we didn't.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>SKINNER</Character_Name> continues, reciting a dictum as if to justify his actions.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterence>-- if it looks bad, it's bad for the FBI---</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(looking at Mulder with a stern expression)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>-- if they want someone to blame, they can blame me. Agent Scully doesn't deserve this.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>SKINNER</Character_Name> responds with a calm, measured tone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterence>She's in there right now saying the same thing about you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>MULDER</Character_Name> shakes his head, defending himself against Skinner's accusations.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I breached protocol. I broke contact with the S.A.C. I ignored a primary tactical rule and left him alone with the device.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>SKINNER</Character_Name> nods, seemingly acknowledging Mulder's confession.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterence>Agent Scully says it was she who ordered you out of the building. That you wanted to go back.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. OFFICE BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>A meeting room somewhere in <Location>FBI Headquarters</Location>. <Character_Name>MULDER</Character_Name> and <Character_Name>SCULLY</Character_Name> are alone, seated across from each other.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>They're asking for you, Sir.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Skinmer</Character_Name> re-enters the room, looking serious.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Whatever you told them in there, you don't have to protect me.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>All I told them was the truth.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>They're trying to divide us on this, Scully. We can't let them.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>They have divided us, Mulder. They're splitting us up.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterence>What? What are you talking about?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I meet with the OPR day after tomorrow for remediation and reassignment...</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Why?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I think you must have an idea. They cited a history of problems relating back to 1993.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>They were the ones that put us together.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Because they wanted me to invalidate...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene fades to black as Mulder and Scully sit in uncomfortable silence.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. HEARING ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A hearing room somewhere in <Location>FBI Headquarters</Location>. <Character_Name>MULDER</Character_Name>, his back turned to us, is sitting at a table. We hear the sound of papers shuffling and murmured conversation OFF SCREEN.</NARRATIVE>
+
+<NARRATIVE>SCULLY, Mulder's partner, comes into view, looking concerned.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>This isn't about you, Scully. They're doing this to me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>They're not doing this, Mulder.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(off his look) I left behind a career in medicine because I thought I might make a difference at the FBI. When they recruited me they told me women made up nine percent of the bureau. I felt this was not an impediment, but an opportunity to distinguish myself. But it hasn't turned out that way.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(off his look) And now, if I were to be transferred to Omaha, or Wichita or some field office where I'm sure I could rise, it just doesn't hold the interest for me it once did. Not after what I've seen and done.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You're... quitting?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>There's really no reason left for me to stay anymore.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(off his look) Maybe you should ask yourself if your heart's still in it, too.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The door opens to the hearing room again now. A.D. Skinner steps part way out, gesturing to Mulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SKINNER</Character_Name>
+<Utterance>Agent Mulder. You're up.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(regretfully) I'm sorry. Good luck.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder rises. Scully studying his poorly disguised hurt. Before he turns and goes into the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>watching the door close behind him. Her feelings</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>INT. DOWNSCALE D.C. BAR - NIGHT.</NARRATIVE>
+
+<NARRATIVE>A poorly disguised bar, too.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterence>I'd say this about exceeds your minimum daily requirement.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(to himself)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Close on a shooter of tequila being poured. Camera adjusting to reveal the attractive barmaid tipping the bottle. Pushing it across the bar to where two empty shooters sit, making the exchange.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterence>Gotta train for this kind of heavy lifting.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(looks down at the bar, staring at the shooter)</Parenthetical>
+</Turn>
+
+<NARRATIVE>He sits by himself on a stool, staring down at the bar. Staring at the shooter which he spins with his fingers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(no response)</Utterence>
+</Turn>
+
+<NARRATIVE>The Barmaid watches him as she retrieves the small shot glass, intrigued by his dark silence.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Parenthetical>(to Mulder)</Parenthetical>
+<Utterence>Poopy day?</Utterence>
+</Turn>
+
+<NARRATIVE>Mulder shakes his head no in response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterence>A woman?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(shakes his head no)</Parenthetical>
+</Turn>
+
+<NARRATIVE>She asks if it's a work day.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterence>Work?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(nods)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Mulder nods, pointing to the tequila bottle again. The Barmaid agrees to pour another one, reluctantly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterence>(to herself)</Utterence>
+</Turn>
+
+<NARRATIVE>Angle over to a man at the end of the bar staring at Mulder intently. He's older than Mulder, dressed in an old Brooke Brothers light summer suit.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(notices him, feels his gaze)</Parenthetical>
+</Turn>
+
+<NARRATIVE>But doesn't give it any attention.</NARRATIVE>
+
+<!-- No more narrative or dialogue for this scene -->
+
+Here is the annotated script:
+
+<Scene Heading>INT. BAR - NIGHT</Scene Heading>
+
+<NARRATIVE>A dimly lit bar, with a few patrons scattered about. <Character_Name>MULDER</Character_Name>, sitting at the counter with his back to us, is slurring his words as he speaks to the bartender.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterance>What do you do?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What do I do.</Utterence>
+<Parenthetical>(off her curious look)</Parenthetical>
+<Utterence>I'm a key figure in an ongoing government charade. An annoyance to my superiors. A joke among my peers.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Spooky, they call me. Spooky Mulder.</Utterence>
+<Parenthetical>(to himself)</Parenthetical>
+<Utterence>Whose sister was abducted by aliens when he was a kid. Who now chases little green men with a badge and a gun, shouting to the heavens and anyone who'll listen that the fix is in.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>That our government's hip to the truth and a part of the conspiracy. That the sky is falling and when it hits it's gonna be the shitstorm of all time.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The bartender stares at him for a moment, startled by his drunken screed. She pulls back the shooter she's just poured Mulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterance>I think that about does it, Spooky.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Does what?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BARMAID</Character_Name>
+<Utterance>Why don't you go home to the old lady --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Sorry. Don't have one.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder slides off his stool, noticing...</NARRATIVE>
+
+<NARRATIVE><Character_Name>MULDER'S POV</Character_Name> The Watchful Man is gone.</NARRATIVE>
+
+<Scene Heading>RESUME MULDER</Scene Heading>
+
+<Scene Heading>He feints toward the door, then reverses direction.</Scene Heading>
+
+<NARRATIVE>Mulder appears to be navigating through a complex situation.</NARRATIVE>
+
+<Scene Heading>INT. REAR OF DOWNSCALE BAR - NIGHT - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Mulder moves towards the bathroom door only to find it locked.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance></Utterance> 
+</Turn>
+
+<NARRATIVE>A sign on the bathroom door reads "OUT OF ORDER".</NARRATIVE>
+
+<Scene Heading>Mulder appears to be searching for an alternative solution.</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance></Utterance> 
+</Turn>
+
+<NARRATIVE>Mulder moves towards the woman's room, but it is also locked.</NARRATIVE>
+
+<Scene Heading>Mulder exits into the alley.</Scene Heading>
+
+<Scene Heading>EXT. ALLEY BEHIND BAR - NIGHT</Scene Heading>
+
+<NARRATIVE>Mulder finds a spot to lean against, situated between two dumpsters.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance></Utterance> 
+</Turn>
+
+<NARRATIVE>Mulder startsle at the sound of a voice.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WATCHFUL MAN'S VOICE</Character_Name>
+<Utterance>That official FBI business?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(startled)</Utterance>
+</Turn>
+
+<NARRATIVE>A man from the bar, Kurtzweil, approaches Mulder.</NARRATIVE>
+
+<Scene Heading>ANGLE TO INCLUDE THE MAN FROM THE BAR</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Bet the Bureau's accusing you of the same thing in Dallas.</Utterance>
+</Turn>
+
+<NARRATIVE>Mulder appears to be perplexed by Kurtzweil's statement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance></Utterance> 
+</Turn>
+
+<NARRATIVE>Kurtzweil enjoys a laugh over his previous statement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>(laughs)</Utterance>
+</Turn>
+
+<NARRATIVE>Mulder seems to be on guard and asks Kurtzweil if he knows him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Do I know you?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>(smirks)</Utterance>
+</Turn>
+
+<NARRATIVE>Kurtzweil's response seems to imply that Mulder is somehow implicated in the Dallas incident.</NARRATIVE>
+
+Here is the annotated script:
+
+
+<Scene Heading>KURTZWEIL</Scene Heading>
+
+<NARRATIVE> No. I've been watching your career for a good while. Back when you were just a promising young agent -- before that.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You follow me out here for a reason?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Yeah, I did.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder stares at this man as he finishes, zipping up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You follow me out here for a reason?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Yeah, I did.</Utterance>
+</Turn>
+
+<NARRATIVE>Kurtzweil unzips his own pants now. There is a moment; one of those awkward moments where Mulder's not sure what's about to happen. But Kurtzweil's just relieving himself, too. Shuffling up to the wall, Mulder takes this as an opportunity to head back toward the bar. But Kurtzweil hails him again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>My name's Kurtzweil. Dr. Alvin Kurtzweil.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>I know the name. Why?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Old friend of your father's.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kurtzweil continues peeing. Knows this got Mulder's attention.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Back at the Department of State. We were what you might call fellow travelers, but his disenchantment outlasted mine.</Utterance>
+</Turn>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>I never believed in the Project.</Utterance>
+</Turn>
+
+<NARRATIVE>Mulder stares at Kurtzweil now. He's being toyed with. He turns, opens the door into the bar. As Kurtzweil gets a little louder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Oh, come on. Don't pretend you don't know about the Project. Your father... </Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in a structured XML-like format:
+
+<Scene Heading>INT. DOWNSCALE D.C. BAR - NIGHT</Scene Heading>
+
+<NARRATIVE>A downscale bar somewhere in <Location>D.C.</Location>. The place has pretty much cleared out, except for the Barmaid and some help. <Character_Name>MULDER</Character_Name>, coming from the back, and <Character_Name>KURTZWEIL</Character_Name> moving to catch up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>How'd you find me?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>Heard you come here now and again. Figured you'd be needing a little drinky tonight.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Kurtzweil</Character_Name> is an OB-GYN doctor, as he mentions earlier.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>You a reporter?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>I'm a doctor, but I think I mentioned that. OB-GYN.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> asks <Character_Name>Kurtzweil</Character_Name> who sent him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Who sent you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>I came on my own. After reading about the bombing in Dallas.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> tells <Character_Name>Kurtzweil</Character_Name> that he can share what he knows, and <Character_Name>Kurtzweil</Character_Name> grabs his arm to stop him from leaving.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Well, if you've got something to tell me, you've got as long as it takes me to hail a cab...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Parenthetical>(grabs Mulder's arm)</Parenthetical>
+<Utterence>They're going to pin Dallas on you, Agent Mulder. But there was nothing you could've done. Nothing anyone...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> tries to leave the bar, but <Character_Name>Kurtzweil</Character_Name>'s words stop him.</NARRATIVE>
+
+<Scene Heading>EXT. STREET OUTSIDE DOWNSCALE BAR - NIGHT</Scene Heading>
+
+<NARRATIVE>The street is empty, the hour is late. Mulder moves to the curb.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>And what's that?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>S.A.C. Darius Michaud never tried or intended to defuse the bomb.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(rhetorical disbelief) He just let it explode.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>What's the question nobody's asking? Why that building? Why not the Federal Building?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>The Federal Building was too well guarded.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>No. They put the bomb in the building across the street because it DID have federal offices. The Federal Emergency Management Agency had a provisional medical quarantine office there. Which is where the bodies were found. But that's the thing...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder's got his hand up for a taxi coming. It's pulling over as Mulder steps from the curb, stepping away from Kurtzweil.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>...the thing you didn't know. That you'd never think to check.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>MULDER'S TAXI - DAY</Scene Heading>
+
+<NARRATIVE>A taxi somewhere, <Character_Name>MULDER</Character_Name> is getting into the backseat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>Those people were already dead.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder turns to face Kurtzweil.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Before the bomb went off?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>That's what I'm saying.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder stares at Kurtzweil for a moment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Michaud was a twenty-two year veteran of the bureau --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Parenthetical>Michaud was a patriot.</Parenthetical>
+<Utterence>The men he's loyal to know their way around Dallas.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>They blew that building to hide something.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>Maybe something even they couldn't predict.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder gets in the cab, closes the door. Rolls down the window.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>I think you're full of shit.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>Do you?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kurtzweil raps the top of the roof and steps away from the car.</NARRATIVE>
+
+<NARRATIVE>Mulder's cab takes off, leaving Kurtzweil behind. We stay with Mulder as he looks out the back window at Kurtzweil.</NARRATIVE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. AGENT SCULLY'S BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>Scully is in bed, lying awake. Staring at the ceiling.</NARRATIVE>
+
+<NARRATIVE>When she reacts to a POUNDING AT HER DOOR.</NARRATIVE>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I wake you?</Utterence>
+</Turn>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. SCULLY'S APARTMENT - NIGHT</Scene Heading>
+
+<NARRATIVE>CLOSE ON THE FRONT DOOR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I wake you?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then she removes the safety chain, opening the door.</NARRATIVE>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>No.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Why not? It's three AM.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully gets a whiff of his breath. As he moves past her into the apartment.</NARRATIVE>
+
+<NARRATIVE>Radiating a kind of manic intensity.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Are you drunk, Mulder?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I was until about an hour ago.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Is that before or after you got the idea to come here?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder looks at her curiously.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What are you implying, Scully?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I thought you may have gotten drunk and decided to come here to talk me out of quitting.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. TEXAS FLATLAND - NIGHT</Scene Heading>
+
+<NARRATIVE>A moon is rising over the horizon, across the curvilinear distance of endless scrub and sagebrush.</NARRATIVE>
+
+<NARRATIVE>Flying objects cross between it and us, their forms unidentifiable in the rising heat waves off the earth.</NARRATIVE>
+
+<NARRATIVE>But they are moving towards us, SILHOUETTES in the background of the moon.</NARRATIVE>
+
+<NARRATIVE>They move silently, their size INCREASING as they move closer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(none)</Character_Name>
+<Utterence>...unmarked helicopters just overhead.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Hugging the ground as they blast across the dark Texas night.</NARRATIVE>
+
+<Scene Heading>INT. UNMARKED BLACK HELICOPTERS - NIGHT</Scene Heading>
+
+<NARRATIVE>Flying at dangerously low altitude over the almost featureless night landscape.</NARRATIVE>
+
+<NARRATIVE>Heading for something that we see ahead in the distance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(none)</Character_Name>
+<Utterence>What looks like a large glowing dome surrounded by the lights of a residential area...</Utterence>
+</Turn>
+
+<Scene Heading>EXT. SMALL DIRT FIELD - CENTRAL TEXAS - NIGHT</Scene Heading>
+
+<NARRATIVE>A large glowing dome, surrounded by the lights of a residential area we've already seen.</NARRATIVE>
+
+<Scene Heading>The field where the kids had been digging has been transformed into some kind of worksite.</Scene Heading>
+
+<NARRATIVE>A LARGE WHITE DOMED TENT has been erected over almost the entire patch of ground, surrounded by the CARGO TRUCKS that we saw earlier, and more unmarked vans and trucks. There are men in black fatigues moving about, and scientists in haz-mat suits.</NARRATIVE>
+
+<NARRATIVE>As the UNMARKED BLACK HELICOPTERS bank overhead. Coming in for a landing in the glow cast from the tents. CAMERA MOVING TOWARD one of the helicopters as it lightly touches down and its black door swings open. A man stepping out, and as CAMERA PUSHES UP INTO HIS FACE we recognize him as <Character_Name>The Cigarette Smoking Man</Character_Name>.</NARRATIVE>
+
+<NARRATIVE>He walks out from under the whirring prop, just far enough to get a flame from his lighter, to get a cigarette lit. As we:</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. LARGE WHITE TENT - NIGHT - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>A SCIENTIST in a haz-mat suit is moving through the maze of clear plastic tubing that divides work areas within the tent. Areas where scientists are working at tables doing what appears to be some kind of high-tech archeological work. It is a hive of activity within, as the Scientist leads us past the REFRIGERATION UNITS to the earthen hole where <Character_Name>Dr. Bronschweig</Character_Name> (we've met him earlier, coming out of a med-evac chopper that landed when the tent city was erected) appears out of the earthen hole, which is reason for all this excitement.</NARRATIVE>
+
+<NARRATIVE>Climbing out A CLEAR HATCH which has been fashioned to cover the hole. Seeing:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>The Cigarette Smoking Man</Character_Name>
+<Utterance>Well?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Bronschweig</Character_Name> approaches him.</NARRATIVE>
+
+<Scene Heading>CIGARETTE SMOKING MAN</Scene Heading>
+
+<NARRATIVE> You've got something to show me.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>You've got something to show me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>DR. BRONSCHWEIG</Scene Heading>
+
+<NARRATIVE>(nervous excitement)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE><Location>INT. ICE CAVE - CONTINUOUS</Location></NARRATIVE>
+
+<NARRATIVE>What we originally established as icy, and what later became the unfrozen Texas field where the boys discovered the human skull, has been turned to its previously icy state. Thanks to two large vents that Dr. Bronschweig is pointing at:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>We brought the atmosphere back down to freezing in order to control the development, which is nothing like we've ever seen.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CIGARETTE SMOKING MAN</Scene Heading>
+
+<NARRATIVE>Brought on by what?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Brought on by what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>DR. BRONSCHWEIG</Scene Heading>
+
+<NARRATIVE>(nervous excitement)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Heat, I think. The coincident invasion of a host, the fireman, and an environment that raised his basic body temperature above ninety eight point six.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They step over to a section of the cave which has been draped with more plastic, the lights from inside this are giving off a cool blue light (passing by TWO PORTABLE DRILLING RIGS which have been erected, their pumps moving up and down like rocking horses.)</NARRATIVE>
+
+<NARRATIVE>Bronschweig pushes away the plastic, revealing A MAN lying on a gurney draped in plastic. he is hooked up to various and sundry machines which are monitoring his life signs.</NARRATIVE>
+
+<NARRATIVE>His skin has turned almost translucent, the veins and capillaries now clearly visible, as is his pulse. His heartbeat sending life-sustaining blood and energy through his body.</NARRATIVE>
+
+<Scene Heading>CIGARETTE SMOKING MAN</Scene Heading>
+
+<NARRATIVE>This man's still alive.</NARRATIVE>
+
+<NARRATIVE>DR. BRONSCHWEIG is standing next to him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>How can this be?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Technically and biologically, though he'll never recover.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The CSM is shaking his head in nervous, uneasy wonder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>How can this be?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>The developing organism is using his life energy, digesting bone and tissue. We've just slowed the process.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bronschweig redirects a light so that it shines hard into the man's face and; then we see it. Movement.</NARRATIVE>
+
+<NARRATIVE>CLOSE ON MAN'S FACE</NARRATIVE>
+
+<NARRATIVE>Though the man's eyes still blink occasionally, we can actually see through his tissue and the bones in his skull to see something IS LIVING INSIDE HIM.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Do you want me to destroy this one, too? Before it gestates?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>No. No...we need to try our vaccine on it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>And if it's unsuccessful?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Incinerate it. Like the others.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>This man's family will want to see the body laid to rest.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ANGLE UP ON CSM AND BRONSCHWEIG</NARRATIVE>
+
+<NARRATIVE>The Cigarette Smoking Man's mind is working intently on all the possibilities, and consequences.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>CIGARETTE SMOKING MAN</Scene Heading>
+
+<NARRATIVE>He addresses <Character_Name>DR. BRONSCHWEIG</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Tell them he was trying to save the young boy's life, and that he died heroically like the other firemen.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>DR. BRONSCHWEIG responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Of what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Cigarett Smoking Man continues to address Dr. Bronschweig.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>They seemed to buy our story about the Hanta virus. You'll make sure the families are taken care of financially, along with a sizeable donation to the community.</Utterance>
+</Turn>
+
+<NARRATIVE>A beat passes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Maybe a small roadside memorial.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Cigarett Smoking Man watches as Dr. Bronschweig exits, then turns his attention to the prostrate fireman.</NARRATIVE>
+
+<Scene Heading>CLOSE ON PROSTRATE FIREMAN</Scene Heading>
+
+<NARRATIVE>There is more movement within the fireman's body, with the creature gestating inside continuing to stretch and grow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Narrator</Character_Name>
+<Utterance>Within his chest and neck, as if the creature gestating inside is continuing to stretch and grow. So that now we can see one of its BLACK EYES staring from through the clear flesh of the fireman. An eye which BLINKS at us.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera cuts to:</NARRATIVE>
+
+<Scene Heading>INT. BETHESDA NAVAL HOSPITAL - NIGHT</Scene Heading>
+
+<NARRATIVE>Mulder and Scully appear at the end of a long hall, moving TOWARD CAMERA.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterance>ID and floor you're visiting.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Scully show their FBI IDs to the Naval Guard.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>We're going to the morgue.</Utterance>
+</Turn>
+
+<NARRATIVE>The Young Naval Guard responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterance>ID and floor you're visiting.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. GOVERNMENT FACILITY - DAY</Scene Heading>
+
+<NARRATIVE> A government facility, possibly a military base or research center. The area is currently off-limits to anyone other than authorized medical personnel.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>That area is currently off limits to anyone other than authorized medical personnel.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterance>On whose orders?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>General McAddie's.</Utterance>
+</Turn>
+
+<NARRATIVE>Mulder doesn't miss a beat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>General McAddie is who requested our coming here. We were awakened at three AM and told to get down here immediately.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterance>I don't know anything about that.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Well, call General McAddie.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterance>I don't have his number.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>They can patch you in through the switchboard.</Utterance>
+</Turn>
+
+<NARRATIVE>The Guard is nervous about this, checking his watch. He picks up the phone, going through a large directory.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Hey! We don't have time to dick around here watching you demonstrate your ignorance in the chain of command. The order came direct from General McAddie. Call him. We'll conduct our business while you confirm authorization.</Utterance>
+</Turn>
+
+<NARRATIVE>Mulder is already directing Scully past the Naval Guard who tentatively picks up the phone again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterance>(to their backs) Why don't you go on ahead head and I'll confirm authorization.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+
+<Scene Heading>INT. BETHESDA NAVAL HOSPITAL - MORGUE FREEZER - NIGHT</Scene Heading>
+
+<NARRATIVE>A morgue freezer at Bethesda Naval Hospital, where white sheet-wrapped bodies lie on gurneys.</NARRATIVE>
+
+<NARRATIVE>Mulder and Scully enter the scene. Mulder is undoing the peculiar ropey stitching on the sheet used to secure the bodies.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Thank you.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Why is a morgue suddenly off limits on orders of a general?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO: INT. BETHESDA NAVAL HOSPITAL - MORGUE FREEZER - NIGHT, where Scully and Mulder are seen standing next to each other.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>This is one of the firemen who died in Dallas?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>According to this tag.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>And you're looking for?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I'm trying to figure that out.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I can tell you that without even looking at him.</Utterence>
+<Parenthetical>(off Mulder's look)</Parenthetical>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Conclusive organ failure due to proximal exposure to source and flying debris.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully pulls out an autopsy report that was laid on the gurney under the body of the sheet-wrapped corpse.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>This body has already been autopsied, Mulder. You can tell from the way it's been wrapped and dressed.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder works to get the sheet off, revealing that he's still in his fireman's uniform.</NARRATIVE>
+
+Here's the annotated script:
+
+<Scene Heading>INT. EMERGENCY ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A hospital somewhere, we see <Location>a fireman</Location>, burned beyond recognition. Mulder and Scully are standing nearby.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Know him, but because of the translucency of skin we saw in the other fireman.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(to Scully)</Parenthetical>
+<Utterence>Does this fit the description you just read me?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully comes around, reacting to what she sees.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Oh my God. This man's tissue...</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully is quickly removing a pair of latex gloves, stretching them on to palpate the man's tissue.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>It's like jelly.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>There's some kind of cellular breakdown. It's completely edematous.</Utterence>
+</Turn>
+
+<NARRATIVE>She palpates the spongy skin on the man's face, neck. Unbuttoning the uniform now, seeing:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>And there's been no autopsy performed. There's no Y incision here; no internal exam.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>You're telling me the cause of death on the report is false. That this man didn't die from an explosion, or from flying debris.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I don't know what killed this man. I'm not sure if anybody else could claim to either.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Off Mulder's reaction to this:</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. MORGUE - PATHOLOGY LAB - NIGHT - MINUTES LATER</Scene Heading>
+
+<NARRATIVE>The gurney with the fireman is pushed through a pair of doors.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. DARKENED LAB - DAY</Scene Heading>
+
+<NARRATIVE> A darkened lab, with <Location>Scully</Location> and <Character_Name>MULDER</Character_Name>. <Scully> flips the lights on, looking around at the giant facility.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>You knew this man didn't die at the bomb site before we got here.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I'd been told as much.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>You're saying the bombing was a cover-up. Of what?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I don't know. But I have a hunch what you're going to find here isn't anything that can be categorized or easily referenced.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Mulder, this is going to take some time, and somebody's going to figure out soon enough we're not even supposed to be here.</Utterence>
+<Parenthetical>(beat)</Parenthetical>
+<Utterence>I'm in serious violation of medical ethics.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>We're being blamed for these deaths. Scully, I want to know what this man died of. Don't you?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully stares at Mulder, then back down at the body. How can she refuse, given the finality and the personal appeal of the request? After a moment's hesitation, she turns to the body, and to the tray table of tools nearby. Resigned, if not resolved.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. WASHINGTON D.C. - NIGHT</Scene Heading>
+
+<NARRATIVE>A LEGEND appears: <Location>WASHINGTON D.C., DUPONT CIRCLE. 4:00 AM.</Location> The street is fairly empty, save for a garbage truck picking up the stacks of green garbage bags laid out on the sidewalks.</NARRATIVE>
+
+<NARRATIVE>Then A TAXI turns off a main street.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>MOVING TOWARDS US.</Scene Heading>
+
+<NARRATIVE>An unknown location outside a taxi, which is moving forward on a Washington D.C. street at night.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Where the taxi is moving</Utterence>
+</Turn>
+
+<NARRATIVE>Mulder looks out of the taxi to the street.</NARRATIVE>
+
+<Scene Heading>INT. WASHINGTON D.C. STREET - TAXI - NIGHT</Scene Heading>
+
+<NARRATIVE>A taxicab pulls up in front of a curb where two Arlington PD cruisers are parked, and Mulder checks an address on a piece of paper.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence> I think this is it up here.</Utterence>
+<Parenthetical>(to the Cabbie)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. SIDE STREET - NIGHT</Scene Heading>
+
+<NARRATIVE>The taxi comes to a stop, and Mulder gets out of the cab.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(gets out of the taxi)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. KURTZWEIL'S APARTMENT - NIGHT</Scene Heading>
+
+<NARRATIVE>A uniformed officer and a detective are standing in an apartment, and there are other officers present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Is this Dr. Kurtzweil's residence?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DETECTIVE</Character_Name>
+<Utterence>(suspiciously) You got some kind of business with him?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I'm looking for him.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DETECTIVE</Character_Name>
+<Utterence>(to his partners) Feds are looking for him, too.</Utterence>
+<Parenthetical>(turns to Mulder)</Parenthetical>
+<Utterence>Real nice business he's got, huh?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(pulls out his ID and flashes it at the detective)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The detective looks unimpressed.</NARRATIVE>
+
+<Scene Heading>INT. COMPUTER SHOP - DAY</Scene Heading>
+
+<NARRATIVE>A computer shop somewhere with <Location>dilapidated</Location> electronics. We see <Character_Name>MULDER</Character_Name>, a detective, standing near computers, looking at something on one of them.</NARRATIVE>
+
+<NARRATIVE><Character_Name>MULDER</Character_Name> turns to face the camera. He looks puzzled.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE</Character_Name>
+<Utterance>Selling naked pictures of little kids over his computer.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Nods, though this is news to him.</Utterence>
+</Turn>
+
+<NARRATIVE>He steps in a little further, noticing a shelf lined with books. Their spines all have the author's name written large: DR. ALVIN KURTZWEIL.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Picks up one of these books, with the title: THE FOUR HORSEMEN OF THE GLOBAL DOMINATION CONSPIRACY.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>DETECTIVE</Character_Name> speaks to Mulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE</Character_Name>
+<Parenthetical>(to Mulder)</Parenthetical>
+<Utterance>You looking for him for some other reason?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>MULDER</Character_Name> responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Yeah, I had an appointment for a pelvic examination.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They stare at Mulder like he's a sicko. He smiles and they break into RAUCOUS LAUGHTER.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DETECTIVE</Character_Name>
+<Utterance>You want a call if we turn up Kurtzweil?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>No. Don't bother.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> puts the book back among the others on the shelf and exits.</NARRATIVE>
+
+<Scene Heading>RESUME EXT. KURTZWEIL'S APARTMENT - NIGHT</Scene Heading>
+
+<NARRATIVE><Character_Name>MULDER</Character_Name> starts up the street when he notices:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Kurtzweil has stepped from between two apartments. He's staring at Mulder, nodding furtively to him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Then stepping back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Slows, then speeds up.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. SPACE BETWEEN TWO APARTMENTS - NIGHT</Scene Heading>
+
+<NARRATIVE>Mulder appears at the end of the narrow walkway, finding <Location>Kurtzweil tucked a few yards in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>See this bullshit...? Somebody knows I'm talking to you.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Not according to the men in blue.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>What is it? Kiddie porn again? Sexual battery of a patient? I've had my license taken away in three states.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>They want to discredit you -- for what?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>For what? Because I'm a dangerous man. Because I know too much about the truth.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You mean that apocalyptic trash you write?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Yeah, that's right. That's what I do.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>I knew your name was familiar. I just didn't know why.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>You know my work?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(pointedly)</Parenthetical>
+<Utterance>No, I'm just a man with an open mind.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>I don't either, but it sure sells books.</Utterance>
+</Turn>
+
+<NARRATIVE>He says it with an ironic smile. Causing Mulder to turn and start off. But Kurtzweil hurries to grab him, to...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>You know my work!</Utterance>
+</Turn>
+
+<NARRATIVE>...continue talking.</NARRATIVE>
+
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Kurtzweil continue to talk as they walk down the hallway...</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. FEDERAL BUILDING - DAY</Scene Heading>
+
+<NARRATIVE>A high-rise building in <Location>Dallas</Location>. We see <Character_Name>KURTZWEIL</Character_Name>, a journalist, and <Character_Name>MULDER</Character_Name>, an FBI agent, sitting across from each other at a table.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>I was right about Dallas. Wasn't I,</Utterance>
+<Parenthetical>(turning to Mulder)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>How?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>I picked up the historical document of</Utterance>
+<Utterance>the venality and hypocrisy of the</Utterance>
+<Utterance>American government. The daily</Utterance>
+<Utterance>newspaper.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You said the firemen and the boy were</Utterance>
+<Utterance>found in the temporary offices of the</Utterance>
+<Utterance>Federal Emergency Management Agency.</Utterance>
+<Parenthetical>(leaning forward)</Parenthetical>
+<Utterance>Why?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>According to the newspaper, FEMA had</Utterance>
+<Utterance>been called out to manage an outbreak</Utterance>
+<Utterance>of the Hanta virus. Are you familiar</Utterance>
+<Utterance>with the Hanta virus, Agent Mulder?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>It was a deadly virus spread by field</Utterance>
+<Utterance>mice in the Southwest U.S. several</Utterance>
+<Utterance>years ago.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>And are you familiar with FEMA? What</Utterance>
+<Utterance>the Federal Emergency Management</Utterance>
+<Utterance>Agency's real power is? FEMA allows</Utterance>
+<Utterance>the White House to suspend</Utterance>
+<Utterance>constitutional government upon</Utterance>
+<Utterance>declaration of a national emergency.</Utterance>
+<Utterance>To create a non-elected government.</Utterance>
+<Parenthetical>(leaning back)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Think about that.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>(beat)</Utterance>
+<Parenthetical>(leaning forward again)</Parenthetical>
+<Utterance>What is an agency with such broad</Utterance>
+<Utterance>sweeping power doing managing a small</Utterance>
+<Utterance>viral outbreak in suburban Texas?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Are you saying it wasn't such a small</Utterance>
+<Utterance>outbreak?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The conversation between Kurtzweil and Mulder continues, with the latter visibly interested in the information being presented.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>EXT. STREET - DAY</Scene Heading>
+
+<NARRATIVE> Two men, <Character_Name>KURTZWEIL</Character_Name> and <Character_Name>MULDER</Character_Name>, are standing on a street corner, speaking in hushed tones.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>I'm saying it wasn't the Hanta virus.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What was it?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A POLICE CRUISER rolls by on the street, giving a burp of its siren.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What was it?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>When we were young men in the military, your father and I were recruited for a project.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What kind of project?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>They told us it was biological warfare. A virus.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>What killed those men?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kurtzweil becomes agitated and starts working up a pace.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>What killed them I won't even write about.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I'll know soon enough.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>(worked up) What killed those men can't be identified in simple medical terms. My god, we can't even wrap our minds around something as obvious as HIV.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>A plague?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterence>The plague to end all plagues, Agent Mulder. A silent weapon for a quiet war.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. FEDERAL BUILDING - DAY</Scene Heading>
+
+<NARRATIVE> A war-torn city, presumably <Location>Dallas</Location>, with a sense of chaos and destruction lingering in the air. The systematic release of an indiscriminate organism has been planned for fifty years by men who still have no cure.</NARRATIVE>
+
+<NARRATIVE> MULDER, an FBI agent, is standing outside a federal building, conversing with KURTZWEIL, presumably a scientist or expert involved in the project.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Negotiating with whom?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>I think you know. The timetable has been set. It will happen on a holiday, when people are away from their homes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>When our elected officials are at their resorts or out of the country. The President will declare a state of emergency, at which time all federal agencies, all government will come under the power of the Federal Emergency Management Agency.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>FEMA, Agent Mulder. The secret government.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>And they tell me I'm paranoid.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>Something's gone wrong -- something unanticipated. Go back to Dallas and dig. Or you're only going to find out like the rest of the country, Agent Mulder. When it's too late.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>How can I reach you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Utterance>You can't.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Kurtzweil turns, starts off. Mulder stares after him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>No calling Hawaii.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>KURTZWEIL</Character_Name>
+<Parenthetical>(truly and intensely paranoid)</Parenthetical>
+<Utterance>You're not going to find out, Mulder. You're too late already.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder moves to catch up to Kurtzweil, pulling out his cell phone. Kurtzweil stops, turns, and truly and intensely paranoid, as Mulder makes him take the cell phone.</NARRATIVE>
+
+Here is the annotated script:
+
+
+<Scene Heading>MULDER MOVES BACK OUT ONTO THE STREET</Scene Heading>
+
+<NARRATIVE> Mulder turns and moves back out onto the street.</NARRATIVE>
+
+<NARRATIVE> CUT TO: </NARRATIVE>
+
+<Scene Heading>INT. MORGUE - PATHOLOGY LAB - NIGHT</Scene Heading>
+
+<Location>Morgue, Pathology Lab, Night</Location>
+
+<NARRATIVE> Agent Scully wears a surgical mask, latex gloves.</NARRATIVE>
+
+<NARRATIVE> Working on the body of the fireman...when she reacts to </NARRATIVE>
+
+<NARRATIVE> A NOISE. Doors opening, closing somewhere o.s.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>(reacting)</Utterence>
+</Turn>
+
+<NARRATIVE> CAMERA MEDIUM WHIPS to a door where she and Mulder entered the </NARRATIVE>
+
+<NARRATIVE> morgue. Where...the Young Naval Guard and TWO MPs push </NARRATIVE>
+
+<NARRATIVE> through and enter.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YOUNG NAVAL GUARD</Character_Name>
+<Utterence>(to Scully)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER'S VOICE (FILTER)</Character_Name>
+<Utterence>Scully...?</Utterence>
+</Turn>
+
+<NARRATIVE> She puts the phone slowly up to her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>(low whisper) Yeah.</Utterence>
+</Turn>
+
+<NARRATIVE> INTERCUT WITH: </NARRATIVE>
+
+<Scene Heading>INT. BETHESDA NAVAL HOSPITAL - MORGUE FREEZER - NIGHT</Scene Heading>
+
+<Location>Morgue Freezer, Bethesda Naval Hospital, Night</Location>
+
+<NARRATIVE> Scully enters the space where she and Mulder found the </NARRATIVE>
+
+<NARRATIVE> fireman's body. Trying to quietly click the door shut.</NARRATIVE>
+
+<NARRATIVE> Standing now near the door, tense, listening.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>(to herself)</Utterence>
+</Turn>
+
+<NARRATIVE> When the CHIRPING of her cell phone breaks the tense silence.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>(frantically) Oh no...</Utterence>
+</Turn>
+
+<NARRATIVE> She pats frantically at her coat, trying to get it answered </NARRATIVE>
+
+<NARRATIVE> before it rings again. Unsuccessfully.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>(nervously) Finally getting a hold of it and hitting the send button.</Utterence>
+</Turn>
+
+<NARRATIVE> Scully sits breathing heavy, nervous breaths -- waiting for the </NARRATIVE>
+
+<NARRATIVE> Young Naval Guard to come running in.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. PHONE BOOTH - WASHINGTON D.C. - MORNING</Scene Heading>
+
+<NARRATIVE>Mulder's at the pay phone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Why are you whispering?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I can't really talk right now.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What did you find?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Evidence of a massive infection.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What kind of infection?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I don't know.</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Scully -- listen to me. I'm going home, then I'm booking a flight to Dallas. I'm getting you a ticket, too.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Mulder --</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I need you there with me. I need your expertise on this. The bomb we found was meant to destroy those bodies and whatever they were infected by.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>I've got a hearing tomorrow --</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>-- I'll have you back for it, Scully. Maybe with evidence that could blow that meeting away.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Mulder -- I can't -- I'm already way past the point of common sense here</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+(Note: Since there was no additional narrative after this section, it is left empty)
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. BETHESDA NAVAL HOSPITAL - MORGUE FREEZER - NIGHT</Scene Heading>
+
+<NARRATIVE>A naval guard and MPs move into the room, followed by Scully, who hides under a cart.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Scully...? Hello...?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The line goes dead, and Mulder exits the booth in a hurry.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>INT. FBI OFFICE - DALLAS - MORNING</Scene Heading>
+
+<NARRATIVE>Mulder enters a forensics lab with a field agent.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterance>You're looking for what amounts to a needle in a haystack. I'm afraid the explosion was so devastating there hasn't been a whole lot we've been able to put together just yet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They are walking amid boxes of evidence, stacks of debris, and forensic techs sorting through material.</NARRATIVE>
+
+<NARRATIVE>The field agent continues speaking as Mulder listens intently.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(silence)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>There is no response from Mulder, and the scene fades to black.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. FEMAs ARCHEOLOGICAL SITE - DAY</Scene Heading>
+
+<NARRATIVE>Mulder, a detective, is speaking with a Field Agent at an archeological site somewhere in <Location>?</Location>. Mulder's back is turned to us as he speaks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>I'm looking for anything out of the ordinary. Maybe something from the FEMA offices where the bodies were found.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterence>We weren't expecting to find those remains, of course. They went right off to Washington.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Was there anything in those offices that didn't go to D.C.? </Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterence>Some bone fragments came up in the sift this morning. We thought there'd been another fatality, but we found out FEMA had recovered them from an archeological site out of town.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Have you examined them?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterence>No. Just fossils, far as I know.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder is nodding, when both men look off at something that's caught their attention o.s.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>I'd like this person to take a look, if you don't mind.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THEIR POV - AGENT SCULLY. Standing in the doorway to the lab. She looks at Mulder as if she's come in spite of her misgivings. Moving toward them now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterence>Let me just see if I can lay my hands on what you're looking for.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Field Agent nods to Scully as he passes, exiting deeper into the room. Leaving Mulder and Scully by themselves momentarily.</NARRATIVE>
+
+Here is the annotated script:
+
+
+<Scene Heading>MULDER'S APARTMENT</Scene Heading>
+
+<NARRATIVE><Location> Washington D.C.</Location>. MULDER and SCULLY are sitting on a couch, Mulder looking at Scully with concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You said you weren't coming?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>I wasn't planning on it. Particularly after spending a half hour in cold storage this morning.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>But I got a better look at the blood and tissue samples I took from the firemen.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>What did you find?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(voice lowering pointedly)</Parenthetical>
+<Utterance>Something I couldn't show to anyone else. Not without more information.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>And not without causing the kind of attention I'd just as soon avoid right now.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(off Scully's look)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>The virus those men were infected with contains a protein coat I've never seen before.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>What it did to them it did extremely fast.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>And unlike the AIDS virus or any other aggressive strain, it survives very nicely outside the body.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>How was it contracted?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>That I don't know. But if it's through simple contact of blood to blood, and if it doesn't respond to conventional treatments, it could be a serious health threat.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder's reaction is postponed, or at least subdued by the reappearance of the field agent.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterance>Like I said, these are fossils, and they weren't near the blast center, so they aren't going to tell you much.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>May I?</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. SMALL PUBLIC PARK - WEST TEXAS - DAY</Scene Heading>
+
+<NARRATIVE>A small public park somewhere in <Location>West Texas</Location>. A fleet of trucks and equipment surrounds a domed white tent, which is still set up from recent excavation work.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>You said you knew the location of the archeological site where these were found.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Field Agent is shown a map, but the camera cuts to:</NARRATIVE>
+
+<Scene Heading>CUT TO: EXT. SMALL PUBLIC PARK - WEST TEXAS - DAY</Scene Heading>
+
+<NARRATIVE>The domed white tent and surrounding equipment are shown, with several large sound-dampened generators humming away in the background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterence>Show you right on a map.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Scully exchange a look, then:</NARRATIVE>
+
+<Scene Heading>CUT TO: INT. DOMED TENT - DAY</Scene Heading>
+
+<NARRATIVE>A high-tech-looking CLEAR CONTAINER is being maneuvered to the edge of an earthen hole by an electric bulldozer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIELD AGENT</Character_Name>
+<Utterence>...and this is the container with the bone fragments.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The technicians lift the CLEAR CONTAINER and hand-carry it toward the hole opening. Dr. Bronschweig appears, dressed in a haz-mat suit:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHEWIG</Character_Name>
+<Utterence>We've managed to preserve most of the DNA on these fragments.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The CLEAR CONTAINER is lowered down into the earthen hole by Dr. Bronschweig, who disappears from view:</NARRATIVE>
+
+<Scene Heading>CUT TO: INT. DOMED TENT - DAY</Scene Heading>
+
+<NARRATIVE>A close-up of the CLEAR CONTAINER shows it covered in a thin layer of frost, with monitors and gauges on it.</NARRATIVE>
+
+<Scene Heading>INT. SMALLER ICE CAVE - DAY</Scene Heading>
+
+<NARRATIVE>The refrigeration vents are still pumping in arctic air when Dr. Bronschweig appears descending a fixed ladder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>I need to have those settings checked and re-set. I need a steady minus two Celsius through the transfer of the body, after I administer the vaccine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The men nod to Bronschweig, begin checking the settings as Bronschweig puts his hood on, starts down into the hole, through the clear hatch.</NARRATIVE>
+
+<Scene Heading>INT. SMALLER ICE CAVE - DAY</Scene Heading>
+
+<NARRATIVE>The refrigeration vents are still pumping in arctic air when Dr. Bronschweig appears descending a fixed ladder. It is dark in here, save for the ice blue glow of light coming from the plastic draped area where we saw the fireman acting as an incubator/host for some kind of organism growing inside him.</NARRATIVE>
+
+<NARRATIVE>Bronschweig steps over to this area, moves aside the plastic drapery to enter.</NARRATIVE>
+
+<Scene Heading>ANGLE INSIDE, PLASTIC LINED AREA</Scene Heading>
+
+<NARRATIVE>Where the body of the fireman is still inside the quarantine bubble litter in f.g. Bronschweig takes out of his pocket a SYRINGE and an AMPULE. Turning now to the body. Stepping to it. Moving a work light, as he had done for the Cigarette Smoking Man, so that it shines on the face of the fireman. But when he does this, Bronschweig nearly JUMPS, his breath stolen away.</NARRATIVE>
+
+<NARRATIVE>Reacting to:</NARRATIVE>
+
+<Scene Heading>ANGLE ON FIREMAN'S BODY</Scene Heading>
+
+<NARRATIVE>The chest and torso have imploded. It has been turned into a muddy mass of blood-stained jelly; bone and tissue melted into an oozing mass which has sunken due to the fact that the creature which was inside is now gone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA WHIPS from Bronschweig to the wall. To the temperature gauge which reads about 6 degrees Celsius. WHIPPING BACK to Bronschweig who is now panicked.</NARRATIVE>
+
+<Scene Heading>INT. DOMED TENT - DAY</Scene Heading>
+
+<NARRATIVE> ANGLE DOWN ON EARTHEN HOLE, where the Technicians Bronschweig was speaking to minutes ago react to Bronschweig's MUFFLED VOICE. He's down below them in the cave, looking up.</NARRATIVE>
+
+<NARRATIVE>Pulling his haz-mat hood off. Yelling up to them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>It's gone!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TECHNICIAN</Character_Name>
+<Utterence>It's what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>OVER THE TECHNICIANS TO BRONSCHWEIG DOWN BELOW</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>It's left the body. I think it's gestated --</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bronschweig is starting up the ladder when something stops him.</NARRATIVE>
+
+<NARRATIVE>RESUME INT. ICE CAVE</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>Wait -- I see it --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA PULLS TO CREATURE'S POV OF BRONSCHWEIG</NARRATIVE>
+
+<NARRATIVE>He stands frozen on the ladder, squinting into the darkness.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(whispering)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>In the shadows there is movement, the creature edging into the light cast from the draped area.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(whispering)</It's fully formed -- a replica of the Creature we saw at the opening of our story.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Though it does not make any kind of aggressive move. As if, newborn, it is tentative.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(whispering)</As if, newborn, it is tentative.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RESUME BRONSCHWEIG - CREATURE'S POV</NARRATIVE>
+
+<NARRATIVE>He remains standing on a rung of the ladder for a moment, then takes a gentle step back down to the ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. ICE CAVE</Scene Heading>
+
+<NARRATIVE> A dark, damp ice cave somewhere in an <Location>unknown location</Location>. <Character_Name>DR. BRONSCHWEIG</Character_Name>, a middle-aged man with a white lab coat, is standing at the top of an earthen hole. He looks worried and concerned.</NARRATIVE>
+
+<NARRATIVE> Dr. Bronschweig moves shakily to put the syringe in the ampule again...when, suddenly, the Creature STRIKES.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>You see it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The CAMERA RUSHING FORWARD TO BRONSCHWEIG shows the Creature slamming into Bronschweig, knocking him out of the line of sight from the top of the earthen hole.</NARRATIVE>
+
+<Scene Heading>OVERHEAD ANGLE - OVER THE TECHNICIANS</Scene Heading>
+
+<NARRATIVE> There are SCREAMS OF PAIN from Bronschweig, then they abate. RESUME INT. ICE CAVE</NARRATIVE>
+
+<NARRATIVE> Dr. Bronschweig can be heard, but not clearly seen. He is in the shadows himself now.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Hey -- I need help.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> But the Technicians looking down on him offer him nothing of the sort. All they do is quickly close the clear hatch that seals Bronschweig inside the cave.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Hey!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Dr. Bronschweig is left alone in the darkness, injured and scared.</NARRATIVE>
+
+<Scene Heading>Techician</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TECHNICIAN</Character_Name>
+<Utterance>You want to get down here --</Utterance>
+<Parenthetical>(sotto to himself)</Parenthetical>
+<Utterance>Jesus Lord...so much for little green men.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The Technician seems uninterested in helping Dr. Bronschweig and is more concerned with his own thoughts.</NARRATIVE>
+
+<Scene Heading>INT. ICE CAVE</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DR. BRONSCHWEIG</Character_Name>
+<Utterance>Oh my god. Oh my god.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Dr. Bronschweig is in shock and distress, unsure of what to do next.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. DOMED TENT - DAY</Scene Heading>
+
+<NARRATIVE>A moment later the first Bobcat shovel-full of dirt falls onto the clear hatch and partially obscures the light.</NARRATIVE>
+
+<NARRATIVE>They are burying Bronschweig alive.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>None (Bronschweig is screaming)</Character_Name>
+<Utterence>(ongoing screams)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The activity continues as men run everywhere.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>RESUME INT. ICE CAVE</Scene Heading>
+
+<NARRATIVE>Bronschweig reacts in silent horror now, only to turn in further horror when he feels the impending attack of: THE CREATURE</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE CREATURE</Character_Name>
+<Utterence>(no spoken words)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BRONSCHWEIG</Character_Name>
+<Utterence>(silent screams and terror)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The creature attacks, savaging Bronschweig in a violent fury.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE CREATURE</Character_Name>
+<Parenthetical>(grotesque features in high resolution)</Parenthetical>
+<Utterence>(no spoken words)</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BRONSCHWEIG</Character_Name>
+<Utterence>(silently screams and dies)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The attack continues, with glimpses of teeth, bloody flesh, and oily black blood being spattered about.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<Scene Heading>EXT. ESTATE SOMEWHERE OUTSIDE LONDON - EARLY EVENING</Scene Heading>
+
+<NARRATIVE>A child's scream of joy is heard as English children play tag or some kind of game in the well-manicured garden.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>The Well-Matured Man</Character_Name>
+<Utterence>(watching the children)</Utterence>
+</Turn>
+
+<Scene Heading>VALET'S VOICE</Scene Heading>
+
+<NARRATIVE>The Well-Matured Man is called by someone o.s.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>The Well-Matured Man</Character_Name>
+<Utterence>(no spoken words, reacting to the voice)</Utterence>
+</Turn>
+</DIALOGUE>
+
+Here's the annotated script:
+
+<Scene Heading>INT. SUBURBAN LONDON ESTATE - A BEAUTIFUL STUDY - EVENING</Scene Heading>
+
+<NARRATIVE>A well-manicured mansion somewhere in <Location>London</Location>. The <Character_Name>WELL-MANICURED MAN</Character_Name> enters, picking up a blinking line. Through a window he can still see the children playing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance,Yes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN (FILTER)</Character_Name>
+<Utterance>We have a situation. The members are assembling.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>Is it an emergency?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Intercut with <Character_Name>CIGARETTE SMOKING MAN</Character_Name> at INT. KENSINGTON BUILDING (NEXT LOC).</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance,Yes.</Utterance>
+<Parenthetical>(serious)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>Who called this meeting?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Strughold. He's just gotten on a plane in Tunis.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>This pronouncement has the power of ending any further questions. An immediate sense of gravity of the situation. The <Character_Name>WELL-MANICURED MAN</Character_Name> hangs up, moves to the window where he sees some of the HELP running from the house. The children have all gathered around a <Character_Name>BOY</Character_Name>.</NARRATIVE>
+
+<Scene Heading>INT. HOUSE - NIGHT</Scene Heading>
+
+<NARRATIVE>A man, seemingly hurt, is being carried by another individual known as the Well-Manicured Man into a house.</NARRATIVE>
+
+<NARRATIVE>Off the Well-Manicured Man's concern, we:</NARRATIVE>
+
+<CUT TO>
+
+<Scene Heading>EXT. LONDON STREET - NIGHT</Scene Heading>
+
+<NARRATIVE>A discreet Town Car pulls up out front an understated building in a better West End neighborhood.</NARRATIVE>
+
+<NARRATIVE>A driver exits coming around for the Well-Manicured Man who is already exiting, moving to the building.</NARRATIVE>
+
+<NARRATIVE>As a LEGEND appears: KENSINGTON, LONDON: 8:01 PM.</NARRATIVE>
+
+<CUT TO>
+
+<Scene Heading>INT. KENSINGTON BUILDING - NIGHT</Scene Heading>
+
+<NARRATIVE>The Well-Manicured Man is admitted by a Valet.</NARRATIVE>
+
+<NARRATIVE>The interior has the well-heeled look of money, or a finely appointed residence that no one lives in.</NARRATIVE>
+
+<NARRATIVE>The Valet takes the W.M.M.'s coat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterence>Has Strughold arrived?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>VALET</Character_Name>
+<Utterence>They're in the library.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Valet leads the W.M.M. down a hall, to:</NARRATIVE>
+
+<Scene Heading>INT. LARGE STATELY LIBRARY - NIGHT</Scene Heading>
+
+<NARRATIVE>A GROUP OF MEN are standing, looking at something on a TV monitor.</NARRATIVE>
+
+<NARRATIVE>A surveillance video.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterence>Has Strughold arrived?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>VALET</Character_Name>
+<Utterence>They're in the library.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CAMERA FAVORING A SMALL LEAN MAN with close-cropped hair.</NARRATIVE>
+
+<NARRATIVE>He is at once elegant and imposing with eyes that hold you with laser-like acuity.</NARRATIVE>
+
+<NARRATIVE>He is CONRAD STRUGHOLD.</NARRATIVE>
+
+<NARRATIVE>The others are of various ethnicities, tailored and dignified.</NARRATIVE>
+
+<NARRATIVE>This might be a collection of U.N. delegates.</NARRATIVE>
+
+<NARRATIVE>Indeed some are.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. CONFERENCE ROOM - DAY</Scene Heading>
+
+<NARRATIVE> Their business here, however, doesn't represent anyone's <Location>interests</Location> but their own. As tipped by the attendance of a <Character_Name>GROUP ELDER</Character_Name> from the U.S. who we've come to know.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>We began to worry. Some of us have traveled so far, and you are the last to arrive.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>I'm sorry. My grandson fell and broke his leg.</Utterance>
+</Turn>
+
+<NARRATIVE>The non-response to this has the same effect as a reprimand. But the <Character_Name>W.M.M.</Character_Name> will not apologize or kowtow.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>While we've been made to wait, we've watched surveillance tapes which have raised more concerns.</Utterance>
+</Turn>
+
+<NARRATIVE>The <Character_Name>Well-Manicured Man</Character_Name> glances to the TV, sees the frame paused.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Parenthetical>(to himself)</Parenthetical>
+<Utterance>More concerns than that?</Utterance>
+</Turn>
+
+<NARRATIVE>The <Character_Name>Well-Manicured Man</Character_Name> glances to the TV, sees the frame paused.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>We've been forced to reassess our role in Colonization by new facts of biology which have presented themselves.</Utterance>
+</Turn>
+
+<NARRATIVE>The <Character_Name>Group Elder</Character_Name> speaks up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GROUP ELDER</Character_Name>
+<Utterance>(speaking up) The virus has mutated.</Utterance>
+</Turn>
+
+<NARRATIVE>The <Character_Name>Well-Manicured Man</Character_Name> looks surprised.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>On its own?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The <Character_Name>Group Elder</Character_Name> nods in agreement with the <Character_Name>Well-Manicured Man</Character_Name>.</NARRATIVE>
+
+<Scene Heading>CIGARETTE SMOKING MAN</Scene Heading>
+
+<NARRATIVE>Its effect on the host has changed.</NARRATIVE>
+<NARRATIVE>The virus no longer just invades the brain as a controlling organism. It's developed a way to modify the host body.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Into what?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>WELL-MANICURED MAN</Scene Heading>
+
+<NARRATIVE>A new extraterrestrial biological entity.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>My god...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>The geometry of mass infection presents certain conceptual re-evaluations for us. About our place in their Colonization.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>STRUGHOLD</Scene Heading>
+
+<NARRATIVE>It takes a moment to sink in. The weight of this fact.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>This isn't Colonization, it's spontaneous repopulation. All our work... if it's true, then they've been using us all along. We've been laboring under a lie!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>2ND ELDER</Character_Name>
+<Utterance>It could be an isolated case.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>WELL-MANICURED MAN</Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>How can we know?!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>We're going to tell them what we've found. What we've learned. Turn over a body infected with the gestating organism.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>WELL-MANICURED MAN</Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>In hope of what? Learning that it's true?! That we are nothing more than digestives for the creation of a new race of alien lifeforms?!!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>STRUGHOLD</Scene Heading>
+
+<NARRATIVE> Let me remind you who is the new race, and who is the old. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>What could be gained by withholding anything from them; By pretending to ignorance? Our knowledge may forestall their plans to step up the timetable.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat occurs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>And if it doesn't? By cooperating now we're but beggars to our demise! Our ignorance was in cooperating with the Colonists at all.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>STRUGHOLD speaks again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>Cooperation is our only chance of saving ourselves.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A CIGARETTE SMOKING MAN joins the conversation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>They still need us to carry out their preparations.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>STRUGHOLD responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>We'll continue to use them as they do us. If only to play for more time, to continue work on our vaccine.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A WELL-MANICURED MAN expresses skepticism.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>Our vaccine may have no effect!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>STRUGHOLD fires back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>Well, without a cure for the virus, we're nothing more than digestives anyway.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>All eyes turn to the WELL-MANICURED MAN.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>My lateness may have well been absence. A course has already been taken.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A CIGARETTE SMOKING MAN interrupts.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>There are complications.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The conversation turns to a TV monitor showing Mulder and Scully.</NARRATIVE>
+
+<Scene Heading></Scene Heading>
+
+<Scene Heading>INT. CONTROL ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A room filled with various computer screens and control panels, where a group of men are seated.</NARRATIVE>
+
+<NARRATIVE><Character_Name>WELL-MANICURED MAN</Character_Name>, <Character_Name>CIGARETTE SMOKING MAN</Character_Name>, and other men, including <Character_Name>STRUGHOLD</Character_Name>, <Character_Name>ELDER</Character_Name>, and <Character_Name>2ND ELDER</Character_Name>, are seated in the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Mulder was in Dallas when we were trying to dispose of evidence. He's gone back there again. Someone has tipped him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>Who?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>Kurtzweil, we think.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>We've allowed this man his freedom. His books have actually helped us to facilitate plausible denial. Has he outlived his usefulness to us?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>WELL-MANICURED MAN</Character_Name>
+<Utterance>No one believes Kurtzweil or his books. He's a toiler. A crank.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>And Mulder?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ELDER</Character_Name>
+<Utterance>Our new situation makes us vulnerable. If he learns information as we do, he could jeopardize the Project's secrecy.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>2ND ELDER</Character_Name>
+<Utterance>Control of information means control of Mulder.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>I can control Mulder. I've always controlled Mulder.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STRUGHOLD</Character_Name>
+<Utterance>This may take another approach.</Utterance>
+</Turn>
+
+<NARRATIVE>He says this, casting his look toward the <Character_Name>WELL-MANICURED MAN</Character_Name>. A look of cold malevolence. The W.M.M.'s reaction is disdain.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CIGARETTE SMOKING MAN</Character_Name>
+<Utterance>(casting a look at the WELL-MANICURED MAN)</Utterance>
+</Turn>
+
+<NARRATIVE>The camera lingers on the Well-Manicured Man's reaction.</NARRATIVE>
+
+<Scene Heading>EXT. SMALL PUBLIC PARK - CENTRAL TEXAS - DAY</Scene Heading>
+
+<NARRATIVE>A small public park somewhere in <Location>Central Texas</Location>. <Character_Name>AGENT SCULLY</Character_Name> stands against a backdrop of Texas flatland, squinting into the sun.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>I don't know, Mulder...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>We are in a <Location>WIDE ANGLE REVERSE</Location>, to include <Character_Name>MULDER</Character_Name>, standing in the middle of a park, replete with jungle gyms and playground equipment. All brand spanking new.</NARRATIVE>
+
+<NARRATIVE>All this stands right where there had once been a hard scrabble, parched and barren little field. Where the earthen hole had been dug by the young boys. And what had later been the site of so much activity by the group of scientists.</NARRATIVE>
+
+<NARRATIVE>But now, it's a park, thick green grass covering the parch of ground, including the spot where the hole had been.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>This is where he marked on the map, Scully. Where he says those fossils were unearthed.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. ABANDONED AREA - DAY</Scene Heading>
+
+<NARRATIVE> Mulder scans the area, confounded. Shaking his head as they walk. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>You're sure the fossils you looked at showed the same signs of deterioration you saw in the fireman's body in the morgue?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(nodding)</Parenthetical>
+<Utterance>The bone was porous, as if the virus of the causative microbe were digesting it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>And you've never seen anything like that?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(shaking her head)</Parenthetical>
+<Utterance>No. It didn't show up on any of the immunohistochemical tests --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder is listening to all this while looking down at his feet:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>This looks like new grass to you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(looking around)</Parenthetical>
+<Utterance>It looks pretty green for this climate.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>This ground's dry about an inch down. Somebody just laid this down. Very recently, I'd say.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Parenthetical>(looking off)</Parenthetical>
+<Utterance>All the equipment is brand new.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder stops, kneels, touches the thick green carpet of turf. He digs around, lifting up a corner of a new square.</NARRATIVE>
+
+<Scene Heading>EXT. PARK - DAY</Scene Heading>
+
+<NARRATIVE> A park somewhere, <Location>no irrigation system</Location>. <Character_Name>MULDER</Character_Name> and <Character_Name>SCULLY</Character_Name> are standing at the edge of a grassy area looking out onto the street where their rental car is parked. </NARRATIVE>
+
+<NARRATIVE> Three kids, all of whom we recognize from earlier, <Character_Name>STEVIE</Character_Name>'s "friends", are tooling down the street on new BMX bikes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>No irrigation system. Somebody's covering their tracks.</Utterence>
+</Turn>
+
+<NARRATIVE> Both Mulder and Scully turn, looking at something that's caught their attention on the street where their rental car is parked.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Hey!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The kids stop, staring at Mulder blankly across the distance as Mulder and Scully start walking toward them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Do you live around here?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterence>Yeah.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> As the Agents approach.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>You see anybody digging here?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterence>Not supposed to talk about it.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>You're not supposed to talk about it? Who told you that?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>3RD BOY</Character_Name>
+<Utterence>Nobody.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Nobody. Same nobody who put this park in? That new equipment...</Utterence>
+</Turn>
+
+<NARRATIVE> (off the boys guilty looks)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>They buy you these bikes?</Utterence>
+</Turn>
+
+<NARRATIVE> The kids shift uncomfortably.</NARRATIVE>
+
+<DIALOGUE>
+</DIALOGUE>
+</Scene Heading>
+
+<Scene Heading>SCULLY</Scene Heading>
+
+<NARRATIVE><Character_Name>SCULLY</Character_Name> thinks you better tell us.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterence>We don't even know you.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>Well, we're FBI agents.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterence>You're not FBI agents.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>How do you know?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>2ND BOY</Character_Name>
+<Utterence>Cause FBI agents wear like suits and goofy ties. And dresses like my mom wears to church. Like on that one show.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> and <Character_Name>Scully</Character_Name> pull their badges. The kids' mouths drop.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Maybe you've been watching too much TV.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>3RD BOY</Character_Name>
+<Utterance>They all left twenty minutes ago.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>4TH BOY</Character_Name>
+<Utterence>Going that way.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(indicating direction)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The kids all pointing in the same direction.</NARRATIVE>
+
+<Scene Heading>EXT. CENTRAL TEXAS HIGHWAY - LATE DAY</Scene Heading>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> and <Character_Name>Scully's</Character_Name> rental car RACES by at high speed.</NARRATIVE>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>(to Scully)</Utterence>
+</Turn>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>INT. MULDER AND SCULLY'S RENTAL CAR - DAY - CONTINUOUS</Scene Heading>
+
+<NARRATIVE><Character_Name>Mulder</Character_Name> at the wheel, foot to the floor. <Character_Name>Scully's</Character_Name> got a map out. The mood is urgent, tense.</NARRATIVE>
+
+<Scene Heading>EXT. CENTRAL HIGHWAY - LATE DAY</Scene Heading>
+
+<NARRATIVE> Mulder slows down to a stop at a three-way intersection, surrounded by nothing.</NARRATIVE>
+
+<NARRATIVE> The car sits idling for several beats as Mulder and Scully consider their next move.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>What are my choices?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>About a hundred miles of nothing in each direction.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>Where would they be going?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterence>We've got two choices. One of them is wrong.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Scully look in different directions, contemplating the possibilities.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterence>You think they went left?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>SCULLY</Scene Heading>
+
+<NARRATIVE>I don't know why I think they went right.</NARRATIVE>
+
+<NARRATIVE>A few moments of silence. Then Mulder steps on the gas and goes straight. Heading out onto the only unpaved road. Accelerating away.</NARRATIVE>
+
+<NARRATIVE>Scully looks at him, wondering. As they bump along at speed. Mulder won't look at her for a few moments. Then, turning to her:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Five years together -- how many times have I been wrong.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>DISSOLVE TO</Scene Heading>
+
+<NARRATIVE>EXT. TEXAS HIGHWAY - NIGHT</NARRATIVE>
+
+<NARRATIVE>HEADLIGHTS appear in the distance on a long, dusty stretch of road. GROWING as they approach, then coming to a stop in a cloud of dust as they move into f.g.</NARRATIVE>
+
+<NARRATIVE>Where a LINE OF FENCEPOSTS, BARBWIRE blocks their path.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Hey, I was right about the bomb, wasn't I?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>This is great. This is fitting.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>REVERSE ON SCENE</NARRATIVE>
+
+<NARRATIVE>On the fence sign, painted in crude letters, are the words: SOME HAVE TRIED, SOME HAVE DIED. TURN BACK -- NO TRESPASSING.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. TEXAS HIGHWAY - DAY</Scene Heading>
+
+<NARRATIVE> A desolate highway somewhere in <Location>Texas</Location>. <Character_Name>SCULLY</Character_Name> is standing with his arms crossed, looking worried. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>I've got to be in Washington D.C. in eleven hours for a hearing -- the outcome of which might possibly affect one of the biggest decisions of my life.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>We're not chasing trucks, we're chasing evidence -- </Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>-- of what exactly?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>That bomb in Dallas was allowed to go off, to hide something: bodies infected with a virus you detected yourself.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>They haul gas in tanker trucks, they haul oil in tanker trucks -- they don't haul viruses in tanker trucks.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Yeah, well they may this one.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>What do you mean by haul?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Parenthetical>(afraid to say)</Parenthetical>
+<Utterance>This virus -- it...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Mulder -- </Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>It may be extraterrestrial.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>I don't believe this. I don't fucking believe this.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Scully looks shocked and stunned at Mulder's revelation.</NARRATIVE>
+
+<Scene Heading>EXT. DIRT ROAD IN THE MIDDLE OF NOWHERE - NIGHT</Scene Heading>
+
+<NARRATIVE>A dirt road somewhere in <Location>The Middle Of Nowhere</Location>. <Character_Name>MULDER</Character_Name>, his back turned to us, and <Character_Name>SCULLY</Character_Name>, standing beside him, are standing near a car.</NARRATIVE>
+
+<NARRATIVE>As she says this A BELL starts to sound. A flashing light hits Mulder and Scully. They both turn to see:</NARRATIVE>
+
+<Scene Heading>HIGH ANGLE OVER A RAILROAD CROSSING SIGN</Scene Heading>
+
+<NARRATIVE>Sitting all by its lonely self. No swinging arms or gate. Just one little sign between Mulder and Scully and their car.</NARRATIVE>
+
+<NARRATIVE>CAMERA PANNING to the light of a locomotive speeding toward us.</NARRATIVE>
+
+<Scene Heading>WIDE ANGLE OVER TRACKS TO MULDER AND SCULLY</Scene Heading>
+
+<NARRATIVE>They move toward their car, but the train is coming fast. Mulder and Scully stop and wait, watching the train. As the engine breaks frame, eclipsing Mulder and Scully from view. And as it passes by we see TWO VERY FAMILIAR WHITE TANKERS loaded piggyback atop flat bed cars.</NARRATIVE>
+
+<NARRATIVE>The train, which is not much longer than this, passes. And Mulder and Scully make a mad dash for their car. The lights come on and Mulder swings the vehicle into a hard accelerating turn, taking the spoke of the intersection that parallels the tracks. As the car hauls ass after the train, we:</NARRATIVE>
+
+<Scene Heading>DISSOLVE TO</Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>EXT. OPPOSITE END OF MOUNTAIN PASS - NIGHT</Scene Heading>
+
+<NARRATIVE>The rails come up a grade where they appear out of a <Location>Mountain Pass</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Been where?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Mulder says this, Scully looks at him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Pounding down some dirt road in the middle of the night. Chasing some elusive truth on a dim hope, only to find myself standing right where I am right now: at another dead end --</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Scully says this A BELL starts to sound. A flashing light hits Mulder and Scully. They both turn to see the railroad crossing sign.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Y'know, I've been here... I've been here one too many times with you, Mulder.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Pounding down some dirt road in the middle of the night. Chasing some elusive truth on a dim hope, only to find myself standing right where I am right now: at another dead end --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Been where?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Pounding down some dirt road in the middle of the night. Chasing some elusive truth on a dim hope, only to find myself standing right where I am right now: at another dead end --</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Scully wait as the train passes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Y'know, I've been here... I've been here one too many times with you, Mulder.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Pounding down some dirt road in the middle of the night. Chasing some elusive truth on a dim hope, only to find myself standing right where I am right now: at another dead end --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Been where?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>Pounding down some dirt road in the middle of the night. Chasing some elusive truth on a dim hope, only to find myself standing right where I am right now: at another dead end --</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Chasing some elusive truth?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(laughs) Yeah, that's one way to put it.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>We're running out of time. We've got to move.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(smirks) I think we just moved, Mulder.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Scully look at each other.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>Impatience is reaching her limit of (reaching his own limit)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Mulder says this, Scully looks at him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>I've been here... I've been here one too many times with you,</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(interrupting) Y'know, I've been here...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>No, Mulder. You know exactly what's going on here.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MULDER</Character_Name>
+<Utterance>(laughs) Oh? And what's that?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SCULLY</Character_Name>
+<Utterance>(serious) You're running out of time.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Mulder and Scully look at each other, then back at the train disappearing into the distance.</NARRATIVE>
+

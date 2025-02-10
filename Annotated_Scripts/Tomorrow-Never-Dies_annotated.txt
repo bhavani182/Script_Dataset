@@ -1,0 +1,5568 @@
+Here is the annotated script:
+
+<Scene Heading>EXT. DESOLATE MOUNTAIN RANGE - HIGH ANGLE - DAWN</Scene Heading>
+
+<NARRATIVE>The Khyber Pass, Afghanistan. A landscape that is both beautiful and forbidding.</NARRATIVE>
+
+<NARRATIVE>We're looking down at what used to be called "The End of the Known World." In the center of this vista, there is a deep ravine.</NARRATIVE>
+
+<NARRATIVE>Pushing in on the ravine, there appears to be a giant icicle hanging over a cliff: AN ICE FALL. A 600 foot waterfall whose face is frozen solid.</NARRATIVE>
+
+<NARRATIVE>Pushing in still closer, there is a tiny black dot inching its way up the ice. A human figure. This is JAMES BOND, British Secret Service Agent, 007.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence>There has to be an easier way to earn a living.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond is sweating and straining, four hundred feet in the air. He has an ice-pick tethered to each hand, ice-cleats on his boots. A black backpack.</NARRATIVE>
+
+<NARRATIVE>As he climbs, spider-like, pulling himself up, he goes to JAM A CLEAT into the ice, but -</NARRATIVE>
+
+<NARRATIVE>CRACK! A 50 foot stiletto of ice breaks off, CRASHING onto the rocks below. Regaining his foothold, Bond looks down: Certain death.</NARRATIVE>
+
+<NARRATIVE>He looks up: So very, very, far to go.</NARRATIVE>
+
+<NARRATIVE>Bond shakes his head:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence>No way, no how. There has to be an easier way.</Utterence>
+</Turn>
+</DIALOGUE>
+
+An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAE10>, 'Connection to llm.srv.webis.de timed out. (connect timeout=None)'))
+
+<Scene Heading>Near a QUONSET HUT</Scene Heading>
+
+<NARRATIVE> A truck-mounted radar dish scans the area, with infrared gatling guns mounted on either side.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>At the rock outcropping</Utterance>
+</Turn>
+
+<NARRATIVE> He props his rifle on the boulder and peers through the gun sight.</NARRATIVE>
+
+<NARRATIVE> Through the telescopic sight, he sees a closer (but still wide) telescopic view of men bargaining over weapons and forklifts loading/unloading crates of munitions.</NARRATIVE>
+
+<NARRATIVE> The same scene on a video wall - MI-6 situation room, London.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Seven, in position</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>Roger, Seven</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Watching this display are M, Tanner, and a handful of military brass, including a Russian General Bukharin and British Admiral Roebuck.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>- What were you saying, Admiral?</Utterance>
+</Turn>
+
+<NARRATIVE> M deals with the humorless Admiral by, well, humoring him:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Utterance>I'll be sure to acknowledge 007's 'assistance' in my report to the Prime Minister. But this is, still, a naval operation.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>What do they say in Russia, General Bukharin?</Utterance>
+</Turn>
+
+<NARRATIVE> M asks questions in flawless Russian:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BUKHARIN</Character_Name>
+<Parenthetical>(laughs)</Parenthetical>
+<Utterance>'In a joint operation, someone's nose always gets put out of joint.'</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+
+<Scene Heading>INT. SITUATION ROOM - DAY</Scene Heading>
+
+<NARRATIVE> A high-tech situation room with various screens and consoles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>I'm interested in success, Admiral.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Parenthetical>(turning to)</Parenthetical>
+<Utterance>Mr. Tanner: What have we got?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Tanner points to the video wall with a RED LASER PEN.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Parenthetical>(ironically)</Parenthetical>
+<Utterance>A regular terrorist swap meet. Death at discount: Two Chinese Long March Scuds, a pair of Soviet A-17 attack helicopters -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BUKHARIN</Character_Name>
+<Utterance>(interrupting)</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>And the crates look like American M-16 assault rifles, Chilean antipersonnel mines, six French Exocet missiles, and 75 - no maybe a hundred - kilograms of Czech made C-4 Semtech explosive.</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>Something for everyone. Fun for the whole family.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>M freezes him with a glance.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>What about ID's?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>(pushes a button on a console)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Rock Outcopping.</NARRATIVE>
+
+<Scene Heading>THE ROCK OUTCROPPING - DAY</Scene Heading>
+
+<NARRATIVE>Bond adjusts a knob on the scope.</NARRATIVE>
+
+<Scene Heading>MI-6 SITUATION ROOM - DAY</Scene Heading>
+
+<NARRATIVE>On the video-screen, the picture zooms to a CLOSE UP of one of the arms traders. Tanner presses a button, and almost instantly the man's bio and vitals appear on another video screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>One to seven: Deal the face cards.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BOND'S LAIR - DAY</Scene Heading>
+
+<NARRATIVE>A high-tech lair somewhere, possibly <Location>MI6 headquarters</Location>. <Character_Name>TANNER</Character_Name>, a tech expert, is working at his console. Various screens display different data and faces.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>Gustav Meinholtz. Neo-Nazi, former East German STASI agent. Ties to the Beider-Meinhoff gang.</Utterance>
+</Turn>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Parenthetical>(pressing a button)</Parenthetical>
+<Utterance>Aces high, seven. Bid to the east.</Utterance>
+</Turn>
+
+<NARRATIVE>Bond shifts his aim, east. (Intercut as necessary) He zeroes in on another face, and the man's stats appear in London.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>Vilko Barkoviac. Bosnian war criminal; thought to be operating freelance out of Teheran.</Utterance>
+</Turn>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Parenthetical>(pressing a button)</Parenthetical>
+<Utterance>Full house, seven. Bid to the North.</Utterance>
+</Turn>
+
+<NARRATIVE>Bond complies. Another face, another set of stats:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>Sitoshi Isagura. Japanese religious fanatic. Wanted for the Tokyo subway -</Utterance>
+</Turn>
+
+<Scene Heading>ADMIRAL ROEBUCK's OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A high-security office somewhere, possibly <Location>MI6 headquarters</Location>. <Character_Name>ADMIRAL ROEBUCK</Character_Name>, a high-ranking MI6 officer, is seated behind his desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Utterance>I've seen enough. Let's finish this.</Utterance>
+</Turn>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Parenthetical>(ordering M:)</Parenthetical>
+<Utterance>Tell your man to drop back. We're initiating plan B -</Utterance>
+</Turn>
+
+<Scene Heading>M's OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A high-security office somewhere, possibly <Location>MI6 headquarters</Location>. <Character_Name>M</Character_Name>, the head of MI6, is seated behind her desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>But -</Utterance>
+</Turn>
+
+<Scene Heading>ADMIRAL ROEBUCK's OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>The Admiral moves swiftly, picking up a <Location>RED PHONE</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Utterance>Command to Nelson: Authorization to</Utterance>
+</Turn>
+
+<Scene Heading>Bond's LAIR - DAY</Scene Heading>
+
+<NARRATIVE>Moving swiftly, the Admiral has picked up a <Location>RED PHONE</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BUKHARIN</Character_Name>
+<Utterance>- Yes. Yes.</Utterance>
+</Turn>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Admiral -</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. A BRITISH WARSHIP - STEAMING IN THE GULF OF OMAN</Scene Heading>
+
+<NARRATIVE>A British warship somewhere in <Location>The Gulf of Oman</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>Weapons authorized. Prepare to fire.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>On my count: Five. Four. Three. Two -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The warship begins to prepare for launch.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRING OFFICER</Character_Name>
+<Utterance>Cruise missile away -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to the deck of the warship.</NARRATIVE>
+
+<Scene Heading>EXT. DECK OF THE WARSHIP</Scene Heading>
+
+<NARRATIVE>A launcher rotates, and a Cruise missile blasts off with a <Location>BOOM</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRING OFFICER'S VOICE (Cont'd)</Character_Name>
+<Utterance>Time to target: Four minutes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts back to the MI-6 Situation Room.</NARRATIVE>
+
+<Scene Heading>MI-6 SITUATION ROOM</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRING OFFICER'S VOICE (Cont'd)</Character_Name>
+<Utterance>I appreciate your assistance, M. But this is now a military operation.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>(urgently, to Tanner)</Utterence>
+<Utterance>Bring up the tracking satellite. And get 007 out of there.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterence>Bond's voice is heard in the background: Seven to one. Negative. Wait.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to The Rock Outcropping.</NARRATIVE>
+
+<Scene Heading>THE ROCK OUTCROPPING</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND'S VOICE</Character_Name>
+<Utterence>(peering at the MIG-29's)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A forklift appears from behind a truck, blocking the view of one of the Mig-29s.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>A TALL BALD MAN is riding the empty fork, with his back to us.</Scene Heading>
+
+<NARRATIVE>BOND-</NARRATIVE>
+
+<NARRATIVE>Puts his eye back on the scope, shifts the rifle-</NARRATIVE>
+
+<NARRATIVE>MI-6/VIDEO WALL-</NARRATIVE>
+
+<NARRATIVE>Bond's scope view settles on THE BALD MAN. The forklift reaches the back of the truck. HE STEPS OFF as the fork begins rising to unload something.</NARRATIVE>
+
+<NARRATIVE>And as the man turns, FACING US to scan the area:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>Oh, no.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Who is it?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>(calling up his stats)</Utterance>
+<Utterance>Kim Dae Yung. North Korean Nuclear specialist.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Meaning there may be nuclear material down there?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>Nods.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A look passes from M, to Bukharin, to Roebuck.</NARRATIVE>
+
+<Scene Heading>THE CRUISE MISSILE-</Scene Heading>
+
+<NARRATIVE>Hugging the surface, crossing from water to land.</NARRATIVE>
+
+<Scene Heading>MI-6 SITUATION ROOM-</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VOICE FROM WARSHIP</Character_Name>
+<Utterance>Time to target: Three minutes.</Utterance>
+<Utterance>(sfx: Beep!)</Utterance>
+<Utterance>Target acquired. Weapon armed.</Utterance>
+</Turn>
+
+<NARRATIVE>Tension. Adrenaline. QUIET PANIC. On the SCREEN, the FORK LIFT has pulled a RED BOX from the truck, a SHORT ROUND MAN appearing with it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Who is that?!? What's in the box??</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>(punching buttons)</Utterance>
+<Utterance>I don't know. He's not in the database-</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. COFFEE SHOP - DAY</Scene Heading>
+
+<NARRATIVE> A coffee shop somewhere in <Location>New Mexico</Location>. <Character_Name>MICKY KNOX</Character_Name>, his back turned to us, is sitting at the counter finishing his meal.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Parenthetical>(to Bukharin)</Parenthetical>
+<Utterence>What's in the box, General?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Bukharin</Character_Name>
+<Parenthetical>(sheepishly)</Parenthetical>
+<Utterence>... We usually... Transport...</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Parenthetical>(concerned)</Parenthetical>
+<Utterence>What's in the box???</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Bukharin</Character_Name>
+<Utterence>Weapons grade uranium.</Utterence>
+</Turn>
+
+<NARRATIVE>Shock sweeps the room. <Character_Name>M</Character_Name> turns on <Character_Name>Tanner</Character_Name>:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Parenthetical>(angrily)</Parenthetical>
+<Utterence>Will it go off?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Tanner</Character_Name>
+<Utterence>Maybe. Maybe not.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Parenthetical>(urgently)</Parenthetical>
+<Utterence>Abort the cruise.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Admiral Roebuck</Character_Name>
+<Utterance>It's too late-</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Parenthetical>(firmly)</Parenthetical>
+<Utterence>GET BOND OUT OF THERE.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Tanner</Character_Name>
+<Utterance>One to seven - one to seven-</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> - squinting through the rifle at the outcropping:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterance>Negative, one. NOT YET.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The truck/MiG-l, on the ground/through the scope-</NARRATIVE>
+
+<NARRATIVE>The bald man slaps the back of the truck obscuring MiG-1. The truck pulls away, revealing MiG-1's wing. Hanging from the weapons pod: A nuclear bomb.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterance>Mutters a curse.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>MI-6 Situation Room-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Tanner</Character_Name>
+<Utterance>Soviet SB-9 nuclear torpedo. Yield...</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>THE MI-6 SITUATION ROOM</Scene Heading>
+
+<NARRATIVE>A group of high-ranking officials, including <Character_Name>TANNER</Character_Name>, <Character_Name>ADMIRAL ROEBUCK</Character_Name>, and <Character_Name>GENERAL BUKHARIN</Character_Name>, are seated in a tense atmosphere.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Will the cruise set it off?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance,Yes.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>ADMIRAL ROEBUCK</Character_Name> turns to <Character_Name>GENERAL BUKHARIN</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Parenthetical>(to Bukharin)</Parenthetical>
+<Utterance>Jesus. Can't you people keep anything locked up?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>GENERAL BUKHARIN</Character_Name>
+<Utterance>We didn't know it was missing.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>M</Character_Name> stands up and addresses the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Get me the Prime Minister. Alert NATO, the CIA, the Pentagon.</Utterance>
+<Parenthetical>(presses a button)</Parenthetical>
+<Utterance>Seven: This is a direct order. I want you out of there. Do you copy?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>THE ROCK OUTCROPPING - DAY</Scene Heading>
+
+<NARRATIVE>Bond's headset lies on top of the rock, along with the telescopic sight - still broadcasting.</NARRATIVE>
+
+<NARRATIVE>FIND BOND, crouching BEHIND the rock. Automatic rifle in one hand, GRENADE in the other.</NARRATIVE>
+
+<NARRATIVE>He pulls the pin, hurls it 40 feet away.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The GRENADE EXPLODES. There's PANIC ON THE GROUND. Men running everywhere as THE RADAR/GATLING GUN spins, and SENDS A HAIL OF FIRE at Bond's diversion.</NARRATIVE>
+
+<NARRATIVE>And with this, BOND is off, SPRINTING INTO THE CHAOS.</NARRATIVE>
+
+<Scene Heading>THE SAME SCENE - VIDEO SCREEN - MI-6 SITUATION ROOM</SceneHeading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>TANNER</Character_Name>
+<Utterance>God help him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The CRUISE MISSILE - FLYING THROUGH A MOUNTAIN RAVINE -</NARRATIVE>
+
+<NARRATIVE>God help the rest of us.</NARRATIVE>
+
+An error occurred: Response ended prematurely
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000024F13367E90>, 'Connection to llm.srv.webis.de timed out. (connect timeout=None)'))
+
+Here's the annotated script:
+
+<Scene Heading>INT./EXT. BOND'S MIG</Scene Heading>
+
+<NARRATIVE>Fighting against the garrote, Bond strains to reach a <Location>RED BUTTON</Location> on the panel: COPILOT EJECTOR SEAT.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterance>Tap it.</Utterance>
+<Parenthetical>(to himself)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Bond finally taps the button, and - THE BACK HALF OF THE CANOPY BLOWS OFF!</NARRATIVE>
+
+<NARRATIVE>The COPILOT BLASTS OUT OF THE PLANE, DOWNWARD, directly into MIG-2's cockpit.</NARRATIVE>
+
+<NARRATIVE>Bond peels off.</NARRATIVE>
+
+<NARRATIVE>For a second, MiG-2 hangs in the air. Until... BOOM!!! The TWO HEAT SEEKING MISSILES BLAST IT TO SMITHEREENS.</NARRATIVE>
+
+<Scene Heading>MI-6 - SITUATION ROOM</Scene Heading>
+
+<NARRATIVE>The situation room erupts in cheers.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterance>Seven to base. I have a full house. Your bid.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RETURN ON BOND IN THE MIG</Scene Heading>
+
+<NARRATIVE>Bond fiddles with the radio.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterance>By the way: Thank the General for all his "assistance." Over and out.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. BOND'S MIG</Scene Heading>
+
+<NARRATIVE>Goes to AFTERBURNERS. And from the fiery glow of the engine, we DISSOLVE TO:</NARRATIVE>
+
+<NARRATIVE>The 007 GUN BARREL. MAIN CREDITS.</NARRATIVE>
+
+<Scene Heading>AFTER CREDITS</Scene Heading>
+
+<Scene Heading>EXT. OXFORD COLLEGE - DAY</Scene Heading>
+
+<NARRATIVE>All ivy and bricks... And a certain Aston-Martin DB-5, parked.</NARRATIVE>
+
+<Scene Heading>INT. BOOK LINED OFFICE</Scene Heading>
+
+<NARRATIVE>Afterglow: Empty champagne bottle. Rumpled sheets on a sleeper sofa.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterance>(to Jenny Wu)</Utterance>I'm Bond, James Bond.</Utterance>
+<Parenthetical>(smiling)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Bond is in bed with a smart, IRONIC, (and, yes, stunning,) 30-ish Chinese woman, JENNY WU.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Jenny Wu</Character_Name>
+<Utterance>(in Mandarin)</Utterance>Wǒ de míng zì shì Jenny.</Utterance>
+<Parenthetical>(Bond smiles and responds in Mandarin)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Note: The Chinese here is Mandarin, spelled phonetically.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>BOND'S BEDROOM - NIGHT</Scene Heading>
+
+<NARRATIVE>James Bond, a suave and sophisticated secret agent, lies on his bed, running a finger across his lips.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>... And what do you call these?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterance>Ja-shwa tsway. These are lips.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Indeed they are.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(kisses them, lightly)</Utterance>
+<Utterance>Deadly little things.</Utterance>
+</Turn>
+
+<NARRATIVE>Jenny Wu laughs. Bond's hand goes beneath the sheets.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>And what do you call these? The Gang of Two?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Parenthetical>(smacking his hand, laughing:)</Parenthetical>
+<Utterance>Stop it!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>I was just getting to the interesting part!</Utterance>
+</Turn>
+
+<NARRATIVE>Jenny Wu smacks Bond's hand again.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterance>We've already done the interesting part. Do you forget?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond moves to roll on top of Jenny Wu, but she pushes him off, teasing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterance>Sakwa!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Is that Mandarin, or Cantonese?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterance>Mandarin. You jerk.</Utterance>
+</Turn>
+
+<NARRATIVE>Jenny Wu tousles Bond's hair and says she is late and needs to get dressed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterance>I'm late. I have to get dressed.</Utterance>
+</Turn>
+
+<NARRATIVE>Jenny Wu hops off the bed, leaving frame. Bond settles back on the headboard, ready to enjoy the view...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(lightly)</Utterance>
+<Utterance>When his CELL PHONE RINGS.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera remains on Bond as he answers his phone, smiling at the caller...</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. M'S ANTEROOM - MI-6</Scene Heading>
+
+<NARRATIVE>A high-security office, possibly within a government agency.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>Hello, James. I hope I'm interrupting something important.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. OFFICE - (INTERCUT AS NECESSARY)</Scene Heading>
+
+<NARRATIVE>Jenny Wu is seen preparing for some sort of event or presentation, wearing a Victoria's Secret outfit underneath a graduation gown.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Not at all, Moneypenny. I was just brushing up on a little Chinese.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterance>I am not little.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>I'm sure she is, James. But I'm afraid you'll have to 'kiss off' the rest of your lessons this afternoon.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond watches Jenny prepare for her event with amusement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(mock chagrin)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Moneypenny... Here I was, finally getting a feel for a new tongue -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>Four o'clock. M will meet you in the conference room.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond continues watching Jenny prepare for her event.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>4:30. It may take me a little longer to wrap things up here.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>Four o'clock. Don't be late.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(hanging up:)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Tsi tien, Chien-penny.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>ON MONEYPENNY:</Scene Heading>
+
+<NARRATIVE>Moneypenny looks up from her phone, looking surprised.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterence>Ah, James. You always were a cunning linguist... Au revoir, mon cher.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Moneypenny hangs up the phone and looks up, blanching as she sees M standing there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>Don't ask.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>Don't tell.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Parenthetical>(walking away)</Parenthetical>
+<Utterence>I don't want to know.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. HALLWAY - OUTSIDE JENNY'S OFFICE - OXFORD:</Scene Heading>
+
+<NARRATIVE>Bond and Jenny Wu emerge from the office, with her still in a gown.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STUDENT</Character_Name>
+<Utterence>Good afternoon, Professor Wu.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterence>Good afternoon.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterence>(then to Bond)</Utterence>
+<Utterence>Are you sure you can't stay for the lecture?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>I can't. But I did enjoy the dress rehearsal.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jenny gives Bond a wry glance, opens a door to a lecture hall.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JENNY WU</Character_Name>
+<Utterence>Tsi tien, Mr. Bond.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Tsi tien, Professor Wu.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond walks off, passing underneath a WALL MOUNTED TV SET.</NARRATIVE>
+
+<Scene Heading>ON THE TV SET:</Scene Heading>
+
+<NARRATIVE>The HNN Globe Logo and The Harmsway News Network logo spin into view.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HNN ANCHOR</Character_Name>
+<Utterence>You're watching HNN, the Harmsway 24...</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. MI-6 LONDON - DAY</Scene Heading>
+
+<NARRATIVE>A DB-5 drives past a guard, revealing a glimpse of the MI-6 London building.</NARRATIVE>
+
+<Scene Heading>INT. CONFERENCE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>A conference room where Bond, M, and several others are present for a debriefing session.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NATO COLONEL DOMINIQUE EVERHART</Character_Name>
+<Utterance>To sum up: After analyzing the tire inflation of the fork-lift in the MI-6 video tape, NATO believes the "red box contains approximately eighty kilograms of U235 weapons-grade uranium - an incredibly hard, incredibly heavy, incredibly lethal substance.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>And that's enough enriched uranium to produce how many nuclear devices?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NATO COLONEL DOMINIQUE EVERHART</Character_Name>
+<Utterance>Depending on the builder's sophistication - one crude bomb that could devastate London, Paris, New York, Berlin - or all four if they have the latest technology.</Utterance>
+</Turn>
+
+<NARRATIVE>There is a pregnant pause in the room.</NARRATIVE>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>The participants?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NATO COLONEL DOMINIQUE EVERHART</Character_Name>
+<Parenthetical>(pointing at the screen)</Parenthetical>
+<Utterance>We have reason to believe they were recruited from various parts of Europe, possibly even Asia.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with a focus on the video clips being shown on a large screen in front of the group.</NARRATIVE>
+
+<Scene Heading>KIM DAE YUNG'S FILE</Scene Heading>
+
+<NARRATIVE>A North Korean nuclear weapons specialist; apparently fell out of favor with the current North Korean regime after a botched attempt to steal fissionable material from a British light-water reactor in South Africa - an accident that left him entirely hairless...</NARRATIVE>
+
+<NARRATIVE>Another face appears on the screen:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COL. DOMINIQUE EVERHART</Character_Name>
+<Utterence>And Rendera Sikrahm, also known as Richard Stamper. Freelance mercenary, Laos and Cambodia.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>COL. DOMINIQUE EVERHART</Character_Name>
+<Utterence>His father was from Nepal - a Ghurka warrior - conscripted by the British government to fight in China during World War II - after which the family settled in Hong Kong, where the young Stamper was undoubtedly treated like a second class citizen by both the Hong Kong Chinese, and local British.</Utterence>
+</Turn>
+
+<NARRATIVE>(beat, aside:)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COL. DOMINIQUE EVERHART</Character_Name>
+<Parenthetical>(aside)</Parenthetical>
+<Utterence>We've all read about the signs at the British swimming pools in Hong Kong that said "No Ghurka's allowed."</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>BOND appears on screen:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Nothing like a little imperialism to promote loyalty among the faithful.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COL. DOMINIQUE EVERHART</Character_Name>
+<Utterence>In conclusion: Both these men have a vendetta against the world. They are nuclear armed, and dangerous.</Utterence>
+</Turn>
+
+<NARRATIVE>(stifles a smile, then:)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COL. DOMINIQUE EVERHART</Character_Name>
+<Utterence>And having failed to get the UZ35 through the old opium route - the Khyber Pass - it's NATO's belief that their next attempt will be through Bulgaria - where the NATO Nuclear Strike Force will be there to stop them.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>M appears on screen:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>Thank you Colonel Everhart.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>007, I'd like to see you in my office. Why don't you and the Colonel exchange numbers if you need more information?</Utterence>
+</Turn>
+</DIALOGUE>
+<NARRATIVE>M turns to BOND:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>(exchanges phone numbers with COL. DOMINIQUE EVERHART)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>BOND</Scene Heading>
+
+<NARRATIVE>Yes, M.</NARRATIVE>
+
+<NARRATIVE>M exits. Bond approaches Dominique. She smiles, warmly. There's a mutual attraction - but there's something else going on, unspoken.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Interesting presentation.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dominique smiles back at Bond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOMINIQUE</Character_Name>
+<Utterance>Interesting video tape.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>They point, I shoot.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dominique feels her pockets.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOMINIQUE</Character_Name>
+<Parenthetical>(to herself)</Parenthetical>
+<Utterance>Do you have a pen? I just got promoted and don't have my new cards yet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance_Of_course.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dominique regards the pen cautiously.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOMINIQUE</Character_Name>
+<Utterance>... Does this do anything?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Depends what number you write.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Dominique gives him a wry look; starts to write.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Narrative>Note that she is wearing a WEDDING BAND.</Narrative>
+<Utterance>Married?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOMINIQUE</Character_Name>
+<Utterance>Happily.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>... Kids?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOMINIQUE</Character_Name>
+<Utterance>Three. You? Married?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>No.</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. HALLWAY OUTSIDE OF CONFERENCE ROOM - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>For an instant, something crosses Bond's face: Bittersweetness? Remorse? Either way, she's scored a subtle victory.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>I didn't think so.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>DOMINIQUE, Bond's assistant, is standing next to him, smiling.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name.DOMINIQUE</Character_Name>
+<Utterence>Here. I gave you my assistant's phone number. If it's urgent, she knows where to reach me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Thanks.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name.DOMINIQUE</Character_Name>
+<Utterance>Take care -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>You too.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>With a Sphinx-like smile, she watches Bond leave.</NARRATIVE>
+
+<Scene Heading>INT. HALLWAY OUTSIDE OF CONFERENCE ROOM - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Bond encounters MONEYPENNY, also walking to M's office.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>Hello, James. Enjoy your meeting?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>In the darkest moments, it's what I live for. Especially since I've heard how much you like to watch...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Parenthetical>(cutting Bond a look)</Parenthetical>
+<Utterence>On the hidden camera.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Moneypenny sees Dominique leave the conference room and walk down the hall, away from them.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterance>By the way, James: Ordinarily I would never ask, but... Weren't you and that Colonel once stranded on a raft for two weeks in the Sargasso Sea?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Moneypenny! How indiscreet! Have you ever known me to kiss and tell?</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>INT. SECURITY DOOR - DAY</Scene Heading>
+
+<NARRATIVE>Moneypenny punches in a code.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterence>Actually, I've never known you to do either... But-</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>-We all want what we can't have?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterence>Not all of us, 007.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The security door opens. They go into INT. M'S ANTEROOM (MONEYPENNY'S AREA) - CONTINUOUS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>What-no lust for adventure?</Utterance
+</Turn>
+
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterence>No, 007. It's just that I've learned from personal experience-that when we get what we want-</Utterence>
+<Parenthetical>(beat)</Parenthetical>
+<Utterence>-Somehow the reality is never as... Satisfying as the fantasy.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond scowls. Moneypenny smiles wryly, points to the inner door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MONEYPENNY</Character_Name>
+<Utterence>Don't keep M waiting.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene shifts to INT. M'S OFFICE - DAY.</NARRATIVE>
+
+<Scene Heading>INT. M'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>M is behind her desk; Minister Peter Johnstone sits across, a high-handed Teflon-coated politician, with the survival instincts of plutonium. They've been arguing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>Come in, 007. You know the Minister?</Utterance
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Certainly.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterence>007.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. OFFICE - DAY</Scene Heading>
+
+<NARRATIVE> Bond sits in an armchair, and M presses a button. A video/bio of <Location>Hong Kong</Location> appears on the wall behind her. Mid-50's, regal, is <Character_Name>ELIOT HARMSWAY</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Tell me, 007, what do you know about Elliot Harmsway?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond glances directly at M.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(quipping) Only what I read in the newspapers.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Parenthetical>(disdainfully)</Parenthetical>
+<Utterance>His newspapers?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond glances sideways at Minister Johnstone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(glancing sideways) Occasionally, yes. (directly to M) British media mogul. Born in <Location>Hong Kong</Location>; controls newspapers, TV, radio, cable, satellites; books, magazines, movies, computer software. Theme parks.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>(holding up a copy of:) - Along with Tomorrow - the first world-wide newspaper. Circulation 27 million. Daily. -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond looks at Johnstone quizzically.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>... What's Harmsway done?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>It seems, 007, we've received a tip</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Parenthetical>(hurrumph)</Parenthetical>
+<Utterance>A rumor - from an anonymous source -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond senses he's about to enter a minefield.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>MINISTER JOHNSTONE'S OFFICE</Scene Heading>
+
+<NARRATIVE>A Minister's office, somewhere in <Location>London</Location>. <Character_Name>M</Character_Name>, a high-ranking MI6 official, sits behind a large desk. <Character_Name>MINISTER JOHNSTONE</Character_Name> enters the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterance>Hearsay. Idle chatter from a source you can't identify - who insists on talking only to 007. Nothing but loose talk and innuendo.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>That may be the case at present, Minister Johnstone... But our own sources suspect that Mr. Harmsway used his considerable Russian media-holdings to elect Valentin Zukofsky President of the Ukraine - in trade for the uranium.</Utterance>
+</Turn>
+
+<NARRATIVE>M has punched a button, and Valentin's video bio has appeared.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterance>More scurrilous, unsubstantiated gossip.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Perhaps. But it does explain how an ex-KGB agent turned illegal-arms dealer is suddenly portrayed as a long-time friend of the people.</Utterance>
+</Turn>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>If you believe what you read in the papers.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Parenthetical>(annoyed)</Parenthetical>
+<Utterance>Need I remind the two of you that Elliot Harmsway - Sir Elliot Harmsway - is directly descended from the Earl of Aberdeen? That his Scottish ancestors practically invented Hong Kong - and out of sheer gratitude, Queen Victoria herself named the port "Aberdeen Harbor" in their honor?</Utterance>
+</Turn>
+
+<NARRATIVE>(long pause, then)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>... No more than I need remind you, Minister, that merely being a member of the lucky sperm club - does not preclude one from a life of criminal activity.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The meeting has come to an end. <Character_Name>M</Character_Name> and <Character_Name>BOND</Character_Name> stand up, signaling the end of their discussion with Minister Johnstone.</NARRATIVE>
+
+Note: I've assumed that "BOND" is a misspelling of James Bond's name, and corrected it accordingly. Let me know if this is incorrect!
+
+<Scene Heading>MINISTER JOHNSTONE'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A formal office somewhere in <Location>Whitehall</Location>. <Character_Name>M</Character_Name>, a high-ranking government official, is seated at his desk, while <Character_Name>BOND</Character_Name> stands across from him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>The reason I invited the Minister here, 007, was to reassure him that this investigation will be handled with the utmost discretion.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Of course.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Which is also why I've withheld this information from NATO and our allies.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Parenthetical>(nods, then recalling)</Parenthetical>
+<Utterance>... Didn't we once investigate Harmsway?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance,Yes. 1988. He was furious at the British plan to return Hong Kong, and supposedly started his own negotiations with the Chinese Government.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>The inquiry went nowhere - but it did earn MI-6 a rather powerful enemy-</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Parenthetical>(interrupting)</Parenthetical>
+<Utterance>Not to mention the chaos it caused at Whitehall when his newspapers began screaming for the recall of the sitting government.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Parenthetical>(a beat, then)</Parenthetical>
+<Utterance>I'm sending you to Venice, 007. You're to check out the source, determine whether Elliot Harmsway is involved with the enriched uranium, and, if so, stop him.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>How will I meet the informant?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>M hands Bond a <Location>Venice Carnival Mask</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>You're to wear this mask at the Venice Carnival. The informant will be waiting for you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. M'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE> A high-tech office somewhere in <Location>London</Location>. <Character_Name>M</Character_Name>, <Character_Name>BOND</Character_Name>'s superior, is sitting behind her desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterence>There is one last thing, 007: Elliot Harmsway is vital to the economic interests of this nation. He's also a major contributor to the party. I expect him to be given every consideration.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Political considerations?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Parenthetical>(standing, to leave)</Parenthetical>
+<Utterence>To the best of my recollection, Mr. Bond, I suggested no such thing.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterence>In fact, I was never here.</Utterence>
+</Turn>
+
+<NARRATIVE>The Minister exits. M, frowning, hits a button on her intercom:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>Would you send in the new man from equipment branch?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond is silent for a moment, then speaks:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>I hate to ask, but... Did you ever think you'd miss Communism?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>We serve the interests of the British people, 007. No matter who we may be foolish enough to elect.</Utterence>
+</Turn>
+
+<NARRATIVE>M looks away, then back at Bond:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterence>But if Elliot Harmsway is involved with that uranium, I want him prosecuted to the ends of the earth.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Hopefully, it won't get that far.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>M looks up: MALCOLM SAUNDERS, Q's successor, limps in, looking like a</Scene Heading>
+
+<NARRATIVE> A room somewhere, likely <Location>Mi6 Headquarters</Location>. M, seated at a desk, is addressing Saunders who has just entered. We see a pinball machine being played OFF SCREEN.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Come in, Saunders.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>M. 007.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Okay, Saunders. What is it this time? Rocket in the leg? Machine pistol in the arm?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Q's retirement party. I'd just put the knife into the cake, and -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Come on. I know better than that -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond thwacks the crutch against Saunders' leg. Saunders GRIMACES IN PAIN.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>It must do something.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Well... If you insist.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>The die is cast.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Saunders exchanges a beleaguered glance with M. He takes off the cast and neck-brace, and places a BRIEFCASE on M's desk.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Now pay attention, 007. We haven't much time to demonstrate your new Q toys.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>How is old Q?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Gone fishing.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Fishing?</Utterance>
+</Turn>
+</DIALOGUE>
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>Big game fishing.</Scene Heading>
+
+<NARRATIVE>A boat on a calm sea somewhere in <Location>the ocean</Location>. The camera shows us <Character_Name>SAUNDERS</Character_Name>, who has opened a briefcase.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Sonar torpedoes. Retirement gift from his friends at the CIA.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond tries to look inside, but Saunders repositions it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterence>In the meantime, perhaps this will spark your interest.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Parenthetical>(takes out a disposable lighter)</Parenthetical>
+<Utterence>Cigarette lighter. Thumb here, press here -</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A small flame appears. Bond, unimpressed, reaches for it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>SAUNDERS, I've lit cigarettes-</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterence>Not from forty feet.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Saunders flips the lighter sideways and - WHOOSH! A burst of flame shoots across the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterence>The disposable lighter also contains a small self-detonation charge.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterence>Depending on who - or what - you wish to dispose of.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond takes the lighter, begins to play with it...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterence>Stop fidgeting, 007. Next-</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Parenthetical>(takes out a pair of SHOELACES)</Parenthetical>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterence>Plastique explosive shoelaces.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>... Shoelaces?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterence>Plastique explosive shoelaces. Cut them to regulate the size of the blast; totally harmless until you attach the detonator hidden in the heel of your shoe.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>BOND</Scene Heading>
+
+<NARRATIVE>Examining security devices, Saunders is shown to be curious about their features.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Perfect way to tie up a... 'Knotty' problem?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Saunders frowns in response.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Moving along - (he produces:)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>A typical plastic security card.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Name here, magnetic information stripe here - (pointing to) And a code breaking microprocessor here.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Swipe it through any card reader - anywhere - you're in.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond asks if the device works on cash machines.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Does it work on cash machines?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Saunders is suddenly stricken, flustered, and blurts out a defense.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>It was an authorized test. I returned the money.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond responds in amusement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>I see...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Saunders ignores Bond's comment and begins describing additional devices.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Finally, your new watch: Blue laser here for signaling or burning through locks; press this button, the sweep hand becomes a Geiger counter.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond teases Saunders about his actions.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>If you can't do the time, don't do the crime?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Saunders smirks at Bond and pauses before revealing a final gift from Q.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>Oh. I almost forgot. There is one last thing: Before Q retired, he asked that I give you one other protective device.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>(he hands Bond a WEDDING BAND)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here's the annotated script:
+
+<Scene Heading>BOND</Scene Heading>
+
+<NARRATIVE>A wedding band??? What am I supposed to be able to do with this? <Character_Name>SAUNDERS</Character_Name>, a devious grin spreading across his face, leans in and says.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SAUNDERS</Character_Name>
+<Utterance>I believe Q's exact words were:</Utterance>
+<Parenthetical>(imitating Q, emphatically:)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Bond turns from Saunders' devious grin to an amused <Character_Name>M. Smiles</Character_Name>. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>...I'll give you a ring from Venice.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Good luck on your mission, 007.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Till death do us part.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>EXT. VENICE HARBOR/GRAND CANAL - NIGHT</Scene Heading>
+
+<NARRATIVE>A GLEAMING WHITE YACHT, with two on-board helicopters and a huge tarped hold, dominates the harbor. (Harmsway's SEA DOLPHIN II.) Tonight, however, we find a GONDOLA, gliding through the water...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(wearing the mask from M's office and a bright blue cape)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Arriving at a festively-lit dock, crowded with gaily costumed partygoers and musicians in medieval garb.</NARRATIVE>
+
+<Scene Heading>EXT. PIAZZA SAN MARCO - NIGHT</Scene Heading>
+
+<NARRATIVE>A swirl of colors, noise and music. Pushing his way into the chaotic celebration, Bond scans the crowd, looking for a face:</NARRATIVE>
+
+<NARRATIVE>NONE BUT A SEA OF MASKS. White. Yellow. Red. Blue.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Caught up in the tumult, he turns left, he strains to turn right, anxiously looking for the contact. Who is it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THREE MASKED WOMEN appear in front of Bond. They curtsy, and giggle.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WOMAN</Character_Name>
+<Utterance>(curtsying)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>Buona sera, signore</Scene Heading>
+
+<NARRATIVE>A group of people are celebrating something. The <Location>SAN GIACOMO SQUARE</Location> is filled with a crowd.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAN</Character_Name>
+<Utterance>Vino?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>No, I'm good.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A masked man spins Bond by the cape, and a group of celebrants carrying a banner jostle him in another direction. The <Location>CROWD</Location> surges forward as a procession makes its way through the square.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MASKED WOMAN</Character_Name>
+<Parenthetical>(quickly)</Parenthetical>
+<Utterance>I may have been followed. Meet me at the Church in five minutes!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The crowd closes in, and Bond sees nothing but the mask of the woman as she disappears.</NARRATIVE>
+
+<Scene Heading>SAN GIACOMO SQUARE - NIGHT</Scene Heading>
+
+<NARRATIVE>Five minutes later. Almost deserted. A few stray couples are left. The <Location>MASKED WOMAN</Location>, Paris, appears, looking for Bond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Looking for someone?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PARI</Character_Name>
+<Utterance>Hello, James.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Paris?!? What are you doing here?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PARI</Character_Name>
+<Utterance>Is that any way to say hello?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris removes her mask, revealing herself to Bond. He is not happy to see her.</NARRATIVE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>BOND</Scene Heading>
+
+<NARRATIVE> I thought your specialty was good-bye.</NARRATIVE>
+
+<NARRATIVE> Paris smiles coyly. She LIFTS A HAND to tousle his hair -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterence>Oh, James. I've missed you-</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Parenthetical>(grabbing her by the wrist)</Parenthetical>
+<Utterence>Is this another one of your games?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterence>Stop it! You're hurting me! Can't you just be nice?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>I've got half the British government breathing down my neck. I don't have time for your nonsense.</Utterence>
+</Turn>
+
+<NARRATIVE>She's surprised - and hurt - by his coldness.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterence>Don't you even miss me? Didn't I mean anything to you?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Nothing.</Utterence>
+</Turn>
+
+<NARRATIVE>She turns away from him, fighting back tears. Bond doesn't care:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>What about Elliot Harmsway? Or is this just another one of your stunts?</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Parenthetical>(anguished)</Parenthetical>
+<Utterence>No! He's crazy - he's insane. He hates everybody. He's got these plans-</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Parenthetical>(facing Bond, becoming hysterical:)</Parenthetical>
+<Utterence>You've got to help me, James. I'm sorry. I'm sorry for everything. I know I was wrong - but you've got to protect me. I know you still love-</Utterence>
+</Turn>
+
+<NARRATIVE>BOND SLAPS HER. She's stunned. He waits. She's angered:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>(Note: There is no dialogue for Paris after Bond slaps her)</NARRATIVE>
+
+<Scene Heading>INT. DOCTOR'S OFFICE - DAY</Scene Heading>
+
+<NARRATIVE> A doctor's office, Bond is seated on a couch, looking at Paris with concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Do you feel better now?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris looks down, her expression softening slightly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>No...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond reaches out to touch Paris, but she turns away.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(not giving an inch)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond feels remorse for hitting her and softens his expression.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>What about the uranium?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris turns to look at Bond, a determined expression on her face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>It's on the boat. He's holding a press conference tomorrow.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond reaches out to touch Paris again, and she falls into his arms, burying her face in his shoulder.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>I'm so sorry, James. I promise, I'll never leave you again.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond gently pats her head in a soothing gesture.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(patting her head)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris looks up at Bond with pleading eyes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>Just hold me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond hesitates for a moment, then gently pushes her away and takes a step back to look at her.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>How do you know Harmsway?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris' eyes flicker with something, and she swoons into Bond's arms.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>Kiss me.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris pulls Bond to her and kisses him, but then suddenly hauls off and belts him across the mouth.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>Bastard! Leave me alone!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Paris shoves Bond away, darts out of the room, and leaves him standing there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(bleeding from his mouth)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene cuts to a new angle, showing San Giacomo Square from Bond's point of view.</NARRATIVE>
+
+<Scene Heading>PARIS - NIGHT</Scene Heading>
+
+<NARRATIVE>Paris running to FOUR MEN dressed alike in three-corner hats, enveloped from head-to-foot in BLACK CAPES. Their faces are completely concealed behind flat, bone-white masks covering all but their chins. They look like messengers of death.</NARRATIVE>
+
+<NARRATIVE>CLOSER ON PARIS AND THE MEN -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>Who is he?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterance>Nobody. Just some drunk. Leave him alone -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Parenthetical>(to Thug #3)</Parenthetical>
+<Utterance>Take her to the boat.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RETURN ON BOND -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>EXT. RIALTO BRIDGE - FIRST (UP) STAIRCASE - NIGHT</NARRATIVE>
+
+<NARRATIVE>Bond rushing up the central staircase of the bridge.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>At the top, looking onto the main span, he sees THE EFFIGY OF CARNIVAL PROCESSION, approaching like a tidal wave.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond throws a look over his shoulder, and SEES THE THREE MEN, rushing up the stairs, knocking people out of the way like bowling pins - completely unaware of the oncoming parade at the top.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond turns to face the men... And suddenly THROWS HIS CAPE UP, dramatically, like Batman - blocking their view of the procession.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Stamper & Co. hesitate for a moment -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>And BOND PULLS THE CAPE TO HIS BODY, just as the PROCESSION SURGES PAST HIM, and spills down the stairs, overwhelming Stamper & Co.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>So that's how he does it.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RIALTO BRIDGE - SECOND (DOWN) STAIRCASE - NIGHT</Scene Heading>
+
+<NARRATIVE>Bond disappears into the oncoming crowd.</NARRATIVE>
+
+<NARRATIVE>Stamper and Thug #2 are pushed to the bottom of the staircase - but</NARRATIVE>
+
+<NARRATIVE>Thug #1 bulls his way up, shouldering through the crowd.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Bond nears the bottom of the staircase, he looks back up:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>But gets caught between TWO MEN CARRYING A SATIN BANNER. He goes right through it - ripping the material apart with his bare hands, pulling the men down, after him.</NARRATIVE>
+
+<Scene Heading>BASE OF THE RIALTO BRIDGE - CANAL SIDESTREET - NIGHT</Scene Heading>
+
+<NARRATIVE>Bond turns past the wall at the bottom of the colonnade. He sees:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A GROUP OF TOURISTS, posing for a photo by the bridge -</NARRATIVE>
+
+<NARRATIVE>and just beyond this-</NARRATIVE>
+
+<NARRATIVE>A STREET SELLER hawking souvenirs from a PUSH CART.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Prego, prego. Permissio.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>TOURIST</Character_Name>
+<Utterence>Grazie.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond takes the camera. The tourists pose. And with perfect timing,</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond flips the camera back to the tourist-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Grazie -</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>And heads for the PUSHCART. Wheeling it around, he SHOVES IT at the thug, who is still stumbling, blinded by the flashbulb.</NARRATIVE>
+
+<NARRATIVE>The CART SLAMS INTO THE MAN, knocking him on his back. The cart stops on top of him, pinning him down.</NARRATIVE>
+
+<Scene Heading>BOND takes off, threading through the crowd toward a SIDESTREET.</Scene Heading>
+
+<NARRATIVE> Meanwhile, THE STREET SELLER rushes to his wrecked cart. It ERUPTS </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance>He's getting really pissed off.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance>He looks around for Bond - just catching a glimpse of him, as</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>007 disappears down the sidestreet.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Thug #1 makes a bee-line for Bond - but finds his path blocked by TWO </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance>Lifts one of the motorcycles - with the driver still in the seat - and THROWS IT INTO THE CANAL.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>RETURN ON THE BASE OF THE BRIDGE - Stamper and Thug #2 arrive at the wrecked cart - in time to see Thug </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>Motions for Thug #2 to come with him on a parallel course along the canals toward -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THE PLAZA SAN SALVATORE - NIGHT </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Enters the deserted plaza from the side-street.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>ALLEYWAY - OFF THE PLAZA SAN SALVATORE - </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Ducks into an alleyway.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Shrinking back into the shadows, Bond peers out into the Plaza. BOND'S POV - THE PLAZA </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>Charges in.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #2</Character_Name>
+<Utterance>Also charges in, and starts looking for Bond.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Suddenly, a huge hand grabs 007's shoulder, spinning him around:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance>Has Bond in his grasp, with murder in his eyes.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>SIDE-steps, ducks, and twists out of the cloak, throwing it over Thug's head. And as the Thug struggles to get out from under it, Bond slams him head-first into a wall, knocking him out.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>He's left sitting upright, slumped against the wall.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>NEW ANGLE - </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Head off down the alleyway, away from the Plaza, toward the courtyard of Il Bovolo.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RETURN ON ALLEYWAY ENTRANCE</Scene Heading>
+
+<NARRATIVE>Thug #2 enters, spots the figure in Bond's cloak.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #2</Character_Name>
+<Utterence>Very quietly, he pulls out his gun, kneels...</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Parenthetical>(viciously)</Parenthetical>
+<Utterence>bites Thug #2's gun-hand, hurling him against the opposite wall.</Utterence>
+</Turn>
+
+<NARRATIVE>The cloak erupts.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterence>rips off the cloak, and stands.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Thug #2 speaks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MARCO</Character_Name>
+<Utterence>I didn't know -</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterence>After him!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Thugs charge off.</NARRATIVE>
+
+<Scene Heading>IL BOVOLO - COURTYARD - NIGHT</Scene Heading>
+
+<NARRATIVE>Bond enters from the alley, scans the courtyard: Three walls. No way out... Save for a SPIRAL STAIRCASE that leads up to the FOURTH FLOOR INTERIOR BALCONY, overlooking the courtyard.</NARRATIVE>
+
+<Scene Heading>THE SPIRAL STAIRS</Scene Heading>
+
+<NARRATIVE>Bond takes the marble steps, two at a time.</NARRATIVE>
+
+<Scene Heading>RETURN ON THE COURTYARD</Scene Heading>
+
+<NARRATIVE>The two Thugs enter the square. Motioning for quiet, they HEAR BOND'S FOOTFALLS on the steps, and race up after him.</NARRATIVE>
+
+<Scene Heading>THE BALCONY</Scene Heading>
+
+<NARRATIVE>Bond tries the doors to the interior of the building: Locked. Too heavy to burst in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He glances down at the courtyard, and HEARS THE THUGS' FOOTSTEPS running up the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond glances up to the roof, just above his head: The only escape.</NARRATIVE>
+
+<Scene Heading>THE ROOFTOP</Scene Heading>
+
+<NARRATIVE>Bond hops on the BANISTER, REACHES for the GUTTER. He pulls himself up, throws a leg over - onto the roof, and disappears from sight...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>(to himself)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Just as the Thugs enter the balcony from the staircase.</NARRATIVE>
+
+<Scene Heading>FIRST ROOFTOP</Scene Heading>
+
+<Scene Heading>BOND SCURRIES ALONG THE STEEPLY PITCHED TERRA-COTTA ROOF</Scene Heading>
+
+<NARRATIVE>There are SHEER DROPS on three sides - but the fourth side is a one-story drop to an adjoining building.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond jumps.</NARRATIVE>
+
+<Scene Heading>SECOND (LOWER) ROOFTOP</Scene Heading>
+
+<NARRATIVE>007 lands on another steeply pitched roof; unable to get a foothold on the tiles, he slides down, rolling to the edge. He looks down:</NARRATIVE>
+
+<NARRATIVE>The adjoining building is one story lower, with a skylight roof.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As Bond struggles to climb back to the peak of the second roof -</NARRATIVE>
+
+<Scene Heading>RETURN ON THE BALCONY</Scene Heading>
+
+<NARRATIVE>Thug #1 holsters his gun, and climbs on the banister. He's too heavy to climb onto the roof by himself - so Thug #2 shoves him from below.</NARRATIVE>
+
+<Scene Heading>SECOND (LOWER) ROOFTOP</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond has hauled himself up to a crouch as Thug #1 lands. They grapple. The Thug sends Bond sliding down toward the edge of the roof, then loses his balance, and slides down after Bond.</NARRATIVE>
+
+<Scene Heading>AT THE EDGE OF THE ROOF</Scene Heading>
+
+<NARRATIVE>Bond is about to slide off, onto the skylight below, but GRABS THE COPPER GUTTER at the last moment.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>007 is now hanging, fifteen feet above a glass skylight... As Thug #1 tumbles off the edge of the roof, and saves himself by GRABBING ONTO BOND'S LEGS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They sway in the air for a second. The GUTTER bends, breaks, and the two of them fall -</NARRATIVE>
+
+<Scene Heading>CRASHING THROUGH THE GLASS SKYLIGHT, INTO: </Scene Heading>
+
+<NARRATIVE>VENICE MEDIEVAL ARMOR MUSEUM - NIGHT.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>They land in a shower of glass on the grand banquet table in the Great Hall. Bond is winded. Thug #1, unfazed. He grabs Bond by the collar, hauling him up on his feet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Thug #1 shoves the nose of his gun under Bond's chin, forcing 007 up on his toes. Snarling, he thrusts his face menacingly close to Bond:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THUG #1</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. ROOM - DAY</Scene Heading>
+
+<NARRATIVE>With lightning speed, <Character_Name>Bond</Character_Name>: 1) Grasps the Thug's elbow and yanks his gun arm forward, as, 2) Bond pitches his head back. Bond's chin just clears the barrel as THE GUN FIRES INTO THE CEILING.</NARRATIVE>
+
+<NARRATIVE>The flash momentarily blinds <Character_Name>Thug #1</Character_Name>. Bond snatches a CANDELABRA, and smashes it against the Thug's arm, knocking the gun away.</NARRATIVE>
+
+<NARRATIVE>As BOND DRAWS HIS WALTHER, the Thug grabs Bond's wrist, and brutally (yet effortlessly) SQUEEZES THE GUN from 007's hand, ONTO THE FLOOR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(with a sick smile)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>With a sick smile, the Thug tosses Bond into a corner of the room. He's having fun.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Parenthetical>(laughing)</Parenthetical>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>AS BOND STAGGERS, PICKING HIMSELF UP FROM THE CORNER -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(concerned this might be getting serious)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THUG #1 tosses aside a massive table and chairs to get at Bond.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(laughing)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>BOND shoves a SUIT OF ARMOR (on wheels) at Thug #1 - who bats it out of the way, like a gnat.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>BOND grabs an OAK LEG from the shattered table. He wields it like a bat, to ward off the Thug.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(unimpressed)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Unimpressed, the THUG SMASHES HIS FIST INTO a GLASS DISPLAY TABLE, and plucks out a CLAYMORE - a two-handed "King Arthur" type sword.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(with one roundhouse blow)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>With one roundhouse blow, THUG #1 SLICES BOND'S TABLE LEG IN TWO.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(drops the Claymore)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Thug swings the Claymore a second time, forcing Bond back to:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(grabs a pole-ax)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A DISPLAY WALL - filled with pole weapons. Bond snatches a lethal-looking HALBERD (Ax, fluke and spike on a staff.) Thug #1 stops in his tracks.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence>(shattering Bond's Halberd)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>NEW ANGLE - Gripping the pole-ax horizontally in both hands, Thug #1 forces Bond backward, to a SECOND DISPLAY WALL that features AN IRON MAIDEN (Something like a hinged sarcophagus, lined with spikes.)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Thug #1</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Thug #1 tries to push 007 into the case, but Bond side-steps at the last minute. Thug #1 lurches forward, and is only stopped from killing himself by the pole-ax hitting the sides of the iron maiden.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bond</Character_Name>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. WAREHOUSE - DAY</Scene Heading>
+
+<NARRATIVE>A warehouse somewhere in a dark, gritty city. <Character_Name>BOND</Character_Name>, his back turned to us, is fighting off <Location>THUG #1</Location>. We hear the CLANG...CLANG of metal hitting metal as they fight.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>As Thug #1 steps back, Bond grabs a MORNING-STAR from the wall. </Utterance>
+<Parenthetical>(A studded iron ball on a chain attached to a club)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Bond swings the Morning-Star down, SNAPPING THUG #1'S POLE-AX IN TWO...</Utterance>
+<Parenthetical>...But loses the weapon in the process.</Parenthetical>
+</Turn>
+
+<NARRATIVE>Now, Thug #1 lunges for Bond's throat. Grappling, they slam into the wall next to the IRON MAIDEN - which is STARTING TO COME LOOSE FROM THE LEATHER STRAPS holding it upright.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>And as Bond reaches up for another weapon - A HAND-AX -</Utterance>
+</Turn>
+
+<NARRATIVE>THUG #1 LUNGES FOR BOND'S GUN ON THE FLOOR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Bond can't get the Hand-Ax off the wall. He turns to see:</Utterance>
+</Turn>
+
+<NARRATIVE>THUG #1 ABOUT TO SHOOT HIM.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>And at the very last second, Bond dislodges the Hand-Ax, slashes the iron maiden's leather retaining straps and -</Utterance>
+</Turn>
+
+<NARRATIVE>New Angle - From inside the Iron Maiden's POV -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>The iron maiden falls forward, impaling Thug #1 on the wooden floor.</Utterance>
+</Turn>
+
+<NARRATIVE>RETURN TO SCENE -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>The Iron Maiden covers all of Thug #1, except for his arm, still clutching Bond's gun. Bond bends down and retrieves it.</Utterance>
+</Turn>
+
+<NARRATIVE>He fought hard...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(holstering the gun)</Utterance>
+<Utterance>But the case was terminal.</Utterance>
+</Turn>
+
+<NARRATIVE>And on this note, we -</NARRATIVE>
+
+<Scene Heading>EXT. VENICE HARBOR - THE NEXT DAY</Scene Heading>
+
+<NARRATIVE>Under a beautiful blue sky, the gleaming white SEA DOLPHIN II sits at dock, festooned with pennants and banners. There's a crowd onboard.</NARRATIVE>
+
+<NARRATIVE>At the same time, however, 500 feet away...</NARRATIVE>
+
+<Scene Heading>INT. DOCKSIDE CAFE</Scene Heading>
+
+<NARRATIVE>A dimly lit café on the dockside, filled with patrons enjoying their drinks and meals.</NARRATIVE>
+
+<Scene Heading>INT. ITALIAN INTELLIGENCE OFFICE - DAY</Scene Heading>
+
+<NARRATIVE>A middle-aged Italian Intelligence official, <Character_Name>SIGNORE DiGIACOMO</Character_Name>, is meeting with <Character_Name>BOND</Character_Name>. Two underlings hover in the background.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>You've confirmed all the legal details with M?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Utterance>Si. Bueno. She's very...</Utterance>
+<Parenthetical>(pauses)</Parenthetical>
+<Utterance>'Competent.' ...For a woman.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Let's go over this one more time.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Utterance>You will investigate the boat. You'll signal us if you find the enriched uranium. And then - (distracted)</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>DiGIACOMO</Character_Name> looks at a WOMAN who has appeared with a baby in her arms.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ITALIAN WOMAN W/BABY</Character_Name>
+<Utterance>Don Franco. I just want to say we're voting for you in the election.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Parenthetical>(teasing, re: the baby)</Parenthetical>
+<Utterance>Both of you?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ITALIAN WOMAN W/BABY</Character_Name>
+<Utterance>(laughs)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Utterance>Grazie, grazie. Ciao.</Utterance>
+</Turn>
+
+<NARRATIVE>The WOMAN leaves. <Character_Name>DiGIACOMO</Character_Name> turns back to Bond:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Utterance	So. You'll signal us if you find the uranium -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>And you'll wait until after the press conference - and everyone is gone - before you board the boat and arrest him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>DiGIACOMO</Scene Heading>
+
+<NARRATIVE>Dominic DiGiacomo is talking to <Character_Name>BOND</Character_Name>. They are on a <Location>military transport</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DI GIACOMO</Character_Name>
+<Utterance>Perfecto. Then we turn him over to you, and the English government puts him on a military transport back to London.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> nods, looks over at the <Location>Sea Dolphin II</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DI GIACOMO</Character_Name>
+<Utterance>Do not worry, my friend. I only want what is best. For both of us.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> stands to leave. <Character_Name>DiGiacomo</Character_Name> smiles after 007 - as if he's savouring some private secret. He snaps his fingers to an underling:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DI GIACOMO</Character_Name>
+<Utterance>Rocco! Un Cappuccino!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The <Location>Sea Dolphin II</Location> - As <Character_Name>Bond</Character_Name> makes his way up the gangplank:</NARRATIVE>
+
+<NARRATIVE><Character_Name>Elliot Harmsway</Character_Name> is holding a press conference near the bow, surrounded by dignitaries. He is a man with an EVIL EUPHORIA - showing off all the charm and charisma that's made him one of the world's most powerful media tycoons.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>...And so, it's somewhat fitting that we are here today... To christen this environmental research boat in Venice - 'Venezia' - the port where Marco Polo sailed forth to explore the world's great uncharted oceans...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>(beat) That 2/3 of the earth's surface where the sharks are not working members of the press.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> studies the man. <Character_Name>Harmsway</Character_Name> continues, pointing to a LARGE DRILL/BORING OBJECT, the size of a jet engine, attached to a long flexible hose/tube.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>With our six custom designed sea-bed coring drills, we will probe the long-term effects of pollution; our sonars, radars, and research labs will study the wind, the water, and the sea life that so dearly feeds us.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Laughter.</NARRATIVE>
+
+Here is the annotated script in the specified XML-like format:
+
+<Scene Heading>Bond moves through the crowd.</Scene Heading>
+
+<NARRATIVE>He spots a bulkhead, with a door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>And so, in the spirit of international cooperation - thanking my good friend, Valentin Zukofsky - the newly elected President of the Ukraine for all his assistance -</Utterance>
+</Turn>
+
+<NARRATIVE>He motions to Zukofsky, who nods to the audience...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>I give this boat to mankind - selflessly - in pure charity asking nothing for myself... But the cable TV rights.</Utterance>
+</Turn>
+
+<NARRATIVE>Big laugh from the assemblage. Harmsway turns to a BEAUTY QUEEN:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Miss Venice? If you'll do the honors -</Utterance>
+</Turn>
+
+<NARRATIVE>SMASH! She cracks a champagne bottle on the tip of the bow. CHEERS!</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Now I'll take some questions from the press - even the few of you who aren't on my payroll.</Utterance>
+</Turn>
+
+<NARRATIVE>Laughter. Harmsway points to a reporter:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>REPORTER #1</Character_Name>
+<Utterance>Mr. Harmsway: Why did you name this boat the Sea Dolphin II?</Utterance>
+</Turn>
+
+<NARRATIVE>Harmsway responds...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Actually, my first choice was 'No Comment.' So if someone asked where I was, I could truthfully respond 'No Comment.'</Utterance>
+<Parenthetical>(laughter; he points)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Harmsway points to another reporter...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>REPORTER #2</Character_Name>
+<Utterance>Sir Elliot: Is it true you're in negotiations to move your offices from Hong Kong to Kuala Lumpur?</Utterance>
+</Turn>
+
+<NARRATIVE>Harmsway responds with a joke...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>(impishly) No comment.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. SEA DOLPHIN II - BELOW DECKS</Scene Heading>
+
+<NARRATIVE>Bond moves cautiously down a STAIRCASE...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>And peers along a CORRIDOR. He sees a GUARD, checking doors, making sure they're locked.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Parenthetical>(to himself)</Parenthetical>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>The guard is at the far end of the hall. He lifts a WALKIE-TALKIE:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GUARD</Character_Name>
+<Utterence>Level one, secure.</Utterence>
+</Turn>
+
+<NARRATIVE>The guard exits, down another staircase.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Bond moves stealthily down the corridor, glancing at signs on various doors: FISH HATCHERY, WEATHER STATION, CREW'S MESS...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Until he comes to:</NARRATIVE>
+
+<Scene Heading>METALLURGY LAB. There's a CARD READER by the door.</Scene Heading>
+
+<NARRATIVE>Bond slips out his Q-toy, swipes it. Click. He goes inside.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Scene Heading>INT. METALLURGY LAB - SEA DOLPHIN II - CONTINUOUS</Scene Heading>
+
+<NARRATIVE>Bond clocks the lab: Power tools, test benches, a SECOND ENTRY DOOR...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>And in the middle of the room - THE RED BOX.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Quickly, (as the echoes of Harmsway's press conference can be heard through the portholes,) Bond examines the edges of the box, looking for tamper-proof seals. Finds none.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Gingerly, he opens it:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>URANIUM SLUGS. They look like black tennis ball canisters.</Utterance>
+</Turn>
+
+<NARRATIVE>Bond presses a button on his watch: THE GEIGER COUNTER CLICKS WILDLY</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Bond pauses. Wants to make sure.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>He spots ANOTHER GEIGER COUNTER on a bench; he moves its probe over the uranium slugs: Same result.</Utterance>
+</Turn>
+
+<NARRATIVE>Bond closes the box.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>He decides to check out the rest of the room - examining gadgets, tools, chemicals.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Scene Heading>HE OPENS A SHALLOW DRAWER</Scene Heading>
+
+<NARRATIVE>And finds a set of BLACK ROTARY CUTTING SAWS, WITH ELONGATED TEETH.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>They look almost like a series of sharks' jaws - one oval set inside another</Utterance>
+</Turn>
+
+<NARRATIVE>Bond lifts one - surprised at its extreme weight. He wonders what it is used for.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Just then - THERE'S A CLICK AT THE SECOND DOOR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<NARRATIVE>Bond quickly replaces the cutting saw, moves to the first door:</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>SECOND DOOR OPENS</Scene Heading>
+
+<NARRATIVE> Bond slips out, into the CORRIDOR, down the hall, heading for the stairs.</NARRATIVE>
+
+<Scene Heading>BACK IN THE METALLURGY LAB</Scene Heading>
+
+<NARRATIVE> YUNG enters, his hairless head shining under the lights. He looks around, sensing something is wrong. Glances: Not the red box. Not the Geiger counter. But then he notices it:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YUNG</Character_Name>
+<Utterence>The drawer is sticking out, maybe a sixteenth of an inch.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>YUNG</Character_Name>
+<Utterence>He picks up a telephone.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>SEA DOLPHIN II - TOPSIDE</Scene Heading>
+
+<NARRATIVE>Bond emerges from the bulkhead door. The press conference wrapping up. As Bond makes his way to the RAIL, looking out on the cafe:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>The maiden voyage begins tonight. I have some business in London - but the ship will sail down the Nile, across the South China Sea, stopping in Australia, winding up in San Francisco.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>(AIMING HIS WATCH at the cafe)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CAFE</Scene Heading>
+
+<NARRATIVE>DiGiacomo sees the BLUE LASER. Motions his men to action.</NARRATIVE>
+
+<Scene Heading>RETURN ON THE SEA DOLPHIN II - TOPSIDE</Scene Heading>
+
+<NARRATIVE>Bond has sauntered to one of the hospitality bars, trying to remain as inconspicuous as possible. A hand clasps his shoulder:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN'S VOICE</Character_Name>
+<Utterence>Mr. James Bond!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>(spins to see Valentin)</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN'S VOICE</Character_Name>
+<Utterence>(surrounded by goons)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>BOND</Scene Heading>
+
+<NARRATIVE>Valentin. What an unpleasant surprise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>What is it that brings you to Venezia, Mr. Bond? Business - (sly glance to the thugs) Or somebody else's business?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The goons chortle. Bond isn't happy with this attention. He clocks a VIDEO SURVEILLANCE CAMERA ON ONE OF THE MASTS, scanning the deck.</NARRATIVE>
+
+<NARRATIVE>A WOMAN'S SHRILL WHINING VOICE - brings Bond back to Valentin. She is very colorfully dressed - dripping in high-ticket logos.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>New mistress.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>SOFIA</Character_Name>
+<Utterence>Dimitri!!! You promised I could go shopping!!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Parenthetical>(sotto, to Bond)</Parenthetical>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>So? Go!</Utterence>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SOFIA</Character_Name>
+<Utterence>I need money.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Valentin gives a beleaguered shrug, and pulls out a HUGE WAD OF CASH.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>Here. Take an inch.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Shaking his head, Valentin turns back to Bond:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>Come. Let me buy you a drink. It's free.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE-With Bond keeping an eye on the surveillance camera, they move several steps to the bar.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>(to the bartender)</Utterence>
+<Utterance>Two vodka martini's. Shaken. Not stirred.</Utterance>
+<Parenthetical>(to Bond)</Parenthetical>
+<Utterence>And you?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond would rather not drink - but knows that any change from his usual routine could compromise him.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>BAR - NIGHT</Scene Heading>
+
+<NARRATIVE>Regular behavior might arouse suspicion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>I must say, Valentin, capitalism seems to be treating you well.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Parenthetical>(belting one back)</Parenthetical>
+<Utterance>I used to sell weapons; now I buy votes.</Utterance>
+<Parenthetical>(then)</Parenthetical>
+<Utterance>Off the record.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>If you can't beat the government, you might as well own it.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Valentin spots someone off-camera.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterance>Wait - I want you to meet a friend of mine.</Utterance>
+<Parenthetical>(calling out)</Parenthetical>
+<Utterance>Elliott! Elliott! Come here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway appears. Ebullient as ever.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterance<Elliot Harmsway, I want to introduce you to an old friend -</Utterance>
+<Parenthetical>(to Harmsway)</Parenthetical>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>The name is Bond. James Bond.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Always nice to meet one of her Majesty's fellow subjects...</Utterance>
+<Parenthetical>(a nod to Valentin)</Parenthetical>
+<Utterance>Especially one with such distinguished friends.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>You might say I've always been one of-</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE></NARRATIVE>
+
+Let me know if you'd like me to continue with the rest of the script!
+
+Here is the annotated script:
+
+<Scene Heading>INT. HARMSWAY'S BOAT - DAY</Scene Heading>
+
+<NARRATIVE>A luxurious boat, likely docked in a high-end marina, with <Location>Mr. Valentin's followers</Location> scattered about. <Character_Name>VALENTIN</Character_Name> is standing on the deck, laughing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterance>'Biggest followers?' He's practically made a career of it!!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Bond decides to intervene and pull <Character_Name>HARMSWAY</Character_Name>'s chain.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>It's a beautiful boat, Sir Elliot. Practically glows in the dark.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>HARMSWAY</Character_Name> smiles and signals off-camera for his wife to appear.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>I can tell you're a man with an eye for exquisite possessions, Mr. Bond.</Utterance>
+<Parenthetical>(signaling off camera)</Parenthetical>
+<Utterance>Darling! Come here.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A woman appears in frame, her face obscured by a large sun hat. As she reveals her face to the camera and Bond-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Paris Harmsway, allow me to introduce you to James Bond.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE><Character_Name>PARIS HARMSWAY</Character_Name> shows a terrified look on her face. <Character_Name>HARMSWAY</Character_Name> continues with his insinuating smile-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>But then... I believe you two have already met.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>There is a beat, an uncomfortable moment when nobody speaks-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Parenthetical>(likely with a raised eyebrow)</Parenthetical>
+<Utterance>I'm afraid I don't recall.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The entire party turns to see <Character_Name>DIGIACOMO</Character_Name> barging his way up the gangplank-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DIGIACOMO</Character_Name>
+<Utterance>Elliot Harmsway: Under the auspices of the Italian government, I, Franco DiGiacomo -</Utterance>
+<Parenthetical>(pauses; smiles at a camera)</Parenthetical>
+<Utterance>POP! A flash goes off.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene ends with chaos erupting as police whistles blow, sirens sound, and tires screech to a halt-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DIGIACOMO</Character_Name>
+<Utterance>(continuing his speech while off-camera sounds intensify)</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>A set of frozen glances goes from Bond, to Paris, to Harmsway.</Scene Heading>
+
+<NARRATIVE> A tense moment in an undisclosed location. <Character_Name>BOND</Character_Name>, <Character_Name>PARIS</Character_Name>, and <Character_Name>HARMSWAY</Character_Name> are present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>VALENTIN</Character_Name>
+<Utterence>I think I suddenly remembered an urgent meeting in Moscow.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Parenthetical>(putting his arm around DiGiacomo)</Parenthetical>
+<Utterence>My friends, there's been a terrible mistake.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Harmsway</Character_Name> leads the procession off through the bulkhead door. <Character_Name>Bond</Character_Name> is left with <Character_Name>Paris</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Paris-</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterence>Leave me alone! He's going to kill me!!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Why didn't you tell me? Why wasn't it in our files?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Parenthetical>(anguished)</Parenthetical>
+<Utterence>He didn't want anyone to know. He kept it out of the papers. He said a third wife was bad for his image.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> wants to help her - and follow <Character_Name>Harmsway</Character_Name>. He pulls out a key.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence>Go to my hotel room. I'll be there in twenty minutes.</Utterance>
+</Turn>
+
+<NARRATIVE><Character_Name>Paris</Character_Name> looks up at him like a hurt child. She wants some contact; she wants to hear him say 'I love you.'</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>PARIS</Character_Name>
+<Utterence></Utterence> (no dialogue)
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. METALLURGY LAB - SEA DOLPHIN II</Scene Heading>
+
+<NARRATIVE>A metallurgy lab on a ship.</NARRATIVE>
+
+<NARRATIVE>Harmsway holds court near the red box. <Character_Name>BOND</Character_Name> squeezes in.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>I believe this is what you're looking for, Colonel.</Utterence>
+</Turn>
+
+<NARRATIVE>He opens the red box. Hoists out a canister.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>Is it uranium? Absolutely. But watch - (runs the Geiger counter over it)</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> can't believe what he's seeing. <Character_Name>DiGiacomo</Character_Name> is mortified.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>It's depleted uranium! Completely safe! A child could sleep on it.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> can't believe what he's seeing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>I received it from the Russian government - a by-product of their nuclear arms program - in the hopes that I could create tools for oceanographic research.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Bond</Character_Name> looks skeptical.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>(beat) It's what I was talking about: 'Swords into plowshares'! The Spirit of International Cooperation!</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>DiGiacomo</Character_Name> approaches.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Utterence>Signore Harmsway. A thousand apologies.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>DiGiacomo</Character_Name> snaps his fingers to a lackey.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DiGIACOMO</Character_Name>
+<Parenthetical>(snaps his fingers)</Parenthetical>
+<Utterence>Give him the video tape.</Utterence>
+</Turn>
+
+<NARRATIVE><Character_Name>Harmsway</Character_Name> smiles.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>Please. No harm done, Don Franco. Go upstairs, and enjoy the reception.</Utterence>
+</Turn>
+
+<NARRATIVE>The room empties.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+Here is the annotated script in XML-like format:
+
+<Scene Heading>HARMSWAY</Scene Heading>
+
+<NARRATIVE>Bond approaches him. They're the only people in the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MR. BOND</Character_Name>
+<Utterance>Oh - Mr. Bond. One minute.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>I hope you've enjoyed this little charade.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MR. BOND</Character_Name>
+<Utterance>Which part? The Colonel's? Or yours?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Parenthetical>(icily)</Parenthetical>
+<Utterance>A piece of advice, Mr. Bond: Don't screw with a man who buys ink by the ton.</Utterance>
+<Utterance> (beat)</Utterance>
+<Utterance>It's deadlier than uranium.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>MR. BOND</Character_Name>
+<Utterance>(staring him down)</Utterance>
+<Utterance>We'll see about that.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway glances at his watch. Smiles coldly.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Aren't you late for a meeting?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. THE SEA DOLPHIN II/HARBOR - DAY</Scene Heading>
+
+<NARRATIVE>Bond rushes down the gangplank, along the dock. Jumps in a gondola.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MR. BOND</Character_Name>
+<Utterance>The Danielli. Presto!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RETURN ON THE METALLURGY LAB -</Scene Heading>
+
+<NARRATIVE>Harmsway closes the door. Yung is there.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YUNG</Character_Name>
+<Utterance>That was too close.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Don't worry. Mr. Bond will get the message. So will his boss.</Utterance>
+</Turn>
+
+<NARRATIVE>Harmsway presses a button - and suddenly the red box lifts, and a second red box appears underneath it, like shuffling a deck of cards.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance></Utterance> (no utterance given in original script)
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. THE DANIELLI HOTEL - DAY</Scene Heading>
+
+<NARRATIVE>Bond jumps out of the gondola, sprints into the lobby.</NARRATIVE>
+
+<Scene Heading>FOURTH FLOOR CORRIDOR -</Scene Heading>
+
+<NARRATIVE>Bond appears, rushing up a staircase. He comes to his doorway. It's closed, but unlocked.</NARRATIVE>
+
+<Scene Heading>INT. BOND'S HOTEL ROOM -</Scene Heading>
+
+<NARRATIVE>Bond enters the room. Looks around, calling out-</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Paris? Paris?</Utterance>
+</Turn>
+
+<NARRATIVE>He sees the French doors open onto the canal. The curtains billowing outward.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+
+<NARRATIVE>Bond rushes to the window and looks down:</NARRATIVE>
+
+<Scene Heading>EXT. GRAND CANAL - BOND'S POV</Scene Heading>
+
+<NARRATIVE>Paris Harmsway is dead, floating in the water.</NARRATIVE>
+
+<NARRATIVE>RETURN ON BOND - Crushed. Devastated.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DIGIACOMO'S VOICE</Character_Name>
+<Utterance>Signore Bond?</Utterance>
+</Turn>
+
+<NARRATIVE>A flashbulb goes off, capturing Bond and DiGiacomo.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DIGIACOMO</Character_Name>
+<Utterance>You're under arrest.</Utterance>
+</Turn>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>THE SOUTH CHINA SEA - DUSK</NARRATIVE>
+
+<Scene Heading>THE HMS INDOMITABLE - a 3,300 ton British frigate, surges through the water, heading toward the setting sun.</Scene Heading>
+
+<NARRATIVE>The HMS Indomitable is not business as usual.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ROYAL MARINE</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+
+<NARRATIVE>BATTLE-DRESSED ROYAL MARINES patrol the deck; GUNNERY CREWS man the weapons.</NARRATIVE>
+
+<Scene Heading>INT. BRIDGE - DUSK</Scene Heading>
+
+<NARRATIVE>Close on a vertical glass map. An electronic panel display with a blinking yellow dot indicates.</NARRATIVE>
+
+<NARRATIVE>We've cleared Hong Kong harbor, sir.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>NAVIGATOR</Character_Name>
+<Utterance>We've cleared Hong Kong harbor, sir.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The Captain nods. Turns to the GPS Officer:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>Position?</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The GPS officer enters keyboard commands on console marked "GLOBAL POSITIONING SATELLITE." He reads out the data:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GPS OFFICER</Character_Name>
+<Utterance>Two-two, zed-three, one-five north; a hundred fourteen degrees, five minutes, ten seconds east.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The Captain nods:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>Mark.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The GPS officer continues:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GPS OFFICER</Character_Name>
+<Utterance Locked on satellite, sir.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The Captain is all business - clipped, sober terse. Turns to his First Officer, hands him a slip of paper:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>Orders from London: For the next ninety-six hours, we're to run on full radio silence. Double watches, full alert.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>(beat)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN (cont'd)</Character_Name>
+<Utterance>We're to send one encrypted positioning burst to London every six hours - otherwise, zero electronic emissions.</Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<NARRATIVE>The First officer nods:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+</DIALOGUE>
+
+<Scene Heading>INT. CAPTAIN'S CABIN -</Scene Heading>
+
+<NARRATIVE>The Captain is preparing to leave the cabin.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>Inform the men, then run a surprise inspection.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance,Yes, sir!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>I'll be in my cabin until oh-six-hundred hours.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Captain heads for the door.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterance>Captain leaving the bridge.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Parenthetical>(picks up INTERCOM MICROPHONE)</Parenthetical>
+<Utterance>Attention all hands. Now hear this...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Captain exits the cabin.</NARRATIVE>
+
+<Scene Heading>INT. CREW'S MESS - DAY</Scene Heading>
+
+<NARRATIVE>Crowded with crew members eating, waiting on line for food.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER (INTERCOM)</Character_Name>
+<Utterance>We will rig immediately for electronic silence. All electronic gear is to be shut down...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CLOSE ON COOK - KITCHEN - DAY</Scene Heading>
+
+<NARRATIVE>The cook is using a microwave.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COOK</Character_Name>
+<Utterance>(stops himself from pressing the button)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The cook takes out a bowl and dumps its contents on the stove.</NARRATIVE>
+
+<Scene Heading>INT. SHIP'S HEAD - DAY</Scene Heading>
+
+<NARRATIVE>A crew member is shaving with an electric shaver.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER (INTERCOM)</Character_Name>
+<Utterance>All personal radios, video devices and computers will be stowed at once...</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CREW MEMBER</Character_Name>
+<Utterance>(stops shaving)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. ENGINE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>The crew is preparing for electronic silence.</NARRATIVE>
+
+<Scene Heading>EXT. ENGINE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>The ENGINEER shouts to his crew, over NOISE OF DIESEL ENGINES:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ENGINEER</Character_Name>
+<Utterance>Check the engine baffles; rig the generators for shielded operation.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>RETURN ON THE BRIDGE -</Scene Heading>
+
+<NARRATIVE>The First Officer stands next to the Communications Officer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COMMUNICATIONS OFFICER</Character_Name>
+<Utterance>Communications set to receive only, sir.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The First Officer looks over the shoulder of RATING at radar screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RATING</Character_Name>
+<Utterance>Radar switched to passive mode; sonar re-set to low-power operation.</Utterance>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>You couldn't find our signature with a magnifying glass.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The First Officer joins the Second Officer at the windows, scanning the horizon with binoculars.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterance>Looks like we're in for a long, uncomfortable trip.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>-FIRST OFFICER-</Character_Name>
+<Utterance>We'll all breathe a lot easier when we get this cargo back to London.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>CUT TO: EXT. MANOR HOUSE - THE COAST OF SCOTLAND - DAY</NARRATIVE>
+
+<NARRATIVE>THE BAGPIPE AND DRUM CORPS of the Royal Highland Regiment (aka the "Black Watch") is playing a FUNERAL DIRGE outside a vast stone house, with a HARMSWAY NEWS HELICOPTER on the lawn, and LIMOUSINES, A HEARSE and a FLOWER CAR in the driveway.</NARRATIVE>
+
+<NARRATIVE>SIX MEN IN FORMAL MOURNING ATTIRE are entering the house.</NARRATIVE>
+
+<Scene Heading>INT. GRAND ROOM - SCOTTISH MANOR HOUSE -</Scene Heading>
+
+<NARRATIVE></NARRATIVE>
+
+<Scene Heading>A SINGLE WHITE ROSE is added to a pile of white roses in PARIS</Scene Heading>
+
+<NARRATIVE> A single white rose is added to a pile of white roses in Paris, as part of a funeral procession.</NARRATIVE>
+
+<Location>PARIS</Location>
+
+<NARRATIVE> We see six men from outside placing roses in the casket.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>LAST MAN</Character_Name>
+<Utterence>(places rose in casket)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The last man turns and nods sorrowfully to Elliot Harmsway, who is sitting in the front row of a makeshift chapel.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>(nods)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> The six men follow hand signals from Stamper, who motions them through a door to an unseen room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterence>(hands signal)</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> After the last man has paid his respects, Harmsway stands and walks to the bier.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>(places red rose in casket)</Utterence>
+<Parenthetical>(wipes away a tear)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>INT. HARMSWAY'S INNER SANCTUM - SCOTTISH MANOR HOUSE - DAY</NARRATIVE>
+
+<Location>SCOTTISH MANOR HOUSE</Location>
+
+<NARRATIVE>A room with slick, stark, sterile decor that could only exist in a James Bond movie.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterence>(to six men) Good morning, Gentlemen. I'm sorry to bring you here under these circumstances, but considering our meeting was already scheduled, this was a happy coincidence.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The six men nod in agreement.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY (cont'd)</Character_Name>
+<Utterence>Number One, your report?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A gap-toothed Californian with bland features stands up.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER ONE</Character_Name>
+<Utterence>Sir Elliot: The entertainment division is releasing three new animated children's movies this year. By the time we're finished promoting them on our TV, radio, cable, newspaper...</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BOARDROOM - DAY</Scene Heading>
+
+<NARRATIVE>A conference room somewhere in <Location>the city</Location>. We see <Character_Name>HARMSWAY</Character_Name>, a high-powered executive, standing at a podium addressing his team.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>and magazine outlets -</Utterance>
+<Parenthetical>(pause)</Parenthetical>
+<Utterance>There won't be a parent in the universe</Utterance>
+<Utterance>who won't feel guilty if they don't take</Utterance>
+<Utterance>their children to our stores and theme</Utterance>
+<Utterance>parks to buy the toys, books, video-</Utterance>
+<Utterance>games and clothing featuring our</Utterance>
+<Utterance>'lovable little creatures.'</Utterance>
+<Parenthetical>(pause)</Parenthetical>
+<Utterance>We anticipate revenues of 3.1 billion</Utterance>
+<Utterance>dollars.</Utterance>
+</Turn>
+
+<NARRATIVE>Harmsway continues speaking to his team.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Excellent, Number One. Build a better</Utterance>
+<Utterance>rat-trap, and the world truly will beat</Utterance>
+<Utterance>a path to your theme park.</Utterance>
+<Parenthetical>(turns to)</Parenthetical>
+</Turn>
+
+<NARRATIVE>A young guy with glasses gets up, looking remarkably like <Character_Name>BILL GATES</Character_Name>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER TWO</Character_Name>
+<Utterance>As you're aware, Sir Elliot, our</Utterance>
+<Utterance>software division has introduced a new</Utterance>
+<Utterance>computer operating system, Gates '99.</Utterance>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>It's deliberately filled with bugs-</Utterance>
+<Utterance>so people will be forced to buy our</Utterance>
+<Utterance>upgrades over the next five years.</Utterance>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>The window on revenues is 2.8 billion.</Utterance>
+</Turn>
+
+<NARRATIVE>Harmsway responds.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Outstanding, Number Two.</Utterance>
+<Parenthetical>(beat, remembering:)</Parenthetical>
+<Utterance>By the way - Number Five - ?</Utterance>
+</Turn>
+
+<NARRATIVE>A man looks up in response to Harmsway's question.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER FIVE</Character_Name>
+<Utterance>The Democrat, sir. By nine points.</Utterance>
+</Turn>
+
+<NARRATIVE>Harmsway continues his plan.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Maybe it's time to publish that story</Utterance>
+<Utterance>about his sex life. Even things up.</Utterance>
+<Utterance>A close race is always better for our</Utterance>
+<Utterance>TV ratings.</Utterance>
+</Turn>
+
+<NARRATIVE>Number Five responds negatively to Harmsway's suggestion.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER FIVE</Character_Name>
+<Utterance>Consider him slimed, sir.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>HARMSWAY</Scene Heading>
+
+<NARRATIVE>A conference room, a group of men seated around a table.</NARRATIVE>
+
+<NARRATIVE>A SHORT MIDDLE-EASTERN MAN stands, nervous.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>I regret to inform you, sir, that Saddam Hussein is still demanding a bonus for his role in the Gulf War.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway responds with noticeable reserve.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Haven't we already paid him for his services?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Number Three confirms the payment, but mentions an additional proposal.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance,Yes, sir. But he still feels his people should share in the increased profits of our news division. He has proposed an additional 500 million dollar payment.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A pause ensues, with uncomfortable shifts among the other men in the room.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>And there's no truth that 10% of that money will go into your Swiss bank account?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Number Three vehemently denies the accusation, begging for mercy.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>No sir! I swear! This is not true!!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>You disappoint me, Number Three.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway presses a button, and Stamper enters. Number Three assumes the worst.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>But because I am a just man, I've decided to give Mr. Hussein what he deserves.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Number Three is confused, wondering if this means he will be spared or not.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>Please sir. Please-</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. CONFERENCE ROOM - DAY</Scene Heading>
+
+<NARRATIVE>Mr. Stamper will escort you to the plane.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>Thank you sir! Thank you!</Utterance>
+<Parenthetical>(overwhelmed with gratitude)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway nods, watching him leave:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Good-bye, Mr. Azziz.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>And the man is gone. Harmsway turns his attention back to the room:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Let's proceed with new business.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway presses another button. The room darkens. The CENTER OF THE TABLE OPENS, and a 3-D MAP OF MALAYSIA rises into view:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Gentlemen: In exactly 36 hours, we are going to initiate phase one of the world's most perfect crime: The biggest theft in the history of mankind.</Utterance>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>Right here. In the Strait of Malacca.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. LIMOUSINE - MANOR HOUSE - DAY</Scene Heading>
+
+<NARRATIVE>Stamper holds the back door open for Number Three. He gets in:</NARRATIVE>
+
+<Scene Heading>INT. LIMOUSINE -</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He seems relieved, until the doors lock, ominously. They drive off:</NARRATIVE>
+
+<Scene Heading>EXT. SCOTTISH HIGHLAND ROADWAY - (INT./EXT. LIMOUSINE - MOVING) DAY</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>(to himself)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Number Three fidgets in the back... And notices Stamper smiling at him in the REARVIEW MIRROR. He sees Stamper reach INTO HIS JACKET - and PANICS! Is he going to get shot? Is it over? He winces, as :</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>Gum?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Shaking his head, he pulls out a HANDKERCHIEF to mop the flop sweat:</NARRATIVE>
+
+<Scene Heading>RETURN ON THE MANOR HOUSE - FAVORING THE HNN HELICOPTER -</Scene Heading>
+
+<Scene Heading>EXT. SMALL AIRPORT - SCOTLAND -</Scene Heading>
+
+<NARRATIVE>A small airport in Scotland, with Stamper's limousine parked near a Gulfstream jet.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>Thank you! Thank you so much. You must thank Sir Elliot for me.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterence>Here. Something to read on the plane.</Utterence>
+<Parenthetical>(producing a NEWSPAPER)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Stamper TUCKS THE PAPER FIRMLY UNDER #3'S ARM - and gives him a friendly pat on the back, sending him up the stairs.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>Bye-bye.</Utterance>
+<Parenthetical>(waving)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The door closes; the engines wind up for take-off.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name NUMBER THREE</Character_Name>
+<Utterance>He's safe. He casually picks up the newspaper, snaps open the front page:</Utterance>
+</Turn>
+
+<NARRATIVE>INSERT FRONT PAGE OF HARMSWAY'S "TOMORROW' NEWSPAPER:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>Screaming headline: ISRAELI AGENT REVEALED. There's a FULL COLOR PHOTO OF NUMBER THREE underneath.</Utterance>
+</Turn>
+
+<NARRATIVE>Number Three lowers the paper, white as a ghost, and -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NUMBER THREE</Character_Name>
+<Utterance>(blood-curdling scream)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>THE H.M.S. INDOMITABLE -</Scene Heading>
+
+<NARRATIVE>Moving through FOG in the STRAIT OF MALACCA, night.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>(crew)</Character_Name>
+<Utterance>The room is bathed in blue light as the crew monitors the Indomitable's command and control systems.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>At the VERTICAL GLASS MAP, the ship's course has been charted from</Scene Heading>
+
+<NARRATIVE>Hong Kong, south, down around Singapore, then north, where the YELLOW BLINKING dot indicates it's currently in the Strait of Malacca.</NARRATIVE>
+
+<NARRATIVE>Standing in front of the map, however, THE NAVIGATION OFFICER seems perplexed. He's comparing what's on the screen to a piece of paper in his hand. Something is wrong.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>NAVIGATION OFFICER</Character_Name>
+<Utterance>This doesn't make sense. What's our heading now?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THE HELMSMAN looks down at his compass/auto-pilot.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterance>Zero one three. Due north.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The two officers share a look. Something is odd, but -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterance>We're on course again.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Just then, the FIRST OFFICER ENTERS from the exterior bridge.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Can't see a damn thing in this fog. (calling out) Rating: What have we got?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He joins the RATING and COMMUNICATION'S OFFICERS at their scopes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RATING</Character_Name>
+<Utterance>A passenger ferry and two freighters broadcasting on low-band -</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>COMMUNICATIONS</Character_Name>
+<Utterance>And two small fishing boats about 30k north. No radar, but we've identified their engine signatures.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>As the First Officer takes this in:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN (O.S.)</Character_Name>
+<Utterance>Damn. It's doing it again.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THE FIRST OFFICER looks puzzled and concerned.</NARRATIVE>
+
+<Scene Heading>EXT. SPACE -</Scene Heading>
+
+<NARRATIVE>A tiny silver dot appears in the distance, growing larger as it approaches the camera.</NARRATIVE>
+
+<NARRATIVE>The communications satellite spins slowly on its axis as it comes closer and fills the screen.</NARRATIVE>
+
+<NARRATIVE>The logo on the satellite's body rotates into view, revealing: HNN. THE HARMSWAY NEWS NETWORK.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterence>About every ninety seconds, the auto-pilot jogs us to the west.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HELMSMAN (cont'd)</Character_Name>
+<Utterence>Then re-sets us to the north.</Utterence>
+</Turn>
+
+<NARRATIVE>The compass reaches dead west - then starts to swing back NORTH.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN (cont'd)</Character_Name>
+<Utterence>The Captain wants us on the East side of the channel. ...Cross current?</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The First Officer looks at the Helmsman with concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterence>Not in the Strait.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER (cont'd)</Character_Name>
+<Utterence>(to the Navigator)</Utterence>
+<Utterance>How's our position?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Navigator checks the satellite navigation system.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name NAVIGATING OFFICER</Character_Name>
+<Utterence>According to the satellite, we're exactly on course.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER (cont'd)</Character_Name>
+<Utterence>Did you check the auto-pilot?</Utterence>
+</Turn>
+
+<NARRATIVE>The Helmsman checks the auto-pilot system.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name HELMSMAN</Character_Name>
+<Utterence>The back-up does the same thing.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER (cont'd)</Character_Name>
+<Utterence>Check it again. What about the global positioning satellite? Could there be something wrong with the signal?</Utterence>
+</Turn>
+
+<NARRATIVE>The GPS Officer responds with a technical explanation.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GPS OFFICER</Character_Name>
+<Utterence>Two words: Im-possible.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera pulls back, showing the vastness of space with the tiny satellite a dot in the distance.</NARRATIVE>
+
+<Scene Heading>RETURN ON BRIDGE - INT. H.M.S. INDOMITABLE - NIGHT</Scene Heading>
+
+<NARRATIVE> The Helmsman finishes fiddling with the auto-pilot.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>How is it now?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterance>Seems to be back to normal, sir.</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer nods... Then HEARS a SHRILL WARNING BEEP.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OPERATOR</Character_Name>
+<Utterance>I have something off the port bow!</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer rushes to join him at the screen.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OPERATOR</Character_Name>
+<Parenthetical>(cont'd)</Parenthetical>
+<Utterance>100 meters out, just below the surface. A meter in diameter; ten - twelve meters long. ...Floating vertically?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>A dead head.</Utterance>
+<Utterance>(explaining)</Utterance>Water logged timber. Floats straight up. You sometimes see them on the east side of the channel - from the logging camps on Sumatra - but they don't usually float this far west.</Utterance>
+<Utterance>(calling out)</Utterance>Muncy! Engines to half!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterance>Aye-aye sir. Engines to half.</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer nods... Then continues explaining.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>(explaining)</Utterance>Chew up a log like that in the propeller, you end up with enough paperwork to go from here to London. Twice.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>EXT. UNDERWATER - NIGHT</NARRATIVE>
+
+<NARRATIVE>The ship is moving towards a DARK VERTICAL SHAPE - Harmsway's SEA-BED CORE BORING DRILL (shorthand "THE WORM',) attached to a long flexible dredging pipe.</NARRATIVE>
+
+Here's the annotated script:
+
+<Scene Heading>CLOSER - THE HEAD OF THE WORM</Scene Heading>
+
+<NARRATIVE>Motionless, hanging in the water. Then the monster awakes: A metal sphere retracts, revealing a wide angle CAMERA LENS.</NARRATIVE>
+
+<Scene Heading>INT. BRIDGE - NIGHT</Scene Heading>
+
+<NARRATIVE>The Communications Officer reacts to his monitor with ALARM:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COMMUNICATIONS OFFICER</Character_Name>
+<Utterance>I'm getting an electrical emission, sir! Extremely close. Bearing 240-</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Punch up the radar-</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>RADAR OPERATOR</Character_Name>
+<Utterance>I've got it, sir. A large craft - XX,OOO tons. Range -(disbelief) 200 yards? It's anchored in a cove!</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer is surprised. All hell is about to break loose:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>That's impossible! We're in the middle of the channel!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JUNIOR OFFICER</Character_Name>
+<Parenthetical>(bursting in)</Parenthetical>
+<Utterance>Breakers off the port bow! We're heading for shore!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OFFICER</Character_Name>
+<Utterance>Sir-</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer reacts to the Junior Officer:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Full stop!!! Call the captain!</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OPERATOR</Character_Name>
+<Utterance>Sir-</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer is annoyed:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>What?!?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OPERATOR</Character_Name>
+<Utterance>The log is moving!</Utterance>
+</Turn>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. UNDERWATER - NIGHT</Scene Heading>
+
+<NARRATIVE>Propelled by water-jets in its head, THE WORM STREAKS TOWARD THE INDOMITABLE, emitting a HIGH PITCHED whine as its drill bit revs up to speed. The drill's BLACK TEETH glisten in the water.</NARRATIVE>
+
+<NARRATIVE>The WORM'S POV - (UNDERWATER, NIGHT)</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>none</Character_Name>
+<Utterance>Closing in on the hull like a torpedo. It gets closer, picking up speed, until - on IMPACT -</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>INT. ENGINE ROOM -</NARRATIVE>
+
+<NARRATIVE>A TORRENT OF WATER engulfs the Engineer and Crewmen when The Worm bursts/drills through the hull. As they scream, drowning -</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>none</Character_Name>
+<Utterance>Engineer and Crewmen scream as water floods in.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A CREWMAN ON THE GANTRY scrambles up, one step ahead of the water, through a bulkhead, into -</NARRATIVE>
+
+<Scene Heading>GENERATOR ROOM - (CONTINUOUS)</Scene Heading>
+
+<NARRATIVE>Where the CREWMAN and TWO OPERATORS struggle to CLOSE THE DOOR AGAINST THE WATER.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CREWMAN ON THE GANTRY</Character_Name>
+<Utterance>We've got to shut down the generators!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SENIOR OPERATOR</Character_Name>
+<Utterence>We can't! The ship's going dark!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>THE BRIDGE -</Scene Heading>
+
+<NARRATIVE>Alarms sound! Red lights flash!</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAMAGE CONTROL</Character_Name>
+<Utterance>Flooding in the engine room!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Get me damage reports! Start the pumps!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterence>(holding out a ship's phone) It's the Captain -</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>PASSAGEWAY #1 -</Scene Heading>
+
+<NARRATIVE>On a phone, outside the ship's GYM, deep in the hull:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE CAPTAIN</Character_Name>
+<Utterance>What the hell is going on?!?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading> FIRST OFFICER </Scene Heading>
+
+<NARRATIVE> (intercut if necessary) </NARRATIVE>
+
+<NARRATIVE> I think we've been holed, sir! </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>I think we've been holed, sir!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading> THE CAPTAIN </Scene Heading>
+
+<NARRATIVE> On my way! </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE CAPTAIN</Character_Name>
+<Utterance>On my way!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> He speeds along the passageway, going through a water-tight door, slamming it behind him. Meanwhile, on - </NARRATIVE>
+
+<Scene Heading> THE BRIDGE </Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterance>The engines are gone!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Damage Control </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAMAGE CONTROL</Character_Name>
+<Utterance>Flooding on D deck!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading> FIRST OFFICER </Scene Heading>
+
+<NARRATIVE> Sound the general alarm! Seal all compartments! </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Sound the general alarm! Seal all compartments!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> As the Second Officer grabs the intercom - </NARRATIVE>
+
+<Scene Heading> SECOND OFFICER (into intercom) </Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterance>(into intercom)</Utterance>
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterance>Attention all hands - Proceed to emergency stations!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading> CREW'S MESS </Scene Heading>
+
+<NARRATIVE> The crew members look up from their meals - </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterance>(continuing)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading> GENERATOR ROOM </Scene Heading>
+
+<NARRATIVE> The men have closed the door, but... HEAR A HIGH-PITCHED WHINING, GRINDING SOUND from the other side. They exchange a quizzical look; they don't know what to make of it, when: </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BANG!</Character_Name>
+<Utterance>(an action rather than dialogue)</Utterance>
+</Turn>
+
+<NARRATIVE> BANG! The door explodes inward - and a high-pressured stream of water blasts in, blowing them back against the walls. </NARRATIVE>
+
+<Scene Heading> BRIDGE </Scene Heading>
+
+<NARRATIVE> The lights go out! Everyone is scrambling: </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SYSTEMS OFFICER</Character_Name>
+<Utterance>We've lost power!</Utterance>
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script:
+
+<Scene Heading>CREW'S MESS</Scene Heading>
+
+<NARRATIVE>In the dim lighting of the Crew's Mess.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Go to back up generators!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>SECOND OFFICER (into intercom)</Scene Heading>
+
+<NARRATIVE>Second Officer speaking into an intercom.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND OFFICER</Character_Name>
+<Utterance>Repeat: Seal all compartments, and-</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CREW'S MESS -</Scene Heading>
+
+<NARRATIVE>The men start to move, but halt at a humming sound.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SECOND OFFICER (on intercom)</Character_Name>
+<Utterance>Proceed to emergency stations at once!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The men are swept off their feet as a three-foot section of the deck explodes in a fountain of water.</NARRATIVE>
+
+<Scene Heading>PASSAGEWAY/GANTRY #2 -</Scene Heading>
+
+<NARRATIVE>The Captain rushes up the steps, reacting to a grinding noise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN'S POV - THE CLOSED WATER-TIGHT DOOR</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>BOOM! Water blasts through, like 1000 fire hydrants turned on full.</NARRATIVE>
+
+<Scene Heading>PASSAGEWAY #3 -</Scene Heading>
+
+<NARRATIVE>The Captain secures the door behind him and rushes away.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>THE BRIDGE -</Scene Heading>
+
+<NARRATIVE>A desperate battle continues.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DAMAGE CONTROL</Character_Name>
+<Utterance>Flooding on C-Deck!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>Where the hell are those generators?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>SYSTEMS ENGINEER</Character_Name>
+<Utterance>Coming up, sir!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>Get those pumps working!</Scene Heading>
+
+<NARRATIVE>A BATTERY ROOM somewhere on a ship.</Location>NARRATIVE>
+
+<NARRATIVE>A CREWMAN hurriedly flips switches.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CREWMAN</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<NARRATIVE>The lights flicker... And just as they some to life, brightly-</NARRATIVE>
+
+<NARRATIVE>THE DOOR BURSTS OPEN, and a wall of water and debris blows in, destroying everything in its wake.</NARRATIVE>
+
+<Scene Heading>THE BRIDGE</Scene Heading>
+
+<NARRATIVE>Lights out! A sense of helplessness is beginning to fill the room:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SYSTEMS CONTROL</Character_Name>
+<Utterence>The back-up is gone!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>DAMAGE OFFICER</Character_Name>
+<Utterence>Flooding up to B-Deck!</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterence>We can't hold out much longer, sir!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>All eyes are on the First Officer. Will he save them?</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>FIRST OFFICER</Character_Name>
+<Utterence>Where the hell is the Captain?!?!</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>THE CAPTAIN (PASSAGEWAY #3)</Scene Heading>
+
+<NARRATIVE>Running, the Captain is about to reach the exit door. Hearing the relentless grinding behind him, he throws a look over his shoulder:</NARRATIVE>
+
+<NARRATIVE>BAM! The entrance door EXPLODES in a thunderball of water.</NARRATIVE>
+
+<Scene Heading>PASSAGEWAY #4</Scene Heading>
+
+<NARRATIVE>The Captain clambers through the exit door to:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>He looks hack again:</NARRATIVE>
+
+<NARRATIVE>BAM! The door blasts open - and the torrent of water continues the chase, as if it's got a personal vendetta against him. He exits to:</NARRATIVE>
+
+<Scene Heading>PASSAGEWAY #5</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CAPTAIN</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Slamming the door behind him, the Captain looks ahead, and up:</NARRATIVE>
+
+<NARRATIVE>STAIRS. AN OPEN DOOR AT THE TOP.</NARRATIVE>
+
+<Scene Heading>THE ENTRANCE DOOR IS BEGINNING TO HUM AND VIBRATE.</Scene Heading>
+
+<NARRATIVE>The Captain rushes up the stairs, two at a time. The humming behind him grows louder. He glances back:</NARRATIVE>
+
+<NARRATIVE>THE DOOR BLASTS OPEN. WATER SHOOTS IN.</NARRATIVE>
+
+<NARRATIVE>The Captain rushes up the last four steps, just as -</NARRATIVE>
+
+<NARRATIVE>CA-CHUNK! THE EXIT DOOR SLAMS CLOSED IN FRONT OF HIM!</NARRATIVE>
+
+<NARRATIVE>With PANIC IN HIS EYES, the Captain turns to face the oncoming tsunami!</NARRATIVE>
+
+<Scene Heading>THE WORM'S POV - (UNDERWATER, INT. PASSAGEWAY #5)</Scene Heading>
+
+<NARRATIVE>Moving like a shark... Toward THE CAPTAIN'S LEGS, DEAD AHEAD IN THE WATER.</NARRATIVE>
+
+<NARRATIVE>As it closes in for the kill -</NARRATIVE>
+
+<Scene Heading>THE BRIDGE</Scene Heading>
+
+<NARRATIVE>A confusion of anxious voices:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HELMSMAN</Character_Name>
+<Utterance>Slipping to stern!</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DAMAGE OFFICER</Character_Name>
+<Utterance>All major compartments flooded!</Utterance>
+</Turn>
+
+<NARRATIVE>The First Officer has no choice:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>-FIRST OFFICER-</Character_Name>
+<Utterance>Abandon ship! Break radio silence!</Utterance>
+<Utterance>Send our position!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The ROOM LURCHES AS THE BOW RISES! Papers fly! Men slide!</NARRATIVE>
+
+<Scene Heading>INSERT - COMPUTER SCREEN</Scene Heading>
+
+<NARRATIVE>The Communications Officer types:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COMMUNICATIONS OFFICER</Character_Name>
+<Utterance>Top Secret. Indian Ocean Naval Command. H.M.S. Indomitable Sinking.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>COMMUNICATIONS OFFICER</Character_Name>
+<Parenthetical>(calling out)</Parenthetical>
+<Utterance>What's our position?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>GPS OFFICER</Scene Heading>
+
+<NARRATIVE>The GPS officer is reading off his screen:</NARRATIVE>
+
+<NARRATIVE>One hundred degrees, thirty-one minutes, and seven seconds East, by two degrees, twenty-nine minutes, ten seconds, North.</NARRATIVE>
+
+<NARRATIVE>As he types, the room lurches again, tilting more to the stern.</NARRATIVE>
+
+<Scene Heading>THE CAPTAIN - (STAIRCASE, PASSAGEWAY #5)</Scene Heading>
+
+<NARRATIVE>The passageway shifts, tilting to the stern, and the Captain screams.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>THE CAPTAIN</Character_Name>
+<Utterance>(screams)</Utterance>
+</Turn>
+
+<NARRATIVE>The WHOOSH sound effect indicates that he is sucked down into the water - the worm's vortex - like meat being fed into a Cuisinart: A churning, spinning death.</NARRATIVE>
+
+<Scene Heading>EXT. THE H.M.S. INDOMITABLE - FOG - NIGHT</Scene Heading>
+
+<NARRATIVE>The bow rises completely out of the water as the stern goes under.</NARRATIVE>
+
+<Scene Heading>EXT. DECK -</Scene Heading>
+
+<NARRATIVE>Two crewmen manage to get a lifeboat away, and two others scramble up from below and leap into the water.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Crewman 1</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Crewman 2</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The camera widens to show the bow at a forty-five degree angle...</NARRATIVE>
+
+<NARRATIVE>...And the H.M.S. Indomitable pauses - for just a moment - before slipping under, stern first, throwing up a series of great waves.</NARRATIVE>
+
+<Scene Heading>EXT. LIFEBOAT -</Scene Heading>
+
+<NARRATIVE>The lifeboat is rocked by waves from the sinking ship.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OFFICER</Character_Name>
+<Utterance>Only six of us?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>COOK</Character_Name>
+<Parenthetical>(no relation to the character's name)</Parenthetical>
+<Utterance>MOST of the crew never made it to their life jackets. The Captain?</Utterance>
+</Turn>
+
+<NARRATIVE>The Sonar Officer shrugs, then...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>SONAR OFFICER</Character_Name>
+<Utterance>(shrugs)</Utterance>
+<Utterance>The First officer stayed on the bridge.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>One of the crewmen spots something in the distance...</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Crewman 3</Character_Name>
+<Utterance>(no dialogue)</Utterance>
+</Turn>
+
+<NARRATIVE>The crewman's line of sight is not specified.</NARRATIVE>
+
+<Scene Heading>HEY - LOOK! OVER THERE!</Scene Heading>
+
+<NARRATIVE>A new angle - <Location>ROCK OUTCROPPING</Location> - <Location>STRAIT OF MALACCA</Location> - <Location>NIGHT</Location>.</NARRATIVE>
+
+<NARRATIVE>The SEA DOLPHIN II emerges from a cove, looking like a ghostly white apparition in the fog.</NARRATIVE>
+
+<Scene Heading>RETURN ON THE LIFEBOAT</Scene Heading>
+
+<NARRATIVE>The men yell and wave and whistle, hoping to be saved.</NARRATIVE>
+
+<Scene Heading>CLOSER ON THE SEA DOLPHIN II - DECK</Scene Heading>
+
+<NARRATIVE>Elliott Harmsway removes a pair of binoculars from his face. Turns to YUNG, standing next to him at the rail:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Lovely night for a shipwreck, isn't it?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Yung looks at Harmsway like he's crazy. Oblivious, Harmsway looks at his <Character_Name>WATCH</Character_Name>, then looks through the BINOCULARS again - and begins to WHISTLE the opening notes of My Fair Lady's "WOULDN'T IT BE LOVERLY." ("All I want is a room somewhere, far away from the cold night air")</NARRATIVE>
+
+<Scene Heading>THE LIFEBOAT</Scene Heading>
+
+<NARRATIVE>As the men cry for help, the Sonar Operator spots something just below the surface, moving toward the lifeboat at great speed.</NARRATIVE>
+
+<NARRATIVE>He hears the hum. His eyes follow the churning water...</NARRATIVE>
+
+<Scene Heading>AND SUDDENLY</Scene Heading>
+
+<NARRATIVE>The Worm hits the lifeboat from below, smashing it to bits, hurtling the pieces in the air.</NARRATIVE>
+
+<Scene Heading>THE SEA DOLPHIN II</Scene Heading>
+
+<NARRATIVE>Harmsway lowers the binoculars' smiling. Stamper appears, hands Harmsway a piece of paper:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>We've decoded their last transmission.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>HARMSWAY</Character_Name>
+<Utterance>Perfect. They'll be searching miles from here.</Utterance>
+<Parenthetical>(then)</Parenthetical>
+<Utterance>Time for phase two. You can get the men in the water.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Miles from here.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>EXT. SEA DOLPHIN II - NIGHT</Scene Heading>
+
+<NARRATIVE> And with this, <Character_Name>HARMSWAY</Character_Name> turns, and walks off, jauntily whistling </NARRATIVE>
+
+<NARRATIVE> "Wouldn't It Be Loverly." </NARRATIVE>
+
+<Scene Heading>EXT. SEA DOLPHIN II - NIGHT</Scene Heading>
+
+<NARRATIVE> Stamper looks at <Character_Name>YUNG</Character_Name>, re: Harmsway's glee. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>YUNG</Character_Name>
+<Utterance>You heard him. Get the men in the water!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>New Angle - Side of the Sea Dolphin II - Night -</Scene Heading>
+
+<NARRATIVE> In the water next to the chip, FOUR DIVERS drop the last of their equipment in a DIVE BOAT. They cast off, motoring into the fog. </NARRATIVE>
+
+<Scene Heading>EXT. LONDON - RESTAURANT BIBENDUM - NIGHT</Scene Heading>
+
+<NARRATIVE> The classic Michelin building on Fulham road. </NARRATIVE>
+
+<Scene Heading>INT. RESTAURANT BIBENDUM -</Scene Heading>
+
+<NARRATIVE> A YOUNG WOMAN is yammering away at <Character_Name>BOND</Character_Name>; he's trying to put a good face on what is obviously a dreadful fix-up first date. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WOMAN</Character_Name>
+<Utterance>I can't believe it took us so long to finally get together! What exactly do you do for the government?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>(after a beat) You might say... 'Public relations.'</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>WOMAN</Character_Name>
+<Utterance>How fascinating! I bet you meet all the most fabulous people.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE> Before <Character_Name>Bond</Character_Name> can answer, the MAITRE D' interrupts. </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MAITRE D'</Character_Name>
+<Utterance>Excuse me - Mr. Bond? You have a call.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>New Angle - Bond at Phone-</Scene Heading>
+
+<NARRATIVE> 007 picks up the receiver, without saying hello: </NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Moneypenny! You're early. You weren't supposed to call until -(he stiffens)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. THE BANK OF LONDON - NIGHT</Scene Heading>
+
+<NARRATIVE>Bond's DB-5 roars past the guard.</NARRATIVE>
+
+<NARRATIVE>A NEWSPAPER DELIVERY TRUCK passes by with an ad for "TOMORROW" ("The Paper that Never Lies",).</NARRATIVE>
+
+<Scene Heading>INT. CONFERENCE ROOM - BANK OF LONDON - NIGHT</Scene Heading>
+
+<NARRATIVE>Admiral Roebuck, Minister Johnstone, M, Tanner, UNIFORMS, and SUITS are present.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterance>Good evening. I've just spoken with the Prime Minister at the economic summit in Tokyo; he's expecting a full update within the hour.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Parenthetical>(interrupting)</Parenthetical>
+<Utterance>Excuse me, but -</Utterance>
+</Turn>
+
+<NARRATIVE>All turn to him:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Utterance>I must formally protest this meeting. Given the nature of what's occurred - and the need for secrecy - I see no reason to involve the air force, the army, or MI-6.</Utterance>
+</Turn>
+
+<NARRATIVE>M and Tanner exchange a look:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterance>This is an internal affair that should be handled strictly by the officers of her Majesty's Royal Navy.</Utterance>
+</Turn>
+
+<NARRATIVE>He's distracted by the CLICK OF A DOOR OPENING:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Actually, you're just in time.</Utterance>
+</Turn>
+
+<NARRATIVE>All turn to SEE BOND entering, wearing a FULL NAVAL UNIFORM.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>Sorry I'm late -</Utterance>
+</Turn>
+
+<NARRATIVE>M stifles a smile:</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>M</Character_Name>
+<Utterance>Admiral Roebuck: You know Commander Bond, don't you?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>A beat passes.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ADMIRAL ROEBUCK</Character_Name>
+<Parenthetical>(beat)</Parenthetical>
+<Utterance>For those of you still unaware, some forty minutes ago -</Utterance>
+</Turn>
+
+<NARRATIVE>The scene continues with the conversation unfolding.</NARRATIVE>
+
+<Scene Heading>ADMIRAL ROEBUCK</Scene Heading>
+
+<NARRATIVE>ADMIRAL ROEBUCK sits, deflated.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>ROEBUCK</Character_Name>
+<Utterance>Yes. Of course.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>BOND</Character_Name>
+<Utterance>I've looked forward to meeting you.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>M glances at Johnstone as if to say "proceed."</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterance>As I was saying: Approximately forty-five minutes ago, we received an abandon ship signal from the H.M.S. Indomitable.</Utterance>
+</Turn>
+
+<NARRATIVE>Johnstone flicks on a map display.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MINISTER JOHNSTONE</Character_Name>
+<Utterance>Looking at these infrared satellite images - provided by Mr. Tanner of MI-6 - the ship is presumed lost here, just south of Kuala Lumpur, where she broadcast her last position.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>CUT TO:</NARRATIVE>
+
+<Scene Heading>EXT. STRAIT OF MALACCA - FOG - NIGHT</Scene Heading>
+
+<NARRATIVE>Foreground, empty diving boat. Background, Sea Dolphin II, with the "flexible hose" hanging over the rail, down into the water.</NARRATIVE>
+
+<Scene Heading>INT. BRIDGE - SEA DOLPHIN II - NIGHT</Scene Heading>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>STAMPER</Character_Name>
+<Utterance>Divers approaching the hull.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Harmsway and Yung look over his shoulder at:</NARRATIVE>
+
+<Scene Heading>INSERT - VIDEO SCREEN</Scene Heading>
+
+<NARRATIVE>Through the worm's UNDERWATER camera, FOUR DIVERS with TORCHES and WELDING TOOLS are about to enter the HOLE in the Indomitable's hull.</NARRATIVE>
+
+<NARRATIVE>The video screen also contains lots of digital information about the divers and the worm's functions.</NARRATIVE>
+
+<Scene Heading>NEUTRAL POV - UNDERWATER - EXT. INDOMITABLE</Scene Heading>
+
+<NARRATIVE>The worm follows the Divers into the hull.</NARRATIVE>
+
+<Scene Heading>WORM POV - INT. ENGINE ROOM</Scene Heading>
+
+An error occurred: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8D70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAFF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9CD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5CB30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9250>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9310>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9BE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF88C0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F133678C0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F10A7B560>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F11134680>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13249D60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E71A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9580>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9520>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9B50>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5E9C0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8BC0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAE10>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E7230>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132483E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367E90>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5CA40>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367890>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1316FC50>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB890>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9D00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB560>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5E390>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF99D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9BE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF95E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E7320>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F131F6870>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13046720>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5EBD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F131F68D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E7320>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB920>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFBBF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA8A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5D2E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFBB00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAB10>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA120>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1301D190>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1314FCE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5E750>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1111DF70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F11043110>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F112C28A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8BF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF98B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5E2A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5F260>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9010>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB290>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E71A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F111B2900>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367BF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5F320>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367B60>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F11043110>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA810>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA120>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB6B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5F1D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFBDD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF96D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB890>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13298DA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F131F7A10>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5D700>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5FA70>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1130D820>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367E00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAF90>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9880>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA8D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5F620>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367DA0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1130D6A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA510>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB6B0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF8DD0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9910>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13044B00>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F1125A5A0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13367E30>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFB290>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFAC90>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFA0F0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13C5E2D0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F132E7200>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F12FDFEF0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BFADE0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF9B20>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+

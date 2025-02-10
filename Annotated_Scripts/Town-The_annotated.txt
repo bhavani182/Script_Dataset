@@ -1,0 +1,566 @@
+<Scene Heading>EXT. HARVARD SQUARE PLAZA - EARLY MORNING</Scene Heading>
+
+<NARRATIVE>A Harvard Square Plaza, where people come up from the subway station. Some kiosks nearby. An ARMORED TRUCK idles in front of Out of Town News. The driver sits behind the wheel, taking slightly nervous stock of the morning scene.</NARRATIVE>
+
+<NARRATIVE>A CITY WORK TRUCK idles across from the bank. The COURIER goes around to the back of the armored truck. He opens the door and pulls out a DOLLY and a METAL BOX. We see his SIDEARM on his hip.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>COURIER</Character_Name>
+<Utterance>></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The COURIER walks towards the bank, pushing the dolly with the metal box on it.</NARRATIVE>
+
+<Scene Heading>CUT TO:</Scene Heading>
+
+<NARRATIVE>The COURIER approaches the bank door. The DOOR GUARD opens the door for him.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOOR GUARD</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>COURIER</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The COURIER walks into the bank, pushing the dolly with the metal box on it.</NARRATIVE>
+
+<Scene Heading>EXT. PLAZA - DAY</Scene Heading>
+
+<NARRATIVE>The Courier begins pushing the dolly across the plaza toward the bank.</NARRATIVE>
+
+<NARRATIVE>We TRACK WITH him.</NARRATIVE>
+
+<NARRATIVE>The walk winds around kiosks.</NARRATIVE>
+
+<NARRATIVE>He weaves through various PEDESTRIANS and LOITERERS, TRAVELERS, DRUGGIES, AND KIDS.</NARRATIVE>
+
+<NARRATIVE>We get the sense that something must be about to happen. It doesn't.</NARRATIVE>
+
+<NARRATIVE>Sees a SUSPICIOUS PERSON, passes him, nothing happens.</NARRATIVE>
+
+<NARRATIVE>Wends around a work truck stopped in front of the bank.</NARRATIVE>
+
+<NARRATIVE>Still nothing.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Courier</Character_Name>
+<Utterance></Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The Courier reaches the bank doors.   Safety.</NARRATIVE>
+
+<NARRATIVE>He opens the door and steps in.</NARRATIVE>
+
+<Scene Heading>INT. CAMBRIDGE MERCHANTS BANK - CONTINUOUS ACTION</Scene Heading>
+
+<NARRATIVE>BOOM! With extraordinary violence, the Courier is SLAMMED into as if by a savage HOCKEY CHECK by a MAN (DOUG) WHO is MASKED AND ARMED.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>MASKED MEN</Character_Name>
+<Utterance>Empty your pockets! Take it out!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>THREE MORE ARMED, MASKED MEN move past them shouting.</NARRATIVE>
+
+<NARRATIVE>The stunned employees are PUSHED BACK while the bandits quickly rifle their pockets for cell phones.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterance></Utterance>
+</Turn>
+
+<Scene Heading>A3   INT. BEHIND THE COUNTER</Scene Heading>
+
+<NARRATIVE>Jem rifles through the cash drawers, each third handful of cash he DISCARDS along with the DYE PACK contained.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>Gimme the keys!</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. SECURITY ROOM</Scene Heading>
+
+<NARRATIVE> DEZ stands on a counter, pulling electronics from a rack.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEZ</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>C3 INT. NIGHT DROP - CONTINUOUS ACTION</Scene Heading>
+
+<NARRATIVE>Doug puts the KEY in the NIGHT DEPOSIT PANEL and it opens, yielding cash.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>3 INT. BEHIND THE COUNTER - MOMENTS LATER</Scene Heading>
+
+<NARRATIVE>The employees are gathered on the ground. GLOANSY is standing over the employees, whose CELL PHONES and BLACKBERRIES have been placed in a container and DOUSED WITH BLEACH. Jem finishes the last drawer.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>GLOANSY</Character_Name>
+<Utterence></Utterence>
+</Turn>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence></Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>3 CONTINUED:</Scene Heading>
+
+<NARRATIVE>Doug walks back, checks clock.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterence>Bank manager. Come on.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>3 CONTINUED:</Scene Heading>
+
+<NARRATIVE>Both CLAIRE KEESEY (30) and a man (her assistant manager, DAVID BEARNS) begin to rise.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterence>You're not the manager.</Utterence>
+</Turn>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Parenthetical>(kick)</Parenthetical>
+<Utterence>Sit the fuck down.</Utterence>
+</Turn>
+<Turn>
+<Character_Name>BEARNS</Character_Name>
+<Utterence>Jesus Christ.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>3 CONTINUED:</Scene Heading>
+
+<NARRATIVE>Doug hoists Claire up to the VAULT DOOR.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterence>What's the time lock set for?</Utterence>
+<Parenthetical>(CONTINUED)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>CONTINUED</Scene Heading>
+
+<NARRATIVE>The clock on the wall reads 8:14.</NARRATIVE>
+
+<NARRATIVE>Claire is standing next to Doug, watching him with concern.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>Don't enter the panic code.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance>(no spoken words)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Claire reaches for the big dial with a trembling hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance>No spoken dialogue, but she makes a mistake and overshoots the next number.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Jem has his gun pointed at Bearns' head.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterance>Don't stall.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Parenthetical>(points gun at Bearns)</Parenthetical>
+<Utterance>Are you even friends with this lefty or should I get someone else?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance>I'm sorry.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Doug speaks in a calmer tone.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>How many attempts before a duress delay?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance>Th-three.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>No spoken words, but it is implied he responds to Claire's answer.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The timer CLACKS!</NARRATIVE>
+
+<NARRATIVE>Doug inserts the vault key.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>No spoken words, but it is implied he continues to interact with Claire and Jem.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>INT. BANK VAULT - CONTINUOUS ACTION</Scene Heading>
+
+<NARRATIVE>A bank vault somewhere in <Location>The Town</Location>. <Character_Name>DOUG</Character_Name>, alone, is inside the vault.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>You want us here another fifteen minutes?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance></Utterance> (reaches fast, but Doug grabs her wrist, holding it steady)
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Claire's wrist looks fragile in his gloved hand.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>Once you start, do not stop.</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance></Utterance> (reaches for the dial -- begins working the numbers)
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>After the third turn, there's a CLACK. <Character_Name>JEM</Character_Name> spins the wheel and the vault door OPENS.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>What?</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Claire is whispering to herself.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>CLAIRE</Character_Name>
+<Utterance></Utterance> (whispering)
+</Turn>
+
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>(CONTINUED)</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The scene continues.</NARRATIVE>
+
+<Scene Heading>INT. BREAK ROOM - CONTINUOUS ACTION</Scene Heading>
+
+<NARRATIVE>A break room with a <Location>MICROWAVE and TABLE</Location>. A WORKER is there eating, not having realized they were being robbed.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEZ</Character_Name>
+<Utterance>Are you serious?</Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>DEZ</Character_Name>
+<Utterance></Utterance> (kicks the worker's chair)
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The worker, completely shocked, gets on the floor.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEZ</Character_Name>
+<Utterance></Utterance> (puts all the DVR SECURITY RECORDERS into a microwave in the break room and turns the machine on)
+</Turn>
+
+<NARRATIVE>SPARKS.</NARRATIVE>
+</DIALOGUE>
+
+<Scene Heading>INT. CAMBRIDGE BANK - INSIDE THE VAULT - CONTINUOUS ACTION</Scene Heading>
+
+<NARRATIVE>Doug alone in the vault. He takes a moment, then uses <Character_Name>The Key From The Guard</Character_Name> to open a SAFE in the vault.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance></Utterance> (takes a moment)
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The safe reveals BUNDLES OF CASH in various colored bands, yellow, blue, purple, brown.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance></Utterance> (reveals the bundles of cash)
+</Turn>
+</DIALOGUE>
+
+Here is the annotated script in the structured XML-like format:
+
+<Scene Heading>INT. BANK - CONTINUOUS ACTION</Scene Heading>
+
+<NARRATIVE>A STUDENT is trying to open the front door, pushing against the ZIP TIE around the entry doors.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>Front door.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Doug's attention is pulled to Claire, lying face-down behind the teller cages. Her heel is slowly moving. Her foot PRESSES A BUTTON UNDER THE COUNTER -- then quickly glides back.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterence>We gotta go.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>Bleach it up.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>Gloansy pulls ZIP CUFFS from his pocket. Jem throws Doug and Dez jugs of ULTRA CLOROX from the work bag and they begin DOUSING THE PLACE WITH BLEACH.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>We gotta go.</Utterence>
+</Turn>
+
+<Turn>
+<Character_Name>GLOANSY</Character_Name>
+<Parenthetical>(zip-tying Claire)</Parenthetical>
+<Utterence>Hey, what are you doing?</Utterence>
+</Turn>
+
+<NARRATIVE>Gloansy finishes the work of zip-tying Claire, Bearns and the other FIVE EMPLOYEES on the ground.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>Done.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>The student finally gives up, walking away.</NARRATIVE>
+
+<NARRATIVE>Claire looks the other way... and sees Doug's mask STARING at her.</NARRATIVE>
+
+<NARRATIVE>She's caught.   She's dead.</NARRATIVE>
+
+Here is the annotated script:
+
+<Scene Heading>Bearns in a teller chair, wrists bound behind his back.</Scene Heading>
+
+<NARRATIVE>Gloansy is doing the same to Claire as --</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DEZ</Character_Name>
+<Utterance>Hold it!</Utterance>
+<Parenthetical>(touching his ear)</Parenthetical>
+</Turn>
+
+<NARRATIVE>Silent alarm, this address.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterance>Who did it?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>DOUG</Character_Name>
+<Utterance>Doesn't matter. Let's go.</Utterance>
+</Turn>
+
+<NARRATIVE>Jem looks over the suspects on the floor with contempt.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BEARNS</Character_Name>
+<Utterence>Look, no one did anything --</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterance>What did you say?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BEARNS</Character_Name>
+<Utterence>I said, `no one did anything.' Just be calm.</Utterence>
+</Turn>
+
+<NARRATIVE>ON Claire, watching.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterance>You thought you were slick?</Utterance>
+</Turn>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>BEARNS</Character_Name>
+<Utterence>No.</Utterance>
+</Turn>
+
+<NARRATIVE>Jem HITS HIM WITH BUTT OF THE RIFLE, then again, then</NARRATIVE>
+
+<NARRATIVE>Bearns' head is bouncing between the floor and</NARRATIVE>
+
+<NARRATIVE>Jem's rifle, the stock tearing open a good piece of skin</NARRATIVE>
+
+---
+
+<Scene Heading>THE TOWN - Rev. 5/20/10 (Buff Reshoots)</Scene Heading>
+
+<NARRATIVE>Continued: 9</NARRATIVE>
+
+Note that there are two <Scene Heading> tags because the script appears to have a scene heading and then a continuation of it, marked as "CONTINUED". I've kept them separate in the annotation. Let me know if you'd like any changes!
+
+Here is the annotated script:
+
+<Scene Heading>INT. CAMBRIDGE MERCHANTS BANK - MAIN FLOOR - DAY</Scene Heading>
+
+<NARRATIVE>A bank somewhere in <Location>The Town</Location>. Various people are milling about, going about their business.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>above his temple. Jem keeps hitting him.</Utterance>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>In his RAGE, the back of <Character_Name>Jem's</Character_Name> MASK COMES UP REVEALING A TATTOO UNDERNEATH: FIGHTING IRISH CHARACTER HOLDING A BAG OF MONEY.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Bearns</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>He HAMMERS at <Character_Name>Bearns'</Character_Name> defenseless face.</Utterence>
+</Turn>
+
+<NARRATIVE>Jem rises, grabs a bottle of bleach. Moves to empty it over <Character_Name>Bearns'</Character_Name> face.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Doug</Character_Name>
+<Utterence>Let's go. Load the bags.</Utterance>
+<Parenthetical>(CONTINUED)</Parenthetical>
+</Turn>
+</DIALOGUE>
+
+<NARRATIVE>After hesitating, Jem rises.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Doug</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>JEM</Character_Name>
+<Utterence>They get us walled in, we need her.</Utterence>
+</Turn>
+</DIALOGUE>
+
+<Scene Heading>EXT. BACK ALLEY - DAY</Scene Heading>
+
+<NARRATIVE>A back alley somewhere in <Location>The Town</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Jem</Character_Name>
+<Utterence></Utterance>
+</Turn>
+
+<Turn>
+<Character_Name>Doug</Character_Name>
+<Utterence></Utterence>
+</Turn>
+
+<NARRATIVE>Door opens and <Character_Name>Jem</Character_Name> emerges to where the VAN waits. <Character_Name>Doug</Character_Name> boosts <Character_Name>Claire</Character_Name> into the van with her head kept down.</NARRATIVE>
+
+<Scene Heading>INT. VAN - DAY</Scene Heading>
+
+<NARRATIVE>A van somewhere in <Location>The Town</Location>.</NARRATIVE>
+
+<DIALOGUE>
+<Turn>
+<Character_Name>Doug</Character_Name>
+<Utterence></Utterance>
+</Turn>
+</DIALOGUE>
+
+Let me know if you have any questions or need further clarification!
+

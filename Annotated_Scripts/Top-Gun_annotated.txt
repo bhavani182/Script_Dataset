@@ -1,0 +1,2 @@
+An error occurred: HTTPSConnectionPool(host='llm.srv.webis.de', port=443): Max retries exceeded with url: /api/generate (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024F13BF89E0>: Failed to resolve 'llm.srv.webis.de' ([Errno 11001] getaddrinfo failed)"))
+
